@@ -1,0 +1,2818 @@
+{
+  "nodes": [
+    {
+      "id": "metallicus",
+      "name": "Metallicus, Inc.",
+      "type": "company",
+      "group": "core",
+      "summary_es": "Sociedad de Delaware con sede declarada en San Francisco que desarrolla Metal Pay, WebAuth, Metal Blockchain y XPR Network. Fundada por Marshall Hayner y Glenn Mariën; el año de fundación (2016 o 2017) varía según la fuente.",
+      "summary_en": "Delaware corporation with a stated San Francisco address that develops Metal Pay, WebAuth, Metal Blockchain and XPR Network. Founded by Marshall Hayner and Glenn Mariën; the founding year (2016 or 2017) differs by source.",
+      "website": "https://www.metallicus.com",
+      "facts": [
+        {
+          "es": "El regulador de Ohio la identifica como «Metallicus, Inc.», sociedad de Delaware, con domicilio en 353 Sacramento St., Suite 740, San Francisco, CA 94111.",
+          "en": "The Ohio regulator identifies it as 'Metallicus, Inc.', a Delaware corporation, at 353 Sacramento St., Suite 740, San Francisco, CA 94111.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Año de fundación discrepante: una nota de prensa de 2018 y otras de 2022 dicen 2016 (Decrypt precisa abril de 2016), mientras que el blog de la empresa (2023) y la nota de FBBT Holdings (2023) dicen 2017.",
+          "en": "Founding year conflict: a 2018 press release and 2022 releases say 2016 (Decrypt specifies April 2016), while the company blog (2023) and the FBBT Holdings release (2023) say 2017.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+              "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+            },
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            },
+            {
+              "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            },
+            {
+              "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4 Aug 2023)",
+              "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+            },
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        },
+        {
+          "es": "Según la nota de lanzamiento de 2018, Metal fue fundada por Marshall Hayner y Glenn Mariën.",
+          "en": "According to the 2018 launch release, Metal was founded by Marshall Hayner and Glenn Mariën.",
+          "status": "self",
+          "date": "2018-09-14",
+          "sources": [
+            {
+              "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+              "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+            }
+          ]
+        },
+        {
+          "es": "La app Metal Pay se presentó el 14 de septiembre de 2018 desde San Francisco; Decrypt indica que el lanzamiento fue en septiembre de 2018 y que era un servicio beta.",
+          "en": "The Metal Pay app was announced on 14 September 2018 from San Francisco; Decrypt says it launched in September 2018 as a beta service.",
+          "status": "confirmed",
+          "date": "2018-09-14",
+          "sources": [
+            {
+              "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+              "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+            },
+            {
+              "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            }
+          ]
+        },
+        {
+          "es": "Venta del token MTL en junio de 2017 por unos 3 millones de dólares, según Decrypt; la primera emisión de MTL figura el 29 de junio de 2017 en la ficha de Coinone, que identifica a Metallicus, Inc. como emisor.",
+          "en": "MTL token sale in June 2017 raising about USD 3 million, per Decrypt; Coinone's disclosure lists the first MTL issuance on 29 June 2017 and names Metallicus, Inc. as issuer.",
+          "status": "confirmed",
+          "date": "2017-06",
+          "sources": [
+            {
+              "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            },
+            {
+              "title": "Coinone – MTL (Metal DAO) digital asset manual (19 Sep 2024)",
+              "url": "https://research.coinone.co.kr/manual/MTL_digital_asset_manual_5FA918C533550B62.pdf"
+            }
+          ]
+        },
+        {
+          "es": "En abril de 2019 Hayner reconoció haber usado fondos del pool PoPP y de la Metal Foundation para financiar al equipo; en 30 días salieron más de 2,8 millones de MTL del pool (unos 1 M$), según Decrypt.",
+          "en": "In April 2019 Hayner acknowledged using funds from the PoPP pool and the Metal Foundation to fund the team; over 2.8 million MTL (about USD 1M) left the pool in 30 days, per Decrypt.",
+          "status": "confirmed",
+          "date": "2019-04",
+          "sources": [
+            {
+              "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            }
+          ]
+        },
+        {
+          "es": "Adquisición de Crumbs Technologies (app de microinversión): la nota de prensa anuncia un acuerdo definitivo el 30 de mayo de 2018, sin importe; Decrypt sitúa la compra en mayo de 2019.",
+          "en": "Acquisition of Crumbs Technologies (micro-investing app): the press release announces a definitive agreement on 30 May 2018, with no price; Decrypt places the purchase in May 2019.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "Newswire – Metal to acquire Crumbs Technologies Inc. (30 May 2018)",
+              "url": "https://www.newswire.com/news/metal-to-acquire-crumbs-technologies-inc-20500960"
+            },
+            {
+              "title": "CryptoNinjas – Metal (MTL) acquires micro-invest app Crumbs (30 May 2018)",
+              "url": "https://www.cryptoninjas.net/2018/05/30/metal-mtl-acquires-cryptocurrency-micro-invest-app-crumbs/"
+            },
+            {
+              "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            }
+          ]
+        },
+        {
+          "es": "En 2020 Metal Pay adquirió el proyecto Lynx (primera compra del año) y en agosto de 2020 Bloks.io, explorador de EOSIO; importe no revelado.",
+          "en": "In 2020 Metal Pay acquired the Lynx project (its first purchase that year) and, in August 2020, Bloks.io, an EOSIO explorer; price not disclosed.",
+          "status": "confirmed",
+          "date": "2020-08-21",
+          "sources": [
+            {
+              "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21 Aug 2020)",
+              "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+            },
+            {
+              "title": "Invezz – Metal Pay acquired Bloks.io (21 Aug 2020)",
+              "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+            }
+          ]
+        },
+        {
+          "es": "Compra de los activos de Bonifii (antes CULedger), anunciada el 18 de diciembre de 2024 y efectiva el 1 de enero de 2025, a cambio de warrants sobre acciones ordinarias de Metallicus por 10 millones de dólares, según la firma contable Doeren Mayhew.",
+          "en": "Purchase of the assets of Bonifii (formerly CULedger), announced 18 December 2024 and effective 1 January 2025, in exchange for USD 10 million in Metallicus common stock warrants, according to accounting firm Doeren Mayhew.",
+          "status": "confirmed",
+          "date": "2025-01-01",
+          "sources": [
+            {
+              "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            },
+            {
+              "title": "Doeren Mayhew – Metallicus acquires fintech Bonifii CUSO (3 Jan 2025)",
+              "url": "https://doeren.com/viewpoint/metallicus-acquires-fintech-bonifii-cuso"
+            }
+          ]
+        },
+        {
+          "es": "El inversor Erik Finman hizo una inversión ángel no revelada en agosto de 2019.",
+          "en": "Investor Erik Finman made an undisclosed angel investment in August 2019.",
+          "status": "confirmed",
+          "date": "2019-08-19",
+          "sources": [
+            {
+              "title": "Lifeboat (repost of CoinDesk) – Youngest bitcoin millionaire willing to stake it all on Metal Pay (19 Aug 2019)",
+              "url": "https://lifeboat.com/blog/2019/08/youngest-bitcoin-millionaire-willing-to-stake-it-all-on-metal-pay"
+            },
+            {
+              "title": "Decrypt – Erik Finman item (19 Aug 2019)",
+              "url": "https://decrypt.co/8527/8527?amp=1"
+            },
+            {
+              "title": "VentureBeat – The teenager who made millions on bitcoin is staking it all on this obscure token (25 Aug 2019)",
+              "url": "https://venturebeat.com/ai/the-teenager-who-made-millions-on-bitcoin-is-staking-it-all-on-this-obscure-token"
+            }
+          ]
+        },
+        {
+          "es": "La web de Metal Pay indica que Metallicus, Inc. es proveedor licenciado de transferencias de dinero con NMLS ID 2057807, y que MetalPay, Inc. tiene NMLS ID 2731963.",
+          "en": "Metal Pay's website states that Metallicus, Inc. is a licensed money transfer provider with NMLS ID 2057807, and that MetalPay, Inc. has NMLS ID 2731963.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Pay – website footer and disclosures",
+              "url": "https://metalpay.com"
+            },
+            {
+              "title": "Metal Pay – Metal Pay live in Australia (9 Jul 2024)",
+              "url": "https://www.metalpay.com/news-insights/metal-pay-launches-in-australia"
+            }
+          ]
+        },
+        {
+          "es": "Según su página de equipo, la empresa trabaja en remoto al 100 % y no publica una sede física.",
+          "en": "According to its team page, the company is 100% remote and lists no physical headquarters.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        },
+        {
+          "es": "Los términos de Metal Pay dicen que Metallicus no está registrada ante la SEC y que los activos digitales se custodian con Fireblocks.",
+          "en": "Metal Pay's terms state that Metallicus is not registered with the SEC and that digital assets are held with Fireblocks as custodian.",
+          "status": "self",
+          "date": "2026-10-01",
+          "sources": [
+            {
+              "title": "Metal Pay – Terms of Service (updated 1 Oct 2026)",
+              "url": "https://www.metalpay.com/terms"
+            }
+          ]
+        },
+        {
+          "es": "En agosto de 2022 anunció un consejo asesor con exdirectivos de la Fed de Nueva York, la OCC, Citigroup, la Fed de Boston y BNY Mellon.",
+          "en": "In August 2022 it announced an advisory board of former officials of the New York Fed, the OCC, Citigroup, the Boston Fed and BNY Mellon.",
+          "status": "self",
+          "date": "2022-08-04",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            }
+          ]
+        },
+        {
+          "es": "Metal Pay se lanzó en Australia (anuncio de la empresa del 9 de julio de 2024; cobertura de prensa el 19 de agosto de 2024). Ninguna de las dos fuentes menciona un registro en AUSTRAC.",
+          "en": "Metal Pay launched in Australia (company announcement of 9 July 2024; press coverage on 19 August 2024). Neither source mentions an AUSTRAC registration.",
+          "status": "self",
+          "date": "2024-07-09",
+          "sources": [
+            {
+              "title": "Metal Pay – Metal Pay live in Australia (9 Jul 2024)",
+              "url": "https://www.metalpay.com/news-insights/metal-pay-launches-in-australia"
+            },
+            {
+              "title": "Crowdfund Insider – Metallicus, developer of The Digital Banking Network, introduces Metal Pay in Australia (19 Aug 2024)",
+              "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+            }
+          ]
+        },
+        {
+          "es": "Mantuvo dos pleitos de marcas con Proton AG (antes Proton Technologies AG) en el Distrito Norte de California, abiertos en diciembre de 2021 y archivados con perjuicio el 14 de junio de 2023.",
+          "en": "It was party to two trademark suits with Proton AG (formerly Proton Technologies AG) in the Northern District of California, filed in December 2021 and dismissed with prejudice on 14 June 2023.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Justia Dockets – cases with party 'Metallicus'",
+              "url": "https://dockets.justia.com/search?parties=Metallicus"
+            },
+            {
+              "title": "GovInfo – USCOURTS-cand-4_21-cv-09562 metadata",
+              "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-cand-4_21-cv-09562/mods.xml"
+            },
+            {
+              "title": "GovInfo – USCOURTS-cand-4_21-cv-09714 metadata",
+              "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-cand-4_21-cv-09714/mods.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tdbn",
+      "name": "The Digital Banking Network (TDBN)",
+      "type": "product",
+      "group": "core",
+      "summary_es": "Nombre de marca que Metallicus usa para su ecosistema de productos y cadenas; la empresa lo describe como un protocolo bancario de código abierto sobre blockchain.",
+      "summary_en": "Brand name Metallicus uses for its ecosystem of products and chains; the company describes it as an open-source blockchain banking protocol.",
+      "facts": [
+        {
+          "es": "Según Metallicus, TDBN es un protocolo bancario de código abierto basado en blockchain.",
+          "en": "According to Metallicus, TDBN is an open-source blockchain banking protocol.",
+          "status": "self",
+          "date": "2024-12-31",
+          "sources": [
+            {
+              "title": "Metallicus – Locking in to 2025, year in review (31 Dec 2024)",
+              "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+            },
+            {
+              "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            }
+          ]
+        },
+        {
+          "es": "La prensa presenta a Metallicus como desarrolladora de The Digital Banking Network (agosto de 2024).",
+          "en": "The press describes Metallicus as the developer of The Digital Banking Network (August 2024).",
+          "status": "confirmed",
+          "date": "2024-08-19",
+          "sources": [
+            {
+              "title": "Crowdfund Insider – Metallicus, developer of The Digital Banking Network, introduces Metal Pay in Australia (19 Aug 2024)",
+              "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+            },
+            {
+              "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            }
+          ]
+        },
+        {
+          "es": "Según la nota de la compra de Bonifii, Metal Blockchain es la cadena de capa 0 de TDBN.",
+          "en": "According to the Bonifii acquisition release, Metal Blockchain is TDBN's Layer 0 blockchain.",
+          "status": "self",
+          "date": "2024-12-18",
+          "sources": [
+            {
+              "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marshall-hayner",
+      "name": "Marshall Hayner",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Cofundador y consejero delegado (CEO) de Metallicus. Antes cofundó QuickCoin (2014) y coorganizó la primera Bitcoin Fair; desde enero de 2023 es consejero de la Dogecoin Foundation.",
+      "summary_en": "Co-founder and CEO of Metallicus. He previously co-founded QuickCoin (2014) and co-organized the first Bitcoin Fair; since January 2023 he has sat on the Dogecoin Foundation board.",
+      "facts": [
+        {
+          "es": "Cofundador y CEO de Metallicus/Metal.",
+          "en": "Co-founder and CEO of Metallicus/Metal.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+              "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+            },
+            {
+              "title": "Metallicus – Meet the team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            },
+            {
+              "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            },
+            {
+              "title": "Metallicus – 2025 Q3 quarterly report (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Cofundó QuickCoin con Nathan Lands a principios de abril de 2014; la app se lanzó el 20 de mayo de 2014.",
+          "en": "Co-founded QuickCoin with Nathan Lands in early April 2014; the app launched on 20 May 2014.",
+          "status": "confirmed",
+          "date": "2014-05-20",
+          "sources": [
+            {
+              "title": "VentureBeat – QuickCoin (11 Jun 2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            }
+          ]
+        },
+        {
+          "es": "Socio del evento y coorganizador, con Nathan Lands, de la primera Bitcoin Fair en Ramen Underground (San Francisco), en febrero de 2014.",
+          "en": "Event partner and co-organizer, with Nathan Lands, of the first Bitcoin Fair at Ramen Underground (San Francisco) in February 2014.",
+          "status": "confirmed",
+          "date": "2014-02",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9 Feb 2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            }
+          ]
+        },
+        {
+          "es": "Según sus propias declaraciones, ayudó a promocionar el lanzamiento del Stellar Wallet para la Stellar Development Foundation y fue director de marketing (CMO) de Block.io; no constan fechas.",
+          "en": "According to his own statements, he helped promote the Stellar Wallet launch for the Stellar Development Foundation and was chief marketing officer of Block.io; no dates are given.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Bankless Times – Marshall Hayner profile/interview (16 Feb 2023)",
+              "url": "https://www.banklesstimes.com/?p=10348"
+            },
+            {
+              "title": "Metallicus – Meet the team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            }
+          ]
+        },
+        {
+          "es": "Según él, minó su primer bitcoin en 2009.",
+          "en": "According to him, he mined his first bitcoin in 2009.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Bankless Times – Marshall Hayner profile/interview (16 Feb 2023)",
+              "url": "https://www.banklesstimes.com/?p=10348"
+            }
+          ]
+        },
+        {
+          "es": "Entró en el consejo de la Dogecoin Foundation en enero de 2023 y es uno de los cinco custodios del fondo de desarrollo de 5 millones de DOGE.",
+          "en": "Joined the Dogecoin Foundation board in January 2023 and is one of five custodians of the 5 million DOGE development fund.",
+          "status": "confirmed",
+          "date": "2023-01-03",
+          "sources": [
+            {
+              "title": "CryptoPotato – Dogecoin Foundation introduces a new core development fund (3 Jan 2023)",
+              "url": "https://cryptopotato.com/dogecoin-foundation-introduces-a-new-core-devlopment-fund/"
+            },
+            {
+              "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4 Aug 2023)",
+              "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+            }
+          ]
+        },
+        {
+          "es": "Cofundó con Irina Berkon FBBT Holdings, Inc., que pidió a la Reserva Federal convertirse en holding bancario comprando el State Bank of Nauvoo (Illinois); la solicitud se retiró en septiembre de 2024.",
+          "en": "Co-founded FBBT Holdings, Inc. with Irina Berkon; it applied to the Federal Reserve to become a bank holding company by acquiring State Bank of Nauvoo (Illinois); the application was withdrawn in September 2024.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            },
+            {
+              "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
+              "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
+            },
+            {
+              "title": "Federal Register (public inspection) – Formations of bank holding companies, notice 2023-14376",
+              "url": "https://public-inspection.federalregister.gov/2023-14376.pdf"
+            },
+            {
+              "title": "Federal Reserve Board – H.2 actions under delegated authority, week ending 28 Sep 2024",
+              "url": "https://www.federalreserve.gov/releases/h2/20240928/delactions.htm"
+            }
+          ]
+        },
+        {
+          "es": "Figura como demandado, junto a Metallicus, en el caso Kliebert et al. v. Metallicus (S.D. Tex., 4:19-cv-02250).",
+          "en": "Named as a defendant, together with Metallicus, in Kliebert et al. v. Metallicus (S.D. Tex., 4:19-cv-02250).",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Justia Dockets – Kliebert et al. v. Metallicus, Inc. et al., 4:2019cv02250 (S.D. Tex.)",
+              "url": "https://dockets.justia.com/docket/texas/txsdce/4:2019cv02250/1680136"
+            },
+            {
+              "title": "GovInfo – USCOURTS-txsd-4_19-cv-02250 metadata",
+              "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-txsd-4_19-cv-02250/mods.xml"
+            }
+          ]
+        },
+        {
+          "es": "En febrero de 2021, como CEO de Metal Pay, dijo esperar la aprobación del banco nacional solicitado a la OCC en unos cuatro meses; no se ha encontrado aprobación.",
+          "en": "In February 2021, as Metal Pay CEO, he said he expected approval of the national bank applied for at the OCC within about four months; no approval has been found.",
+          "status": "confirmed",
+          "date": "2021-02-05",
+          "sources": [
+            {
+              "title": "Finance Magnates – Crypto firm Metal Pay applies for a US federal banking charter (5 Feb 2021)",
+              "url": "https://www.financemagnates.com/cryptocurrency/news/crypto-firm-metal-pay-applies-for-a-us-federal-banking-charter/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glenn-marien",
+      "name": "Glenn Mariën",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Cofundador y director de tecnología (CTO) de Metallicus, según la empresa. Metallicus le atribuye la creación de Dogechain.info.",
+      "summary_en": "Co-founder and chief technology officer (CTO) of Metallicus, according to the company. Metallicus credits him with creating Dogechain.info.",
+      "facts": [
+        {
+          "es": "Según Metallicus, es cofundador y CTO; la ficha de Coinone (2024) también lo lista como CTO.",
+          "en": "According to Metallicus, he is co-founder and CTO; Coinone's 2024 disclosure also lists him as CTO.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Meet the team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            },
+            {
+              "title": "Coinone – MTL (Metal DAO) digital asset manual (19 Sep 2024)",
+              "url": "https://research.coinone.co.kr/manual/MTL_digital_asset_manual_5FA918C533550B62.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según la nota de lanzamiento de 2018, cofundó Metal en 2016 con Marshall Hayner.",
+          "en": "According to the 2018 launch release, he co-founded Metal in 2016 with Marshall Hayner.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+              "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, tiene más de 10 años de experiencia full-stack y creó Dogechain.info, primer monedero online de Dogecoin.",
+          "en": "According to Metallicus, he has 10+ years of full-stack experience and created Dogechain.info, the first online Dogecoin wallet.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Meet the team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            }
+          ]
+        },
+        {
+          "es": "Según el blog de la empresa, Hayner lo conoció en la comunidad de Dogecoin.",
+          "en": "According to the company blog, Hayner met him in the Dogecoin community.",
+          "status": "self",
+          "date": "2023-08-04",
+          "sources": [
+            {
+              "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4 Aug 2023)",
+              "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irina-berkon",
+      "name": "Irina Berkon",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Directora financiera (CFO) y consejera de Metallicus, a la que dice haberse incorporado en 2020. Cofundó FBBT Holdings con Marshall Hayner y es Managing Director de Golden Seeds.",
+      "summary_en": "Chief financial officer (CFO) and board member of Metallicus, which she says she joined in 2020. She co-founded FBBT Holdings with Marshall Hayner and is a Managing Director of Golden Seeds.",
+      "facts": [
+        {
+          "es": "Un tribunal federal recoge su declaración jurada como CFO de Metallicus en el pleito con Proton (orden del 26 de julio de 2022).",
+          "en": "A federal court order records her sworn declaration as Metallicus's CFO in the Proton litigation (order of 26 July 2022).",
+          "status": "confirmed",
+          "date": "2022-07-26",
+          "sources": [
+            {
+              "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
+              "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+            }
+          ]
+        },
+        {
+          "es": "CFO y miembro del consejo de Metallicus (2022-2025).",
+          "en": "CFO and board member of Metallicus (2022-2025).",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+              "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+            },
+            {
+              "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+              "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+            },
+            {
+              "title": "Metallicus – 2025 Q3 quarterly report (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "Metallicus – Irina Berkon profile",
+              "url": "https://metallicus.com/company/irina-berkon"
+            }
+          ]
+        },
+        {
+          "es": "Según ella y la empresa, se incorporó a Metallicus en 2020.",
+          "en": "According to her and the company, she joined Metallicus in 2020.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+              "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+            },
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        },
+        {
+          "es": "Cofundadora y consejera de FBBT Holdings, Inc. (First Blockchain Bank and Trust Holdings), junto a Marshall Hayner.",
+          "en": "Co-founder and director of FBBT Holdings, Inc. (First Blockchain Bank and Trust Holdings), with Marshall Hayner.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            },
+            {
+              "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
+              "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
+            },
+            {
+              "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+              "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+            }
+          ]
+        },
+        {
+          "es": "En 2018 era CFO de Platio, contable pública certificada (CPA) y tenía 15 años de experiencia en finanzas, según Platio.",
+          "en": "In 2018 she was CFO of Platio, a licensed CPA with 15 years of finance experience, according to Platio.",
+          "status": "self",
+          "date": "2018-08-31",
+          "sources": [
+            {
+              "title": "Platio (Medium) – Meet the Platio team: CFO Irina Berkon (31 Aug 2018)",
+              "url": "https://medium.com/platio/meet-the-platio-team-cfo-irina-berkon-ea290ba996f3"
+            }
+          ]
+        },
+        {
+          "es": "Según sus entrevistas, nació en los Urales (Rusia) y emigró a EE. UU. a los 14 años.",
+          "en": "According to her interviews, she was born in the Ural region of Russia and emigrated to the US at 14.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Platio (Medium) – Meet the Platio team: CFO Irina Berkon (31 Aug 2018)",
+              "url": "https://medium.com/platio/meet-the-platio-team-cfo-irina-berkon-ea290ba996f3"
+            },
+            {
+              "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+              "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+            }
+          ]
+        },
+        {
+          "es": "Managing Director de Golden Seeds, red de inversores ángel que financia empresas lideradas por mujeres.",
+          "en": "Managing Director of Golden Seeds, an angel investor network funding women-led companies.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+              "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+            },
+            {
+              "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+              "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+            },
+            {
+              "title": "Metallicus – Irina Berkon profile",
+              "url": "https://metallicus.com/company/irina-berkon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kevin-allard",
+      "name": "Kevin R. Allard",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Firmó como director financiero (CFO) de Metallicus el acuerdo de consentimiento con la División de Instituciones Financieras de Ohio (caso MT2022-004).",
+      "summary_en": "Signed the consent agreement with the Ohio Division of Financial Institutions (case MT2022-004) as Metallicus's chief financial officer (CFO).",
+      "facts": [
+        {
+          "es": "Firmó por Metallicus, Inc. con el cargo de CFO el acuerdo de Ohio MT2022-004, posterior a octubre de 2022.",
+          "en": "Signed Ohio agreement MT2022-004 for Metallicus, Inc. with the title CFO, after October 2022.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Las fuentes no aclaran cómo convivía este cargo con el de Irina Berkon, a quien un tribunal identifica como CFO en 2022.",
+          "en": "Sources do not explain how this title coexisted with that of Irina Berkon, whom a court identifies as CFO in 2022.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            },
+            {
+              "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
+              "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frank-mazza",
+      "name": "Frank Mazza",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Director de Blockchain para Instituciones y Fintechs en Metallicus; en 2023 era responsable de marketing de Metal Blockchain. Miembro del grupo asesor del consejo del U.S. Faster Payments Council 2025-2026.",
+      "summary_en": "Director of Blockchain for Institutions & Fintechs at Metallicus; in 2023 he was Head of Metal Blockchain Marketing. Member of the U.S. Faster Payments Council 2025-2026 Board Advisory Group.",
+      "facts": [
+        {
+          "es": "En mayo de 2023 era Head of Metal Blockchain Marketing.",
+          "en": "In May 2023 he was Head of Metal Blockchain Marketing.",
+          "status": "self",
+          "date": "2023-05-18",
+          "sources": [
+            {
+              "title": "Metallicus blog – We are Metallicus: Frank Mazza (18 May 2023)",
+              "url": "https://www.metallicus.com/blog/we-are-metallicus-frank-mazza"
+            }
+          ]
+        },
+        {
+          "es": "Director of Blockchain for Institutions & Fintechs de Metallicus, cargo con el que aparece en la nota conjunta con Cornerstone League (octubre de 2025).",
+          "en": "Director of Blockchain for Institutions & Fintechs at Metallicus, the title used in the joint release with Cornerstone League (October 2025).",
+          "status": "confirmed",
+          "date": "2025-10-10",
+          "sources": [
+            {
+              "title": "CUInsight – Cornerstone League and Metallicus partner on stablecoin innovation (10 Oct 2025)",
+              "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+            },
+            {
+              "title": "Metallicus – Meet the team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            }
+          ]
+        },
+        {
+          "es": "Nuevo miembro del Board Advisory Group 2025-2026 del U.S. Faster Payments Council, en representación de Metallicus.",
+          "en": "New member of the U.S. Faster Payments Council 2025-2026 Board Advisory Group, representing Metallicus.",
+          "status": "confirmed",
+          "date": "2025-08-28",
+          "sources": [
+            {
+              "title": "U.S. Faster Payments Council – 2025 Board Advisory Group (28 Aug 2025)",
+              "url": "https://fasterpaymentscouncil.org/blog/15565/U-S-Faster-Payments-Council-Announces-2025-Board-Advisory-Group"
+            }
+          ]
+        },
+        {
+          "es": "Según él, antes fue CMO de EvoShare (fintech integrada con Metal Pay) y trabajó siete años en banca.",
+          "en": "According to him, he was previously CMO of EvoShare (a fintech integrated with Metal Pay) and spent seven years in banking.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus blog – We are Metallicus: Frank Mazza (18 May 2023)",
+              "url": "https://www.metallicus.com/blog/we-are-metallicus-frank-mazza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "john-ainsworth",
+      "name": "John Ainsworth",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Director general (General Manager) de Metallicus tras la compra de Bonifii, empresa que presidía como CEO. Antes fue directivo de Mastercard.",
+      "summary_en": "General Manager at Metallicus following the purchase of Bonifii, where he was CEO. He was previously a Mastercard executive.",
+      "facts": [
+        {
+          "es": "CEO de CULedger en abril de 2018.",
+          "en": "CEO of CULedger in April 2018.",
+          "status": "self",
+          "date": "2018-04-03",
+          "sources": [
+            {
+              "title": "CUInsight – Cranston and Esser join CULedger management team (3 Apr 2018)",
+              "url": "https://www.cuinsight.com/?p=35404"
+            }
+          ]
+        },
+        {
+          "es": "Según sus biografías, fue vicepresidente ejecutivo de Mercados de Norteamérica y vicepresidente sénior de Cuentas Globales en Mastercard, y trabajó antes en SunTrust y Visa.",
+          "en": "According to his bios, he was EVP North America Markets and SVP Global Accounts at Mastercard, and earlier worked at SunTrust and Visa.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "AICPA Conferences – Speaker bio: John Ainsworth",
+              "url": "https://aicpaconferences.com/aicpa/speakers/view/32791"
+            },
+            {
+              "title": "CUInsight – John Ainsworth joins CU Healthcare PayCard board (17 Apr 2024)",
+              "url": "https://www.cuinsight.com/?p=62357"
+            }
+          ]
+        },
+        {
+          "es": "Presidente y CEO de Bonifii cuando esta se unió al Banking Innovation Program de Metal Blockchain (junio de 2024) y cuando Metallicus anunció su compra (diciembre de 2024).",
+          "en": "President and CEO of Bonifii when it joined Metal Blockchain's Banking Innovation Program (June 2024) and when Metallicus announced its purchase (December 2024).",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "CUInsight – Bonifii joins Metal Blockchain's Banking Innovation Program (25 Jun 2024)",
+              "url": "https://www.cuinsight.com/press-release/bonifii-joins-metal-blockchains-banking-innovation-program/"
+            },
+            {
+              "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            },
+            {
+              "title": "CUInsight – John Ainsworth joins CU Healthcare PayCard board (17 Apr 2024)",
+              "url": "https://www.cuinsight.com/?p=62357"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, hoy es su General Manager (en la carta de diciembre de 2024 firma como General Manager de Metal Blockchain).",
+          "en": "According to Metallicus, he is now its General Manager (in the December 2024 letter he signs as General Manager, Metal Blockchain).",
+          "status": "self",
+          "date": "2024-12-31",
+          "sources": [
+            {
+              "title": "Metallicus – Meet the team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            },
+            {
+              "title": "Metallicus – Locking in to 2025, year in review (31 Dec 2024)",
+              "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "erik-finman",
+      "name": "Erik Finman",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Inversor conocido por comprar bitcoin a los 12 años. En agosto de 2019 invirtió en Metallicus/Metal Pay y anunció que pasaría sus criptoactivos a MTL.",
+      "summary_en": "Investor known for buying bitcoin at age 12. In August 2019 he invested in Metallicus/Metal Pay and said he would move his crypto holdings into MTL.",
+      "facts": [
+        {
+          "es": "Inversión ángel de importe no revelado en Metallicus, anunciada el 19 de agosto de 2019.",
+          "en": "Undisclosed angel investment in Metallicus, announced on 19 August 2019.",
+          "status": "confirmed",
+          "date": "2019-08-19",
+          "sources": [
+            {
+              "title": "Lifeboat (repost of CoinDesk) – Youngest bitcoin millionaire willing to stake it all on Metal Pay (19 Aug 2019)",
+              "url": "https://lifeboat.com/blog/2019/08/youngest-bitcoin-millionaire-willing-to-stake-it-all-on-metal-pay"
+            },
+            {
+              "title": "Decrypt – Erik Finman item (19 Aug 2019)",
+              "url": "https://decrypt.co/8527/8527?amp=1"
+            }
+          ]
+        },
+        {
+          "es": "Dijo a VentureBeat que convertiría gradualmente sus criptoactivos (446 BTC) en MTL y que trabajaba en producto y contratación sin cargo formal.",
+          "en": "He told VentureBeat he would gradually convert his crypto holdings (446 BTC) into MTL and that he worked on product and hiring without a formal title.",
+          "status": "self",
+          "date": "2019-08-25",
+          "sources": [
+            {
+              "title": "VentureBeat – The teenager who made millions on bitcoin is staking it all on this obscure token (25 Aug 2019)",
+              "url": "https://venturebeat.com/ai/the-teenager-who-made-millions-on-bitcoin-is-staking-it-all-on-this-obscure-token"
+            }
+          ]
+        },
+        {
+          "es": "Decrypt lo describió como inversor principal y documentó que en agosto de 2019 volvió a anunciar noticias antiguas de Metal (lanzamiento, cotización en Binance de 2017, oficina) coincidiendo con subidas breves del MTL.",
+          "en": "Decrypt described him as a primary investor and documented that in August 2019 he re-announced old Metal news (launch, 2017 Binance listing, office) coinciding with brief MTL price rises.",
+          "status": "confirmed",
+          "date": "2019-09-12",
+          "sources": [
+            {
+              "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            }
+          ]
+        },
+        {
+          "es": "Compró 1.000 dólares en bitcoin en 2011, a los 12 años.",
+          "en": "He bought USD 1,000 of bitcoin in 2011, at age 12.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "VentureBeat – The teenager who made millions on bitcoin is staking it all on this obscure token (25 Aug 2019)",
+              "url": "https://venturebeat.com/ai/the-teenager-who-made-millions-on-bitcoin-is-staking-it-all-on-this-obscure-token"
+            },
+            {
+              "title": "Cointelegraph Magazine – 6 questions for Erik Finman of Metal Pay (13 Mar 2020)",
+              "url": "https://cointelegraph.com/magazine/6-questions-erik-finman-metal-pay"
+            }
+          ]
+        },
+        {
+          "es": "En marzo de 2020 Cointelegraph lo presentaba como colaborador de Metal Pay, sin cargo.",
+          "en": "In March 2020 Cointelegraph described him as working with Metal Pay, with no title.",
+          "status": "confirmed",
+          "date": "2020-03-13",
+          "sources": [
+            {
+              "title": "Cointelegraph Magazine – 6 questions for Erik Finman of Metal Pay (13 Mar 2020)",
+              "url": "https://cointelegraph.com/magazine/6-questions-erik-finman-metal-pay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "donald-berk",
+      "name": "Donald Berk",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Director de operaciones (COO) de Metallicus según la propia empresa; procedente de Northern Trust.",
+      "summary_en": "Chief operating officer (COO) of Metallicus according to the company; formerly of Northern Trust.",
+      "facts": [
+        {
+          "es": "Según Metallicus, es su COO y lideró el trabajo regulatorio, incluida la certificación SOC 2; la ficha de Coinone (2024) también lo lista como COO.",
+          "en": "According to Metallicus, he is its COO and led regulatory work including the SOC 2 certification; Coinone's 2024 disclosure also lists him as COO.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus attains SOC2 compliance certification (undated)",
+              "url": "https://metallicus.com/blog/metallicus-attains-soc2-compliance-certification"
+            },
+            {
+              "title": "Coinone – MTL (Metal DAO) digital asset manual (19 Sep 2024)",
+              "url": "https://research.coinone.co.kr/manual/MTL_digital_asset_manual_5FA918C533550B62.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según la nota de 2023, viene de Northern Trust y estaba previsto como consejero de FBBT Holdings.",
+          "en": "According to the 2023 release, he came from Northern Trust and was slated to sit on the FBBT Holdings board.",
+          "status": "self",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "karen-mchenry",
+      "name": "Karen McHenry",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Vicepresidenta de Producto de Metallicus, según la empresa.",
+      "summary_en": "VP of Product at Metallicus, according to the company.",
+      "facts": [
+        {
+          "es": "Vicepresidenta de Producto, cargo con el que aparece en la nota con Checkout.com (diciembre de 2022).",
+          "en": "VP of Product, the title used in the Checkout.com release (December 2022).",
+          "status": "self",
+          "date": "2022-12-15",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus partners with Checkout.com (15 Dec 2022)",
+              "url": "https://www.businesswire.com/news/home/20221215005985/en"
+            },
+            {
+              "title": "Metallicus – Meet the team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, trabajó antes en Circle y Poloniex.",
+          "en": "According to Metallicus, she previously worked at Circle and Poloniex.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maura-wilder",
+      "name": "Maura Wilder",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Vicepresidenta de Ingeniería de Metallicus, según la empresa.",
+      "summary_en": "VP of Engineering at Metallicus, according to the company.",
+      "facts": [
+        {
+          "es": "Según Metallicus, es VP of Engineering con más de 20 años en software para cripto, deportes de fantasía y fintech.",
+          "en": "According to Metallicus, she is VP of Engineering with 20+ years building software for crypto, fantasy sports and fintech.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ozgur-baykara",
+      "name": "Ozgur Baykara",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Responsable de cumplimiento regulatorio de Metallicus, según la empresa.",
+      "summary_en": "Head of Regulatory Compliance at Metallicus, according to the company.",
+      "facts": [
+        {
+          "es": "Según Metallicus, es abogado y especialista en prevención de blanqueo y blockchain, con más de 20 años de experiencia.",
+          "en": "According to Metallicus, he is a qualified lawyer and AML and blockchain specialist with 20+ years of experience.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paul-grey",
+      "name": "Paul Grey",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Responsable de desarrollo de negocio de Metallicus, según la empresa.",
+      "summary_en": "Business Development Manager at Metallicus, according to the company.",
+      "facts": [
+        {
+          "es": "Según Metallicus, lleva más de una década en blockchain centrado en alianzas en DeFi y fintech.",
+          "en": "According to Metallicus, he has over a decade in blockchain focused on DeFi and fintech partnerships.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lee-woolley",
+      "name": "Lee Woolley",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Responsable de estrategia bancaria de Metallicus en 2022, según la empresa; procedente de BNY Mellon.",
+      "summary_en": "Head of Banking Strategy at Metallicus in 2022, according to the company; formerly of BNY Mellon.",
+      "facts": [
+        {
+          "es": "Mencionado como Head of Banking Strategy de Metallicus en agosto de 2022.",
+          "en": "Named as Metallicus Head of Banking Strategy in August 2022.",
+          "status": "self",
+          "date": "2022-08-04",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            }
+          ]
+        },
+        {
+          "es": "Según la nota de 2023, viene de BNY Mellon y estaba previsto como consejero de FBBT Holdings.",
+          "en": "According to the 2023 release, he came from BNY Mellon and was slated to sit on the FBBT Holdings board.",
+          "status": "self",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syed-jafri",
+      "name": "Syed Jafri",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Responsable del equipo de desarrolladores de Bloks.io cuando Metal Pay compró ese explorador de EOSIO en agosto de 2020.",
+      "summary_en": "Led the Bloks.io developer team when Metal Pay bought the EOSIO explorer in August 2020.",
+      "facts": [
+        {
+          "es": "Dirigía a los desarrolladores de Bloks.io, fundó el productor de bloques EOS Cafe Block y creó Collectables.io.",
+          "en": "He led the Bloks.io developers, founded the EOS Cafe Block block producer and created Collectables.io.",
+          "status": "confirmed",
+          "date": "2020-08-21",
+          "sources": [
+            {
+              "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21 Aug 2020)",
+              "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+            },
+            {
+              "title": "Invezz – Metal Pay acquired Bloks.io (21 Aug 2020)",
+              "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mark-carawan",
+      "name": "Mark Carawan",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Miembro del consejo asesor de Metallicus anunciado en 2022; ex director de cumplimiento (CCO) de Citigroup.",
+      "summary_en": "Member of the Metallicus advisory board announced in 2022; former Citigroup Chief Compliance Officer.",
+      "facts": [
+        {
+          "es": "Según Metallicus, entró en su consejo asesor en agosto de 2022; ex director de cumplimiento (CCO) de Citigroup.",
+          "en": "According to Metallicus, joined its advisory board in August 2022; former Citigroup Chief Compliance Officer.",
+          "status": "self",
+          "date": "2022-08-04",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            }
+          ]
+        },
+        {
+          "es": "Sigue listado en el consejo asesor de la web actual.",
+          "en": "Still listed on the advisory board on the current website.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        },
+        {
+          "es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+          "en": "Listed among the planned FBBT Holdings directors (February 2023).",
+          "status": "self",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sergio-rodriguera-jr",
+      "name": "Sergio Rodriguera Jr.",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Miembro del consejo asesor de Metallicus anunciado en 2022; ex consultor de IA de la Reserva Federal de Boston.",
+      "summary_en": "Member of the Metallicus advisory board announced in 2022; former AI consultant at the Federal Reserve Bank of Boston.",
+      "facts": [
+        {
+          "es": "Según Metallicus, entró en su consejo asesor en agosto de 2022; ex consultor de IA de la Reserva Federal de Boston.",
+          "en": "According to Metallicus, joined its advisory board in August 2022; former AI consultant at the Federal Reserve Bank of Boston.",
+          "status": "self",
+          "date": "2022-08-04",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            }
+          ]
+        },
+        {
+          "es": "Sigue listado en el consejo asesor de la web actual.",
+          "en": "Still listed on the advisory board on the current website.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        },
+        {
+          "es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+          "en": "Listed among the planned FBBT Holdings directors (February 2023).",
+          "status": "self",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marc-joseph",
+      "name": "Marc F. Joseph",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Miembro del consejo asesor de Metallicus anunciado en 2022; ex managing counsel de BNY Mellon.",
+      "summary_en": "Member of the Metallicus advisory board announced in 2022; former Managing Counsel at BNY Mellon.",
+      "facts": [
+        {
+          "es": "Según Metallicus, entró en su consejo asesor en agosto de 2022; ex managing counsel de BNY Mellon.",
+          "en": "According to Metallicus, joined its advisory board in August 2022; former Managing Counsel at BNY Mellon.",
+          "status": "self",
+          "date": "2022-08-04",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            }
+          ]
+        },
+        {
+          "es": "Sigue listado en el consejo asesor de la web actual.",
+          "en": "Still listed on the advisory board on the current website.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Company / team page",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        },
+        {
+          "es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+          "en": "Listed among the planned FBBT Holdings directors (February 2023).",
+          "status": "self",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lauren-hargraves",
+      "name": "Lauren Hargraves",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Miembro del consejo asesor de Metallicus anunciado en 2022; con más de 35 años en la Reserva Federal de Nueva York.",
+      "summary_en": "Member of the Metallicus advisory board announced in 2022; with 35+ years at the Federal Reserve Bank of New York.",
+      "facts": [
+        {
+          "es": "Según Metallicus, entró en su consejo asesor en agosto de 2022; con más de 35 años en la Reserva Federal de Nueva York.",
+          "en": "According to Metallicus, joined its advisory board in August 2022; with 35+ years at the Federal Reserve Bank of New York.",
+          "status": "self",
+          "date": "2022-08-04",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            }
+          ]
+        },
+        {
+          "es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+          "en": "Listed among the planned FBBT Holdings directors (February 2023).",
+          "status": "self",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bryan-hubbard",
+      "name": "Bryan Hubbard",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Miembro del consejo asesor de Metallicus anunciado en 2022; ex subcontralor de Asuntos Públicos de la OCC.",
+      "summary_en": "Member of the Metallicus advisory board announced in 2022; former OCC Deputy Comptroller for Public Affairs.",
+      "facts": [
+        {
+          "es": "Según Metallicus, entró en su consejo asesor en agosto de 2022; ex subcontralor de Asuntos Públicos de la OCC.",
+          "en": "According to Metallicus, joined its advisory board in August 2022; former OCC Deputy Comptroller for Public Affairs.",
+          "status": "self",
+          "date": "2022-08-04",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+              "url": "https://www.businesswire.com/news/home/20220804005398/en"
+            }
+          ]
+        },
+        {
+          "es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+          "en": "Listed among the planned FBBT Holdings directors (February 2023).",
+          "status": "self",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ohio-consent-order",
+      "name": "Ohio DFI – consent agreement MT2022-004",
+      "type": "regulatory",
+      "group": "regulatory",
+      "summary_es": "Acuerdo con la División de Instituciones Financieras de Ohio por transmitir dinero sin licencia desde 2018: multa civil de 19.600 dólares como condición para aprobar la licencia. Metallicus no admitió ni negó la infracción.",
+      "summary_en": "Agreement with the Ohio Division of Financial Institutions over unlicensed money transmission since 2018: a USD 19,600 civil penalty as a condition of license approval. Metallicus neither admitted nor denied the violation.",
+      "facts": [
+        {
+          "es": "Entre el 1 de octubre de 2018 y el 20 de octubre de 2022 Metallicus prestó en Ohio servicios de transmisión de dinero ligados a su monedero cripto sin licencia de transmisor.",
+          "en": "Between 1 October 2018 and 20 October 2022 Metallicus provided money transmission services tied to its crypto wallet in Ohio without a money transmitter license.",
+          "status": "confirmed",
+          "date": "2018-10-01",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Afectó a unos 1.194 residentes de Ohio, con saldos totales estimados inferiores a 10.000 dólares; no prestó servicios en dólares.",
+          "en": "About 1,194 Ohio residents were involved, with estimated total holdings under USD 10,000; no fiat services were provided.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Metallicus pidió la licencia hacia el 30 de agosto de 2022 y contactó voluntariamente al regulador para comunicar su actividad; no admitió ni negó los hechos.",
+          "en": "Metallicus applied for the license around 30 August 2022 and voluntarily contacted the regulator to disclose its activity; it neither admitted nor denied the allegations.",
+          "status": "confirmed",
+          "date": "2022-08-30",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Multa civil de 19.600 dólares; tras pagarla y cumplir las condiciones, la División aprobaría la solicitud de licencia.",
+          "en": "Civil penalty of USD 19,600; once paid and conditions met, the Division would approve the license application.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Metallicus declaró que no controla la acuñación de tokens Proton (requiere 15 de 21 productores de bloque) ni los vende a residentes de Ohio.",
+          "en": "Metallicus stated it does not control Proton token minting (which requires 15 of 21 block producers) and does not sell them to Ohio residents.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Firmado por Kevin R. Allard como CFO de Metallicus.",
+          "en": "Signed by Kevin R. Allard as Metallicus CFO.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "occ-charter-application",
+      "name": "OCC application – First Blockchain Bank & Trust, N.A.",
+      "type": "regulatory",
+      "group": "regulatory",
+      "summary_es": "Solicitud de licencia de banco nacional y de facultades fiduciarias presentada ante la OCC el 3 de febrero de 2021 para «First Blockchain Bank & Trust, N.A.», impulsada por Metal Pay. No se ha encontrado su aprobación.",
+      "summary_en": "National bank charter and fiduciary powers application filed with the OCC on 3 February 2021 for 'First Blockchain Bank & Trust, N.A.', promoted by Metal Pay. No approval has been found.",
+      "facts": [
+        {
+          "es": "El boletín semanal de la OCC registra la recepción, el 3 de febrero de 2021, de una solicitud de nuevo banco nacional (2021-WE-CHARTER319787) y de facultades fiduciarias (2021-WE-FIDUCIARY319890) para First Blockchain Bank & Trust, NA, con dirección en 1601 Mount Rushmore Rd., Rapid City (Dakota del Sur); plazo de comentarios hasta el 5 de marzo de 2021.",
+          "en": "The OCC weekly bulletin records receipt on 3 February 2021 of a new national bank charter application (2021-WE-CHARTER319787) and a fiduciary powers application (2021-WE-FIDUCIARY319890) for First Blockchain Bank & Trust, NA, at 1601 Mount Rushmore Rd., Rapid City, South Dakota; comment period to 5 March 2021.",
+          "status": "confirmed",
+          "date": "2021-02-03",
+          "sources": [
+            {
+              "title": "OCC – Weekly Bulletin 31 Jan–6 Feb 2021",
+              "url": "https://www.occ.gov/topics/charters-and-licensing/weekly-bulletin/2021/wb-01312021-02062021.pdf"
+            }
+          ]
+        },
+        {
+          "es": "La prensa atribuye la solicitud a Metal Pay, que aún no había acudido a la FDIC ni a la Fed de San Francisco.",
+          "en": "The press attributes the application to Metal Pay, which had not yet approached the FDIC or the San Francisco Fed.",
+          "status": "confirmed",
+          "date": "2021-02-05",
+          "sources": [
+            {
+              "title": "Finance Magnates – Crypto firm Metal Pay applies for a US federal banking charter (5 Feb 2021)",
+              "url": "https://www.financemagnates.com/cryptocurrency/news/crypto-firm-metal-pay-applies-for-a-us-federal-banking-charter/"
+            },
+            {
+              "title": "CoinPost – Metal Pay OCC charter application (5 Feb 2021)",
+              "url": "https://coinpost.jp/?p=218452"
+            },
+            {
+              "title": "Decrypt – Metal coin surges 250% on licensing news (30 Mar 2021)",
+              "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
+            }
+          ]
+        },
+        {
+          "es": "En marzo de 2021 la solicitud seguía pendiente.",
+          "en": "In March 2021 the application was still pending.",
+          "status": "confirmed",
+          "date": "2021-03-30",
+          "sources": [
+            {
+              "title": "Decrypt – Metal coin surges 250% on licensing news (30 Mar 2021)",
+              "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kleibert-lawsuit",
+      "name": "Kliebert et al. v. Metallicus, Inc. et al. (S.D. Tex. 4:19-cv-02250)",
+      "type": "regulatory",
+      "group": "regulatory",
+      "summary_es": "Demanda de inversores de Texas por la promoción del token MTL en la Necker Cup de 2017. Se retiraron las acusaciones contra los promotores por falta de jurisdicción en 2020; no se ha encontrado el desenlace frente a Metallicus.",
+      "summary_en": "Suit by Texas investors over promotion of the MTL token at the 2017 Necker Cup. Claims against the promoters were dismissed for lack of jurisdiction in 2020; the outcome against Metallicus has not been found.",
+      "facts": [
+        {
+          "es": "Presentada en el Juzgado 269 del condado de Harris (caso 2019-32946) y trasladada a la corte federal por Metallicus el 21 de junio de 2019. Los tribunales escriben el apellido «Kliebert».",
+          "en": "Filed in the 269th District Court of Harris County (case 2019-32946) and removed to federal court by Metallicus on 21 June 2019. Courts spell the surname 'Kliebert'.",
+          "status": "confirmed",
+          "date": "2019-06-21",
+          "sources": [
+            {
+              "title": "Justia Dockets – Kliebert et al. v. Metallicus, Inc. et al., 4:2019cv02250 (S.D. Tex.)",
+              "url": "https://dockets.justia.com/docket/texas/txsdce/4:2019cv02250/1680136"
+            },
+            {
+              "title": "Justia Dockets – cases with party 'Metallicus'",
+              "url": "https://dockets.justia.com/search?parties=Metallicus"
+            }
+          ]
+        },
+        {
+          "es": "Demandantes: Adam Kliebert, Gloria Blake y Glenn Blake. Demandados: Metallicus, Inc., Marshall Hayner, Premier Live (Premier Tennis Group), Trevor Short y Remington Reynolds.",
+          "en": "Plaintiffs: Adam Kliebert, Gloria Blake and Glenn Blake. Defendants: Metallicus, Inc., Marshall Hayner, Premier Live (Premier Tennis Group), Trevor Short and Remington Reynolds.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Justia Dockets – Kliebert et al. v. Metallicus, Inc. et al., 4:2019cv02250 (S.D. Tex.)",
+              "url": "https://dockets.justia.com/docket/texas/txsdce/4:2019cv02250/1680136"
+            },
+            {
+              "title": "GovInfo – USCOURTS-txsd-4_19-cv-02250 metadata",
+              "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-txsd-4_19-cv-02250/mods.xml"
+            }
+          ]
+        },
+        {
+          "es": "Se alegan infracciones de la Ley de Valores de Texas y de la ley de prácticas comerciales engañosas, fraude y declaraciones negligentes; los demandantes dicen que les aseguraron que MTL valdría 45 dólares o más.",
+          "en": "Claims under the Texas Securities Act and the Deceptive Trade Practices Act, fraud and negligent misrepresentation; plaintiffs say they were told MTL would be worth USD 45 or more.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "CourtListener – Kliebert v. Metallicus, Inc. (order of 3 Apr 2020)",
+              "url": "https://www.courtlistener.com/opinion/10206655/kliebert-v-metallicus-inc/"
+            },
+            {
+              "title": "The Block – Court partially dismisses lawsuit involving a crypto sale at Necker Island (5 Apr 2020)",
+              "url": "https://www.theblock.co/post/60946/court-partially-dismisses-lawsuit-involving-a-crypto-sale-at-necker-islands-2017-blockchain-conference"
+            }
+          ]
+        },
+        {
+          "es": "Metallicus y Hayner contestaron el 19 de julio de 2019 y Metallicus reconvino contra Adam Kliebert.",
+          "en": "Metallicus and Hayner answered on 19 July 2019 and Metallicus filed a counterclaim against Adam Kliebert.",
+          "status": "confirmed",
+          "date": "2019-07-19",
+          "sources": [
+            {
+              "title": "Justia Dockets – Kliebert et al. v. Metallicus, Inc. et al., 4:2019cv02250 (S.D. Tex.)",
+              "url": "https://dockets.justia.com/docket/texas/txsdce/4:2019cv02250/1680136"
+            }
+          ]
+        },
+        {
+          "es": "El 3 de abril de 2020 el juez George C. Hanks Jr. desestimó sin perjuicio las acciones contra Premier Live, Short y Reynolds por falta de jurisdicción personal; el caso siguió contra Metallicus.",
+          "en": "On 3 April 2020 Judge George C. Hanks Jr. dismissed without prejudice the claims against Premier Live, Short and Reynolds for lack of personal jurisdiction; the case continued against Metallicus.",
+          "status": "confirmed",
+          "date": "2020-04-03",
+          "sources": [
+            {
+              "title": "CourtListener – Kliebert v. Metallicus, Inc. (order of 3 Apr 2020)",
+              "url": "https://www.courtlistener.com/opinion/10206655/kliebert-v-metallicus-inc/"
+            },
+            {
+              "title": "GovInfo – USCOURTS-txsd-4_19-cv-02250 metadata",
+              "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-txsd-4_19-cv-02250/mods.xml"
+            },
+            {
+              "title": "The Block – Court partially dismisses lawsuit involving a crypto sale at Necker Island (5 Apr 2020)",
+              "url": "https://www.theblock.co/post/60946/court-partially-dismisses-lawsuit-involving-a-crypto-sale-at-necker-islands-2017-blockchain-conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "washington-mt-license",
+      "name": "Washington money transmitter license (Metal Pay)",
+      "type": "regulatory",
+      "group": "regulatory",
+      "summary_es": "Licencia de transmisor de dinero del estado de Washington anunciada por Metal Pay en marzo de 2021.",
+      "summary_en": "Washington State money transmitter license announced by Metal Pay in March 2021.",
+      "facts": [
+        {
+          "es": "Según Metal Pay (recogido por Decrypt), obtuvo la licencia de transmisor de dinero de Washington el 29 de marzo de 2021; el MTL pasó de unos 2 a más de 7 dólares tras el anuncio.",
+          "en": "According to Metal Pay (reported by Decrypt), it obtained the Washington money transmitter license on 29 March 2021; MTL rose from about USD 2 to above 7 after the announcement.",
+          "status": "self",
+          "date": "2021-03-29",
+          "sources": [
+            {
+              "title": "Decrypt – Metal coin surges 250% on licensing news (30 Mar 2021)",
+              "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soc2",
+      "name": "SOC 2 (Metallicus)",
+      "type": "regulatory",
+      "group": "regulatory",
+      "summary_es": "Evaluación SOC 2 de controles de Metallicus. La empresa anunció un SOC 2 Tipo I con Prescient Assurance en agosto de 2026; un anuncio anterior sin fecha hablaba de otra auditoría.",
+      "summary_en": "SOC 2 controls assessment of Metallicus. The company announced a SOC 2 Type I with Prescient Assurance in August 2026; an earlier undated post referred to another audit.",
+      "facts": [
+        {
+          "es": "Según Metallicus, completó el 18 de agosto de 2026 una evaluación SOC 2 Tipo I realizada por Prescient Assurance, LLC con normas de la AICPA.",
+          "en": "According to Metallicus, it completed on 18 August 2026 a SOC 2 Type I assessment by Prescient Assurance, LLC under AICPA standards.",
+          "status": "self",
+          "date": "2026-08-18",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus completes SOC 2 Type I assessment (18 Aug 2026)",
+              "url": "https://metallicus.com/blog/metallicus-completes-soc-2-type-i-assessment"
+            }
+          ]
+        },
+        {
+          "es": "Un anuncio anterior de la empresa, sin fecha, dice que superó una auditoría SOC 2 del auditor Polaris; sin embargo, su informe del 3T 2025 describía el SOC 2 como en curso, con objetivo en el primer semestre de 2026.",
+          "en": "An earlier undated company post says it passed a SOC 2 audit by auditor Polaris; however, its Q3 2025 report described SOC 2 as in progress, targeted for the first half of 2026.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus attains SOC2 compliance certification (undated)",
+              "url": "https://metallicus.com/blog/metallicus-attains-soc2-compliance-certification"
+            },
+            {
+              "title": "Metallicus – 2025 Q3 quarterly report (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nmls-licensing",
+      "name": "NMLS registrations (Metallicus / MetalPay)",
+      "type": "regulatory",
+      "group": "regulatory",
+      "summary_es": "Identificadores NMLS que Metal Pay publica para Metallicus, Inc. y MetalPay, Inc. No se pudo consultar el registro NMLS Consumer Access para ver la lista de licencias estatales.",
+      "summary_en": "NMLS identifiers that Metal Pay publishes for Metallicus, Inc. and MetalPay, Inc. The NMLS Consumer Access registry could not be queried for the list of state licenses.",
+      "facts": [
+        {
+          "es": "Según Metal Pay, Metallicus, Inc. tiene NMLS ID 2057807 y MetalPay, Inc. NMLS ID 2731963.",
+          "en": "According to Metal Pay, Metallicus, Inc. has NMLS ID 2057807 and MetalPay, Inc. NMLS ID 2731963.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Pay – website footer and disclosures",
+              "url": "https://metalpay.com"
+            },
+            {
+              "title": "Metal Pay – Metal Pay live in Australia (9 Jul 2024)",
+              "url": "https://www.metalpay.com/news-insights/metal-pay-launches-in-australia"
+            }
+          ]
+        },
+        {
+          "es": "Según Metal Pay, la licencia que le concedió la Oficina de Instituciones Financieras de Luisiana no cubre el intercambio ni la transmisión de moneda virtual.",
+          "en": "According to Metal Pay, the license issued by the Louisiana Office of Financial Institutions does not cover virtual currency exchange or transmission.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Pay – website footer and disclosures",
+              "url": "https://metalpay.com"
+            },
+            {
+              "title": "Metal Pay – Metal Pay live in Australia (9 Jul 2024)",
+              "url": "https://www.metalpay.com/news-insights/metal-pay-launches-in-australia"
+            }
+          ]
+        },
+        {
+          "es": "Los términos de Metal Pay remiten a los residentes de California al regulador DFPI para quejas.",
+          "en": "Metal Pay's terms refer California residents to the DFPI regulator for complaints.",
+          "status": "self",
+          "date": "2026-10-01",
+          "sources": [
+            {
+              "title": "Metal Pay – Terms of Service (updated 1 Oct 2026)",
+              "url": "https://www.metalpay.com/terms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proton-trademark-litigation",
+      "name": "Metallicus v. Proton Technologies AG / Proton AG v. Metallicus (N.D. Cal.)",
+      "type": "regulatory",
+      "group": "regulatory",
+      "summary_es": "Dos pleitos de marcas relacionados entre Metallicus y Proton AG (empresa suiza, antes Proton Technologies AG), abiertos en diciembre de 2021 y archivados con perjuicio en junio de 2023, cada parte asumiendo sus costas.",
+      "summary_en": "Two related trademark suits between Metallicus and Proton AG (Swiss company, formerly Proton Technologies AG), filed in December 2021 and dismissed with prejudice in June 2023, each side bearing its own costs.",
+      "facts": [
+        {
+          "es": "El 10 de diciembre de 2021 Metallicus demandó a Proton Technologies AG pidiendo una declaración de no infracción de marca (4:21-cv-09562).",
+          "en": "On 10 December 2021 Metallicus sued Proton Technologies AG seeking a declaratory judgment of trademark non-infringement (4:21-cv-09562).",
+          "status": "confirmed",
+          "date": "2021-12-10",
+          "sources": [
+            {
+              "title": "Justia Dockets – Metallicus, Inc. v. Proton Technologies AG, 4:2021cv09562 (N.D. Cal.)",
+              "url": "https://dockets.justia.com/docket/california/candce/4:2021cv09562/389208"
+            },
+            {
+              "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
+              "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+            }
+          ]
+        },
+        {
+          "es": "El 16 de diciembre de 2021 Proton AG demandó a Metallicus por infracción de marca (4:21-cv-09714); Metallicus contestó con una reconvención.",
+          "en": "On 16 December 2021 Proton AG sued Metallicus for trademark infringement (4:21-cv-09714); Metallicus answered with a counterclaim.",
+          "status": "confirmed",
+          "date": "2021-12-16",
+          "sources": [
+            {
+              "title": "Justia Dockets – Proton AG v. Metallicus, Inc., 4:2021cv09714 (N.D. Cal.)",
+              "url": "https://dockets.justia.com/docket/california/candce/4:2021cv09714/389532"
+            }
+          ]
+        },
+        {
+          "es": "El 26 de julio de 2022 el juez Haywood S. Gilliam Jr. rechazó la petición de Proton de dar por cerrado un acuerdo para archivar la demanda de Metallicus.",
+          "en": "On 26 July 2022 Judge Haywood S. Gilliam Jr. denied Proton's motion to enforce a settlement dismissing Metallicus's suit.",
+          "status": "confirmed",
+          "date": "2022-07-26",
+          "sources": [
+            {
+              "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
+              "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+            }
+          ]
+        },
+        {
+          "es": "El 14 de junio de 2023 ambos casos se archivaron con perjuicio por acuerdo de las partes, cada una con sus costas.",
+          "en": "On 14 June 2023 both cases were dismissed with prejudice by stipulation, each party bearing its own costs.",
+          "status": "confirmed",
+          "date": "2023-06-14",
+          "sources": [
+            {
+              "title": "N.D. Cal. – Order on stipulation of dismissal with prejudice (14 Jun 2023)",
+              "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-9.pdf"
+            },
+            {
+              "title": "GovInfo – USCOURTS-cand-4_21-cv-09562 metadata",
+              "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-cand-4_21-cv-09562/mods.xml"
+            },
+            {
+              "title": "GovInfo – USCOURTS-cand-4_21-cv-09714 metadata",
+              "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-cand-4_21-cv-09714/mods.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbbt-holdings",
+      "name": "FBBT Holdings, Inc.",
+      "type": "company",
+      "group": "regulatory",
+      "summary_es": "Sociedad de Delaware creada por Marshall Hayner e Irina Berkon para comprar el State Bank of Nauvoo (Illinois). Pidió a la Reserva Federal ser holding bancario en 2023 y retiró la solicitud en septiembre de 2024.",
+      "summary_en": "Delaware company formed by Marshall Hayner and Irina Berkon to buy State Bank of Nauvoo (Illinois). It applied to the Federal Reserve to become a bank holding company in 2023 and withdrew the application in September 2024.",
+      "facts": [
+        {
+          "es": "Anunciada el 22 de febrero de 2023 como sociedad de Delaware cofundada por Hayner y Berkon, que seguirían en Metallicus; planeaba comprar el State Bank of Nauvoo, banco de unos 100 años.",
+          "en": "Announced on 22 February 2023 as a Delaware company co-founded by Hayner and Berkon, who would stay at Metallicus; it planned to buy State Bank of Nauvoo, a bank about 100 years old.",
+          "status": "confirmed",
+          "date": "2023-02-22",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+              "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+            },
+            {
+              "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
+              "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
+            }
+          ]
+        },
+        {
+          "es": "El State Bank of Nauvoo (Nauvoo, Illinois) tenía unos 37 millones de dólares en activos.",
+          "en": "State Bank of Nauvoo (Nauvoo, Illinois) had about USD 37 million in assets.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
+              "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
+            }
+          ]
+        },
+        {
+          "es": "Aviso de la Reserva Federal (Fed de Chicago): FBBT Holdings, Inc., San Francisco, solicita convertirse en holding bancario comprando el State Bank of Nauvoo; comentarios hasta el 7 de agosto de 2023.",
+          "en": "Federal Reserve notice (Chicago Fed): FBBT Holdings, Inc., San Francisco, applies to become a bank holding company by acquiring State Bank of Nauvoo; comments due by 7 August 2023.",
+          "status": "confirmed",
+          "date": "2023-07-07",
+          "sources": [
+            {
+              "title": "Federal Register (public inspection) – Formations of bank holding companies, notice 2023-14376",
+              "url": "https://public-inspection.federalregister.gov/2023-14376.pdf"
+            }
+          ]
+        },
+        {
+          "es": "La Reserva Federal registra la solicitud como retirada el 27 de septiembre de 2024.",
+          "en": "The Federal Reserve records the application as withdrawn on 27 September 2024.",
+          "status": "confirmed",
+          "date": "2024-09-27",
+          "sources": [
+            {
+              "title": "Federal Reserve Board – H.2 actions under delegated authority, week ending 28 Sep 2024",
+              "url": "https://www.federalreserve.gov/releases/h2/20240928/delactions.htm"
+            }
+          ]
+        },
+        {
+          "es": "En 2022 Berkon la describía como «First Blockchain Bank and Trust Holdings», ligada al proyecto de Metallicus de crear un banco nacional.",
+          "en": "In 2022 Berkon described it as 'First Blockchain Bank and Trust Holdings', linked to Metallicus's plan to create a national bank.",
+          "status": "self",
+          "date": "2022-07-25",
+          "sources": [
+            {
+              "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+              "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "marshall-hayner",
+      "to": "metallicus",
+      "label_es": "cofundó y dirige como CEO",
+      "label_en": "co-founded and leads as CEO",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+          "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+        },
+        {
+          "title": "Metallicus – Meet the team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        },
+        {
+          "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+          "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+        }
+      ]
+    },
+    {
+      "from": "glenn-marien",
+      "to": "metallicus",
+      "label_es": "cofundador y CTO de",
+      "label_en": "co-founder and CTO of",
+      "status": "self",
+      "sources": [
+        {
+          "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+          "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+        },
+        {
+          "title": "Metallicus – Meet the team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        },
+        {
+          "title": "Coinone – MTL (Metal DAO) digital asset manual (19 Sep 2024)",
+          "url": "https://research.coinone.co.kr/manual/MTL_digital_asset_manual_5FA918C533550B62.pdf"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "glenn-marien",
+      "label_es": "cofundadores de Metal/Metallicus",
+      "label_en": "co-founders of Metal/Metallicus",
+      "status": "self",
+      "sources": [
+        {
+          "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+          "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+        },
+        {
+          "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4 Aug 2023)",
+          "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+        }
+      ]
+    },
+    {
+      "from": "irina-berkon",
+      "to": "metallicus",
+      "label_es": "CFO y consejera de",
+      "label_en": "CFO and board member of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
+          "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+        },
+        {
+          "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+          "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+        },
+        {
+          "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+          "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+        },
+        {
+          "title": "Metallicus – 2025 Q3 quarterly report (PDF)",
+          "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+        }
+      ]
+    },
+    {
+      "from": "kevin-allard",
+      "to": "metallicus",
+      "label_es": "firmó como CFO de",
+      "label_en": "signed as CFO of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+        }
+      ]
+    },
+    {
+      "from": "kevin-allard",
+      "to": "ohio-consent-order",
+      "label_es": "firmó",
+      "label_en": "signed",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "metallicus",
+      "label_es": "director de Blockchain para Instituciones y Fintechs en",
+      "label_en": "Director of Blockchain for Institutions & Fintechs at",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CUInsight – Cornerstone League and Metallicus partner on stablecoin innovation (10 Oct 2025)",
+          "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+        },
+        {
+          "title": "Metallicus – Meet the team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "fpc",
+      "label_es": "miembro del Board Advisory Group 2025-2026 de",
+      "label_en": "member of the 2025-2026 Board Advisory Group of",
+      "status": "confirmed",
+      "date": "2025-08-28",
+      "sources": [
+        {
+          "title": "U.S. Faster Payments Council – 2025 Board Advisory Group (28 Aug 2025)",
+          "url": "https://fasterpaymentscouncil.org/blog/15565/U-S-Faster-Payments-Council-Announces-2025-Board-Advisory-Group"
+        }
+      ]
+    },
+    {
+      "from": "john-ainsworth",
+      "to": "metallicus",
+      "label_es": "General Manager de",
+      "label_en": "General Manager of",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Meet the team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        },
+        {
+          "title": "Metallicus – Locking in to 2025, year in review (31 Dec 2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        }
+      ]
+    },
+    {
+      "from": "john-ainsworth",
+      "to": "bonifii",
+      "label_es": "presidente y CEO de",
+      "label_en": "President and CEO of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CUInsight – Bonifii joins Metal Blockchain's Banking Innovation Program (25 Jun 2024)",
+          "url": "https://www.cuinsight.com/press-release/bonifii-joins-metal-blockchains-banking-innovation-program/"
+        },
+        {
+          "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+          "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+        },
+        {
+          "title": "CUInsight – John Ainsworth joins CU Healthcare PayCard board (17 Apr 2024)",
+          "url": "https://www.cuinsight.com/?p=62357"
+        }
+      ]
+    },
+    {
+      "from": "erik-finman",
+      "to": "metallicus",
+      "label_es": "inversor ángel en",
+      "label_en": "angel investor in",
+      "status": "confirmed",
+      "date": "2019-08-19",
+      "sources": [
+        {
+          "title": "Lifeboat (repost of CoinDesk) – Youngest bitcoin millionaire willing to stake it all on Metal Pay (19 Aug 2019)",
+          "url": "https://lifeboat.com/blog/2019/08/youngest-bitcoin-millionaire-willing-to-stake-it-all-on-metal-pay"
+        },
+        {
+          "title": "Decrypt – Erik Finman item (19 Aug 2019)",
+          "url": "https://decrypt.co/8527/8527?amp=1"
+        },
+        {
+          "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+          "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+        }
+      ]
+    },
+    {
+      "from": "erik-finman",
+      "to": "mtl",
+      "label_es": "anunció que convertiría sus criptoactivos en",
+      "label_en": "said he would convert his crypto holdings into",
+      "status": "self",
+      "date": "2019-08-25",
+      "sources": [
+        {
+          "title": "VentureBeat – The teenager who made millions on bitcoin is staking it all on this obscure token (25 Aug 2019)",
+          "url": "https://venturebeat.com/ai/the-teenager-who-made-millions-on-bitcoin-is-staking-it-all-on-this-obscure-token"
+        }
+      ]
+    },
+    {
+      "from": "erik-finman",
+      "to": "marshall-hayner",
+      "label_es": "conoció por Twitter y cenó con antes de invertir",
+      "label_en": "met on Twitter and dined with before investing",
+      "status": "self",
+      "date": "2019-06",
+      "sources": [
+        {
+          "title": "VentureBeat – The teenager who made millions on bitcoin is staking it all on this obscure token (25 Aug 2019)",
+          "url": "https://venturebeat.com/ai/the-teenager-who-made-millions-on-bitcoin-is-staking-it-all-on-this-obscure-token"
+        }
+      ]
+    },
+    {
+      "from": "donald-berk",
+      "to": "metallicus",
+      "label_es": "COO de",
+      "label_en": "COO of",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus attains SOC2 compliance certification (undated)",
+          "url": "https://metallicus.com/blog/metallicus-attains-soc2-compliance-certification"
+        },
+        {
+          "title": "Coinone – MTL (Metal DAO) digital asset manual (19 Sep 2024)",
+          "url": "https://research.coinone.co.kr/manual/MTL_digital_asset_manual_5FA918C533550B62.pdf"
+        }
+      ]
+    },
+    {
+      "from": "karen-mchenry",
+      "to": "metallicus",
+      "label_es": "VP de Producto de",
+      "label_en": "VP of Product at",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus partners with Checkout.com (15 Dec 2022)",
+          "url": "https://www.businesswire.com/news/home/20221215005985/en"
+        },
+        {
+          "title": "Metallicus – Meet the team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        }
+      ]
+    },
+    {
+      "from": "maura-wilder",
+      "to": "metallicus",
+      "label_es": "VP de Ingeniería de",
+      "label_en": "VP of Engineering at",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Company / team page",
+          "url": "https://www.metallicus.com/company"
+        }
+      ]
+    },
+    {
+      "from": "ozgur-baykara",
+      "to": "metallicus",
+      "label_es": "responsable de cumplimiento regulatorio de",
+      "label_en": "Head of Regulatory Compliance at",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Company / team page",
+          "url": "https://www.metallicus.com/company"
+        }
+      ]
+    },
+    {
+      "from": "paul-grey",
+      "to": "metallicus",
+      "label_es": "responsable de desarrollo de negocio de",
+      "label_en": "Business Development Manager at",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Company / team page",
+          "url": "https://www.metallicus.com/company"
+        }
+      ]
+    },
+    {
+      "from": "lee-woolley",
+      "to": "metallicus",
+      "label_es": "Head of Banking Strategy de",
+      "label_en": "Head of Banking Strategy at",
+      "status": "self",
+      "date": "2022-08-04",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+          "url": "https://www.businesswire.com/news/home/20220804005398/en"
+        }
+      ]
+    },
+    {
+      "from": "mark-carawan",
+      "to": "metallicus",
+      "label_es": "miembro del consejo asesor de",
+      "label_en": "advisory board member of",
+      "status": "self",
+      "date": "2022-08-04",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+          "url": "https://www.businesswire.com/news/home/20220804005398/en"
+        }
+      ]
+    },
+    {
+      "from": "mark-carawan",
+      "to": "fbbt-holdings",
+      "label_es": "consejero previsto de",
+      "label_en": "planned director of",
+      "status": "self",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        }
+      ]
+    },
+    {
+      "from": "sergio-rodriguera-jr",
+      "to": "metallicus",
+      "label_es": "miembro del consejo asesor de",
+      "label_en": "advisory board member of",
+      "status": "self",
+      "date": "2022-08-04",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+          "url": "https://www.businesswire.com/news/home/20220804005398/en"
+        }
+      ]
+    },
+    {
+      "from": "sergio-rodriguera-jr",
+      "to": "fbbt-holdings",
+      "label_es": "consejero previsto de",
+      "label_en": "planned director of",
+      "status": "self",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        }
+      ]
+    },
+    {
+      "from": "marc-joseph",
+      "to": "metallicus",
+      "label_es": "miembro del consejo asesor de",
+      "label_en": "advisory board member of",
+      "status": "self",
+      "date": "2022-08-04",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+          "url": "https://www.businesswire.com/news/home/20220804005398/en"
+        }
+      ]
+    },
+    {
+      "from": "marc-joseph",
+      "to": "fbbt-holdings",
+      "label_es": "consejero previsto de",
+      "label_en": "planned director of",
+      "status": "self",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        }
+      ]
+    },
+    {
+      "from": "lauren-hargraves",
+      "to": "metallicus",
+      "label_es": "miembro del consejo asesor de",
+      "label_en": "advisory board member of",
+      "status": "self",
+      "date": "2022-08-04",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+          "url": "https://www.businesswire.com/news/home/20220804005398/en"
+        }
+      ]
+    },
+    {
+      "from": "lauren-hargraves",
+      "to": "fbbt-holdings",
+      "label_es": "consejero previsto de",
+      "label_en": "planned director of",
+      "status": "self",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        }
+      ]
+    },
+    {
+      "from": "bryan-hubbard",
+      "to": "metallicus",
+      "label_es": "miembro del consejo asesor de",
+      "label_en": "advisory board member of",
+      "status": "self",
+      "date": "2022-08-04",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus forms advisory board of banking regulatory and compliance experts (4 Aug 2022)",
+          "url": "https://www.businesswire.com/news/home/20220804005398/en"
+        }
+      ]
+    },
+    {
+      "from": "bryan-hubbard",
+      "to": "fbbt-holdings",
+      "label_es": "consejero previsto de",
+      "label_en": "planned director of",
+      "status": "self",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        }
+      ]
+    },
+    {
+      "from": "donald-berk",
+      "to": "fbbt-holdings",
+      "label_es": "consejero previsto de",
+      "label_en": "planned director of",
+      "status": "self",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        }
+      ]
+    },
+    {
+      "from": "lee-woolley",
+      "to": "fbbt-holdings",
+      "label_es": "consejero previsto de",
+      "label_en": "planned director of",
+      "status": "self",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        }
+      ]
+    },
+    {
+      "from": "syed-jafri",
+      "to": "bloks-io",
+      "label_es": "dirigía el equipo de desarrolladores de",
+      "label_en": "led the developer team of",
+      "status": "confirmed",
+      "date": "2020-08",
+      "sources": [
+        {
+          "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21 Aug 2020)",
+          "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+        },
+        {
+          "title": "Invezz – Metal Pay acquired Bloks.io (21 Aug 2020)",
+          "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "quickcoin",
+      "label_es": "cofundó",
+      "label_en": "co-founded",
+      "status": "confirmed",
+      "date": "2014-04",
+      "sources": [
+        {
+          "title": "VentureBeat – QuickCoin (11 Jun 2014)",
+          "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "bitcoin-fair-2014",
+      "label_es": "coorganizó",
+      "label_en": "co-organized",
+      "status": "confirmed",
+      "date": "2014-02",
+      "sources": [
+        {
+          "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9 Feb 2014)",
+          "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "stellar",
+      "label_es": "promocionó el lanzamiento del Stellar Wallet para",
+      "label_en": "promoted the Stellar Wallet launch for",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Bankless Times – Marshall Hayner profile/interview (16 Feb 2023)",
+          "url": "https://www.banklesstimes.com/?p=10348"
+        },
+        {
+          "title": "Metallicus – Meet the team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "block-io",
+      "label_es": "CMO de",
+      "label_en": "CMO of",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Bankless Times – Marshall Hayner profile/interview (16 Feb 2023)",
+          "url": "https://www.banklesstimes.com/?p=10348"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "dogecoin-foundation",
+      "label_es": "miembro del consejo de",
+      "label_en": "board member of",
+      "status": "confirmed",
+      "date": "2023-01",
+      "sources": [
+        {
+          "title": "CryptoPotato – Dogecoin Foundation introduces a new core development fund (3 Jan 2023)",
+          "url": "https://cryptopotato.com/dogecoin-foundation-introduces-a-new-core-devlopment-fund/"
+        },
+        {
+          "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4 Aug 2023)",
+          "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+        }
+      ]
+    },
+    {
+      "from": "glenn-marien",
+      "to": "dogechain-info",
+      "label_es": "creó",
+      "label_en": "created",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Meet the team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "fbbt-holdings",
+      "label_es": "cofundó",
+      "label_en": "co-founded",
+      "status": "confirmed",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        },
+        {
+          "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
+          "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
+        }
+      ]
+    },
+    {
+      "from": "irina-berkon",
+      "to": "fbbt-holdings",
+      "label_es": "cofundó y es consejera de",
+      "label_en": "co-founded and is a director of",
+      "status": "confirmed",
+      "date": "2023-02-22",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+          "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+        },
+        {
+          "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
+          "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
+        },
+        {
+          "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+          "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "kleibert-lawsuit",
+      "label_es": "demandado en",
+      "label_en": "defendant in",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Justia Dockets – Kliebert et al. v. Metallicus, Inc. et al., 4:2019cv02250 (S.D. Tex.)",
+          "url": "https://dockets.justia.com/docket/texas/txsdce/4:2019cv02250/1680136"
+        },
+        {
+          "title": "GovInfo – USCOURTS-txsd-4_19-cv-02250 metadata",
+          "url": "https://www.govinfo.gov/metadata/pkg/USCOURTS-txsd-4_19-cv-02250/mods.xml"
+        }
+      ]
+    },
+    {
+      "from": "irina-berkon",
+      "to": "proton-trademark-litigation",
+      "label_es": "declaró como CFO de Metallicus en",
+      "label_en": "gave a declaration as Metallicus CFO in",
+      "status": "confirmed",
+      "date": "2022",
+      "sources": [
+        {
+          "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
+          "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "occ-charter-application",
+      "label_es": "anunció como CEO de Metal Pay",
+      "label_en": "announced as Metal Pay CEO",
+      "status": "confirmed",
+      "date": "2021-02-05",
+      "sources": [
+        {
+          "title": "Finance Magnates – Crypto firm Metal Pay applies for a US federal banking charter (5 Feb 2021)",
+          "url": "https://www.financemagnates.com/cryptocurrency/news/crypto-firm-metal-pay-applies-for-a-us-federal-banking-charter/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "tdbn",
+      "label_es": "desarrolla",
+      "label_en": "develops",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Crowdfund Insider – Metallicus, developer of The Digital Banking Network, introduces Metal Pay in Australia (19 Aug 2024)",
+          "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+        },
+        {
+          "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+          "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+        }
+      ]
+    },
+    {
+      "from": "tdbn",
+      "to": "metal-blockchain",
+      "label_es": "usa como cadena de capa 0",
+      "label_en": "uses as its Layer 0 chain",
+      "status": "self",
+      "date": "2024-12-18",
+      "sources": [
+        {
+          "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+          "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-pay",
+      "label_es": "opera (transmisión de dinero bajo licencias de Metallicus)",
+      "label_en": "operates (money transmission under Metallicus licenses)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal Pay – website footer and disclosures",
+          "url": "https://metalpay.com"
+        },
+        {
+          "title": "PR Newswire – Metal Pay launches with peer-to-peer payments app (14 Sep 2018)",
+          "url": "https://www.prnewswire.com/news-releases/metal-pay-launches-with-peer-to-peer-payments-app-that-rewards-users-with-up-to-five-percent-back-in-cryptocurrency-300712797.html"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "mtl",
+      "label_es": "emisor del token",
+      "label_en": "token issuer of",
+      "status": "confirmed",
+      "date": "2017-06-29",
+      "sources": [
+        {
+          "title": "Coinone – MTL (Metal DAO) digital asset manual (19 Sep 2024)",
+          "url": "https://research.coinone.co.kr/manual/MTL_digital_asset_manual_5FA918C533550B62.pdf"
+        },
+        {
+          "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+          "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-blockchain",
+      "label_es": "desarrollador principal de",
+      "label_en": "core developer of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CUInsight – Cornerstone League and Metallicus partner on stablecoin innovation (10 Oct 2025)",
+          "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "webauth",
+      "label_es": "desarrolla",
+      "label_en": "develops",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus partners with Checkout.com (15 Dec 2022)",
+          "url": "https://www.businesswire.com/news/home/20221215005985/en"
+        },
+        {
+          "title": "Metallicus – Company / team page",
+          "url": "https://www.metallicus.com/company"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "xpr-network",
+      "label_es": "desarrolla (antes Proton)",
+      "label_en": "develops (formerly Proton)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Company / team page",
+          "url": "https://www.metallicus.com/company"
+        },
+        {
+          "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21 Aug 2020)",
+          "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "crumbs",
+      "label_es": "acuerdo definitivo de compra de",
+      "label_en": "definitive agreement to acquire",
+      "status": "disputed",
+      "date": "2018-05-30",
+      "sources": [
+        {
+          "title": "Newswire – Metal to acquire Crumbs Technologies Inc. (30 May 2018)",
+          "url": "https://www.newswire.com/news/metal-to-acquire-crumbs-technologies-inc-20500960"
+        },
+        {
+          "title": "Decrypt – Metal Payments is recycling old announcements (12 Sep 2019)",
+          "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "lynx",
+      "label_es": "adquirió (como Metal Pay)",
+      "label_en": "acquired (as Metal Pay)",
+      "status": "confirmed",
+      "date": "2020",
+      "sources": [
+        {
+          "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21 Aug 2020)",
+          "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+        },
+        {
+          "title": "Invezz – Metal Pay acquired Bloks.io (21 Aug 2020)",
+          "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "bloks-io",
+      "label_es": "adquirió (como Metal Pay)",
+      "label_en": "acquired (as Metal Pay)",
+      "status": "confirmed",
+      "date": "2020-08-21",
+      "sources": [
+        {
+          "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21 Aug 2020)",
+          "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+        },
+        {
+          "title": "Invezz – Metal Pay acquired Bloks.io (21 Aug 2020)",
+          "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "bonifii",
+      "label_es": "adquirió los activos de",
+      "label_en": "acquired the assets of",
+      "status": "confirmed",
+      "date": "2025-01-01",
+      "sources": [
+        {
+          "title": "CUInsight – Metallicus acquires fintech Bonifii (18 Dec 2024)",
+          "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+        },
+        {
+          "title": "Doeren Mayhew – Metallicus acquires fintech Bonifii CUSO (3 Jan 2025)",
+          "url": "https://doeren.com/viewpoint/metallicus-acquires-fintech-bonifii-cuso"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "cornerstone-league",
+      "label_es": "socio en el Stablecoin Pilot con",
+      "label_en": "Stablecoin Pilot partner of",
+      "status": "confirmed",
+      "date": "2025-10-10",
+      "sources": [
+        {
+          "title": "CUInsight – Cornerstone League and Metallicus partner on stablecoin innovation (10 Oct 2025)",
+          "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "fednow",
+      "label_es": "proveedor de servicios certificado de",
+      "label_en": "certified service provider for",
+      "status": "self",
+      "date": "2024",
+      "sources": [
+        {
+          "title": "Metallicus – Locking in to 2025, year in review (31 Dec 2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        }
+      ]
+    },
+    {
+      "from": "ohio-consent-order",
+      "to": "metallicus",
+      "label_es": "impuso multa de 19.600 $ a",
+      "label_en": "imposed a USD 19,600 penalty on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+        }
+      ]
+    },
+    {
+      "from": "ohio-consent-order",
+      "to": "xpr-network",
+      "label_es": "recoge declaraciones sobre la acuñación de tokens Proton de",
+      "label_en": "records statements on Proton token minting of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "occ-charter-application",
+      "label_es": "solicitó (como Metal Pay)",
+      "label_en": "applied (as Metal Pay)",
+      "status": "confirmed",
+      "date": "2021-02-03",
+      "sources": [
+        {
+          "title": "OCC – Weekly Bulletin 31 Jan–6 Feb 2021",
+          "url": "https://www.occ.gov/topics/charters-and-licensing/weekly-bulletin/2021/wb-01312021-02062021.pdf"
+        },
+        {
+          "title": "Finance Magnates – Crypto firm Metal Pay applies for a US federal banking charter (5 Feb 2021)",
+          "url": "https://www.financemagnates.com/cryptocurrency/news/crypto-firm-metal-pay-applies-for-a-us-federal-banking-charter/"
+        },
+        {
+          "title": "Decrypt – Metal coin surges 250% on licensing news (30 Mar 2021)",
+          "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "kleibert-lawsuit",
+      "label_es": "demandado y reconviniente en",
+      "label_en": "defendant and counter-plaintiff in",
+      "status": "confirmed",
+      "date": "2019-06-21",
+      "sources": [
+        {
+          "title": "Justia Dockets – Kliebert et al. v. Metallicus, Inc. et al., 4:2019cv02250 (S.D. Tex.)",
+          "url": "https://dockets.justia.com/docket/texas/txsdce/4:2019cv02250/1680136"
+        },
+        {
+          "title": "CourtListener – Kliebert v. Metallicus, Inc. (order of 3 Apr 2020)",
+          "url": "https://www.courtlistener.com/opinion/10206655/kliebert-v-metallicus-inc/"
+        }
+      ]
+    },
+    {
+      "from": "kleibert-lawsuit",
+      "to": "mtl",
+      "label_es": "se refiere a la promoción de",
+      "label_en": "concerns the promotion of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CourtListener – Kliebert v. Metallicus, Inc. (order of 3 Apr 2020)",
+          "url": "https://www.courtlistener.com/opinion/10206655/kliebert-v-metallicus-inc/"
+        },
+        {
+          "title": "The Block – Court partially dismisses lawsuit involving a crypto sale at Necker Island (5 Apr 2020)",
+          "url": "https://www.theblock.co/post/60946/court-partially-dismisses-lawsuit-involving-a-crypto-sale-at-necker-islands-2017-blockchain-conference"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "washington-mt-license",
+      "label_es": "obtuvo (según Metal Pay)",
+      "label_en": "obtained (per Metal Pay)",
+      "status": "self",
+      "date": "2021-03-29",
+      "sources": [
+        {
+          "title": "Decrypt – Metal coin surges 250% on licensing news (30 Mar 2021)",
+          "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "soc2",
+      "label_es": "completó evaluación Tipo I (según la empresa)",
+      "label_en": "completed Type I assessment (per the company)",
+      "status": "self",
+      "date": "2026-08-18",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus completes SOC 2 Type I assessment (18 Aug 2026)",
+          "url": "https://metallicus.com/blog/metallicus-completes-soc-2-type-i-assessment"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "nmls-licensing",
+      "label_es": "registrada con NMLS ID 2057807 (según Metal Pay)",
+      "label_en": "registered under NMLS ID 2057807 (per Metal Pay)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal Pay – website footer and disclosures",
+          "url": "https://metalpay.com"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "proton-trademark-litigation",
+      "label_es": "parte en",
+      "label_en": "party to",
+      "status": "confirmed",
+      "date": "2021-12",
+      "sources": [
+        {
+          "title": "Justia Dockets – Metallicus, Inc. v. Proton Technologies AG, 4:2021cv09562 (N.D. Cal.)",
+          "url": "https://dockets.justia.com/docket/california/candce/4:2021cv09562/389208"
+        },
+        {
+          "title": "Justia Dockets – Proton AG v. Metallicus, Inc., 4:2021cv09714 (N.D. Cal.)",
+          "url": "https://dockets.justia.com/docket/california/candce/4:2021cv09714/389532"
+        }
+      ]
+    },
+    {
+      "from": "donald-berk",
+      "to": "soc2",
+      "label_es": "impulsó (según la empresa)",
+      "label_en": "drove (per the company)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus attains SOC2 compliance certification (undated)",
+          "url": "https://metallicus.com/blog/metallicus-attains-soc2-compliance-certification"
+        }
+      ]
+    }
+  ]
+}

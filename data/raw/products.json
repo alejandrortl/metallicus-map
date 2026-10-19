@@ -1,0 +1,2690 @@
+{
+  "nodes": [
+    {
+      "id": "metal-pay",
+      "name": "Metal Pay",
+      "type": "product",
+      "group": "products",
+      "summary_es": "Aplicación de Metallicus para comprar, vender y enviar criptoactivos, disponible en EE. UU. y, desde 2024, en Australia; también se ofrece a instituciones como API (Metal Pay API / Enterprise) y como módulo de compra dentro de WebAuth (Metal Pay Connect).",
+      "summary_en": "Metallicus app for buying, selling and sending crypto assets, available in the US and, since 2024, in Australia; also offered to institutions as an API (Metal Pay API / Enterprise) and as an in-wallet purchase module inside WebAuth (Metal Pay Connect).",
+      "website": "https://www.metalpay.com/",
+      "facts": [
+        {
+          "es": "Decrypt y el documento informativo de Coinone sitúan el lanzamiento de Metal Pay en 2018 (Decrypt: septiembre de 2018, y un portavoz lo calificó después de versión beta); CoinGecko lo atribuye a 2016, que es el año de fundación de Metallicus.",
+          "en": "Decrypt and the Coinone primer place Metal Pay's launch in 2018 (Decrypt: September 2018, later described by a spokesman as a beta); CoinGecko attributes it to 2016, which is Metallicus's founding year.",
+          "status": "disputed",
+          "date": "2018",
+          "sources": [
+            {
+              "title": "Decrypt – Metal Payments recycling old announcements (12-sep-2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            },
+            {
+              "title": "Coinone Research – MTL digital asset primer (PDF)",
+              "url": "https://research.coinone.co.kr/primer/MTL_digital_asset_info_F0FE7B9E5B63292A.pdf"
+            },
+            {
+              "title": "CoinGecko – Metal DAO (MTL)",
+              "url": "https://www.coingecko.com/en/coins/metal-dao"
+            }
+          ]
+        },
+        {
+          "es": "En el App Store la app figura como «Metal Pay: Buy Bitcoin and ETH», publicada por Metallicus, Inc.",
+          "en": "On the App Store the app is listed as \"Metal Pay: Buy Bitcoin and ETH\", published by Metallicus, Inc.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Apple App Store – Metal Pay: Buy Bitcoin and ETH",
+              "url": "https://apps.apple.com/app/id1345101178"
+            },
+            {
+              "title": "Metal Pay – web oficial",
+              "url": "https://www.metalpay.com/"
+            }
+          ]
+        },
+        {
+          "es": "Según metalpay.com, Metal Pay es un servicio de Metallicus, Inc. (NMLS ID 2057807) y de MetalPay, Inc. (NMLS ID 2731963), y opera en EE. UU., Australia y Nueva Zelanda.",
+          "en": "According to metalpay.com, Metal Pay is a service of Metallicus, Inc. (NMLS ID 2057807) and MetalPay, Inc. (NMLS ID 2731963), and operates in the US, Australia and New Zealand.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Pay – web oficial",
+              "url": "https://www.metalpay.com/"
+            }
+          ]
+        },
+        {
+          "es": "Según la ficha del App Store redactada por la empresa, la app de EE. UU. está disponible en 47 estados más DC y Puerto Rico, excluidos Hawái, Nueva York y Carolina del Norte.",
+          "en": "According to the company's App Store description, the US app is available in 47 states plus DC and Puerto Rico, excluding Hawaii, New York and North Carolina.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Apple App Store – Metal Pay: Buy Bitcoin and ETH",
+              "url": "https://apps.apple.com/app/id1345101178"
+            }
+          ]
+        },
+        {
+          "es": "Metal Pay se lanzó en Australia el 19 de agosto de 2024, con compras recurrentes de BTC y ETH con tarjeta de débito o crédito y un mínimo de 15 por operación. El artículo no menciona ninguna licencia australiana.",
+          "en": "Metal Pay launched in Australia on 19 August 2024, offering recurring BTC and ETH purchases by debit or credit card with a 15 minimum per purchase. The article does not mention any Australian licence.",
+          "status": "confirmed",
+          "date": "2024-08-19",
+          "sources": [
+            {
+              "title": "Crowdfund Insider – Metallicus introduces Metal Pay in Australia (19-ago-2024)",
+              "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+            },
+            {
+              "title": "Metallicus – A Year in Review (31-dic-2024)",
+              "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+            }
+          ]
+        },
+        {
+          "es": "Según la carta anual de Metallicus de 2024, ese año Metal Pay amplió la compra de cripto a Australia y Nueva Zelanda.",
+          "en": "According to Metallicus's 2024 annual letter, that year Metal Pay extended crypto purchases to Australia and New Zealand.",
+          "status": "self",
+          "date": "2024",
+          "sources": [
+            {
+              "title": "Metallicus – A Year in Review (31-dic-2024)",
+              "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+            }
+          ]
+        },
+        {
+          "es": "En diciembre de 2022 Metallicus y Checkout.com anunciaron una alianza para que usuarios de la UE y EE. UU. compren USDC con tarjeta en Metal Pay; hablan representantes de ambas empresas.",
+          "en": "In December 2022 Metallicus and Checkout.com announced a partnership letting EU and US users buy USDC by card in Metal Pay; executives of both companies are quoted.",
+          "status": "confirmed",
+          "date": "2022-12-15",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus partners with Checkout.com (15-dic-2022)",
+              "url": "https://www.businesswire.com/news/home/20221215005985/en"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, el Metal Pay API se presentó en septiembre de 2022 y permite a bancos ofrecer la app de consumo de Metal Pay con su propia marca.",
+          "en": "According to Metallicus, the Metal Pay API was unveiled in September 2022 and lets banks white-label the Metal Pay consumer app.",
+          "status": "self",
+          "date": "2022-09",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus partners with Checkout.com (15-dic-2022)",
+              "url": "https://www.businesswire.com/news/home/20221215005985/en"
+            },
+            {
+              "title": "Metallicus – Metal Blockchain, WebAuth y Metal Pay API en Temenos Exchange (7-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+            }
+          ]
+        },
+        {
+          "es": "El Metal Pay API figura, junto con Metal Blockchain y WebAuth Wallet, en el perfil de Metallicus como proveedor del marketplace Temenos Exchange (desde sep-2023).",
+          "en": "The Metal Pay API is listed, alongside Metal Blockchain and WebAuth Wallet, on Metallicus's solution-provider profile in the Temenos Exchange marketplace (since Sep 2023).",
+          "status": "confirmed",
+          "date": "2023-09-07",
+          "sources": [
+            {
+              "title": "Temenos – Solution provider: Metallicus Inc.",
+              "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+            },
+            {
+              "title": "Metallicus – Metal Blockchain, WebAuth y Metal Pay API en Temenos Exchange (7-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+            }
+          ]
+        },
+        {
+          "es": "La Reserva Federal incluye a Metallicus (solución: Metal Pay) en su FedNow Innovator Exchange, con envío y recepción de transacciones FedNow; la propia página aclara que la inclusión no supone recomendación ni respaldo de la Fed.",
+          "en": "The Federal Reserve lists Metallicus (solution: Metal Pay) in its FedNow Innovator Exchange, with sending and receiving of FedNow transactions; the page itself states that inclusion is not a Fed recommendation or endorsement.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Federal Reserve Financial Services – FedNow Innovator Exchange: Metallicus (Metal Pay)",
+              "url": "https://www.frbservices.org/?p=18354"
+            },
+            {
+              "title": "Metallicus – Certificación FedNow (22-oct-2024)",
+              "url": "https://metallicus.com/blog/fednow"
+            }
+          ]
+        },
+        {
+          "es": "El 25 de febrero de 2025 Payfinia se convirtió en socio preferente de API y pagos para Metal Pay; hablan ejecutivos de ambas partes.",
+          "en": "On 25 February 2025 Payfinia became a preferred API and payments partner for Metal Pay; executives of both parties are quoted.",
+          "status": "confirmed",
+          "date": "2025-02-25",
+          "sources": [
+            {
+              "title": "Business Wire – Payfinia and Metallicus partner (25-feb-2025)",
+              "url": "https://www.businesswire.com/news/home/20250225417038/en"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, Metal Pay Connect funciona dentro de la wallet WebAuth y permite a usuarios de EE. UU., Australia y Nueva Zelanda comprar cripto con tarjeta y recibirla en autocustodia; en el 1T de 2026 se añadió la compra de XRP enviada a una wallet XRPL.",
+          "en": "According to Metallicus, Metal Pay Connect runs inside the WebAuth wallet and lets US, Australian and New Zealand users buy crypto by card into self-custody; in Q1 2026 XRP purchases delivered to an XRPL wallet were added.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            },
+            {
+              "title": "XPR Network Help Center – How do I buy crypto on Metal Pay Connect",
+              "url": "https://help.xprnetwork.org/hc/en-us/articles/33629847957655-How-do-I-buy-crypto-on-Metal-Pay-Connect"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en el 1T de 2026 la prioridad de Metal Pay fue la API empresarial; integró un nuevo proveedor de KYC y se asoció con TaxBit para los formularios fiscales 1099-DA.",
+          "en": "According to Metallicus, in Q1 2026 Metal Pay's priority was the enterprise API; it integrated a new KYC provider and partnered with TaxBit for 1099-DA tax forms.",
+          "status": "self",
+          "date": "2026-Q1",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Quien tenga 10.000 MTL o más paga un 0 % de comisión en las compras de cripto de Metal Pay, según la ficha de KuCoin (2021) y la de CoinGecko.",
+          "en": "Holders of 10,000 MTL or more pay 0% fees on Metal Pay crypto purchases, per the KuCoin listing (2021) and CoinGecko.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "KuCoin – Metal (MTL) gets listed on KuCoin (11-ago-2021)",
+              "url": "https://www.kucoin.com/news/en-metal-mtl-gets-listed-on-kucoin"
+            },
+            {
+              "title": "CoinGecko – Metal DAO (MTL)",
+              "url": "https://www.coingecko.com/en/coins/metal-dao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "webauth",
+      "name": "WebAuth Wallet",
+      "type": "product",
+      "group": "products",
+      "summary_es": "Wallet de autocustodia multicadena de Metallicus que firma con biometría del dispositivo (Secure Enclave) o YubiKey; es la wallet nativa de XPR Network y la puerta de acceso a Metal X.",
+      "summary_en": "Metallicus's multichain self-custody wallet that signs with device biometrics (Secure Enclave) or a YubiKey; it is the native wallet of XPR Network and the gateway to Metal X.",
+      "website": "https://webauth.com/",
+      "facts": [
+        {
+          "es": "La app «WebAuth: Self-Custody Wallet» la publica Metallicus, Inc. en el App Store para iPhone, iPad, Mac con chip M1 o posterior y Apple Vision; también hay versión Android y web (webauth.com).",
+          "en": "The \"WebAuth: Self-Custody Wallet\" app is published by Metallicus, Inc. on the App Store for iPhone, iPad, Macs with M1 or later and Apple Vision; there are also Android and web (webauth.com) versions.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+              "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+            },
+            {
+              "title": "Metallicus – WebAuth Wallet",
+              "url": "https://metallicus.com/individuals/webauth"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, la clave privada se genera en el Secure Enclave del dispositivo, las transacciones se firman con Face ID, Touch ID o huella, y la versión web admite YubiKey.",
+          "en": "According to Metallicus, the private key is generated in the device's Secure Enclave, transactions are signed with Face ID, Touch ID or fingerprint, and the web version supports YubiKey.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal X – Learn: WebAuth",
+              "url": "https://metalx.com/learn/webauth"
+            },
+            {
+              "title": "Metallicus – Metal Blockchain, WebAuth y Metal Pay API en Temenos Exchange (7-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, al crear la cuenta se elige un nombre de 4 a 12 caracteres (a-z y 1-5) que sirve de dirección en XPR Network, se genera una frase de recuperación de 12 palabras y se verifica el email con un código de 6 dígitos; el KYC (documento y selfie) desbloquea funciones de Metal X.",
+          "en": "According to Metallicus, account creation involves choosing a 4–12 character name (a-z and 1-5) that serves as the XPR Network address, generating a 12-word recovery phrase and verifying email with a 6-digit code; KYC (ID document and selfie) unlocks Metal X features.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal X – Learn: WebAuth",
+              "url": "https://metalx.com/learn/webauth"
+            }
+          ]
+        },
+        {
+          "es": "Según la ficha del App Store, admite Ethereum, XPR Network, Metal Blockchain, Metal L2 y Optimism, entre otras redes, y permite comprar cripto vía Metal Pay y acuñar o canjear Metal Dollar (XMD).",
+          "en": "According to its App Store listing, it supports Ethereum, XPR Network, Metal Blockchain, Metal L2 and Optimism, among other networks, and allows buying crypto via Metal Pay and minting or redeeming Metal Dollar (XMD).",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+              "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, WebAuth ya existía en noviembre de 2022: su comunicado de Proton DEX cita la wallet WebAuth.com de Metallicus, basada en autenticación web FIDO.",
+          "en": "According to Metallicus, WebAuth already existed in November 2022: its Proton DEX press release cites Metallicus's WebAuth.com wallet, based on FIDO web authentication.",
+          "status": "self",
+          "date": "2022-11",
+          "sources": [
+            {
+              "title": "Business Wire – Proton DEX launch (16-nov-2022)",
+              "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
+            },
+            {
+              "title": "Business Wire – Metallicus partners with Checkout.com (15-dic-2022)",
+              "url": "https://www.businesswire.com/news/home/20221215005985/en"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, la versión 2.1.46 (3T de 2025) añadió una vista de cartera con saldos de XPR Network, Metal Blockchain, Metal L2, Ethereum y Optimism, y el soporte de XRP Ledger quedó plenamente operativo en el 1T de 2026.",
+          "en": "According to Metallicus, version 2.1.46 (Q3 2025) added a portfolio view with balances across XPR Network, Metal Blockchain, Metal L2, Ethereum and Optimism, and XRP Ledger support went fully live in Q1 2026.",
+          "status": "self",
+          "date": "2026-Q1",
+          "sources": [
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en el 2T de 2026 WebAuth estrenó su primer gran rediseño de la interfaz de Connect en casi cinco años.",
+          "en": "According to Metallicus, in Q2 2026 WebAuth shipped its first major Connect UI/UX refresh in nearly five years.",
+          "status": "self",
+          "date": "2026-Q2",
+          "sources": [
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en XPR Network los envíos desde WebAuth no pagan comisiones de red.",
+          "en": "According to Metallicus, sends from WebAuth on XPR Network carry no network fees.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+              "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+            },
+            {
+              "title": "Metal X – Learn: WebAuth",
+              "url": "https://metalx.com/learn/webauth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metal-blockchain",
+      "name": "Metal Blockchain",
+      "type": "blockchain",
+      "group": "products",
+      "summary_es": "Blockchain de capa 0 desarrollada por Metallicus a partir de un fork del código de Avalanche (AvalancheGo), con mainnet desde octubre de 2022 y token METAL; Metallicus la orienta a bancos y credit unions mediante subredes.",
+      "summary_en": "Layer-0 blockchain developed by Metallicus from a fork of Avalanche's code (AvalancheGo), with mainnet since October 2022 and the METAL token; Metallicus targets it at banks and credit unions through subnets.",
+      "website": "https://metalblockchain.org/",
+      "facts": [
+        {
+          "es": "El nodo oficial, metalgo, es un fork en GitHub del repositorio ava-labs/avalanchego (licencia BSD-3-Clause), y Cointelegraph describe Metal Blockchain como basada en un fork del código de Avalanche.",
+          "en": "The official node, metalgo, is a GitHub fork of the ava-labs/avalanchego repository (BSD-3-Clause licence), and Cointelegraph describes Metal Blockchain as based on a fork of Avalanche's code.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "GitHub – MetalBlockchain/metalgo",
+              "url": "https://github.com/MetalBlockchain/metalgo"
+            },
+            {
+              "title": "Cointelegraph – Federal Reserve: FedNow not related to CBDCs (20-jul-2023)",
+              "url": "https://cointelegraph.com/news/federal-reserve-service-not-related-to-cbdcs"
+            },
+            {
+              "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
+              "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, la mainnet se lanzó el 18 de octubre de 2022 con 37 validadores, entre ellos la Metal Foundation y varios productores de bloque de Proton, y con un puente hacia XPR Network.",
+          "en": "According to Metallicus, mainnet launched on 18 October 2022 with 37 validators, including the Metal Foundation and several Proton block producers, plus a bridge to XPR Network.",
+          "status": "self",
+          "date": "2022-10-18",
+          "sources": [
+            {
+              "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+              "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+            }
+          ]
+        },
+        {
+          "es": "Según su documentación, tiene cuatro cadenas en la red primaria: A-Chain (XPR Network, máquina virtual Antelope), X-Chain (AVM), P-Chain (validadores y subredes) y C-Chain (EVM).",
+          "en": "According to its documentation, the primary network has four chains: A-Chain (XPR Network, Antelope virtual machine), X-Chain (AVM), P-Chain (validators and subnets) and C-Chain (EVM).",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Blockchain Docs – Intro",
+              "url": "https://docs.metalblockchain.org/intro"
+            },
+            {
+              "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
+              "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, ser validador exige un mínimo de 2.000 METAL bloqueados entre 14 días y un año, y delegar exige un mínimo de 25 METAL; las comisiones de red se queman.",
+          "en": "According to Metallicus, running a validator requires a minimum of 2,000 METAL locked for 14 days to one year, delegating requires at least 25 METAL, and network fees are burned.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+              "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+            },
+            {
+              "title": "Metal Blockchain Docs – Intro",
+              "url": "https://docs.metalblockchain.org/intro"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, cada subred puede procesar hasta 4.500 transacciones por segundo y el consenso Snow ofrece una finalidad de unos 0,5 segundos.",
+          "en": "According to Metallicus, each subnet can process up to 4,500 transactions per second and Snow consensus gives finality of about 0.5 seconds.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Blockchain Docs – Intro",
+              "url": "https://docs.metalblockchain.org/intro"
+            },
+            {
+              "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+              "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, Metal Blockchain es «compatible con ISO 20022» desde el 4 de diciembre de 2023, con una demo propia; no cita certificación ni organismo certificador.",
+          "en": "According to Metallicus, Metal Blockchain has been \"ISO 20022 compatible\" since 4 December 2023, based on its own demo; it cites no certification or certifying body.",
+          "status": "self",
+          "date": "2023-12-04",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Metal Blockchain is now ISO 20022 compatible (4-dic-2023)",
+              "url": "https://metalblockchain.org/news-insights/metal-blockchain-is-now-iso-20022-compatible"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, el explorador mostraba más de 175 validadores a principios de noviembre de 2025 y 169 validadores conectados con unos 51,0 millones de METAL en staking en el 1T de 2026.",
+          "en": "According to Metallicus, the explorer showed more than 175 validators in early November 2025 and 169 connected validators with about 51.0 million METAL staked in Q1 2026.",
+          "status": "self",
+          "date": "2026-Q1",
+          "sources": [
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            }
+          ]
+        },
+        {
+          "es": "La organización MetalBlockchain en GitHub publica, además de metalgo, los repositorios pulsevm (máquina virtual en Rust para banca), btcvm, antelopevm y dogecoin-vm.",
+          "en": "The MetalBlockchain GitHub organisation publishes, besides metalgo, the repositories pulsevm (Rust virtual machine for banking), btcvm, antelopevm and dogecoin-vm.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "GitHub – organización MetalBlockchain",
+              "url": "https://github.com/MetalBlockchain"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en 2024 lanzó una testnet de una máquina virtual Bitcoin, y en el 1T de 2026 la A-Chain (PulseVM) y la B-Chain (BTCVM) seguían en desarrollo.",
+          "en": "According to Metallicus, it launched a Bitcoin virtual machine testnet in 2024, and in Q1 2026 the A-Chain (PulseVM) and B-Chain (BTCVM) were still in development.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – A Year in Review (31-dic-2024)",
+              "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, Metal Blockchain entró en el Vendor Integration Program de Jack Henry en septiembre de 2023; el comunicado aclara que la inclusión no supone respaldo del producto.",
+          "en": "According to Metallicus, Metal Blockchain joined Jack Henry's Vendor Integration Program in September 2023; the announcement states that inclusion is not an endorsement of the product.",
+          "status": "self",
+          "date": "2023-09-12",
+          "sources": [
+            {
+              "title": "Metallicus – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+            }
+          ]
+        },
+        {
+          "es": "El 2 de octubre de 2024 Metal Blockchain se unió al U.S. Faster Payments Council, con una cita de bienvenida de su director ejecutivo, Reed Luhtanen.",
+          "en": "On 2 October 2024 Metal Blockchain joined the U.S. Faster Payments Council, with a welcoming quote from its executive director, Reed Luhtanen.",
+          "status": "confirmed",
+          "date": "2024-10-02",
+          "sources": [
+            {
+              "title": "Metallicus – Metal Blockchain joins the U.S. Faster Payments Council (2-oct-2024)",
+              "url": "https://metallicus.com/blog/faster-payments-council-blockchain"
+            }
+          ]
+        },
+        {
+          "es": "St. Cloud Financial Credit Union anunció en septiembre de 2025 su stablecoin Cloud Dollar (CLDUSD) sobre Metal Blockchain, conectada a su núcleo bancario mediante Coin2Core de DaLand CUSO; hablan las tres partes.",
+          "en": "St. Cloud Financial Credit Union announced in September 2025 its Cloud Dollar (CLDUSD) stablecoin on Metal Blockchain, connected to its core via DaLand CUSO's Coin2Core; all three parties are quoted.",
+          "status": "confirmed",
+          "date": "2025-09-16",
+          "sources": [
+            {
+              "title": "Metallicus – St. Cloud Financial Credit Union stablecoin (16-sep-2025)",
+              "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, a finales del 3T de 2025 había más de 15 stablecoins con marca de instituciones desplegadas en entorno de pruebas y estaban en QA las Institutional Stablecoin Subnets.",
+          "en": "According to Metallicus, by the end of Q3 2025 more than 15 institution-branded stablecoins had been deployed in a test environment and Institutional Stablecoin Subnets were in QA.",
+          "status": "self",
+          "date": "2025-Q3",
+          "sources": [
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metal-x",
+      "name": "Metal X",
+      "type": "product",
+      "group": "products",
+      "summary_es": "Exchange descentralizado de Metallicus sobre XPR Network, con libro de órdenes en cadena, swaps, pools de liquidez y préstamos; se accede con WebAuth.",
+      "summary_en": "Metallicus's decentralized exchange on XPR Network, with an on-chain order book, swaps, liquidity pools and lending; accessed with WebAuth.",
+      "website": "https://metalx.com/",
+      "facts": [
+        {
+          "es": "Según Metallicus, Metal X es una DEX en XPR Network que guarda las órdenes en cadena mientras los fondos permanecen en la wallet WebAuth del usuario.",
+          "en": "According to Metallicus, Metal X is a DEX on XPR Network that keeps orders on-chain while funds stay in the user's WebAuth wallet.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network Help Center – What is Metal X?",
+              "url": "https://help.xprnetwork.org/hc/en-us/articles/10241371342999-What-is-Metal-X"
+            },
+            {
+              "title": "Metal X – Learn: WebAuth",
+              "url": "https://metalx.com/learn/webauth"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, su antecedente es Proton DEX, que la empresa lanzó el 16 de noviembre de 2022 sobre Proton con trading spot, órdenes limitadas, stop-loss y take-profit, préstamos y farming; el centro de ayuda de Metal X sigue etiquetando sus artículos como «Proton DEX». No se encontró un anuncio fechado del cambio de nombre.",
+          "en": "According to Metallicus, its predecessor is Proton DEX, which the company launched on 16 November 2022 on Proton with spot trading, limit, stop-loss and take-profit orders, lending and farming; the Metal X help centre still tags its articles \"Proton DEX\". No dated announcement of the rename was found.",
+          "status": "self",
+          "date": "2022-11-16",
+          "sources": [
+            {
+              "title": "Business Wire – Proton DEX launch (16-nov-2022)",
+              "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
+            },
+            {
+              "title": "XPR Network Help Center – What is Metal X?",
+              "url": "https://help.xprnetwork.org/hc/en-us/articles/10241371342999-What-is-Metal-X"
+            }
+          ]
+        },
+        {
+          "es": "DefiLlama clasifica MetalX como protocolo de préstamos y DEX en XPR Network (100 % de su TVL), con los subproductos MetalX Lending, MetalX Swap y MetalX Dex, y un TVL de unos 46 millones de dólares el 18 de octubre de 2026.",
+          "en": "DefiLlama classifies MetalX as a lending and DEX protocol on XPR Network (100% of its TVL), with sub-products MetalX Lending, MetalX Swap and MetalX Dex, and a TVL of about $46 million on 18 October 2026.",
+          "status": "confirmed",
+          "date": "2026-10-18",
+          "sources": [
+            {
+              "title": "DefiLlama – MetalX",
+              "url": "https://defillama.com/protocol/metalx"
+            }
+          ]
+        },
+        {
+          "es": "CoinGecko lista Metal X como mercado de MTL, XPR, METAL y XMD (pares contra XMD).",
+          "en": "CoinGecko lists Metal X as a market for MTL, XPR, METAL and XMD (pairs against XMD).",
+          "status": "confirmed",
+          "date": "2026-10",
+          "sources": [
+            {
+              "title": "CoinGecko – Metal DAO (MTL)",
+              "url": "https://www.coingecko.com/en/coins/metal-dao"
+            },
+            {
+              "title": "CoinGecko – XPR Network (XPR)",
+              "url": "https://www.coingecko.com/en/coins/xpr-network"
+            },
+            {
+              "title": "CoinGecko – Metal Blockchain (METAL)",
+              "url": "https://www.coingecko.com/en/coins/metal-blockchain"
+            },
+            {
+              "title": "CoinGecko – Metal Dollar (XMD)",
+              "url": "https://www.coingecko.com/en/coins/metal-dollar"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en el 1T de 2026 unificó trading y préstamos en una sola interfaz con un único inicio de sesión WebAuth, y añadió páginas de staking de XPR y LOAN.",
+          "en": "According to Metallicus, in Q1 2026 it unified trading and lending in a single interface with one WebAuth sign-in, and added XPR and LOAN staking pages.",
+          "status": "self",
+          "date": "2026-Q1",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, ha añadido trading de Solana y tiene previstos futuros y trading apalancado; en 2024 empezó a añadir IA a «Metal X Pro».",
+          "en": "According to Metallicus, it has added Solana trading and plans futures and leveraged trading; in 2024 it began adding AI to \"Metal X Pro\".",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network – Roadmap Update (2025 and Beyond)",
+              "url": "https://xprnetwork.org/blog/xpr-network-roadmap-update-2025"
+            },
+            {
+              "title": "Metallicus – A Year in Review (31-dic-2024)",
+              "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metal-x-lending",
+      "name": "Metal X Lending (LOAN Protocol)",
+      "type": "product",
+      "group": "products",
+      "summary_es": "Protocolo de préstamos sobrecolateralizados de Metallicus en XPR Network, integrado en Metal X y gobernado con el token LOAN.",
+      "summary_en": "Metallicus's over-collateralized lending protocol on XPR Network, integrated into Metal X and governed with the LOAN token.",
+      "website": "https://www.metallicus.com/loan-protocol",
+      "facts": [
+        {
+          "es": "Funciona sobre XPR Network: así lo describe el centro de ayuda de XPR Network y DefiLlama lo lista como «MetalX Lending» dentro de MetalX.",
+          "en": "It runs on XPR Network: the XPR Network help centre says so, and DefiLlama lists it as \"MetalX Lending\" within MetalX.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "XPR Network Help Center – What is Metal X Lending",
+              "url": "https://help.xprnetwork.org/hc/en-us/articles/4418816900119-What-is-Loan-"
+            },
+            {
+              "title": "DefiLlama – MetalX",
+              "url": "https://defillama.com/protocol/metalx"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, los préstamos están sobrecolateralizados y cada mercado tiene un factor de colateral, normalmente en torno al 70 %.",
+          "en": "According to Metallicus, loans are over-collateralized and each market has a collateral factor, usually around 70%.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network Help Center – What is Metal X Lending",
+              "url": "https://help.xprnetwork.org/hc/en-us/articles/4418816900119-What-is-Loan-"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, admite XRP, XPR, USDC, BTC, ETH, HBAR, DOGE, MTL, LTC, USDT, ADA, XLM, SOL y XMD; SOL, ADA, HBAR y XMD se añadieron en el 3T de 2025.",
+          "en": "According to Metallicus, it supports XRP, XPR, USDC, BTC, ETH, HBAR, DOGE, MTL, LTC, USDT, ADA, XLM, SOL and XMD; SOL, ADA, HBAR and XMD were added in Q3 2025.",
+          "status": "self",
+          "date": "2025-Q3",
+          "sources": [
+            {
+              "title": "Metallicus – Loan Protocol / Lending on Metal X",
+              "url": "https://www.metallicus.com/loan-protocol"
+            },
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, LOAN Protocol superó los 500 millones de dólares prestados en total durante el 2T de 2026.",
+          "en": "According to Metallicus, LOAN Protocol passed $500 million in total lent during Q2 2026.",
+          "status": "self",
+          "date": "2026-Q2",
+          "sources": [
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, los titulares de LOAN votan qué activos sirven de colateral y las curvas de tipos de interés.",
+          "en": "According to Metallicus, LOAN holders vote on which assets can be used as collateral and on interest-rate curves.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network Help Center – LOAN Tokenomics & Governance",
+              "url": "https://help.xprnetwork.org/hc/en-us/articles/4418864148119-LOAN-Tokenomics-Governance"
+            },
+            {
+              "title": "Metallicus – Loan Protocol / Lending on Metal X",
+              "url": "https://www.metallicus.com/loan-protocol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metal-l2",
+      "name": "Metal L2",
+      "type": "blockchain",
+      "group": "products",
+      "summary_es": "Red de capa 2 de Ethereum construida por Metallicus con el OP Stack de Optimism (chain ID 1750), registrada en la Superchain; en 2026 el DAO aprobó MIP-002 para migrarla a una subred de Metal Blockchain.",
+      "summary_en": "Ethereum layer-2 network built by Metallicus on Optimism's OP Stack (chain ID 1750), registered in the Superchain; in 2026 the DAO approved MIP-002 to migrate it to a Metal Blockchain subnet.",
+      "website": "https://metall2.com/",
+      "facts": [
+        {
+          "es": "El registro de la Superchain de Optimism incluye «Metal L2» con chain ID 1750, disponibilidad de datos en Ethereum (eth-da), bloques de 2 segundos y génesis L2 con marca de tiempo 1711563515 (27 de marzo de 2024, UTC).",
+          "en": "Optimism's Superchain Registry includes \"Metal L2\" with chain ID 1750, data availability on Ethereum (eth-da), 2-second blocks and an L2 genesis timestamp of 1711563515 (27 March 2024, UTC).",
+          "status": "confirmed",
+          "date": "2024-03-27",
+          "sources": [
+            {
+              "title": "Optimism Superchain Registry – configs/mainnet/metal.toml (GitHub)",
+              "url": "https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/metal.toml"
+            },
+            {
+              "title": "Metal L2 – Metal DAO (MTL) Migration to the Metal L2 (22-abr-2024)",
+              "url": "https://metall2.com/news-insights/mtl-migration"
+            }
+          ]
+        },
+        {
+          "es": "Metallicus anunció Metal L2 en la Superchain el 9 de mayo de 2024, con una cita de Ryan Wyatt, Chief Growth Officer de Optimism Unlimited, sobre el uso del OP Stack.",
+          "en": "Metallicus announced Metal L2 joining the Superchain on 9 May 2024, with a quote from Ryan Wyatt, Chief Growth Officer of Optimism Unlimited, on its use of the OP Stack.",
+          "status": "confirmed",
+          "date": "2024-05-09",
+          "sources": [
+            {
+              "title": "Metal L2 – Press release: Metallicus unveils Metal L2 joining the Optimism Superchain (9-may-2024)",
+              "url": "https://metall2.com/news-insights/press-release-metallicus-unveils-metal-l2-joining-the-optimism-superchain"
+            },
+            {
+              "title": "Crowdfund Insider – Metallicus introduces Metal Pay in Australia (19-ago-2024)",
+              "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+            }
+          ]
+        },
+        {
+          "es": "El registro marca «governed_by_optimism = false» para Metal L2.",
+          "en": "The registry sets \"governed_by_optimism = false\" for Metal L2.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Optimism Superchain Registry – configs/mainnet/metal.toml (GitHub)",
+              "url": "https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/metal.toml"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, el gas de Metal L2 se paga en ETH y el puente admite ETH, USDC y MTL.",
+          "en": "According to Metallicus, gas on Metal L2 is paid in ETH and the bridge supports ETH, USDC and MTL.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal L2 – Metal DAO (MTL) Migration to the Metal L2 (22-abr-2024)",
+              "url": "https://metall2.com/news-insights/mtl-migration"
+            }
+          ]
+        },
+        {
+          "es": "Metal L2 sigue las mejoras del OP Stack: el registro fija Holocene el 9 de enero de 2025 y Karst el 8 de julio de 2026 (ambas en UTC).",
+          "en": "Metal L2 follows OP Stack upgrades: the registry sets Holocene on 9 January 2025 and Karst on 8 July 2026 (both UTC).",
+          "status": "confirmed",
+          "date": "2026-07-08",
+          "sources": [
+            {
+              "title": "Optimism Superchain Registry – configs/mainnet/metal.toml (GitHub)",
+              "url": "https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/metal.toml"
+            },
+            {
+              "title": "Metal L2 – Holocene Network Upgrade mainnet release alert (14-dic-2024)",
+              "url": "https://metall2.com/news-insights/metal-l2-holocene-network-upgrade-mainnet-release-alert"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en el 3T de 2025 Metal L2 superó 1 millón de dólares de TVL, se lanzó Ionic Protocol (primera app de préstamos nativa) y se integraron oráculos de Chainlink.",
+          "en": "According to Metallicus, in Q3 2025 Metal L2 passed $1 million in TVL, Ionic Protocol (the first native lending app) launched, and Chainlink oracles were integrated.",
+          "status": "self",
+          "date": "2025-Q3",
+          "sources": [
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        },
+        {
+          "es": "El 16 de abril de 2026 Metallicus publicó MIP-002 «Homecoming». Según Metallicus, propone migrar Metal L2 desde la Superchain a una subred soberana de Metal Blockchain en un plazo de entre 6 y 12 meses, con MTL como token de gas y la cadena OP Stack retirada al final.",
+          "en": "On 16 April 2026 Metallicus published MIP-002 \"Homecoming\". According to Metallicus, it proposes migrating Metal L2 from the Superchain to a sovereign Metal Blockchain subnet over 6–12 months, with MTL as the gas token and the OP Stack chain sunset at the end.",
+          "status": "self",
+          "date": "2026-04-16",
+          "sources": [
+            {
+              "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+              "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+            },
+            {
+              "title": "Metal L2 – homecoming.metall2.com (abr-2026)",
+              "url": "https://homecoming.metall2.com/"
+            }
+          ]
+        },
+        {
+          "es": "Según la web de Metal DAO, MIP-002 fue aprobada con un 100 % de votos a favor (sin cifras de participación), y su hoja de ruta preveía una testnet en julio de 2026. No se encontró confirmación de que la subred esté en producción.",
+          "en": "According to the Metal DAO site, MIP-002 was approved with 100% of votes in favour (no turnout figures), and its roadmap targeted a testnet in July 2026. No confirmation was found that the subnet is in production.",
+          "status": "self",
+          "date": "2026-05",
+          "sources": [
+            {
+              "title": "Metal DAO – MIP-002: Homecoming (metalhomecoming.com, may-2026)",
+              "url": "https://metalhomecoming.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metal-dollar",
+      "name": "Metal Dollar (XMD)",
+      "type": "token",
+      "group": "products",
+      "summary_es": "Stablecoin índice de Metallicus respaldada por una cesta de stablecoins en dólares; cotiza en Metal X sobre XPR Network y tiene contrato en Ethereum, mientras Metallicus describe en 2026 una nueva implantación aún en preparación.",
+      "summary_en": "Metallicus's index stablecoin backed by a basket of dollar stablecoins; it trades on Metal X on XPR Network and has an Ethereum contract, while in 2026 Metallicus describes a new deployment still being prepared.",
+      "website": "https://www.metallicus.com/metal-dollar",
+      "facts": [
+        {
+          "es": "Según Metallicus, XMD se lanzó con Proton DEX en noviembre de 2022 sobre Proton, con una cesta de USDC, BUSDC, TUSD y USDP.",
+          "en": "According to Metallicus, XMD launched with Proton DEX in November 2022 on Proton, with a basket of USDC, BUSDC, TUSD and USDP.",
+          "status": "self",
+          "date": "2022-11-16",
+          "sources": [
+            {
+              "title": "Business Wire – Proton DEX launch (16-nov-2022)",
+              "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en abril de 2026 la cesta estaba formada por USDC, PYUSD, USDP y RLUSD, gobernada por los titulares de MTL, y se puede acuñar o canjear 1:1 con cualquier stablecoin de la cesta.",
+          "en": "According to Metallicus, in April 2026 the basket was USDC, PYUSD, USDP and RLUSD, governed by MTL holders, and XMD can be minted or redeemed 1:1 against any basket stablecoin.",
+          "status": "self",
+          "date": "2026-04",
+          "sources": [
+            {
+              "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+              "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+            },
+            {
+              "title": "Metallicus – Metal Dollar",
+              "url": "https://www.metallicus.com/metal-dollar"
+            }
+          ]
+        },
+        {
+          "es": "CoinGecko registra unos 836.560 XMD en circulación, un contrato en Ethereum (0xa6707a8a00e94d1834ccda2856c9cf948941078d) y mercados solo en Metal X; el precio mostrado era de 0,97 dólares (oct-2026).",
+          "en": "CoinGecko records about 836,560 XMD in circulation, an Ethereum contract (0xa6707a8a00e94d1834ccda2856c9cf948941078d) and markets only on Metal X; the displayed price was $0.97 (Oct 2026).",
+          "status": "confirmed",
+          "date": "2026-10",
+          "sources": [
+            {
+              "title": "CoinGecko – Metal Dollar (XMD)",
+              "url": "https://www.coingecko.com/en/coins/metal-dollar"
+            }
+          ]
+        },
+        {
+          "es": "Su estado es contradictorio: XMD se negocia en Metal X desde 2022 y en el 3T de 2025 se añadió a Metal X Lending, pero el informe del 1T de 2026 dice que XMD «se estableció en testnet en el 4T de 2025» y que las auditorías estaban por programar; en el 2T de 2026 la gobernanza aprobó su expansión a Ethereum y preparaba un lanzamiento para el 3T.",
+          "en": "Its status is contradictory: XMD has traded on Metal X since 2022 and was added to Metal X Lending in Q3 2025, but the Q1 2026 report says XMD was \"established on testnet in Q4 2025\" with audits still being scheduled; in Q2 2026 governance approved its expansion to Ethereum and a Q3 launch was being prepared.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "CoinGecko – Metal Dollar (XMD)",
+              "url": "https://www.coingecko.com/en/coins/metal-dollar"
+            },
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            },
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, la gobernanza estudiaba en el 2T de 2026 añadir MGUSD, FIDD, RLUSD y SOFID a la cesta.",
+          "en": "According to Metallicus, in Q2 2026 governance was considering adding MGUSD, FIDD, RLUSD and SOFID to the basket.",
+          "status": "self",
+          "date": "2026-Q2",
+          "sources": [
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xpr-network",
+      "name": "XPR Network (antes Proton)",
+      "type": "blockchain",
+      "group": "products",
+      "summary_es": "Blockchain de capa 1 basada en EOSIO/Antelope con consenso DPoS, creada en el entorno de Metal/Metallicus como Proton (2020) y renombrada XPR Network en 2024; su token es XPR.",
+      "summary_en": "Layer-1 blockchain based on EOSIO/Antelope with DPoS consensus, created within Metal/Metallicus as Proton (2020) and renamed XPR Network in 2024; its token is XPR.",
+      "website": "https://xprnetwork.org/",
+      "facts": [
+        {
+          "es": "Según Marshall Hayner (AMA de diciembre de 2020), Metal compró en 2020 la wallet EOS Lynx, y la Lynx Chain se fusionó con su proyecto XID para formar Proton, construida sobre tecnología EOSIO.",
+          "en": "According to Marshall Hayner (December 2020 AMA), Metal acquired the EOS wallet Lynx in 2020, and Lynx Chain was merged with his XID project to form Proton, built on EOSIO technology.",
+          "status": "self",
+          "date": "2020",
+          "sources": [
+            {
+              "title": "WazirX Blog – AMA with Marshall Hayner (Metal), resumen (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        },
+        {
+          "es": "La ficha de listado de KuCoin (ago-2021) describe Proton como una red lanzada en 2020, pero da como «fecha de emisión» de XPR el 6 de abril de 2021.",
+          "en": "KuCoin's listing note (Aug 2021) describes Proton as a network launched in 2020, but gives 6 April 2021 as XPR's \"issue date\".",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
+              "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
+            },
+            {
+              "title": "WazirX Blog – AMA with Marshall Hayner (Metal), resumen (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        },
+        {
+          "es": "Proton pasó a llamarse XPR Network manteniendo el ticker XPR; KuCoin anunció el 15 de marzo de 2024 que daba soporte al cambio de marca, y CoinGecko la lista como «XPR Network (formerly Proton)».",
+          "en": "Proton was renamed XPR Network, keeping the XPR ticker; KuCoin announced on 15 March 2024 that it supported the rebrand, and CoinGecko lists it as \"XPR Network (formerly Proton)\".",
+          "status": "confirmed",
+          "date": "2024-03-15",
+          "sources": [
+            {
+              "title": "KuCoin – Support for Proton (XPR) rebranding to XPR Network (15-mar-2024)",
+              "url": "https://kucoin.com/announcement/en-kucoin-will-support-the-proton-xpr-rebranding-to-xpr-network-xpr-20240315"
+            },
+            {
+              "title": "CoinGecko – XPR Network (XPR)",
+              "url": "https://www.coingecko.com/en/coins/xpr-network"
+            }
+          ]
+        },
+        {
+          "es": "Según la orden de consentimiento de Ohio, acuñar tokens Proton requiere el consentimiento de al menos 15 de 21 productores de bloque elegidos por los titulares, y Metallicus declaró no controlar esa acuñación.",
+          "en": "According to the Ohio consent order, minting Proton tokens requires the consent of at least 15 of 21 token-holder-elected block producers, and Metallicus stated it does not control that minting.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Ohio Division of Financial Institutions – Consent order MT2022-004 (Metallicus, Inc.)",
+              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según XPR Network, usa DPoS con 21 productores de bloque activos más suplentes, que cobran en XPR; los usuarios reciben recursos (CPU, NET, RAM) gratis, por lo que no pagan gas.",
+          "en": "According to XPR Network, it uses DPoS with 21 active block producers plus standbys, paid in XPR; users receive free resources (CPU, NET, RAM), so they pay no gas.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network – How XPR Network Achieves Zero Gas Fees",
+              "url": "https://xprnetwork.org/blog/how-xpr-network-achieves-zero-gas-fees"
+            },
+            {
+              "title": "XPR Network – DappRadar joins XPR Network as a Block Producer",
+              "url": "https://xprnetwork.org/blog/dappradar-joins-xpr-network-as-a-block-producer"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, la red tenía 40 productores de bloque en el 3T de 2025 y DappRadar se ha unido como productor de bloque.",
+          "en": "According to Metallicus, the network had 40 block producers in Q3 2025, and DappRadar has joined as a block producer.",
+          "status": "self",
+          "date": "2025-Q3",
+          "sources": [
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "XPR Network – DappRadar joins XPR Network as a Block Producer",
+              "url": "https://xprnetwork.org/blog/dappradar-joins-xpr-network-as-a-block-producer"
+            }
+          ]
+        },
+        {
+          "es": "La web de XPR Network lleva la firma «© Metallicus, Inc.», y según Metallicus la red es obra suya; varias herramientas oficiales del GitHub XPRNetwork conservan el nombre Proton (proton-web-sdk, proton-cli).",
+          "en": "The XPR Network website carries the notice \"© Metallicus, Inc.\", and according to Metallicus the network is its work; several official tools in the XPRNetwork GitHub keep the Proton name (proton-web-sdk, proton-cli).",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network – Roadmap Update (2025 and Beyond)",
+              "url": "https://xprnetwork.org/blog/xpr-network-roadmap-update-2025"
+            },
+            {
+              "title": "GitHub – organización XPRNetwork",
+              "url": "https://github.com/XPRNetwork"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, XPR Network es «compatible con ISO 20022» mediante una demo beta; no se cita certificación.",
+          "en": "According to Metallicus, XPR Network is \"ISO 20022 compatible\" through a beta demo; no certification is cited.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network – ISO 20022",
+              "url": "https://xprnetwork.org/blog/iso-20022"
+            },
+            {
+              "title": "XPR Network – Roadmap Update (2025 and Beyond)",
+              "url": "https://xprnetwork.org/blog/xpr-network-roadmap-update-2025"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, una mejora de la A-Chain integrará XPR Network en el «Metal Blockchain Superstack»; en el 1T de 2026 seguía en desarrollo (PulseVM).",
+          "en": "According to Metallicus, an A-Chain upgrade will bring XPR Network into the \"Metal Blockchain Superstack\"; in Q1 2026 it was still in development (PulseVM).",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network – Roadmap Update (2025 and Beyond)",
+              "url": "https://xprnetwork.org/blog/xpr-network-roadmap-update-2025"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, XPR Network ocupaba el puesto 44 por TVL DeFi en DefiLlama en el 1T de 2026 y entró en el top 40 en el 2T; ese año se lanzó XPR Agents, un registro de agentes de IA en cadena.",
+          "en": "According to Metallicus, XPR Network ranked #44 by DeFi TVL on DefiLlama in Q1 2026 and entered the top 40 in Q2; XPR Agents, an on-chain AI agent registry, launched that year.",
+          "status": "self",
+          "date": "2026",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+            },
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mtl",
+      "name": "Metal DAO (MTL)",
+      "type": "token",
+      "group": "products",
+      "summary_es": "Token original de Metal Pay, creado en 2017 como ERC-20 en Ethereum y migrado 1:1 a Metal L2 en junio de 2024; hoy se presenta como token de gobierno de Metal DAO y de Metal Dollar.",
+      "summary_en": "Metal Pay's original token, created in 2017 as an ERC-20 on Ethereum and migrated 1:1 to Metal L2 in June 2024; today it is presented as the governance token of Metal DAO and Metal Dollar.",
+      "website": "https://metall2.com/",
+      "facts": [
+        {
+          "es": "MTL se creó en 2017 como token ERC-20 con una emisión total de 66.588.888 unidades; Decrypt informa de una venta de tokens en junio de 2017 por unos 3 millones de dólares y KuCoin da como fecha de emisión el 7 de septiembre de 2017.",
+          "en": "MTL was created in 2017 as an ERC-20 token with a total issuance of 66,588,888 units; Decrypt reports a June 2017 token sale raising about $3 million, and KuCoin gives 7 September 2017 as the issue date.",
+          "status": "confirmed",
+          "date": "2017",
+          "sources": [
+            {
+              "title": "Decrypt – Metal Payments recycling old announcements (12-sep-2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            },
+            {
+              "title": "KuCoin – Metal (MTL) gets listed on KuCoin (11-ago-2021)",
+              "url": "https://www.kucoin.com/news/en-metal-mtl-gets-listed-on-kucoin"
+            },
+            {
+              "title": "Coinone Research – MTL digital asset primer (PDF)",
+              "url": "https://research.coinone.co.kr/primer/MTL_digital_asset_info_F0FE7B9E5B63292A.pdf"
+            }
+          ]
+        },
+        {
+          "es": "Un fondo de recompensas «Proof of Processed Payments» (PoPP) de 26.341.112 MTL (39,56 % de la emisión) premiaba a los usuarios de Metal Pay; en 2019 Hayner reconoció haber movido fondos de ese fondo y de la Metal Foundation para financiar al equipo.",
+          "en": "A \"Proof of Processed Payments\" (PoPP) reward pool of 26,341,112 MTL (39.56% of issuance) rewarded Metal Pay users; in 2019 Hayner acknowledged moving funds from that pool and the Metal Foundation to fund the team.",
+          "status": "confirmed",
+          "date": "2019",
+          "sources": [
+            {
+              "title": "Decrypt – Metal Payments recycling old announcements (12-sep-2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            },
+            {
+              "title": "Coinone Research – MTL digital asset primer (PDF)",
+              "url": "https://research.coinone.co.kr/primer/MTL_digital_asset_info_F0FE7B9E5B63292A.pdf"
+            }
+          ]
+        },
+        {
+          "es": "MTL puede trasladarse a Proton/XPR Network como XMT en proporción 1:1.",
+          "en": "MTL can be moved to Proton/XPR Network as XMT at a 1:1 ratio.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Coinone Research – MTL digital asset primer (PDF)",
+              "url": "https://research.coinone.co.kr/primer/MTL_digital_asset_info_F0FE7B9E5B63292A.pdf"
+            },
+            {
+              "title": "WazirX Blog – AMA with Marshall Hayner (Metal), resumen (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, la propuesta MIP-00 para migrar MTL a Metal L2 se aprobó el 6 de abril de 2024 en el portal de gobierno de XPR Network.",
+          "en": "According to Metallicus, proposal MIP-00 to migrate MTL to Metal L2 passed on 6 April 2024 on the XPR Network governance portal.",
+          "status": "self",
+          "date": "2024-04-06",
+          "sources": [
+            {
+              "title": "Metal L2 – Metal DAO (MTL) Migration to the Metal L2 (22-abr-2024)",
+              "url": "https://metall2.com/news-insights/mtl-migration"
+            }
+          ]
+        },
+        {
+          "es": "La migración tomó una instantánea de MTL v1 en Ethereum el 24 de junio de 2024 (bloque 20165873) y repartió MTL v2 en Metal L2 el 26 de junio de 2024, a razón de 1:1. El contrato v1 es 0xF433089366899D83a9f26A773D59ec7eCF30355e y el v2, 0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9. Binance suspendió los depósitos y retiradas del MTL antiguo desde el 24-jun-2024 a las 02:00 UTC para el canje.",
+          "en": "The migration snapshotted MTL v1 on Ethereum on 24 June 2024 (block 20165873) and airdropped MTL v2 on Metal L2 on 26 June 2024 at 1:1. The v1 contract is 0xF433089366899D83a9f26A773D59ec7eCF30355e and v2 is 0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9. Binance suspended old-MTL deposits and withdrawals from 24 Jun 2024 at 02:00 UTC for the swap.",
+          "status": "confirmed",
+          "date": "2024-06-26",
+          "sources": [
+            {
+              "title": "Metal L2 – Metal DAO Migration Guide (29-may-2024)",
+              "url": "https://metall2.com/news-insights/metal-l2-migration-guide"
+            },
+            {
+              "title": "Metal L2 – Metal L2 Airdrop Complete",
+              "url": "https://metall2.com/news-insights/metal-l2-airdrop-complete"
+            },
+            {
+              "title": "Binance – Binance will support the Metal DAO (MTL) mainnet swap (21-jun-2024)",
+              "url": "https://www.binance.com/en/support/announcement/binance-will-support-the-metal-dao-mtl-mainnet-swap-80da471195ef4cf393605e89342058d6"
+            },
+            {
+              "title": "CoinGecko – Metal DAO (MTL)",
+              "url": "https://www.coingecko.com/en/coins/metal-dao"
+            }
+          ]
+        },
+        {
+          "es": "En octubre de 2026 CoinGecko y Coinbase muestran un suministro total y en circulación de unos 93,4 millones de MTL, sin suministro máximo; las fuentes consultadas no explican el aumento respecto a los 66,6 millones iniciales.",
+          "en": "In October 2026 CoinGecko and Coinbase show a total and circulating supply of about 93.4 million MTL, with no maximum supply; the sources consulted do not explain the increase from the initial 66.6 million.",
+          "status": "confirmed",
+          "date": "2026-10",
+          "sources": [
+            {
+              "title": "CoinGecko – Metal DAO (MTL)",
+              "url": "https://www.coingecko.com/en/coins/metal-dao"
+            },
+            {
+              "title": "Coinbase – Metal DAO (MTL) price page",
+              "url": "https://www.coinbase.com/price/metal-dao"
+            }
+          ]
+        },
+        {
+          "es": "KuCoin listó MTL con los pares MTL/USDT y MTL/BTC y abrió el trading el 12 de agosto de 2021.",
+          "en": "KuCoin listed MTL with MTL/USDT and MTL/BTC pairs and opened trading on 12 August 2021.",
+          "status": "confirmed",
+          "date": "2021-08-12",
+          "sources": [
+            {
+              "title": "KuCoin – Metal (MTL) gets listed on KuCoin (11-ago-2021)",
+              "url": "https://www.kucoin.com/news/en-metal-mtl-gets-listed-on-kucoin"
+            }
+          ]
+        },
+        {
+          "es": "Mercados en oct-2026 según CoinGecko: Binance (MTL/USDT), Bithumb (MTL/KRW), Bitvavo (MTL/EUR), Gate, KuCoin, WhiteBIT, BingX, Pionex, Bitrue y Metal X, entre otros. Coinbase indica que MTL no se puede negociar en Coinbase.",
+          "en": "Markets in Oct 2026 per CoinGecko: Binance (MTL/USDT), Bithumb (MTL/KRW), Bitvavo (MTL/EUR), Gate, KuCoin, WhiteBIT, BingX, Pionex, Bitrue and Metal X, among others. Coinbase states that MTL is not tradable on Coinbase.",
+          "status": "confirmed",
+          "date": "2026-10",
+          "sources": [
+            {
+              "title": "CoinGecko – Metal DAO (MTL)",
+              "url": "https://www.coingecko.com/en/coins/metal-dao"
+            },
+            {
+              "title": "Coinbase – Metal DAO (MTL) price page",
+              "url": "https://www.coinbase.com/price/metal-dao"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, Upbit, Binance, Gate.io, Bitrue y Metal X apoyaron la migración de 2024.",
+          "en": "According to Metallicus, Upbit, Binance, Gate.io, Bitrue and Metal X supported the 2024 migration.",
+          "status": "self",
+          "date": "2024",
+          "sources": [
+            {
+              "title": "Metal L2 – Metal DAO Migration Guide (29-may-2024)",
+              "url": "https://metall2.com/news-insights/metal-l2-migration-guide"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, con MIP-002 (aprobada en 2026) MTL pasaría a ser el token de gas de la nueva Metal L2 sobre una subred de Metal Blockchain y seguiría siendo el token de gobierno de Metal DAO; se vota con WebAuth siendo titular de MTL o de XMT.",
+          "en": "According to Metallicus, under MIP-002 (approved in 2026) MTL would become the gas token of the new Metal L2 on a Metal Blockchain subnet and remain the Metal DAO governance token; votes are cast with WebAuth by MTL or XMT holders.",
+          "status": "self",
+          "date": "2026",
+          "sources": [
+            {
+              "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+              "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+            },
+            {
+              "title": "Metal DAO – MIP-002: Homecoming (metalhomecoming.com, may-2026)",
+              "url": "https://metalhomecoming.com/"
+            }
+          ]
+        },
+        {
+          "es": "En marzo de 2021 MTL subió de unos 2 a más de 7 dólares tras la noticia de que Metal Pay había obtenido una licencia de transmisor de dinero en Washington.",
+          "en": "In March 2021 MTL rose from about $2 to over $7 after news that Metal Pay had obtained a money transmitter licence in Washington State.",
+          "status": "confirmed",
+          "date": "2021-03-29",
+          "sources": [
+            {
+              "title": "Decrypt – Metal coin surges 250% on licensing news (30-mar-2021)",
+              "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xpr-token",
+      "name": "XPR (token)",
+      "type": "token",
+      "group": "products",
+      "summary_es": "Token nativo de XPR Network (antes Proton), usado para staking, votar productores de bloque y pagar recursos de la red.",
+      "summary_en": "Native token of XPR Network (formerly Proton), used for staking, voting for block producers and paying for network resources.",
+      "website": "https://xprnetwork.org/",
+      "facts": [
+        {
+          "es": "KuCoin listó XPR con los pares XPR/USDT y XPR/BTC; el trading empezó el 24 de agosto de 2021. Su ficha daba entonces un suministro total de 10.000 millones de XPR.",
+          "en": "KuCoin listed XPR with XPR/USDT and XPR/BTC pairs; trading began on 24 August 2021. Its note then gave a total supply of 10 billion XPR.",
+          "status": "confirmed",
+          "date": "2021-08-24",
+          "sources": [
+            {
+              "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
+              "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
+            }
+          ]
+        },
+        {
+          "es": "En oct-2026 CoinGecko muestra unos 28.650 millones de XPR en circulación, 32.390 millones de suministro total y ningún máximo, con contratos envueltos en Ethereum y BNB Smart Chain.",
+          "en": "In Oct 2026 CoinGecko shows about 28.65 billion XPR circulating, 32.39 billion total supply and no maximum, with wrapped contracts on Ethereum and BNB Smart Chain.",
+          "status": "confirmed",
+          "date": "2026-10",
+          "sources": [
+            {
+              "title": "CoinGecko – XPR Network (XPR)",
+              "url": "https://www.coingecko.com/en/coins/xpr-network"
+            }
+          ]
+        },
+        {
+          "es": "Mercados en oct-2026 según CoinGecko: KuCoin, Gate, MEXC, KCEX, Ourbit, BloFin, HiBT, DigiFinex, Uniswap V3 (Ethereum) y Metal X, entre otros.",
+          "en": "Markets in Oct 2026 per CoinGecko: KuCoin, Gate, MEXC, KCEX, Ourbit, BloFin, HiBT, DigiFinex, Uniswap V3 (Ethereum) and Metal X, among others.",
+          "status": "confirmed",
+          "date": "2026-10",
+          "sources": [
+            {
+              "title": "CoinGecko – XPR Network (XPR)",
+              "url": "https://www.coingecko.com/en/coins/xpr-network"
+            }
+          ]
+        },
+        {
+          "es": "Según el proyecto, XPR se usa para hacer staking y votar productores de bloque, y una parte del XPR gastado en recursos y acuñación de NFT se quema.",
+          "en": "According to the project, XPR is used to stake and vote for block producers, and part of the XPR spent on resources and NFT minting is burned.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
+              "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
+            },
+            {
+              "title": "XPR Network – How XPR Network Achieves Zero Gas Fees",
+              "url": "https://xprnetwork.org/blog/how-xpr-network-achieves-zero-gas-fees"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metal-token",
+      "name": "METAL (token)",
+      "type": "token",
+      "group": "products",
+      "summary_es": "Token nativo de Metal Blockchain, con suministro máximo de 666.666.666, usado para comisiones y para el staking de validadores.",
+      "summary_en": "Native token of Metal Blockchain, with a maximum supply of 666,666,666, used for fees and validator staking.",
+      "website": "https://metalblockchain.org/",
+      "facts": [
+        {
+          "es": "El suministro máximo es de 666.666.666 METAL según Metallicus, y CoinGecko muestra 666,667 millones de suministro total y máximo.",
+          "en": "Maximum supply is 666,666,666 METAL according to Metallicus, and CoinGecko shows 666.667 million total and maximum supply.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+              "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+            },
+            {
+              "title": "CoinGecko – Metal Blockchain (METAL)",
+              "url": "https://www.coingecko.com/en/coins/metal-blockchain"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, 333.333.333 METAL se reservaron para recompensas de staking, y METAL paga las comisiones de las cadenas de Metal, que se queman.",
+          "en": "According to Metallicus, 333,333,333 METAL were reserved for staking rewards, and METAL pays fees on Metal chains, which are burned.",
+          "status": "self",
+          "date": "2022-10-18",
+          "sources": [
+            {
+              "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+              "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+            },
+            {
+              "title": "Metal Blockchain Docs – Intro",
+              "url": "https://docs.metalblockchain.org/intro"
+            }
+          ]
+        },
+        {
+          "es": "En oct-2026 CoinGecko muestra unos 507,6 millones de METAL en circulación y mercados en Metal X (METAL/XMD), MEXC (METAL/USDT) y Uniswap V4 en Ethereum.",
+          "en": "In Oct 2026 CoinGecko shows about 507.6 million METAL circulating and markets on Metal X (METAL/XMD), MEXC (METAL/USDT) and Uniswap V4 on Ethereum.",
+          "status": "confirmed",
+          "date": "2026-10",
+          "sources": [
+            {
+              "title": "CoinGecko – Metal Blockchain (METAL)",
+              "url": "https://www.coingecko.com/en/coins/metal-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loan-token",
+      "name": "LOAN (token)",
+      "type": "token",
+      "group": "products",
+      "summary_es": "Token de recompensas y gobierno del protocolo de préstamos de Metal X (LOAN Protocol) en XPR Network.",
+      "summary_en": "Rewards and governance token of Metal X's lending protocol (LOAN Protocol) on XPR Network.",
+      "facts": [
+        {
+          "es": "Según el centro de ayuda de XPR Network, la distribución inicial fue de 72.647.650.990 LOAN, repartidos según las tenencias de XMT (MTL) y XPR (por ejemplo, 333 LOAN por cada XMT), con emisiones anuales iniciales de 2.000 millones.",
+          "en": "According to the XPR Network help centre, the initial distribution was 72,647,650,990 LOAN, allocated by XMT (MTL) and XPR holdings (e.g. 333 LOAN per XMT), with initial annual emissions of 2 billion.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "XPR Network Help Center – LOAN Tokenomics & Governance",
+              "url": "https://help.xprnetwork.org/hc/en-us/articles/4418864148119-LOAN-Tokenomics-Governance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "checkout-com",
+      "name": "Checkout.com",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "Proveedor global de pagos que en diciembre de 2022 se alió con Metallicus para la compra de USDC con tarjeta en Metal Pay.",
+      "summary_en": "Global payments provider that partnered with Metallicus in December 2022 for card purchases of USDC in Metal Pay.",
+      "website": "https://www.checkout.com/",
+      "facts": [
+        {
+          "es": "Mark Fernandes, Head of Crypto Product de Checkout.com, habla en el comunicado de la alianza con Metallicus.",
+          "en": "Mark Fernandes, Head of Crypto Product at Checkout.com, is quoted in the release on the Metallicus partnership.",
+          "status": "confirmed",
+          "date": "2022-12-15",
+          "sources": [
+            {
+              "title": "Business Wire – Metallicus partners with Checkout.com (15-dic-2022)",
+              "url": "https://www.businesswire.com/news/home/20221215005985/en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "type": "blockchain",
+      "group": "products",
+      "summary_es": "Red blockchain descentralizada y plataforma de contratos inteligentes cuyo token nativo es el ether (ETH); lanzada en julio de 2015.",
+      "summary_en": "Decentralized blockchain network and smart-contract platform whose native token is ether (ETH); launched in July 2015.",
+      "website": "https://ethereum.org/",
+      "facts": [
+        {
+          "es": "Ethereum se lanzó en julio de 2015; el ETH paga las comisiones y recompensa a los validadores.",
+          "en": "Ethereum launched in July 2015; ETH pays fees and rewards validators.",
+          "status": "confirmed",
+          "date": "2015-07",
+          "sources": [
+            {
+              "title": "ethereum.org – What is Ethereum?",
+              "url": "https://ethereum.org/en/what-is-ethereum/"
+            }
+          ]
+        },
+        {
+          "es": "MTL nació como token ERC-20 en Ethereum (2017) y Metal L2 publica sus datos en Ethereum como capa 2.",
+          "en": "MTL was born as an ERC-20 token on Ethereum (2017), and Metal L2 posts its data to Ethereum as a layer 2.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "KuCoin – Metal (MTL) gets listed on KuCoin (11-ago-2021)",
+              "url": "https://www.kucoin.com/news/en-metal-mtl-gets-listed-on-kucoin"
+            },
+            {
+              "title": "Optimism Superchain Registry – configs/mainnet/metal.toml (GitHub)",
+              "url": "https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/metal.toml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avalanche",
+      "name": "Avalanche",
+      "type": "blockchain",
+      "group": "products",
+      "summary_es": "Plataforma blockchain de Ava Labs cuya red primaria tiene X-Chain, P-Chain y C-Chain; Metal Blockchain parte de un fork de su nodo AvalancheGo.",
+      "summary_en": "Ava Labs blockchain platform whose primary network has the X-Chain, P-Chain and C-Chain; Metal Blockchain starts from a fork of its AvalancheGo node.",
+      "website": "https://www.avax.network/",
+      "facts": [
+        {
+          "es": "AvalancheGo, la implementación en Go del nodo de Avalanche, está publicada por Ava Labs en GitHub con licencia BSD-3, que permite forks como el de Metal.",
+          "en": "AvalancheGo, the Go implementation of the Avalanche node, is published by Ava Labs on GitHub under the BSD-3 licence, which permits forks such as Metal's.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "GitHub – ava-labs/avalanchego",
+              "url": "https://github.com/ava-labs/avalanchego"
+            },
+            {
+              "title": "GitHub – MetalBlockchain/metalgo",
+              "url": "https://github.com/MetalBlockchain/metalgo"
+            }
+          ]
+        },
+        {
+          "es": "La red primaria de Avalanche tiene X-Chain (AVM), P-Chain (validadores) y C-Chain (EVM), y exige 2.000 AVAX para validar; Metal Blockchain replica ese esquema con 2.000 METAL y añade una A-Chain.",
+          "en": "Avalanche's primary network has the X-Chain (AVM), P-Chain (validators) and C-Chain (EVM), and requires 2,000 AVAX to validate; Metal Blockchain mirrors that design with 2,000 METAL and adds an A-Chain.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Avalanche Builder Hub – Primary Network",
+              "url": "https://build.avax.network/docs/quick-start/primary-network"
+            },
+            {
+              "title": "Metal Blockchain Docs – Intro",
+              "url": "https://docs.metalblockchain.org/intro"
+            }
+          ]
+        },
+        {
+          "es": "No se encontró ningún anuncio de Ava Labs sobre una alianza con Metallicus: la relación documentada es técnica (fork de código).",
+          "en": "No Ava Labs announcement of a partnership with Metallicus was found: the documented relationship is technical (a code fork).",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "GitHub – MetalBlockchain/metalgo",
+              "url": "https://github.com/MetalBlockchain/metalgo"
+            },
+            {
+              "title": "Cointelegraph – Federal Reserve: FedNow not related to CBDCs (20-jul-2023)",
+              "url": "https://cointelegraph.com/news/federal-reserve-service-not-related-to-cbdcs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optimism",
+      "name": "Optimism (OP Stack / Superchain)",
+      "type": "blockchain",
+      "group": "products",
+      "summary_es": "Ecosistema de capa 2 de Ethereum cuyo OP Stack es una pila de desarrollo abierta; el registro de la Superchain recoge las cadenas OP Stack, entre ellas Metal L2.",
+      "summary_en": "Ethereum layer-2 ecosystem whose OP Stack is an open development stack; the Superchain Registry records OP Stack chains, including Metal L2.",
+      "website": "https://www.optimism.io/",
+      "facts": [
+        {
+          "es": "La documentación de Optimism define el OP Stack como una pila de desarrollo estandarizada, compartida y de código abierto, y el Superchain Registry como la fuente de referencia para clasificar las cadenas OP Stack.",
+          "en": "Optimism's documentation defines the OP Stack as a standardized, shared, open-source development stack, and the Superchain Registry as the source of truth for classifying OP Stack chains.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Optimism Docs – Superchain explainer / OP Stack",
+              "url": "https://docs.optimism.io/superchain/superchain-explainer"
+            },
+            {
+              "title": "Optimism Docs – Superchain registry",
+              "url": "https://docs.optimism.io/superchain/superchain-registry"
+            }
+          ]
+        },
+        {
+          "es": "Metal L2 figura en el Superchain Registry (configs/mainnet/metal.toml) con chain ID 1750.",
+          "en": "Metal L2 appears in the Superchain Registry (configs/mainnet/metal.toml) with chain ID 1750.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Optimism Superchain Registry – configs/mainnet/metal.toml (GitHub)",
+              "url": "https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/metal.toml"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, Metal L2 votó en 9 de las 10 últimas propuestas de Optimism con 500.500 de poder de voto delegado (3T de 2025).",
+          "en": "According to Metallicus, Metal L2 voted on 9 of the last 10 Optimism proposals with 500.5K delegated voting power (Q3 2025).",
+          "status": "self",
+          "date": "2025-Q3",
+          "sources": [
+            {
+              "title": "Metallicus – Informe Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "metallicus",
+      "to": "metal-pay",
+      "label_es": "desarrolla y opera",
+      "label_en": "develops and operates",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Apple App Store – Metal Pay: Buy Bitcoin and ETH",
+          "url": "https://apps.apple.com/app/id1345101178"
+        },
+        {
+          "title": "Federal Reserve Financial Services – FedNow Innovator Exchange: Metallicus (Metal Pay)",
+          "url": "https://www.frbservices.org/?p=18354"
+        },
+        {
+          "title": "Metal Pay – web oficial",
+          "url": "https://www.metalpay.com/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "webauth",
+      "label_es": "desarrolla",
+      "label_en": "develops",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+          "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+        },
+        {
+          "title": "Metallicus – WebAuth Wallet",
+          "url": "https://metallicus.com/individuals/webauth"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-blockchain",
+      "label_es": "desarrollador principal de",
+      "label_en": "core developer of",
+      "status": "confirmed",
+      "date": "2022-10-18",
+      "sources": [
+        {
+          "title": "Cointelegraph – Federal Reserve: FedNow not related to CBDCs (20-jul-2023)",
+          "url": "https://cointelegraph.com/news/federal-reserve-service-not-related-to-cbdcs"
+        },
+        {
+          "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+          "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-l2",
+      "label_es": "desarrolló y lanzó",
+      "label_en": "developed and launched",
+      "status": "confirmed",
+      "date": "2024-05-09",
+      "sources": [
+        {
+          "title": "Metal L2 – Press release: Metallicus unveils Metal L2 joining the Optimism Superchain (9-may-2024)",
+          "url": "https://metall2.com/news-insights/press-release-metallicus-unveils-metal-l2-joining-the-optimism-superchain"
+        },
+        {
+          "title": "Crowdfund Insider – Metallicus introduces Metal Pay in Australia (19-ago-2024)",
+          "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-x",
+      "label_es": "desarrolla (según Metallicus)",
+      "label_en": "develops (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal X – Learn: WebAuth",
+          "url": "https://metalx.com/learn/webauth"
+        },
+        {
+          "title": "Business Wire – Proton DEX launch (16-nov-2022)",
+          "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-x-lending",
+      "label_es": "desarrolla (según Metallicus)",
+      "label_en": "develops (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Loan Protocol / Lending on Metal X",
+          "url": "https://www.metallicus.com/loan-protocol"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-dollar",
+      "label_es": "desarrolla (según Metallicus)",
+      "label_en": "develops (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Metal Dollar",
+          "url": "https://www.metallicus.com/metal-dollar"
+        },
+        {
+          "title": "Business Wire – Proton DEX launch (16-nov-2022)",
+          "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "xpr-network",
+      "label_es": "creó y desarrolla (según Metallicus); no controla la acuñación",
+      "label_en": "created and develops (according to Metallicus); does not control minting",
+      "status": "self",
+      "sources": [
+        {
+          "title": "WazirX Blog – AMA with Marshall Hayner (Metal), resumen (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        },
+        {
+          "title": "XPR Network – Roadmap Update (2025 and Beyond)",
+          "url": "https://xprnetwork.org/blog/xpr-network-roadmap-update-2025"
+        },
+        {
+          "title": "Ohio Division of Financial Institutions – Consent order MT2022-004 (Metallicus, Inc.)",
+          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "mtl",
+      "label_es": "emitió (como Metal)",
+      "label_en": "issued (as Metal)",
+      "status": "confirmed",
+      "date": "2017",
+      "sources": [
+        {
+          "title": "Decrypt – Metal Payments recycling old announcements (12-sep-2019)",
+          "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+        },
+        {
+          "title": "Coinone Research – MTL digital asset primer (PDF)",
+          "url": "https://research.coinone.co.kr/primer/MTL_digital_asset_info_F0FE7B9E5B63292A.pdf"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "metal-token",
+      "label_es": "emitió con la mainnet de Metal Blockchain (según Metallicus)",
+      "label_en": "issued with Metal Blockchain mainnet (according to Metallicus)",
+      "status": "self",
+      "date": "2022-10-18",
+      "sources": [
+        {
+          "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+          "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "checkout-com",
+      "label_es": "alianza para Metal Pay",
+      "label_en": "partnership for Metal Pay",
+      "status": "confirmed",
+      "date": "2022-12-15",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus partners with Checkout.com (15-dic-2022)",
+          "url": "https://www.businesswire.com/news/home/20221215005985/en"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        },
+        {
+          "title": "Crowdfund Insider – Metallicus introduces Metal Pay in Australia (19-ago-2024)",
+          "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        }
+      ]
+    },
+    {
+      "from": "metal-x",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        }
+      ]
+    },
+    {
+      "from": "metal-x-lending",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        }
+      ]
+    },
+    {
+      "from": "metal-dollar",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        },
+        {
+          "title": "Crowdfund Insider – Metallicus introduces Metal Pay in Australia (19-ago-2024)",
+          "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+        }
+      ]
+    },
+    {
+      "from": "xpr-network",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        }
+      ]
+    },
+    {
+      "from": "metal-l2",
+      "to": "tdbn",
+      "label_es": "forma parte de (según Metallicus)",
+      "label_en": "part of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – A Year in Review (31-dic-2024)",
+          "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+        },
+        {
+          "title": "Crowdfund Insider – Metallicus introduces Metal Pay in Australia (19-ago-2024)",
+          "url": "https://www.crowdfundinsider.com/2024/08/229035-metallicus-the-developer-of-the-digital-banking-network-introduces-metal-pay-in-australia/"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "avalanche",
+      "label_es": "fork del código de (AvalancheGo)",
+      "label_en": "fork of the code of (AvalancheGo)",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "GitHub – MetalBlockchain/metalgo",
+          "url": "https://github.com/MetalBlockchain/metalgo"
+        },
+        {
+          "title": "Cointelegraph – Federal Reserve: FedNow not related to CBDCs (20-jul-2023)",
+          "url": "https://cointelegraph.com/news/federal-reserve-service-not-related-to-cbdcs"
+        },
+        {
+          "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
+          "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
+        }
+      ]
+    },
+    {
+      "from": "metal-l2",
+      "to": "optimism",
+      "label_es": "construida con OP Stack; registrada en la Superchain",
+      "label_en": "built on the OP Stack; registered in the Superchain",
+      "status": "confirmed",
+      "date": "2024-05-09",
+      "sources": [
+        {
+          "title": "Optimism Superchain Registry – configs/mainnet/metal.toml (GitHub)",
+          "url": "https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/metal.toml"
+        },
+        {
+          "title": "Metal L2 – Press release: Metallicus unveils Metal L2 joining the Optimism Superchain (9-may-2024)",
+          "url": "https://metall2.com/news-insights/press-release-metallicus-unveils-metal-l2-joining-the-optimism-superchain"
+        }
+      ]
+    },
+    {
+      "from": "metal-l2",
+      "to": "ethereum",
+      "label_es": "capa 2 que publica datos en",
+      "label_en": "layer 2 posting data to",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Optimism Superchain Registry – configs/mainnet/metal.toml (GitHub)",
+          "url": "https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/metal.toml"
+        },
+        {
+          "title": "Metal L2 – Metal DAO (MTL) Migration to the Metal L2 (22-abr-2024)",
+          "url": "https://metall2.com/news-insights/mtl-migration"
+        }
+      ]
+    },
+    {
+      "from": "metal-l2",
+      "to": "metal-blockchain",
+      "label_es": "migración aprobada a una subred de (MIP-002, según Metallicus)",
+      "label_en": "approved migration to a subnet of (MIP-002, according to Metallicus)",
+      "status": "self",
+      "date": "2026-04-16",
+      "sources": [
+        {
+          "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+          "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+        },
+        {
+          "title": "Metal DAO – MIP-002: Homecoming (metalhomecoming.com, may-2026)",
+          "url": "https://metalhomecoming.com/"
+        }
+      ]
+    },
+    {
+      "from": "xpr-network",
+      "to": "metal-blockchain",
+      "label_es": "integración prevista como A-Chain (según Metallicus)",
+      "label_en": "planned integration as A-Chain (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
+          "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
+        },
+        {
+          "title": "Metal Blockchain Docs – Intro",
+          "url": "https://docs.metalblockchain.org/intro"
+        },
+        {
+          "title": "XPR Network – Roadmap Update (2025 and Beyond)",
+          "url": "https://xprnetwork.org/blog/xpr-network-roadmap-update-2025"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "xpr-network",
+      "label_es": "puente desde el lanzamiento de la mainnet (según Metallicus)",
+      "label_en": "bridge since mainnet launch (according to Metallicus)",
+      "status": "self",
+      "date": "2022-10-18",
+      "sources": [
+        {
+          "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+          "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+        }
+      ]
+    },
+    {
+      "from": "metal-x",
+      "to": "xpr-network",
+      "label_es": "funciona sobre",
+      "label_en": "runs on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "DefiLlama – MetalX",
+          "url": "https://defillama.com/protocol/metalx"
+        },
+        {
+          "title": "XPR Network Help Center – What is Metal X?",
+          "url": "https://help.xprnetwork.org/hc/en-us/articles/10241371342999-What-is-Metal-X"
+        }
+      ]
+    },
+    {
+      "from": "metal-x-lending",
+      "to": "xpr-network",
+      "label_es": "funciona sobre",
+      "label_en": "runs on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "DefiLlama – MetalX",
+          "url": "https://defillama.com/protocol/metalx"
+        },
+        {
+          "title": "XPR Network Help Center – What is Metal X Lending",
+          "url": "https://help.xprnetwork.org/hc/en-us/articles/4418816900119-What-is-Loan-"
+        }
+      ]
+    },
+    {
+      "from": "metal-x-lending",
+      "to": "metal-x",
+      "label_es": "subproducto de",
+      "label_en": "sub-product of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "DefiLlama – MetalX",
+          "url": "https://defillama.com/protocol/metalx"
+        },
+        {
+          "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+          "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+        }
+      ]
+    },
+    {
+      "from": "loan-token",
+      "to": "metal-x-lending",
+      "label_es": "token de recompensas y gobierno de",
+      "label_en": "rewards and governance token of",
+      "status": "self",
+      "sources": [
+        {
+          "title": "XPR Network Help Center – LOAN Tokenomics & Governance",
+          "url": "https://help.xprnetwork.org/hc/en-us/articles/4418864148119-LOAN-Tokenomics-Governance"
+        },
+        {
+          "title": "Metallicus – Loan Protocol / Lending on Metal X",
+          "url": "https://www.metallicus.com/loan-protocol"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "xpr-network",
+      "label_es": "wallet nativa de (según Metallicus)",
+      "label_en": "native wallet of (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal X – Learn: WebAuth",
+          "url": "https://metalx.com/learn/webauth"
+        },
+        {
+          "title": "Bloks.io Docs – XPR Network glossary",
+          "url": "https://docs.bloks.io/resources/glossary"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "metal-x",
+      "label_es": "acceso obligatorio a (según Metallicus)",
+      "label_en": "required access to (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal X – Learn: WebAuth",
+          "url": "https://metalx.com/learn/webauth"
+        },
+        {
+          "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+          "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "metal-blockchain",
+      "label_es": "admite",
+      "label_en": "supports",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+          "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+        },
+        {
+          "title": "Metal X – Learn: WebAuth",
+          "url": "https://metalx.com/learn/webauth"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "metal-l2",
+      "label_es": "admite",
+      "label_en": "supports",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+          "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+        },
+        {
+          "title": "Metallicus – Informe Q3 2025 (PDF)",
+          "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "ethereum",
+      "label_es": "admite",
+      "label_en": "supports",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+          "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+        },
+        {
+          "title": "Metallicus – Informe Q3 2025 (PDF)",
+          "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "optimism",
+      "label_es": "admite la red Optimism",
+      "label_en": "supports the Optimism network",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Apple App Store – WebAuth: Self-Custody Wallet",
+          "url": "https://apps.apple.com/us/app/webauth-self-custody-wallet/id1594500069"
+        },
+        {
+          "title": "Metallicus – Informe Q3 2025 (PDF)",
+          "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "webauth",
+      "label_es": "integrado como Metal Pay Connect en (según Metallicus)",
+      "label_en": "embedded as Metal Pay Connect in (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Informe Q3 2025 (PDF)",
+          "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+        },
+        {
+          "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+          "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+        }
+      ]
+    },
+    {
+      "from": "metal-dollar",
+      "to": "xpr-network",
+      "label_es": "emitido en (Proton)",
+      "label_en": "issued on (Proton)",
+      "status": "confirmed",
+      "date": "2022-11-16",
+      "sources": [
+        {
+          "title": "CoinGecko – Metal Dollar (XMD)",
+          "url": "https://www.coingecko.com/en/coins/metal-dollar"
+        },
+        {
+          "title": "Business Wire – Proton DEX launch (16-nov-2022)",
+          "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
+        }
+      ]
+    },
+    {
+      "from": "metal-dollar",
+      "to": "ethereum",
+      "label_es": "tiene contrato en; expansión aprobada en 2026",
+      "label_en": "has a contract on; expansion approved in 2026",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CoinGecko – Metal Dollar (XMD)",
+          "url": "https://www.coingecko.com/en/coins/metal-dollar"
+        },
+        {
+          "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+          "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+        }
+      ]
+    },
+    {
+      "from": "metal-dollar",
+      "to": "metal-x",
+      "label_es": "se negocia en",
+      "label_en": "trades on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CoinGecko – Metal Dollar (XMD)",
+          "url": "https://www.coingecko.com/en/coins/metal-dollar"
+        }
+      ]
+    },
+    {
+      "from": "metal-dollar",
+      "to": "metal-x-lending",
+      "label_es": "mercado de préstamo desde el 3T de 2025 (según Metallicus)",
+      "label_en": "lending market since Q3 2025 (according to Metallicus)",
+      "status": "self",
+      "date": "2025-Q3",
+      "sources": [
+        {
+          "title": "Metallicus – Informe Q3 2025 (PDF)",
+          "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+        },
+        {
+          "title": "Metallicus – Loan Protocol / Lending on Metal X",
+          "url": "https://www.metallicus.com/loan-protocol"
+        }
+      ]
+    },
+    {
+      "from": "metal-dollar",
+      "to": "metal-l2",
+      "label_es": "despliegue previsto en (según Metallicus)",
+      "label_en": "planned deployment on (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal L2 – Press release: Metallicus unveils Metal L2 joining the Optimism Superchain (9-may-2024)",
+          "url": "https://metall2.com/news-insights/press-release-metallicus-unveils-metal-l2-joining-the-optimism-superchain"
+        },
+        {
+          "title": "Metallicus – Informe Q3 2025 (PDF)",
+          "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+        }
+      ]
+    },
+    {
+      "from": "mtl",
+      "to": "ethereum",
+      "label_es": "token ERC-20 original (v1)",
+      "label_en": "original ERC-20 token (v1)",
+      "status": "confirmed",
+      "date": "2017",
+      "sources": [
+        {
+          "title": "KuCoin – Metal (MTL) gets listed on KuCoin (11-ago-2021)",
+          "url": "https://www.kucoin.com/news/en-metal-mtl-gets-listed-on-kucoin"
+        },
+        {
+          "title": "Metal L2 – Metal DAO Migration Guide (29-may-2024)",
+          "url": "https://metall2.com/news-insights/metal-l2-migration-guide"
+        }
+      ]
+    },
+    {
+      "from": "mtl",
+      "to": "metal-l2",
+      "label_es": "migró 1:1 a (v2)",
+      "label_en": "migrated 1:1 to (v2)",
+      "status": "confirmed",
+      "date": "2024-06-26",
+      "sources": [
+        {
+          "title": "Metal L2 – Metal L2 Airdrop Complete",
+          "url": "https://metall2.com/news-insights/metal-l2-airdrop-complete"
+        },
+        {
+          "title": "Binance – Binance will support the Metal DAO (MTL) mainnet swap (21-jun-2024)",
+          "url": "https://www.binance.com/en/support/announcement/binance-will-support-the-metal-dao-mtl-mainnet-swap-80da471195ef4cf393605e89342058d6"
+        },
+        {
+          "title": "CoinGecko – Metal DAO (MTL)",
+          "url": "https://www.coingecko.com/en/coins/metal-dao"
+        }
+      ]
+    },
+    {
+      "from": "mtl",
+      "to": "xpr-network",
+      "label_es": "se representa como XMT 1:1 en",
+      "label_en": "represented as XMT 1:1 on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Coinone Research – MTL digital asset primer (PDF)",
+          "url": "https://research.coinone.co.kr/primer/MTL_digital_asset_info_F0FE7B9E5B63292A.pdf"
+        },
+        {
+          "title": "WazirX Blog – AMA with Marshall Hayner (Metal), resumen (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        }
+      ]
+    },
+    {
+      "from": "mtl",
+      "to": "metal-dollar",
+      "label_es": "gobierna (según Metallicus)",
+      "label_en": "governs (according to Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "CoinGecko – Metal DAO (MTL)",
+          "url": "https://www.coingecko.com/en/coins/metal-dao"
+        },
+        {
+          "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+          "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+        },
+        {
+          "title": "Metal L2 – Introducing Metal L2 (22-dic-2023)",
+          "url": "https://metall2.com/news-insights/introducing-metal-l2-a-new-dawn-for-ethereum-scaling-and-compliance"
+        }
+      ]
+    },
+    {
+      "from": "mtl",
+      "to": "metal-pay",
+      "label_es": "da descuentos de comisión en (0 % con 10.000 MTL)",
+      "label_en": "gives fee discounts on (0% with 10,000 MTL)",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "KuCoin – Metal (MTL) gets listed on KuCoin (11-ago-2021)",
+          "url": "https://www.kucoin.com/news/en-metal-mtl-gets-listed-on-kucoin"
+        },
+        {
+          "title": "CoinGecko – Metal DAO (MTL)",
+          "url": "https://www.coingecko.com/en/coins/metal-dao"
+        }
+      ]
+    },
+    {
+      "from": "mtl",
+      "to": "metal-x",
+      "label_es": "se negocia en",
+      "label_en": "trades on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CoinGecko – Metal DAO (MTL)",
+          "url": "https://www.coingecko.com/en/coins/metal-dao"
+        }
+      ]
+    },
+    {
+      "from": "xpr-token",
+      "to": "xpr-network",
+      "label_es": "token nativo de",
+      "label_en": "native token of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
+          "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
+        },
+        {
+          "title": "CoinGecko – XPR Network (XPR)",
+          "url": "https://www.coingecko.com/en/coins/xpr-network"
+        }
+      ]
+    },
+    {
+      "from": "xpr-token",
+      "to": "metal-x",
+      "label_es": "se negocia en",
+      "label_en": "trades on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CoinGecko – XPR Network (XPR)",
+          "url": "https://www.coingecko.com/en/coins/xpr-network"
+        }
+      ]
+    },
+    {
+      "from": "xpr-token",
+      "to": "ethereum",
+      "label_es": "versión envuelta en",
+      "label_en": "wrapped version on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CoinGecko – XPR Network (XPR)",
+          "url": "https://www.coingecko.com/en/coins/xpr-network"
+        }
+      ]
+    },
+    {
+      "from": "metal-token",
+      "to": "metal-blockchain",
+      "label_es": "token nativo de",
+      "label_en": "native token of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CoinGecko – Metal Blockchain (METAL)",
+          "url": "https://www.coingecko.com/en/coins/metal-blockchain"
+        },
+        {
+          "title": "Metal Blockchain Docs – Intro",
+          "url": "https://docs.metalblockchain.org/intro"
+        }
+      ]
+    },
+    {
+      "from": "metal-token",
+      "to": "metal-x",
+      "label_es": "se negocia en",
+      "label_en": "trades on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CoinGecko – Metal Blockchain (METAL)",
+          "url": "https://www.coingecko.com/en/coins/metal-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "checkout-com",
+      "label_es": "compra de USDC con tarjeta vía",
+      "label_en": "card purchases of USDC via",
+      "status": "confirmed",
+      "date": "2022-12-15",
+      "sources": [
+        {
+          "title": "Business Wire – Metallicus partners with Checkout.com (15-dic-2022)",
+          "url": "https://www.businesswire.com/news/home/20221215005985/en"
+        }
+      ]
+    },
+    {
+      "from": "lynx",
+      "to": "xpr-network",
+      "label_es": "su Lynx Chain se fusionó en Proton (según Hayner)",
+      "label_en": "its Lynx Chain was merged into Proton (according to Hayner)",
+      "status": "self",
+      "date": "2020",
+      "sources": [
+        {
+          "title": "WazirX Blog – AMA with Marshall Hayner (Metal), resumen (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "xpr-network",
+      "label_es": "ideó Proton a partir de XID y Lynx Chain (según Hayner)",
+      "label_en": "conceived Proton from XID and Lynx Chain (according to Hayner)",
+      "status": "self",
+      "date": "2020",
+      "sources": [
+        {
+          "title": "WazirX Blog – AMA with Marshall Hayner (Metal), resumen (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        }
+      ]
+    },
+    {
+      "from": "ohio-consent-order",
+      "to": "xpr-token",
+      "label_es": "recoge que acuñar Proton exige 15 de 21 productores de bloque",
+      "label_en": "records that minting Proton requires 15 of 21 block producers",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Ohio Division of Financial Institutions – Consent order MT2022-004 (Metallicus, Inc.)",
+          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "fednow",
+      "label_es": "listado en el FedNow Innovator Exchange (sin respaldo de la Fed)",
+      "label_en": "listed in the FedNow Innovator Exchange (no Fed endorsement)",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Federal Reserve Financial Services – FedNow Innovator Exchange: Metallicus (Metal Pay)",
+          "url": "https://www.frbservices.org/?p=18354"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "temenos",
+      "label_es": "Metal Pay API listado en Temenos Exchange",
+      "label_en": "Metal Pay API listed on Temenos Exchange",
+      "status": "confirmed",
+      "date": "2023-09-07",
+      "sources": [
+        {
+          "title": "Temenos – Solution provider: Metallicus Inc.",
+          "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+        },
+        {
+          "title": "Metallicus – Metal Blockchain, WebAuth y Metal Pay API en Temenos Exchange (7-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "temenos",
+      "label_es": "listado en Temenos Exchange",
+      "label_en": "listed on Temenos Exchange",
+      "status": "confirmed",
+      "date": "2023-09-07",
+      "sources": [
+        {
+          "title": "Temenos – Solution provider: Metallicus Inc.",
+          "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+        },
+        {
+          "title": "Metallicus – Metal Blockchain, WebAuth y Metal Pay API en Temenos Exchange (7-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "temenos",
+      "label_es": "listado en Temenos Exchange",
+      "label_en": "listed on Temenos Exchange",
+      "status": "confirmed",
+      "date": "2023-09-07",
+      "sources": [
+        {
+          "title": "Temenos – Solution provider: Metallicus Inc.",
+          "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+        },
+        {
+          "title": "Metallicus – Metal Blockchain, WebAuth y Metal Pay API en Temenos Exchange (7-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "jack-henry",
+      "label_es": "entró en su Vendor Integration Program (no es respaldo)",
+      "label_en": "joined its Vendor Integration Program (not an endorsement)",
+      "status": "self",
+      "date": "2023-09-12",
+      "sources": [
+        {
+          "title": "Metallicus – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "fpc",
+      "label_es": "miembro de",
+      "label_en": "member of",
+      "status": "confirmed",
+      "date": "2024-10-02",
+      "sources": [
+        {
+          "title": "Metallicus – Metal Blockchain joins the U.S. Faster Payments Council (2-oct-2024)",
+          "url": "https://metallicus.com/blog/faster-payments-council-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "washington-mt-license",
+      "label_es": "obtuvo licencia de transmisor de dinero en Washington",
+      "label_en": "obtained a Washington money transmitter licence",
+      "status": "confirmed",
+      "date": "2021-03",
+      "sources": [
+        {
+          "title": "Decrypt – Metal coin surges 250% on licensing news (30-mar-2021)",
+          "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
+        }
+      ]
+    },
+    {
+      "from": "payfinia",
+      "to": "metal-pay",
+      "label_es": "socio preferente de API y pagos de",
+      "label_en": "preferred API and payments partner of",
+      "status": "confirmed",
+      "date": "2025-02-25",
+      "sources": [
+        {
+          "title": "Business Wire – Payfinia and Metallicus partner (25-feb-2025)",
+          "url": "https://www.businesswire.com/news/home/20250225417038/en"
+        }
+      ]
+    },
+    {
+      "from": "bonifii",
+      "to": "metal-blockchain",
+      "label_es": "se unió al Banking Innovation Program de",
+      "label_en": "joined the Banking Innovation Program of",
+      "status": "confirmed",
+      "date": "2024-06-25",
+      "sources": [
+        {
+          "title": "CUInsight – Bonifii joins Metal Blockchain's Banking Innovation Program (25-jun-2024)",
+          "url": "https://www.cuinsight.com/press-release/bonifii-joins-metal-blockchains-banking-innovation-program/"
+        }
+      ]
+    },
+    {
+      "from": "payfinia",
+      "to": "metal-blockchain",
+      "label_es": "se unió al Banking Innovation Program de",
+      "label_en": "joined the Banking Innovation Program of",
+      "status": "confirmed",
+      "date": "2025-02-25",
+      "sources": [
+        {
+          "title": "Business Wire – Payfinia and Metallicus partner (25-feb-2025)",
+          "url": "https://www.businesswire.com/news/home/20250225417038/en"
+        }
+      ]
+    },
+    {
+      "from": "st-cloud-fcu",
+      "to": "metal-blockchain",
+      "label_es": "emite la stablecoin CLDUSD sobre",
+      "label_en": "issues the CLDUSD stablecoin on",
+      "status": "confirmed",
+      "date": "2025-09-16",
+      "sources": [
+        {
+          "title": "Metallicus – St. Cloud Financial Credit Union stablecoin (16-sep-2025)",
+          "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+        }
+      ]
+    },
+    {
+      "from": "daland-cuso",
+      "to": "metal-blockchain",
+      "label_es": "conecta CLDUSD al núcleo bancario (Coin2Core) sobre",
+      "label_en": "connects CLDUSD to the banking core (Coin2Core) on",
+      "status": "confirmed",
+      "date": "2025-09-16",
+      "sources": [
+        {
+          "title": "Metallicus – St. Cloud Financial Credit Union stablecoin (16-sep-2025)",
+          "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+        }
+      ]
+    },
+    {
+      "from": "investifi",
+      "to": "metal-blockchain",
+      "label_es": "distribuye stablecoins institucionales sobre (L0, según Metallicus)",
+      "label_en": "distributes institutional stablecoins on (L0, according to Metallicus)",
+      "status": "self",
+      "date": "2025-11-03",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus & InvestiFi stablecoin alliance (3-nov-2025)",
+          "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+        }
+      ]
+    },
+    {
+      "from": "investifi",
+      "to": "xpr-network",
+      "label_es": "distribuye stablecoins institucionales sobre (L1, según Metallicus)",
+      "label_en": "distributes institutional stablecoins on (L1, according to Metallicus)",
+      "status": "self",
+      "date": "2025-11-03",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus & InvestiFi stablecoin alliance (3-nov-2025)",
+          "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+        }
+      ]
+    }
+  ]
+}

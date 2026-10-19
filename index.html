@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Metallicus, verificado</title>
+<meta name="description" content="Mapa de relaciones de Metallicus en el que cada dato enlaza a su fuente.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.2/cytoscape.min.js" defer></script>
+<script src="app.js" defer></script>
+</head>
+<body>
+<header class="bar">
+  <div class="brand">
+    <h1 data-i18n="title">Metallicus, verificado</h1>
+    <p class="tagline" data-i18n="tagline">Cada dato enlaza a su fuente.</p>
+  </div>
+  <div class="controls">
+    <label class="search">
+      <span class="sr-only" data-i18n="search">Buscar</span>
+      <input id="q" type="search" autocomplete="off" data-i18n-ph="searchPh" placeholder="Buscar persona, empresa, producto…">
+    </label>
+    <div class="seg" role="tablist" aria-label="Vista">
+      <button role="tab" data-view="map" data-i18n="vMap">Mapa</button>
+      <button role="tab" data-view="list" data-i18n="vList">Lista</button>
+      <button role="tab" data-view="time" data-i18n="vTime">Cronología</button>
+      <button role="tab" data-view="about" data-i18n="vAbout">Método</button>
+    </div>
+    <button id="lang" class="lang" aria-label="Language">EN</button>
+  </div>
+</header>
+
+<div class="legend" id="legend" aria-label="Leyenda">
+  <span class="st st-confirmed"><i></i><b data-i18n="sConfirmed">Confirmado</b><em data-i18n="sConfirmedD">registro oficial, ambas partes o 2+ fuentes independientes</em></span>
+  <span class="st st-self"><i></i><b data-i18n="sSelf">Según la parte interesada</b><em data-i18n="sSelfD">solo lo afirma Metallicus o la propia persona/empresa</em></span>
+  <span class="st st-disputed"><i></i><b data-i18n="sDisputed">Fuentes discrepan</b><em data-i18n="sDisputedD">se muestran las versiones con sus fuentes</em></span>
+</div>
+
+<div class="filters" id="filters" aria-label="Filtros"></div>
+
+<main id="main">
+  <section id="view-map" class="view">
+    <div id="cy" aria-label="Mapa de relaciones"></div>
+    <p class="map-hint" data-i18n="mapHint">Toca un elemento para ver sus datos y fuentes. Línea continua: confirmado. Discontinua: según la parte interesada.</p>
+  </section>
+  <section id="view-list" class="view" hidden><div id="list"></div></section>
+  <section id="view-time" class="view" hidden><ol id="timeline"></ol></section>
+  <section id="view-about" class="view prose" hidden><div id="about"></div></section>
+  <aside id="panel" class="panel" hidden aria-live="polite">
+    <button class="close" id="close" data-i18n-aria="close" aria-label="Cerrar">×</button>
+    <div id="detail"></div>
+  </aside>
+</main>
+
+<footer class="foot">
+  <p><span data-i18n="updated">Datos revisados el</span> <time id="updated"></time>. <span data-i18n="footNote">No es asesoramiento financiero. ¿Ves un error? Abre un issue en GitHub con la fuente.</span></p>
+</footer>
+</body>
+</html>

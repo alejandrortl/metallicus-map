@@ -1,0 +1,2720 @@
+{
+  "nodes": [
+    {
+      "id": "banking-innovation-program",
+      "name": "Metal Blockchain Banking Innovation Program",
+      "type": "product",
+      "group": "partners",
+      "summary_es": "Programa de investigación gratuito de Metallicus, lanzado en enero de 2024, para que bancos y cooperativas de crédito exploren casos de uso de blockchain (identidad digital, cumplimiento BSA, subredes privadas, tokenización y, desde 2025, stablecoins de prueba). Las cifras de participantes proceden de Metallicus.",
+      "summary_en": "Free Metallicus research program, launched in January 2024, for banks and credit unions to explore blockchain use cases (digital identity, BSA compliance, private subnets, tokenization and, since 2025, test stablecoins). Participant figures come from Metallicus.",
+      "website": "https://metalblockchain.org/banking-innovation-program",
+      "facts": [
+        {
+          "es": "Según Metallicus, el programa se anunció el 10 de enero de 2024 en San Francisco, centrado en identidad digital y cumplimiento de la Bank Secrecy Act (BSA), con talleres y soluciones a medida sin coste para las instituciones.",
+          "en": "According to Metallicus, the program was announced on January 10, 2024 in San Francisco, focused on digital identity and Bank Secrecy Act (BSA) compliance, with workshops and custom solutions at no cost to institutions.",
+          "status": "self",
+          "date": "2024-01-10",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Metal Blockchain introduces its Banking Innovation Program (10-ene-2024)",
+              "url": "https://metalblockchain.org/news-insights/metal-blockchain-introduces-it-s-banking-innovation-program"
+            }
+          ]
+        },
+        {
+          "es": "La página del programa lo describe como un programa de investigación de coste cero con colaboración de expertos, talleres, alianzas con fintechs, desarrollo de casos de uso a medida y confidencialidad.",
+          "en": "The program page describes it as a zero-cost research program offering expert collaboration, workshops, fintech partnerships, custom use-case development and confidentiality.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Banking Innovation Program (página del programa)",
+              "url": "https://metalblockchain.org/banking-innovation-program"
+            }
+          ]
+        },
+        {
+          "es": "Comunicados de Metallicus de 2024 citan como áreas del programa la identidad digital, el inicio de sesión único (SSO), las subredes privadas y la tokenización de activos, además de becas de I+D y un consejo asesor.",
+          "en": "Metallicus releases from 2024 list the program's areas as digital identity, single sign-on (SSO), private subnets and asset tokenization, plus R&D grants and an advisory board.",
+          "status": "self",
+          "date": "2024",
+          "sources": [
+            {
+              "title": "Metallicus – Patelco Credit Union joins Metal Blockchain's Banking Innovation Program (16-may-2024)",
+              "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/patelco-credit-union-blockchain"
+            },
+            {
+              "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+              "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, en 2024 se incorporaron al programa más de 16 cooperativas de crédito.",
+          "en": "According to Metallicus, more than 16 credit unions joined the program in 2024.",
+          "status": "self",
+          "date": "2024-12-31",
+          "sources": [
+            {
+              "title": "Metallicus – A year in review (31-dic-2024)",
+              "url": "https://metallicus.com/blog/metallicus-a-year-in-review"
+            }
+          ]
+        },
+        {
+          "es": "El informe trimestral Q1 2025 de Metallicus lista 17 cooperativas de crédito con comunicados de incorporación al programa, además de la asociación MD|DC; no nombra bancos.",
+          "en": "Metallicus's Q1 2025 quarterly report lists 17 credit unions with program-entry press releases, plus the MD|DC association; it names no banks.",
+          "status": "self",
+          "date": "2025",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q1 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_Quarterly_Report_2025_Q1.pdf"
+            }
+          ]
+        },
+        {
+          "es": "El 16 de junio de 2025 Metallicus lanzó un Stablecoin Pilot Program reservado a participantes del programa, gratuito para ellos, en el que las cooperativas simulan transacciones con una stablecoin de prueba con su marca, sin fondos reales ni custodia de activos digitales.",
+          "en": "On June 16, 2025 Metallicus launched a Stablecoin Pilot Program reserved for program participants, free for them, in which credit unions simulate transactions with a test stablecoin carrying their brand, with no real funds or digital-asset custody.",
+          "status": "self",
+          "date": "2025-06-16",
+          "sources": [
+            {
+              "title": "CUInsight – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-launches-stablecoin-pilot-program-for-credit-unions/"
+            },
+            {
+              "title": "CUbroadcast – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
+              "url": "https://www.cubroadcast.com/news/metallicus-launches-stablecoin-pilot-program-for-credit-unions"
+            }
+          ]
+        },
+        {
+          "es": "En el anuncio del piloto, Metallicus afirmó que su red incluye más de 750 cooperativas de crédito a través de ligas, CUSOs y fintechs; es una cifra de alcance indirecto, no de participantes.",
+          "en": "In the pilot announcement Metallicus stated its network includes 750+ credit unions through leagues, CUSOs and fintechs; this is an indirect-reach figure, not a participant count.",
+          "status": "self",
+          "date": "2025-06-16",
+          "sources": [
+            {
+              "title": "CUInsight – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-launches-stablecoin-pilot-program-for-credit-unions/"
+            }
+          ]
+        },
+        {
+          "es": "Según el informe Q3 2025 de Metallicus, el programa contaba con más de 40 instituciones participantes y más de 15 stablecoins de marca institucional desplegadas en su entorno de pruebas.",
+          "en": "According to Metallicus's Q3 2025 report, the program had more than 40 participating institutions and more than 15 institution-branded stablecoins deployed in its test environment.",
+          "status": "self",
+          "date": "2025",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        },
+        {
+          "es": "La asociación GoWest (may-2025, comunicado propio) y CrossState CUA (may-2026, comunicado conjunto con contacto de prensa propio) ofrecieron el programa a sus cooperativas como beneficio gratuito.",
+          "en": "The GoWest association (May 2025, its own release) and CrossState CUA (May 2026, joint release with its own press contact) offered the program to their credit unions as a free benefit.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "GoWest Credit Union Association – Credit unions embrace blockchain… (comunicado, 28-may-2025)",
+              "url": "https://gowestassociation.org/2025/05/28/credit-unions-embrace-blockchain-to-leverage-the-future-of-trustworthy-financial-services/"
+            },
+            {
+              "title": "CUInsight – CrossState & Metallicus launch pilot program (versión con contacto de prensa de CrossState, 15-may-2026)",
+              "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure-2/"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, MD|DC CUA (may-2025) y Cornerstone League (oct-2025) también ofrecieron el programa o su piloto de stablecoins a sus cooperativas como beneficio gratuito.",
+          "en": "According to Metallicus, MD|DC CUA (May 2025) and Cornerstone League (Oct 2025) also offered the program or its stablecoin pilot to their credit unions as a free benefit.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+              "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+            },
+            {
+              "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+              "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+            },
+            {
+              "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+              "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "velera",
+      "name": "Velera",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "CUSO (organización de servicios para cooperativas de crédito) de pagos y tecnología financiera que combina PSCU y Co-op Solutions. Inversor estratégico de Metallicus y, desde agosto de 2025, socio en su Digital Asset Lab.",
+      "summary_en": "Payments and financial-technology CUSO (credit union service organization) combining PSCU and Co-op Solutions. Strategic investor in Metallicus and, since August 2025, its partner in Velera's Digital Asset Lab.",
+      "website": "https://www.velera.com",
+      "facts": [
+        {
+          "es": "Según Velera, combina la experiencia de PSCU y Co-op Solutions, atiende a unas 4.000 instituciones financieras, ingresa 1.600 millones de dólares y tiene más de 5.000 empleados; su sede corporativa está en Tampa (Florida).",
+          "en": "According to Velera, it combines PSCU and Co-op Solutions, serves about 4,000 financial institutions, has $1.6 billion in revenue and more than 5,000 employees; its corporate office is in Tampa, Florida.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Velera – About",
+              "url": "https://www.velera.com/about"
+            }
+          ]
+        },
+        {
+          "es": "La web de Velera da dos cifras de antigüedad distintas: '45+ años' en su descripción y '48+ años de servicio' en sus datos clave.",
+          "en": "Velera's website gives two different tenure figures: '45+ years' in its description and '48+ years of service' in its key figures.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "Velera – About",
+              "url": "https://www.velera.com/about"
+            }
+          ]
+        },
+        {
+          "es": "El 20 de agosto de 2025 Velera lanzó su Digital Asset Lab y nombró a Metallicus su primer socio de plataforma; ambas empresas publicaron comunicados ese día.",
+          "en": "On August 20, 2025 Velera launched its Digital Asset Lab and named Metallicus its first platform partner; both companies published releases that day.",
+          "status": "confirmed",
+          "date": "2025-08-20",
+          "sources": [
+            {
+              "title": "Velera – Digital Asset Lab (comunicado, 20-ago-2025)",
+              "url": "https://www.velera.com/digital-asset-lab-stablecoin-for-credit-unions"
+            },
+            {
+              "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+              "url": "https://metallicus.com/blog/metallicus-velera"
+            },
+            {
+              "title": "PYMNTS – Velera bets on stablecoin growth with Digital Asset Lab",
+              "url": "https://www.pymnts.com/credit-unions/2025/velera-bets-on-stablecoin-growth-with-digital-asset-lab/"
+            }
+          ]
+        },
+        {
+          "es": "En su comunicado, Velera se describe como inversor estratégico de Metallicus. No se divulgan el importe ni la participación.",
+          "en": "In its release, Velera describes itself as a strategic investor in Metallicus. Neither the amount nor the stake is disclosed.",
+          "status": "confirmed",
+          "date": "2025-08-20",
+          "sources": [
+            {
+              "title": "Velera – Digital Asset Lab (comunicado, 20-ago-2025)",
+              "url": "https://www.velera.com/digital-asset-lab-stablecoin-for-credit-unions"
+            },
+            {
+              "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+              "url": "https://metallicus.com/blog/metallicus-velera"
+            }
+          ]
+        },
+        {
+          "es": "El Lab se abriría primero a los participantes de la Innovation Alliance de Velera (socios de plataforma y cooperativas) y se centraría al inicio en I+D sobre stablecoins y depósitos tokenizados, con pruebas de concepto y pilotos posteriores.",
+          "en": "The Lab would open first to participants in Velera's Innovation Alliance (platform partners and credit unions) and initially focus on stablecoin and tokenized-deposit R&D, followed by proofs of concept and pilots.",
+          "status": "confirmed",
+          "date": "2025-08-20",
+          "sources": [
+            {
+              "title": "Velera – Digital Asset Lab (comunicado, 20-ago-2025)",
+              "url": "https://www.velera.com/digital-asset-lab-stablecoin-for-credit-unions"
+            },
+            {
+              "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+              "url": "https://metallicus.com/blog/metallicus-velera"
+            }
+          ]
+        },
+        {
+          "es": "Vladimir Jovanovic, vicepresidente de Innovación de Velera, habló en el anuncio sobre la necesidad de que las cooperativas comprendan su papel ante las stablecoins; por Metallicus intervino su CEO, Marshall Hayner.",
+          "en": "Vladimir Jovanovic, Velera's VP of Innovation, spoke in the announcement about credit unions needing to understand their role regarding stablecoins; Metallicus CEO Marshall Hayner also spoke.",
+          "status": "confirmed",
+          "date": "2025-08-20",
+          "sources": [
+            {
+              "title": "Velera – Digital Asset Lab (comunicado, 20-ago-2025)",
+              "url": "https://www.velera.com/digital-asset-lab-stablecoin-for-credit-unions"
+            },
+            {
+              "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+              "url": "https://metallicus.com/blog/metallicus-velera"
+            }
+          ]
+        },
+        {
+          "es": "El 11 de agosto de 2026 Velera anunció la cohorte inaugural del Digital Asset Lab: nueve cooperativas y cinco proveedores (Anchorage Digital, Mastercard, Stablecore, TRM Labs y TruStage Digital Assets). Metallicus no figura en el anuncio.",
+          "en": "On August 11, 2026 Velera announced the Digital Asset Lab's inaugural cohort: nine credit unions and five providers (Anchorage Digital, Mastercard, Stablecore, TRM Labs and TruStage Digital Assets). Metallicus does not appear in the announcement.",
+          "status": "confirmed",
+          "date": "2026-08-11",
+          "sources": [
+            {
+              "title": "Velera – Digital Asset Lab inaugural cohort (11-ago-2026)",
+              "url": "https://www.velera.com/velera-digital-asset-lab-inaugural-cohort"
+            }
+          ]
+        },
+        {
+          "es": "El informe Q4 2025 de Metallicus y su carta Q2 2026 no mencionan a Velera.",
+          "en": "Metallicus's Q4 2025 report and Q2 2026 letter do not mention Velera.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
+            },
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investifi",
+      "name": "InvestiFi",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "Plataforma de inversión digital (cripto y valores) integrada en la banca en línea y móvil de cooperativas de crédito y bancos comunitarios. En noviembre de 2025 anunció una alianza con Metallicus para ofrecer stablecoins respaldadas por instituciones.",
+      "summary_en": "Digital investing platform (crypto and securities) embedded in the online and mobile banking of credit unions and community banks. In November 2025 it announced an alliance with Metallicus to offer institution-backed stablecoins.",
+      "facts": [
+        {
+          "es": "Según InvestiFi, es una plataforma que permite invertir desde las cuentas de depósito y cuenta con más de 15 integraciones con banca digital y núcleos bancarios.",
+          "en": "According to InvestiFi, it is a platform that allows investing to and from deposit accounts and has 15+ digital banking and banking-core integrations.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "CUInsight – InvestiFi announce strategic alliance with Metallicus",
+              "url": "https://www.cuinsight.com/press-release/investifi-announce-strategic-alliance-with-metallicus-to-deliver-institution-backed-stablecoins-within-their-digital-investing-platform/"
+            },
+            {
+              "title": "CUInsight – InvestiFi secures contract with Truity Credit Union (20-ene-2026)",
+              "url": "https://www.cuinsight.com/press-release/investifi-secures-contract-with-truity-credit-union-to-deliver-digital-investing-to-its-75000-members/"
+            }
+          ]
+        },
+        {
+          "es": "Según su propio comunicado, en 2023 InvestiFi fue la primera empresa en realizar una conversión de cripto a dólares en tiempo real mediante el núcleo bancario.",
+          "en": "According to its own release, in 2023 InvestiFi was the first company to perform a real-time crypto-to-USD conversion through the banking core.",
+          "status": "self",
+          "date": "2023",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus–InvestiFi stablecoin alliance (3-nov-2025)",
+              "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+            },
+            {
+              "title": "CUInsight – InvestiFi announce strategic alliance with Metallicus",
+              "url": "https://www.cuinsight.com/press-release/investifi-announce-strategic-alliance-with-metallicus-to-deliver-institution-backed-stablecoins-within-their-digital-investing-platform/"
+            }
+          ]
+        },
+        {
+          "es": "El 3 de noviembre de 2025 InvestiFi y Metallicus anunciaron una alianza estratégica para ofrecer stablecoins respaldadas por instituciones en la plataforma de InvestiFi. El comunicado lleva contactos de prensa de ambas empresas y una declaración del cofundador y CEO de InvestiFi, Kian Sarreshteh.",
+          "en": "On November 3, 2025 InvestiFi and Metallicus announced a strategic alliance to offer institution-backed stablecoins within InvestiFi's platform. The release carries press contacts for both companies and a statement by InvestiFi co-founder and CEO Kian Sarreshteh.",
+          "status": "confirmed",
+          "date": "2025-11-03",
+          "sources": [
+            {
+              "title": "CUInsight – InvestiFi announce strategic alliance with Metallicus",
+              "url": "https://www.cuinsight.com/press-release/investifi-announce-strategic-alliance-with-metallicus-to-deliver-institution-backed-stablecoins-within-their-digital-investing-platform/"
+            },
+            {
+              "title": "Metallicus – Metallicus–InvestiFi stablecoin alliance (3-nov-2025)",
+              "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+            },
+            {
+              "title": "InvestiFi – Stablecoin (página propia, 2026)",
+              "url": "https://investifi.com/stablecoin/"
+            }
+          ]
+        },
+        {
+          "es": "En su propia web (2026), InvestiFi incluye a Metallicus entre las stablecoins comprometidas y marca al emisor, Metal Blockchain, como 'pre-lanzamiento'; en otra tabla de la misma página dice que su custodio BitGo está 'en vivo' con Metallicus, lo que se contradice.",
+          "en": "On its own website (2026), InvestiFi lists Metallicus among committed stablecoins and marks the issuer, Metal Blockchain, as 'pre-launch'; another table on the same page says its custodian BitGo is 'live' with Metallicus, which is contradictory.",
+          "status": "disputed",
+          "date": "2026",
+          "sources": [
+            {
+              "title": "InvestiFi – Stablecoin (página propia, 2026)",
+              "url": "https://investifi.com/stablecoin/"
+            }
+          ]
+        },
+        {
+          "es": "Según el comunicado distribuido por Metallicus, Metallicus aporta la infraestructura (Metal como capa 0 y XPR Network como capa 1). Las instituciones participantes podrían emitir, quemar y mantener sus propias stablecoins, reservadas por la propia entidad, en colaboración con los custodios de InvestiFi, que no se nombran.",
+          "en": "According to the Metallicus-distributed release, Metallicus supplies the infrastructure (Metal as layer 0, XPR Network as layer 1). Participating institutions could mint, burn and hold their own stablecoins, reserved by the institution itself, in collaboration with InvestiFi's custodians, who are not named.",
+          "status": "self",
+          "date": "2025-11-03",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus–InvestiFi stablecoin alliance (3-nov-2025)",
+              "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+            },
+            {
+              "title": "CUInsight – InvestiFi announce strategic alliance with Metallicus",
+              "url": "https://www.cuinsight.com/press-release/investifi-announce-strategic-alliance-with-metallicus-to-deliver-institution-backed-stablecoins-within-their-digital-investing-platform/"
+            }
+          ]
+        },
+        {
+          "es": "El anuncio fue independiente del acuerdo con Cornerstone League (9-oct-2025) y no menciona a esa liga.",
+          "en": "The announcement was separate from the Cornerstone League agreement (Oct 9, 2025) and does not mention that league.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus–InvestiFi stablecoin alliance (3-nov-2025)",
+              "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+            },
+            {
+              "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+              "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+            }
+          ]
+        },
+        {
+          "es": "El informe Q3 2025 de Metallicus recoge la alianza con InvestiFi; el informe Q4 2025 no la menciona.",
+          "en": "Metallicus's Q3 2025 report covers the InvestiFi alliance; the Q4 2025 report does not mention it.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daland-cuso",
+      "name": "DaLand CUSO",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "CUSO propiedad de cooperativas de crédito que desarrolla Coin2Core, un puente que integra activos digitales en los núcleos bancarios de las cooperativas. Se alió con Metallicus en agosto de 2025.",
+      "summary_en": "Credit-union-owned CUSO that develops Coin2Core, a bridge that integrates digital assets into credit unions' core banking systems. It partnered with Metallicus in August 2025.",
+      "facts": [
+        {
+          "es": "En agosto de 2024 DaLand se describía como una organización de 15 años. Ese mes St. Cloud Financial Credit Union y Altra Federal Credit Union pasaron a tener la mayoría de su capital, con participaciones minoritarias de otras cooperativas e inversores privados; fue la primera vez que dejó de tener un único accionista.",
+          "en": "In August 2024 DaLand described itself as a 15-year-old organization. That month St. Cloud Financial Credit Union and Altra Federal Credit Union took majority ownership, with minority stakes from other credit unions and private investors; it was the first time it moved away from a single shareholder.",
+          "status": "confirmed",
+          "date": "2024-08-14",
+          "sources": [
+            {
+              "title": "CUInsight – St. Cloud Financial CU announces strategic investment in DaLand CUSO (14-ago-2024)",
+              "url": "https://www.cuinsight.com/press-release/st-cloud-financial-credit-union-announces-strategic-investment-in-daland-cuso/"
+            }
+          ]
+        },
+        {
+          "es": "En marzo de 2025 Blaze Credit Union pasó a ser su segundo mayor accionista; St. Cloud Financial CU figura como propietaria principal. Según DaLand, el grupo de propietarios suma más de 7.200 millones de dólares en activos y más de 400.000 socios.",
+          "en": "In March 2025 Blaze Credit Union became its second-largest shareholder; St. Cloud Financial CU is listed as principal owner. According to DaLand, the owner group has over $7.2 billion in assets and more than 400,000 members.",
+          "status": "confirmed",
+          "date": "2025-03-20",
+          "sources": [
+            {
+              "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+            }
+          ]
+        },
+        {
+          "es": "El 13 de enero de 2026 DaLand anunció que Canvas Credit Union (Colorado) se había convertido en propietaria tras desplegar Coin2Core en su entorno Jack Henry Symitar.",
+          "en": "On January 13, 2026 DaLand announced that Canvas Credit Union (Colorado) had become an owner after deploying Coin2Core in its Jack Henry Symitar environment.",
+          "status": "confirmed",
+          "date": "2026-01-13",
+          "sources": [
+            {
+              "title": "CUInsight – DaLand CUSO… Canvas Credit Union becomes latest owner (13-ene-2026)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-delivers-new-money-integration-into-the-credit-union-core-landscape-and-unlocks-turnkey-bitcoin-and-digital-asset-access-for-the-entire-industry-canvas-credit-union-4-95b-becomes-lates/"
+            }
+          ]
+        },
+        {
+          "es": "El 5 y el 6 de agosto de 2025 Metallicus y DaLand publicaron sendos comunicados sobre su alianza estratégica: Metallicus aporta su red Metal Blockchain y la capacidad de emitir stablecoins de marca blanca, y DaLand su puente Coin2Core (que ya soportaba BTC, ETH y USDC).",
+          "en": "On August 5 and 6, 2025 Metallicus and DaLand each published releases on their strategic alliance: Metallicus provides its Metal Blockchain network and white-label stablecoin issuance, and DaLand its Coin2Core bridge (which already supported BTC, ETH and USDC).",
+          "status": "confirmed",
+          "date": "2025-08-05",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus partners with DaLand CUSO (5-ago-2025)",
+              "url": "https://metallicus.com/blog/metallicus-partners-with-daland-cuso"
+            },
+            {
+              "title": "CUInsight – DaLand CUSO empowers credit unions with institution-branded stablecoins (6-ago-2025)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-empowers-credit-unions-with-institution-branded-stablecoins-via-new-metallicus-partnership/"
+            }
+          ]
+        },
+        {
+          "es": "Jon Ungerland, CIO de DaLand, declaró en ambos comunicados; habló de los pagos con stablecoins como algo inevitable y del papel de las entidades locales como custodias de la riqueza comunitaria.",
+          "en": "Jon Ungerland, DaLand's CIO, gave statements in both releases, describing stablecoin payments as inevitable and local institutions as custodians of community wealth.",
+          "status": "confirmed",
+          "date": "2025-08",
+          "sources": [
+            {
+              "title": "Metallicus – Metallicus partners with DaLand CUSO (5-ago-2025)",
+              "url": "https://metallicus.com/blog/metallicus-partners-with-daland-cuso"
+            },
+            {
+              "title": "CUInsight – DaLand CUSO empowers credit unions with institution-branded stablecoins (6-ago-2025)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-empowers-credit-unions-with-institution-branded-stablecoins-via-new-metallicus-partnership/"
+            }
+          ]
+        },
+        {
+          "es": "En septiembre de 2025 DaLand citó su integración con Metallicus para emitir stablecoins de marca de cooperativas al anunciar una alianza con Corelation.",
+          "en": "In September 2025 DaLand cited its Metallicus integration for credit-union-branded stablecoin issuance when announcing a Corelation partnership.",
+          "status": "self",
+          "date": "2025-09-03",
+          "sources": [
+            {
+              "title": "CUbroadcast – DaLand CUSO just broke open the $4 trillion digital asset vault (3-sep-2025)",
+              "url": "https://www.cubroadcast.com/news/daland-cuso-just-broke-open-the-4-trillion-digital-asset-vault-while-everyone-else-is-still-looking-for-the-key"
+            }
+          ]
+        },
+        {
+          "es": "El comunicado de enero de 2026 sobre Canvas Credit Union no menciona a Metallicus ni las stablecoins.",
+          "en": "The January 2026 release about Canvas Credit Union does not mention Metallicus or stablecoins.",
+          "status": "confirmed",
+          "date": "2026-01-13",
+          "sources": [
+            {
+              "title": "CUInsight – DaLand CUSO… Canvas Credit Union becomes latest owner (13-ene-2026)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-delivers-new-money-integration-into-the-credit-union-core-landscape-and-unlocks-turnkey-bitcoin-and-digital-asset-access-for-the-entire-industry-canvas-credit-union-4-95b-becomes-lates/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "st-cloud-fcu",
+      "name": "St. Cloud Financial Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito de Minnesota con unos 430 millones de dólares en activos y propietaria principal de DaLand CUSO. En septiembre de 2025 anunció la stablecoin Cloud Dollar ($CLDUSD) sobre Metal Blockchain, con Metallicus y DaLand.",
+      "summary_en": "Minnesota credit union with about $430 million in assets and principal owner of DaLand CUSO. In September 2025 it announced the Cloud Dollar ($CLDUSD) stablecoin on Metal Blockchain, with Metallicus and DaLand.",
+      "website": "https://www.scfcu.org",
+      "facts": [
+        {
+          "es": "CoinDesk y Co-operative News la describen como una cooperativa de Minnesota con más de 400 millones de dólares en activos.",
+          "en": "CoinDesk and Co-operative News describe it as a Minnesota credit union with over $400 million in assets.",
+          "status": "confirmed",
+          "date": "2025-09",
+          "sources": [
+            {
+              "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+              "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+            },
+            {
+              "title": "Co-operative News – US credit union launches stablecoin crypto (12-sep-2025)",
+              "url": "https://www.thenews.coop/us-credit-union-launches-stablecoin-crypto-as-part-of-digital-asset-platform/"
+            }
+          ]
+        },
+        {
+          "es": "Un artículo de CreditUnions.com, marcado como contenido patrocinado (mayo de 2026), la sitúa en Sartell (Minnesota) con 430,0 millones de dólares en activos, 28.066 socios y 5 sucursales.",
+          "en": "A CreditUnions.com article marked as sponsored content (May 2026) places it in Sartell, Minnesota, with $430.0 million in assets, 28,066 members and 5 branches.",
+          "status": "self",
+          "date": "2026-05-11",
+          "sources": [
+            {
+              "title": "CreditUnions.com (contenido patrocinado) – A credit union journey into cryptocurrency and stablecoins (11-may-2026)",
+              "url": "https://creditunions.com/features/a-credit-union-journey-into-cryptocurrency-and-stablecoins/"
+            }
+          ]
+        },
+        {
+          "es": "Es la propietaria principal de DaLand CUSO, en la que invirtió en agosto de 2024 junto con Altra.",
+          "en": "It is the principal owner of DaLand CUSO, in which it invested in August 2024 together with Altra.",
+          "status": "confirmed",
+          "date": "2024-08-14",
+          "sources": [
+            {
+              "title": "CUInsight – St. Cloud Financial CU announces strategic investment in DaLand CUSO (14-ago-2024)",
+              "url": "https://www.cuinsight.com/press-release/st-cloud-financial-credit-union-announces-strategic-investment-in-daland-cuso/"
+            },
+            {
+              "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+            }
+          ]
+        },
+        {
+          "es": "El 16 de septiembre de 2025 Metallicus anunció, con declaraciones de Chase Larson (EVP/CLO de St. Cloud) y Jeff Levesque (CEO de DaLand), que St. Cloud emitiría la stablecoin Cloud Dollar ($CLDUSD) en Metal Blockchain, integrada con su núcleo bancario mediante Coin2Core de DaLand. CoinDesk lo había adelantado el 10 de septiembre.",
+          "en": "On September 16, 2025 Metallicus announced, with statements by Chase Larson (St. Cloud EVP/CLO) and Jeff Levesque (DaLand CEO), that St. Cloud would issue the Cloud Dollar ($CLDUSD) stablecoin on Metal Blockchain, integrated with its core through DaLand's Coin2Core. CoinDesk had reported it on September 10.",
+          "status": "confirmed",
+          "date": "2025-09-16",
+          "sources": [
+            {
+              "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+              "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+            },
+            {
+              "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+              "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+            }
+          ]
+        },
+        {
+          "es": "La afirmación de que CLDUSD sería la primera stablecoin emitida por una cooperativa de crédito de EE. UU. es de la propia cooperativa y de Metallicus; CoinDesk la presenta como una afirmación de la entidad.",
+          "en": "The claim that CLDUSD would be the first stablecoin issued by a U.S. credit union comes from the credit union and Metallicus; CoinDesk presents it as the institution's own claim.",
+          "status": "self",
+          "date": "2025-09",
+          "sources": [
+            {
+              "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+              "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+            },
+            {
+              "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+              "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+            }
+          ]
+        },
+        {
+          "es": "Según CreditUnions.com (contenido patrocinado), St. Cloud abrió su CU-Digital Asset Vault a todos sus socios en marzo de 2026, tras un piloto de amigos y familiares en diciembre y una auditoría de la NCUA a finales de 2025.",
+          "en": "According to CreditUnions.com (sponsored content), St. Cloud opened its CU-Digital Asset Vault to all members in March 2026, after a friends-and-family pilot in December and an NCUA audit in late 2025.",
+          "status": "self",
+          "date": "2026-05-11",
+          "sources": [
+            {
+              "title": "CreditUnions.com (contenido patrocinado) – A credit union journey into cryptocurrency and stablecoins (11-may-2026)",
+              "url": "https://creditunions.com/features/a-credit-union-journey-into-cryptocurrency-and-stablecoins/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cldusd",
+      "name": "Cloud Dollar ($CLDUSD)",
+      "type": "token",
+      "group": "partners",
+      "summary_es": "Stablecoin en dólares anunciada en septiembre de 2025 por St. Cloud Financial Credit Union, emitida sobre Metal Blockchain con Metallicus y DaLand CUSO. No se encontró confirmación independiente de su puesta en circulación.",
+      "summary_en": "Dollar stablecoin announced in September 2025 by St. Cloud Financial Credit Union, issued on Metal Blockchain with Metallicus and DaLand CUSO. No independent confirmation of its release into circulation was found.",
+      "facts": [
+        {
+          "es": "Se anunció para emitirse sobre Metal Blockchain e integrarse en el núcleo de St. Cloud mediante Coin2Core de DaLand. El acceso al Vault estaba previsto para el cuarto trimestre de 2025.",
+          "en": "It was announced to be issued on Metal Blockchain and integrated into St. Cloud's core through DaLand's Coin2Core. Vault access was planned for Q4 2025.",
+          "status": "confirmed",
+          "date": "2025-09",
+          "sources": [
+            {
+              "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+              "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+            },
+            {
+              "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+              "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+            },
+            {
+              "title": "Co-operative News – US credit union launches stablecoin crypto (12-sep-2025)",
+              "url": "https://www.thenews.coop/us-credit-union-launches-stablecoin-crypto-as-part-of-digital-asset-platform/"
+            }
+          ]
+        },
+        {
+          "es": "Según CoinDesk, sus usos previstos son pagos a comercios y transferencias entre socios y entre instituciones, con menor coste que las redes de tarjetas.",
+          "en": "According to CoinDesk, its planned uses are merchant payouts and member-to-member and institution-to-institution transfers at lower cost than card networks.",
+          "status": "confirmed",
+          "date": "2025-09-10",
+          "sources": [
+            {
+              "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+              "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+            }
+          ]
+        },
+        {
+          "es": "El comunicado de Metallicus no describe las reservas, los activos de respaldo ni las condiciones de reembolso.",
+          "en": "The Metallicus release does not describe reserves, backing assets or redemption terms.",
+          "status": "confirmed",
+          "date": "2025-09-16",
+          "sources": [
+            {
+              "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+              "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+            }
+          ]
+        },
+        {
+          "es": "El informe Q3 2025 de Metallicus habla del lanzamiento de $CLDUSD con despliegue inicial previsto para el cuarto trimestre; su informe Q4 2025 y su carta Q2 2026 no lo mencionan.",
+          "en": "Metallicus's Q3 2025 report refers to the $CLDUSD launch with an initial rollout planned for Q4; its Q4 2025 report and Q2 2026 letter do not mention it.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
+            },
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        },
+        {
+          "es": "Un artículo patrocinado de CreditUnions.com (mayo de 2026) dice que St. Cloud presentó Cloud Dollar a finales de 2025, pero no indica si está en uso.",
+          "en": "A sponsored CreditUnions.com article (May 2026) says St. Cloud introduced Cloud Dollar in late 2025, but does not say whether it is in use.",
+          "status": "self",
+          "date": "2026-05-11",
+          "sources": [
+            {
+              "title": "CreditUnions.com (contenido patrocinado) – A credit union journey into cryptocurrency and stablecoins (11-may-2026)",
+              "url": "https://creditunions.com/features/a-credit-union-journey-into-cryptocurrency-and-stablecoins/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "altra-fcu",
+      "name": "Altra Federal Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito de Onalaska (Wisconsin), copropietaria de DaLand CUSO desde agosto de 2024.",
+      "summary_en": "Credit union based in Onalaska, Wisconsin; co-owner of DaLand CUSO since August 2024.",
+      "facts": [
+        {
+          "es": "En agosto de 2024 se asoció con St. Cloud Financial CU para tomar la mayoría del capital de DaLand CUSO.",
+          "en": "In August 2024 it partnered with St. Cloud Financial CU to take majority ownership of DaLand CUSO.",
+          "status": "confirmed",
+          "date": "2024-08-14",
+          "sources": [
+            {
+              "title": "CUInsight – St. Cloud Financial CU announces strategic investment in DaLand CUSO (14-ago-2024)",
+              "url": "https://www.cuinsight.com/press-release/st-cloud-financial-credit-union-announces-strategic-investment-in-daland-cuso/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blaze-cu",
+      "name": "Blaze Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito con raíces en Minnesota, fundada en 1931; desde marzo de 2025 es la segunda mayor accionista de DaLand CUSO.",
+      "summary_en": "Credit union with roots in Minnesota, founded in 1931; since March 2025 it has been DaLand CUSO's second-largest shareholder.",
+      "facts": [
+        {
+          "es": "Según el comunicado de DaLand, Blaze tiene más de 4.500 millones de dólares en activos, casi 250.000 socios y 28 sucursales.",
+          "en": "According to DaLand's release, Blaze has over $4.5 billion in assets, nearly 250,000 members and 28 branches.",
+          "status": "self",
+          "date": "2025-03-20",
+          "sources": [
+            {
+              "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+            }
+          ]
+        },
+        {
+          "es": "Su CEO y presidente, Dan Stoltz, presentó la inversión en DaLand como una inversión en el futuro de sus socios.",
+          "en": "Its CEO/President Dan Stoltz described the DaLand investment as an investment in its members' future.",
+          "status": "confirmed",
+          "date": "2025-03-20",
+          "sources": [
+            {
+              "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canvas-cu",
+      "name": "Canvas Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito de Colorado que pasó a ser propietaria de DaLand CUSO en enero de 2026. No se encontró relación directa con Metallicus.",
+      "summary_en": "Colorado credit union that became an owner of DaLand CUSO in January 2026. No direct relationship with Metallicus was found.",
+      "facts": [
+        {
+          "es": "El comunicado de DaLand da para Canvas activos de 4.950 millones de dólares en el titular y de más de 5.300 millones en el texto, además de más de 330.000 socios y 35 sucursales.",
+          "en": "DaLand's release gives Canvas assets of $4.95 billion in the headline and over $5.3 billion in the body, plus more than 330,000 members and 35 branches.",
+          "status": "disputed",
+          "date": "2026-01-13",
+          "sources": [
+            {
+              "title": "CUInsight – DaLand CUSO… Canvas Credit Union becomes latest owner (13-ene-2026)",
+              "url": "https://www.cuinsight.com/press-release/daland-cuso-delivers-new-money-integration-into-the-credit-union-core-landscape-and-unlocks-turnkey-bitcoin-and-digital-asset-access-for-the-entire-industry-canvas-credit-union-4-95b-becomes-lates/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cornerstone-league",
+      "name": "Cornerstone Credit Union League",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Asociación regional de cooperativas de crédito de Arkansas, Kansas, Misuri, Oklahoma y Texas. Según Metallicus, en octubre de 2025 ofreció a sus cooperativas el piloto de stablecoins de Metallicus como beneficio gratuito.",
+      "summary_en": "Regional credit union trade association for Arkansas, Kansas, Missouri, Oklahoma and Texas. According to Metallicus, in October 2025 it offered Metallicus's stablecoin pilot to its credit unions as a free benefit.",
+      "website": "https://www.cornerstoneleague.coop",
+      "facts": [
+        {
+          "es": "Se formó por la fusión de Cornerstone League y Heartland Credit Union Association, efectiva el 1 de enero de 2023; entonces atendía a unas 700 cooperativas.",
+          "en": "It was formed by the merger of Cornerstone League and the Heartland Credit Union Association, effective January 1, 2023; at that time it served about 700 credit unions.",
+          "status": "confirmed",
+          "date": "2023-01-01",
+          "sources": [
+            {
+              "title": "Cornerstone League – Cornerstone League welcomed 2023 as newly combined organization (20-ene-2023)",
+              "url": "https://www.cornerstoneleague.coop/about-us/media-relations/news-details/2023/01/20/cornerstone-league-welcomed-2023-as-newly-combined-organization"
+            }
+          ]
+        },
+        {
+          "es": "El comunicado de octubre de 2025 cifra su base en más de 600 cooperativas de crédito en cinco estados.",
+          "en": "The October 2025 release puts its base at more than 600 credit unions in five states.",
+          "status": "self",
+          "date": "2025-10",
+          "sources": [
+            {
+              "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+              "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+            },
+            {
+              "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+              "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, el 9 de octubre de 2025 se anunció una alianza que da a las cooperativas miembro acceso gratuito a su Stablecoin Pilot, parte del Banking Innovation Program: un entorno de pruebas con reservas simuladas, sin fondos de socios ni criptoactivos reales.",
+          "en": "According to Metallicus, on October 9, 2025 a partnership was announced that gives member credit unions free access to its Stablecoin Pilot, part of the Banking Innovation Program: a test environment with simulated reserves and no member funds or live crypto assets. No Cornerstone publication or independent coverage was found.",
+          "status": "self",
+          "date": "2025-10-09",
+          "sources": [
+            {
+              "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+              "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+            },
+            {
+              "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+              "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+            }
+          ]
+        },
+        {
+          "es": "Según el comunicado de Metallicus, Ryan Dold, EVP y Chief Revenue Officer de Cornerstone Resources, declaró que el piloto permite a las cooperativas explorar casos de uso con stablecoins sin coste. Por Metallicus habló Frank Mazza.",
+          "en": "According to the Metallicus release, Ryan Dold, EVP and Chief Revenue Officer of Cornerstone Resources, said the pilot lets credit unions explore stablecoin use cases at no cost. Frank Mazza spoke for Metallicus.",
+          "status": "self",
+          "date": "2025-10-09",
+          "sources": [
+            {
+              "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+              "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+            },
+            {
+              "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+              "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+            }
+          ]
+        },
+        {
+          "es": "CUInsight publica el comunicado con fecha 10 de octubre de 2025; el blog de Metallicus lo fecha el 9 de octubre.",
+          "en": "CUInsight dates the release October 10, 2025; the Metallicus blog dates it October 9.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+              "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+            },
+            {
+              "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+              "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "payfinia",
+      "name": "Payfinia",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "CUSO de pagos instantáneos y billetera digital para cooperativas de crédito, certificada en las redes RTP y FedNow. Desde febrero de 2025 es socio preferente de API y pagos de Metal Pay y participa en el Banking Innovation Program.",
+      "summary_en": "Instant-payments and digital-wallet CUSO for credit unions, certified on the RTP and FedNow networks. Since February 2025 it has been a preferred API and payments partner for Metal Pay and a Banking Innovation Program participant.",
+      "facts": [
+        {
+          "es": "Según su comunicado, Payfinia Inc. es una empresa de pagos independiente y una CUSO; su producto principal es Instant Payments Xchange (IPX).",
+          "en": "According to its release, Payfinia Inc. is an independent payments company and CUSO; its main product is the Instant Payments Xchange (IPX).",
+          "status": "self",
+          "sources": [
+            {
+              "title": "FinTech Futures (Business Wire) – Payfinia and Metallicus partner (25-feb-2025)",
+              "url": "https://www.fintechfutures.com/press-releases/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-u-s-credit-unions"
+            },
+            {
+              "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+              "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+            }
+          ]
+        },
+        {
+          "es": "El 25 de febrero de 2025 (Business Wire) Payfinia y Metallicus anunciaron un marco conjunto para ofrecer pagos instantáneos y servicios de criptomonedas integrados a socios de cooperativas; Payfinia pasó a ser uno de los socios preferentes de API y pagos de Metal Pay.",
+          "en": "On February 25, 2025 (Business Wire) Payfinia and Metallicus announced a joint framework to offer embedded instant payments and crypto services to credit union members; Payfinia became one of Metal Pay's preferred API and payment-services partners.",
+          "status": "confirmed",
+          "date": "2025-02-25",
+          "sources": [
+            {
+              "title": "FinTech Futures (Business Wire) – Payfinia and Metallicus partner (25-feb-2025)",
+              "url": "https://www.fintechfutures.com/press-releases/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-u-s-credit-unions"
+            },
+            {
+              "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+              "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+            },
+            {
+              "title": "Retail Banker International – Metallicus and Payfinia partner (26-feb-2025)",
+              "url": "https://www.retailbankerinternational.com/news/metallicus-payfinia-credit-union/"
+            }
+          ]
+        },
+        {
+          "es": "En el mismo anuncio Payfinia se unió al Metal Blockchain Banking Innovation Program.",
+          "en": "In the same announcement Payfinia joined the Metal Blockchain Banking Innovation Program.",
+          "status": "confirmed",
+          "date": "2025-02-25",
+          "sources": [
+            {
+              "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+              "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+            },
+            {
+              "title": "Retail Banker International – Metallicus and Payfinia partner (26-feb-2025)",
+              "url": "https://www.retailbankerinternational.com/news/metallicus-payfinia-credit-union/"
+            }
+          ]
+        },
+        {
+          "es": "Keith Riddle, director general de Payfinia CUSO, y Frank Mazza (Metallicus) aparecen citados en el comunicado.",
+          "en": "Keith Riddle, General Manager of Payfinia CUSO, and Frank Mazza (Metallicus) are quoted in the release.",
+          "status": "confirmed",
+          "date": "2025-02-25",
+          "sources": [
+            {
+              "title": "FinTech Futures (Business Wire) – Payfinia and Metallicus partner (25-feb-2025)",
+              "url": "https://www.fintechfutures.com/press-releases/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-u-s-credit-unions"
+            },
+            {
+              "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+              "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+            },
+            {
+              "title": "Retail Banker International – Metallicus and Payfinia partner (26-feb-2025)",
+              "url": "https://www.retailbankerinternational.com/news/metallicus-payfinia-credit-union/"
+            }
+          ]
+        },
+        {
+          "es": "El comunicado no incluye cifras económicas.",
+          "en": "The release contains no financial figures.",
+          "status": "confirmed",
+          "date": "2025-02-25",
+          "sources": [
+            {
+              "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+              "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mddc-cua",
+      "name": "MD|DC Credit Union Association",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Asociación regional de cooperativas de crédito de Maryland, Delaware y el área metropolitana de Washington D. C. Según Metallicus, desde mayo de 2025 ofrece a sus miembros el programa de innovación de Metallicus como beneficio gratuito.",
+      "summary_en": "Regional credit union trade association for Maryland, Delaware and the Washington, D.C. metro area. According to Metallicus, since May 2025 it has offered Metallicus's innovation program to its members as a free benefit.",
+      "facts": [
+        {
+          "es": "Según el comunicado, sus cooperativas miembro atienden en conjunto a más de 2,7 millones de socios.",
+          "en": "According to the release, its member credit unions collectively serve more than 2.7 million members.",
+          "status": "self",
+          "date": "2025-05-07",
+          "sources": [
+            {
+              "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+              "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, el 7 de mayo de 2025 se anunció su alianza con Metallicus para dar a las cooperativas miembro acceso gratuito al Metal Blockchain Innovation Program, con un grupo directivo de cooperativas participantes.",
+          "en": "According to Metallicus, on May 7, 2025 its partnership with Metallicus was announced, giving member credit unions free access to the Metal Blockchain Innovation Program, guided by a steering group of participating credit unions. No MD|DC publication or independent coverage was found.",
+          "status": "self",
+          "date": "2025-05-07",
+          "sources": [
+            {
+              "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+              "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+            },
+            {
+              "title": "Metallicus – MD|DC Credit Union Association partners with Metallicus' Blockchain Innovation Program",
+              "url": "https://metallicus.com/blog/mddc"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, los casos de uso citados fueron Metal Pay para cooperativas (billetera cripto de marca blanca), Metal Identity (identidad digital con credenciales verificables y SSO) y herramientas antifraude con subredes privadas.",
+          "en": "According to Metallicus, the use cases cited were Metal Pay for credit unions (white-label crypto wallet), Metal Identity (digital identity with verifiable credentials and SSO) and anti-fraud tools using private subnets.",
+          "status": "self",
+          "date": "2025-05-07",
+          "sources": [
+            {
+              "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+              "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+            }
+          ]
+        },
+        {
+          "es": "Según el comunicado de Metallicus, John Bratsakis, presidente y CEO de MD|DC CUA, presentó la alianza como una forma de facilitar que las cooperativas exploren tecnologías como blockchain. Por Metallicus habló Frank Mazza.",
+          "en": "According to the Metallicus release, John Bratsakis, President & CEO of MD|DC CUA, described the partnership as making it easier for credit unions to explore technologies such as blockchain. Frank Mazza spoke for Metallicus.",
+          "status": "self",
+          "date": "2025-05-07",
+          "sources": [
+            {
+              "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+              "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+            },
+            {
+              "title": "Metallicus – MD|DC Credit Union Association partners with Metallicus' Blockchain Innovation Program",
+              "url": "https://metallicus.com/blog/mddc"
+            }
+          ]
+        },
+        {
+          "es": "Ninguna fuente consultada nombra a cooperativas concretas de MD|DC que participen.",
+          "en": "No source consulted names specific MD|DC credit unions that participate.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+              "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+            },
+            {
+              "title": "Metallicus – MD|DC Credit Union Association partners with Metallicus' Blockchain Innovation Program",
+              "url": "https://metallicus.com/blog/mddc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crossstate-cua",
+      "name": "CrossState Credit Union Association",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Asociación regional de cooperativas de crédito de Nueva Jersey y Pensilvania. En mayo de 2026 lanzó con Metallicus el 'Innovation Program 2.0', un piloto simulado de stablecoins con 50 cooperativas.",
+      "summary_en": "Regional credit union trade association for New Jersey and Pennsylvania. In May 2026 it launched 'Innovation Program 2.0' with Metallicus, a simulated stablecoin pilot with 50 credit unions.",
+      "facts": [
+        {
+          "es": "Según su comunicado, tiene oficinas en Harrisburg (Pensilvania) y Hamilton (Nueva Jersey) y apoya a más de 400 cooperativas que suman unos 93.000 millones de dólares en activos y 5,9 millones de socios.",
+          "en": "According to its release, it has offices in Harrisburg, PA and Hamilton, NJ and supports more than 400 credit unions with about $93 billion in combined assets and 5.9 million members.",
+          "status": "self",
+          "date": "2026-05-14",
+          "sources": [
+            {
+              "title": "CUInsight – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure/"
+            },
+            {
+              "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+            }
+          ]
+        },
+        {
+          "es": "El 14 de mayo de 2026 CrossState y Metallicus anunciaron conjuntamente, con contacto de prensa propio de CrossState (crossstate.org) además del de Metallicus, un programa piloto con una cohorte inicial de 50 cooperativas para explorar stablecoins e infraestructura financiera digital.",
+          "en": "On May 14, 2026 CrossState and Metallicus jointly announced, with CrossState's own press contact (crossstate.org) alongside Metallicus's, a pilot program with an initial cohort of 50 credit unions to explore stablecoins and digital financial infrastructure.",
+          "status": "confirmed",
+          "date": "2026-05-14",
+          "sources": [
+            {
+              "title": "CUInsight – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure/"
+            },
+            {
+              "title": "CUInsight – CrossState & Metallicus launch pilot program (versión con contacto de prensa de CrossState, 15-may-2026)",
+              "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure-2/"
+            },
+            {
+              "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+            },
+            {
+              "title": "ACCESS Newswire – CrossState & Metallicus launch pilot program (14-may-2026)",
+              "url": "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-e-1167019"
+            }
+          ]
+        },
+        {
+          "es": "El sandbox de stablecoins es simulado: las cooperativas prueban una stablecoin con su marca sin fondos reales, reservas ni cuentas de socios, y sin integración con el núcleo bancario.",
+          "en": "The stablecoin sandbox is simulated: credit unions test a stablecoin with their brand without real funds, reserves or member accounts, and without core integration.",
+          "status": "confirmed",
+          "date": "2026-05-14",
+          "sources": [
+            {
+              "title": "CUInsight – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure/"
+            },
+            {
+              "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+            }
+          ]
+        },
+        {
+          "es": "Patrick Conway, presidente y CEO de CrossState, describió el programa como educación, colaboración y evaluación práctica para sus cooperativas. Por Metallicus habló Frank Mazza, como director de Blockchain y Activos Digitales para Cooperativas.",
+          "en": "Patrick Conway, CrossState President & CEO, described the program as education, collaboration and hands-on evaluation for its credit unions. Frank Mazza spoke for Metallicus, as Director of Blockchain and Digital Assets for Credit Unions.",
+          "status": "confirmed",
+          "date": "2026-05-14",
+          "sources": [
+            {
+              "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+            },
+            {
+              "title": "CUInsight – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure/"
+            }
+          ]
+        },
+        {
+          "es": "Ninguna de las 50 cooperativas de la cohorte se nombra públicamente en las fuentes consultadas.",
+          "en": "None of the 50 credit unions in the cohort is publicly named in the sources consulted.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "CUInsight – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure/"
+            },
+            {
+              "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+              "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+            }
+          ]
+        },
+        {
+          "es": "La carta a accionistas Q2 2026 de Metallicus presenta el programa como 'Innovation Program 2.0 con CrossState Credit Union Association' y no nombra otra alianza del trimestre.",
+          "en": "Metallicus's Q2 2026 shareholder letter presents it as 'Innovation Program 2.0 with CrossState Credit Union Association' and names no other partnership for the quarter.",
+          "status": "self",
+          "date": "2026-07-06",
+          "sources": [
+            {
+              "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+              "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oneaz-cu",
+      "name": "OneAZ Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito con sede en Phoenix (Arizona) que se incorporó al Banking Innovation Program de Metallicus en junio de 2024.",
+      "summary_en": "Phoenix, Arizona-based credit union that joined Metallicus's Banking Innovation Program in June 2024.",
+      "website": "https://www.oneazcu.com",
+      "facts": [
+        {
+          "es": "Según su web, OneAZ tiene unos 3.400 millones de dólares en activos y más de 200.000 socios, y fue fundada en 1951.",
+          "en": "According to its website, OneAZ has about $3.4 billion in assets and more than 200,000 members, and was founded in 1951.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+              "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+            }
+          ]
+        },
+        {
+          "es": "En junio de 2024 (comunicado fechado el 11 de junio y publicado también en la web de OneAZ) se anunció su incorporación al Metal Blockchain Banking Innovation Program.",
+          "en": "In June 2024 (release dated June 11 and also published on OneAZ's website) its enrollment in the Metal Blockchain Banking Innovation Program was announced.",
+          "status": "confirmed",
+          "date": "2024-06-11",
+          "sources": [
+            {
+              "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+              "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+            },
+            {
+              "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+              "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+            }
+          ]
+        },
+        {
+          "es": "Su presidente y CEO, Brandon Michaels, y su EVP y CTO, Sandeep Uthra, presentaron la incorporación como una exploración del potencial de blockchain para sus socios.",
+          "en": "Its President & CEO Brandon Michaels and EVP & CTO Sandeep Uthra presented the enrollment as an exploration of blockchain's potential for their members.",
+          "status": "confirmed",
+          "date": "2024-06",
+          "sources": [
+            {
+              "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+              "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+            },
+            {
+              "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+              "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+            }
+          ]
+        },
+        {
+          "es": "La NASCUS (citando a CUToday) la presentó como la segunda cooperativa en unirse a la iniciativa, después de Patelco.",
+          "en": "NASCUS (citing CUToday) presented it as the second credit union to join the initiative, after Patelco.",
+          "status": "confirmed",
+          "date": "2024-06-20",
+          "sources": [
+            {
+              "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+              "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "patelco-cu",
+      "name": "Patelco Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito de California que se incorporó al Banking Innovation Program en mayo de 2024, según Metallicus y CUToday.",
+      "summary_en": "California credit union that joined the Banking Innovation Program in May 2024, according to Metallicus and CUToday.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 16 de mayo de 2024 Patelco se inscribió en el Banking Innovation Program. En el comunicado solo habla Frank Mazza (Metallicus); no aparece ninguna declaración de Patelco.",
+          "en": "According to Metallicus, on May 16, 2024 Patelco enrolled in the Banking Innovation Program. Only Frank Mazza (Metallicus) is quoted; there is no Patelco statement.",
+          "status": "self",
+          "date": "2024-05-16",
+          "sources": [
+            {
+              "title": "Metallicus – Patelco Credit Union joins Metal Blockchain's Banking Innovation Program (16-may-2024)",
+              "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/patelco-credit-union-blockchain"
+            },
+            {
+              "title": "Metal Blockchain – Patelco Credit Union blockchain (16-may-2024)",
+              "url": "https://metalblockchain.org/news-insights/patelco-credit-union-blockchain"
+            }
+          ]
+        },
+        {
+          "es": "La NASCUS, reproduciendo información de CUToday, recogió en junio de 2024 que Patelco ya estaba inscrita en el programa.",
+          "en": "NASCUS, reproducing CUToday reporting, noted in June 2024 that Patelco had already enrolled in the program.",
+          "status": "confirmed",
+          "date": "2024-06-20",
+          "sources": [
+            {
+              "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+              "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesa-cu",
+      "name": "Gesa Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito con sede en Richland (Washington) que se unió al Banking Innovation Program en julio de 2024.",
+      "summary_en": "Credit union headquartered in Richland, Washington, that joined the Banking Innovation Program in July 2024.",
+      "facts": [
+        {
+          "es": "El 16 de julio de 2024 Gesa publicó en su propia web su participación en el programa; el comunicado de Metallicus de ese día incluye una declaración de su CIO, Andrew Chung.",
+          "en": "On July 16, 2024 Gesa published its participation in the program on its own website; Metallicus's release that day includes a statement by its CIO, Andrew Chung.",
+          "status": "confirmed",
+          "date": "2024-07-16",
+          "sources": [
+            {
+              "title": "Gesa Credit Union – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+              "url": "https://gesa.com/gesa-credit-union-joins-metal-blockchains-banking-innovation-program"
+            },
+            {
+              "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+              "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
+            }
+          ]
+        },
+        {
+          "es": "Según el comunicado, Gesa tiene más de 5.500 millones de dólares en activos y más de 290.000 socios.",
+          "en": "According to the release, Gesa has over $5.5 billion in assets and more than 290,000 members.",
+          "status": "self",
+          "date": "2024-07-16",
+          "sources": [
+            {
+              "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+              "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bay-federal-cu",
+      "name": "Bay Federal Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito de Capitola (California) que atiende a los condados de Santa Cruz, San Benito y Monterey; se unió al Banking Innovation Program en febrero de 2025.",
+      "summary_en": "Capitola, California credit union serving Santa Cruz, San Benito and Monterey counties; it joined the Banking Innovation Program in February 2025.",
+      "facts": [
+        {
+          "es": "El 20 de febrero de 2025 se anunció su incorporación al programa, con una declaración de su presidenta y CEO, Carrie Birkhofer.",
+          "en": "On February 20, 2025 its entry into the program was announced, with a statement by its President & CEO, Carrie Birkhofer.",
+          "status": "confirmed",
+          "date": "2025-02-20",
+          "sources": [
+            {
+              "title": "Bay Federal Credit Union – Bay Federal Credit Union joins Metal Blockchain's Banking Innovation Program (20-feb-2025)",
+              "url": "https://bfstandby.bayfed.com/about-us/news/media-and-press-releases/bay-federal-credit-union-joins-metal-blockchain%E2%80%99s-banking-innovation-program"
+            },
+            {
+              "title": "CUInsight – Bay Federal Credit Union joins Metal Blockchain's Banking Innovation Program (20-feb-2025)",
+              "url": "https://www.cuinsight.com/press-release/bay-federal-credit-union-joins-metal-blockchains-banking-innovation-program/"
+            }
+          ]
+        },
+        {
+          "es": "Las cifras difieren: la versión en CUInsight indica más de 1.800 millones de dólares en activos y más de 97.000 socios; la versión en la web de Bay Federal (subdominio bfstandby) indica más de 1.600 millones y más de 88.000 socios.",
+          "en": "Figures differ: the CUInsight version states over $1.8 billion in assets and more than 97,000 members; the version on Bay Federal's website (bfstandby subdomain) states over $1.6 billion and more than 88,000 members.",
+          "status": "disputed",
+          "date": "2025-02-20",
+          "sources": [
+            {
+              "title": "CUInsight – Bay Federal Credit Union joins Metal Blockchain's Banking Innovation Program (20-feb-2025)",
+              "url": "https://www.cuinsight.com/press-release/bay-federal-credit-union-joins-metal-blockchains-banking-innovation-program/"
+            },
+            {
+              "title": "Bay Federal Credit Union – Bay Federal Credit Union joins Metal Blockchain's Banking Innovation Program (20-feb-2025)",
+              "url": "https://bfstandby.bayfed.com/about-us/news/media-and-press-releases/bay-federal-credit-union-joins-metal-blockchain%E2%80%99s-banking-innovation-program"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tdecu",
+      "name": "TDECU",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito del área de Houston (Texas) que, según Metallicus, se unió al Banking Innovation Program en julio de 2024.",
+      "summary_en": "Houston-area (Texas) credit union that, according to Metallicus, joined the Banking Innovation Program in July 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 9 de julio de 2024 anunció la incorporación de TDECU, con declaraciones de su Chief Information and Technology Officer, Ashish Chopra.",
+          "en": "According to Metallicus, on July 9, 2024 it announced TDECU's entry, with statements by its Chief Information and Technology Officer, Ashish Chopra.",
+          "status": "self",
+          "date": "2024-07-09",
+          "sources": [
+            {
+              "title": "Metal Blockchain – TDECU joins Banking Innovation Program (9-jul-2024)",
+              "url": "https://metalblockchain.org/news-insights/tdecu-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "empower-fcu",
+      "name": "Empower Federal Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en junio de 2024.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in June 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 6 de junio de 2024 anunció su incorporación, con una declaración de su CIO, Jin Gwak.",
+          "en": "According to Metallicus, on June 6, 2024 it announced its entry, with a statement by its CIO, Jin Gwak.",
+          "status": "self",
+          "date": "2024-06-06",
+          "sources": [
+            {
+              "title": "Metallicus – Empower Federal Credit Union joins Metal Blockchain's Banking Innovation Program (6-jun-2024)",
+              "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/empower-federal-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vibrant-cu",
+      "name": "Vibrant Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito fundada en 1935 que, según Metallicus, se unió al Banking Innovation Program en marzo de 2024.",
+      "summary_en": "Credit union founded in 1935 that, according to Metallicus, joined the Banking Innovation Program in March 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 7 de marzo de 2024 anunció su incorporación, con una declaración de su CTO, Pete Nohelty.",
+          "en": "According to Metallicus, on March 7, 2024 it announced its entry, with a statement by its CTO, Pete Nohelty.",
+          "status": "self",
+          "date": "2024-03-07",
+          "sources": [
+            {
+              "title": "Metallicus – Vibrant Credit Union joins Banking Innovation Program (7-mar-2024)",
+              "url": "https://metallicus.com/blog/vibrant-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fairwinds-cu",
+      "name": "FAIRWINDS Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en abril de 2024.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in April 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 25 de abril de 2024 anunció su incorporación, con una declaración de su CIO, Charlie Lai.",
+          "en": "According to Metallicus, on April 25, 2024 it announced its entry, with a statement by its CIO, Charlie Lai.",
+          "status": "self",
+          "date": "2024-04-25",
+          "sources": [
+            {
+              "title": "Metal Blockchain – FAIRWINDS Credit Union joins Banking Innovation Program (25-abr-2024)",
+              "url": "https://metalblockchain.org/news-insights/fairwinds-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meritrust-cu",
+      "name": "Meritrust Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en mayo de 2024.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in May 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 1 de mayo de 2024 anunció su incorporación, con una declaración de su SVP/CIO, Cliff Shoff.",
+          "en": "According to Metallicus, on May 1, 2024 it announced its entry, with a statement by its SVP/CIO, Cliff Shoff.",
+          "status": "self",
+          "date": "2024-05-01",
+          "sources": [
+            {
+              "title": "Metallicus – Meritrust Credit Union joins Metal Blockchain Banking Innovation Program (1-may-2024)",
+              "url": "https://metallicus.com/blog/meritrust-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "keypoint-cu",
+      "name": "KeyPoint Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en junio de 2024.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in June 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 29 de junio de 2024 anunció su incorporación, con una declaración de su CIO, Drew Manning.",
+          "en": "According to Metallicus, on June 29, 2024 it announced its entry, with a statement by its CIO, Drew Manning.",
+          "status": "self",
+          "date": "2024-06-29",
+          "sources": [
+            {
+              "title": "Metallicus – KeyPoint Credit Union joins Metal Blockchain's Banking Innovation Program (29-jun-2024)",
+              "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/keypoint-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summerland-cu",
+      "name": "Summerland Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en junio de 2024.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in June 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 27 de junio de 2024 anunció su incorporación, con una declaración de su CEO, Kelly Marshall.",
+          "en": "According to Metallicus, on June 27, 2024 it announced its entry, with a statement by its CEO, Kelly Marshall.",
+          "status": "self",
+          "date": "2024-06-27",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Summerland Credit Union joins Banking Innovation Program (27-jun-2024)",
+              "url": "https://metalblockchain.org/news-insights/summerland-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "illiana-fcu",
+      "name": "Illiana Financial Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en julio de 2024.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in July 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 2 de julio de 2024 anunció su incorporación, con una declaración de su CEO, Jim Henmueller.",
+          "en": "According to Metallicus, on July 2, 2024 it announced its entry, with a statement by its CEO, Jim Henmueller.",
+          "status": "self",
+          "date": "2024-07-02",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Illiana Financial Credit Union joins Banking Innovation Program (2-jul-2024)",
+              "url": "https://metalblockchain.org/news-insights/illiana-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glendale-area-schools-cu",
+      "name": "Glendale Area Schools Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en julio de 2024 para explorar casos de uso de stablecoins.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in July 2024 to explore stablecoin use cases.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 18 de julio de 2024 anunció su incorporación, con una declaración de su CEO, Wesley Walton.",
+          "en": "According to Metallicus, on July 18, 2024 it announced its entry, with a statement by its CEO, Wesley Walton.",
+          "status": "self",
+          "date": "2024-07-18",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Glendale Area Schools Credit Union joins Banking Innovation Program (18-jul-2024)",
+              "url": "https://metalblockchain.org/news-insights/glendale-area-schools-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greenstate-cu",
+      "name": "GreenState Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito con sede en North Liberty (Iowa) que, según Metallicus, se unió al Banking Innovation Program en septiembre de 2024.",
+      "summary_en": "Credit union headquartered in North Liberty, Iowa, that, according to Metallicus, joined the Banking Innovation Program in September 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 18 de septiembre de 2024 anunció su incorporación, con una declaración de su Chief Experience & Operating Officer, Kathy Courtney.",
+          "en": "According to Metallicus, on September 18, 2024 it announced its entry, with a statement by its Chief Experience & Operating Officer, Kathy Courtney.",
+          "status": "self",
+          "date": "2024-09-18",
+          "sources": [
+            {
+              "title": "Newswire – GreenState Credit Union joins Metal Blockchain's Banking Innovation Program (18-sep-2024)",
+              "url": "https://www.newswire.com/view/content/greenstate-credit-union-joins-metal-blockchains-banking-innovation-22427477"
+            }
+          ]
+        },
+        {
+          "es": "Según el comunicado, GreenState tiene más de 450.000 socios.",
+          "en": "According to the release, GreenState has more than 450,000 members.",
+          "status": "self",
+          "date": "2024-09-18",
+          "sources": [
+            {
+              "title": "Newswire – GreenState Credit Union joins Metal Blockchain's Banking Innovation Program (18-sep-2024)",
+              "url": "https://www.newswire.com/view/content/greenstate-credit-union-joins-metal-blockchains-banking-innovation-22427477"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "community-healthcare-fcu",
+      "name": "Community Healthcare Federal Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en septiembre de 2024.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in September 2024.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 10 de septiembre de 2024 se incorporó al programa; el comunicado no incluye ninguna declaración de la cooperativa.",
+          "en": "According to Metallicus, it joined the program on September 10, 2024; the release contains no statement from the credit union.",
+          "status": "self",
+          "date": "2024-09-10",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Community Healthcare Federal Credit Union joins Banking Innovation Program (10-sep-2024)",
+              "url": "https://metalblockchain.org/news-insights/community-healthcare-federal-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "excite-cu",
+      "name": "Excite Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en enero de 2025.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in January 2025.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 31 de enero de 2025 se incorporó al programa; el comunicado no incluye ninguna declaración de la cooperativa.",
+          "en": "According to Metallicus, it joined the program on January 31, 2025; the release contains no statement from the credit union.",
+          "status": "self",
+          "date": "2025-01-31",
+          "sources": [
+            {
+              "title": "Metallicus – Excite Credit Union joins Metal Blockchain Banking Innovation Program (31-ene-2025)",
+              "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/excite-credit-union-joins-metal-blockchain-banking-innovation-program"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mocse-cu",
+      "name": "Mocse Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en mayo de 2025.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in May 2025.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 8 de mayo de 2025 Mocse se incorporó al programa; solo hablan portavoces de Metallicus.",
+          "en": "According to Metallicus, Mocse joined the program on May 8, 2025; only Metallicus spokespeople are quoted.",
+          "status": "self",
+          "date": "2025-05-08",
+          "sources": [
+            {
+              "title": "Newswire – Mocse Credit Union joins Metal Blockchain's Banking Innovation Program (8-may-2025)",
+              "url": "https://www.newswire.com/view/content/mocse-credit-union-joins-metal-blockchains-banking-innovation-program-22570296"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "directions-cu",
+      "name": "Directions Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito que, según Metallicus, se unió al Banking Innovation Program en mayo de 2025.",
+      "summary_en": "Credit union that, according to Metallicus, joined the Banking Innovation Program in May 2025.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 19 de mayo de 2025 anunció su incorporación, con declaraciones de su Chief Risk Officer, Jonathan Pollock.",
+          "en": "According to Metallicus, on May 19, 2025 it announced its entry, with statements by its Chief Risk Officer, Jonathan Pollock.",
+          "status": "self",
+          "date": "2025-05-19",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Directions Credit Union joins Banking Innovation Program (19-may-2025)",
+              "url": "https://metalblockchain.org/news-insights/directions-credit-union-blockchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "one-nevada-cu",
+      "name": "One Nevada Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito de Nevada que, según Metallicus, se unió al piloto simulado de stablecoins de Metallicus en noviembre de 2025.",
+      "summary_en": "Nevada credit union that, according to Metallicus, joined Metallicus's simulated stablecoin pilot in November 2025.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 25 de noviembre de 2025 anunció su incorporación al Stablecoin Pilot Program (entorno simulado, sin dinero real), con una declaración de su presidente y CEO, Steve O'Donnell.",
+          "en": "According to Metallicus, on November 25, 2025 it announced its entry into the Stablecoin Pilot Program (simulated environment, no real money), with a statement by its President & CEO, Steve O'Donnell.",
+          "status": "self",
+          "date": "2025-11-25",
+          "sources": [
+            {
+              "title": "Metallicus – One Nevada Credit Union joins Stablecoin Pilot (25-nov-2025)",
+              "url": "https://metallicus.com/blog/one-nevada-credit-union-blockchain"
+            }
+          ]
+        },
+        {
+          "es": "El informe Q4 2025 de Metallicus la nombra entre las cooperativas que se unieron al piloto ese trimestre.",
+          "en": "Metallicus's Q4 2025 report names it among the credit unions that joined the pilot that quarter.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arizona-financial-cu",
+      "name": "Arizona Financial Credit Union",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Cooperativa de crédito de Arizona que, según Metallicus, se unió al piloto simulado de stablecoins de Metallicus en diciembre de 2025.",
+      "summary_en": "Arizona credit union that, according to Metallicus, joined Metallicus's simulated stablecoin pilot in December 2025.",
+      "facts": [
+        {
+          "es": "Según Metallicus, el 4 de diciembre de 2025 anunció su incorporación al Stablecoin Pilot Program, con una declaración de su SVP de I+D, Eric Givens, que subrayó el uso de reservas simuladas.",
+          "en": "According to Metallicus, on December 4, 2025 it announced its entry into the Stablecoin Pilot Program, with a statement by its SVP of R&D, Eric Givens, who stressed the use of simulated reserves.",
+          "status": "self",
+          "date": "2025-12-04",
+          "sources": [
+            {
+              "title": "Metallicus – Arizona Financial Credit Union joins Stablecoin Pilot (4-dic-2025)",
+              "url": "https://metallicus.com/blog/arizona-financial-credit-union-blockchain-stablecoin"
+            }
+          ]
+        },
+        {
+          "es": "El informe Q4 2025 de Metallicus la nombra entre las cooperativas que se unieron al piloto ese trimestre.",
+          "en": "Metallicus's Q4 2025 report names it among the credit unions that joined the pilot that quarter.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gowest-solutions",
+      "name": "GoWest Solutions (GoWest Credit Union Association)",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Brazo de soluciones de GoWest Credit Union Association, asociación regional de cooperativas de crédito del oeste de EE. UU. En mayo de 2025 anunció una alianza con Metallicus para ofrecer gratis su programa de innovación blockchain a sus cooperativas miembro.",
+      "summary_en": "Solutions arm of GoWest Credit Union Association, a regional credit union trade association in the western U.S. In May 2025 it announced a partnership with Metallicus to offer its blockchain innovation program free to member credit unions.",
+      "facts": [
+        {
+          "es": "El 28 de mayo de 2025 GoWest publicó un comunicado propio sobre la alianza entre GoWest Solutions y Metallicus, que da acceso gratuito a sus cooperativas miembro a un programa de innovación de Metal Blockchain. Hablan su presidente y CEO, Troy Stang, y su Chief Growth Officer, Cameron Smith; no se nombran cooperativas participantes.",
+          "en": "On May 28, 2025 GoWest published its own release on the partnership between GoWest Solutions and Metallicus, giving its member credit unions free access to a Metal Blockchain innovation program. President & CEO Troy Stang and Chief Growth Officer Cameron Smith are quoted; no participating credit unions are named.",
+          "status": "confirmed",
+          "date": "2025-05-28",
+          "sources": [
+            {
+              "title": "GoWest Credit Union Association – Credit unions embrace blockchain… (comunicado, 28-may-2025)",
+              "url": "https://gowestassociation.org/2025/05/28/credit-unions-embrace-blockchain-to-leverage-the-future-of-trustworthy-financial-services/"
+            }
+          ]
+        },
+        {
+          "es": "El directorio de socios de GoWest Solutions incluye a Metallicus, describiéndolo como CUSO que ofrece billeteras de activos digitales de marca blanca e infraestructura de stablecoins, para cooperativas de Arizona, Colorado, Idaho, Oregón, Washington y Wyoming.",
+          "en": "GoWest Solutions' partner directory lists Metallicus, describing it as a CUSO offering white-label digital-asset wallets and stablecoin infrastructure, for credit unions in Arizona, Colorado, Idaho, Oregon, Washington and Wyoming.",
+          "status": "confirmed",
+          "date": "2026",
+          "sources": [
+            {
+              "title": "GoWest Credit Union Association – All Partners: Metallicus",
+              "url": "https://gowestassociation.org/?p=146012"
+            }
+          ]
+        },
+        {
+          "es": "Según una página de metalblockchain.org sin fecha, GoWest Solutions se asoció con Metallicus para dar a sus miembros acceso gratuito al programa, que exige firmar un NDA mutuo y un acuerdo de investigación. ",
+          "en": "According to an undated metalblockchain.org page, GoWest Solutions partnered with Metallicus to give its members free access to the program, which requires signing a mutual NDA and a research agreement.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Banking Innovation Program con GoWest Solutions (landing page)",
+              "url": "https://metalblockchain.org/gowest"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "metallicus",
+      "to": "banking-innovation-program",
+      "label_es": "creó y dirige",
+      "label_en": "created and runs",
+      "status": "self",
+      "date": "2024-01-10",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Metal Blockchain introduces its Banking Innovation Program (10-ene-2024)",
+          "url": "https://metalblockchain.org/news-insights/metal-blockchain-introduces-it-s-banking-innovation-program"
+        },
+        {
+          "title": "Metal Blockchain – Banking Innovation Program (página del programa)",
+          "url": "https://metalblockchain.org/banking-innovation-program"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "banking-innovation-program",
+      "label_es": "plataforma del programa",
+      "label_en": "platform of the program",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Metal Blockchain introduces its Banking Innovation Program (10-ene-2024)",
+          "url": "https://metalblockchain.org/news-insights/metal-blockchain-introduces-it-s-banking-innovation-program"
+        },
+        {
+          "title": "Metal Blockchain – Banking Innovation Program (página del programa)",
+          "url": "https://metalblockchain.org/banking-innovation-program"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "banking-innovation-program",
+      "label_es": "anunció el lanzamiento (como CEO)",
+      "label_en": "announced the launch (as CEO)",
+      "status": "self",
+      "date": "2024-01-10",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Metal Blockchain introduces its Banking Innovation Program (10-ene-2024)",
+          "url": "https://metalblockchain.org/news-insights/metal-blockchain-introduces-it-s-banking-innovation-program"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "banking-innovation-program",
+      "label_es": "portavoz de Metallicus en anuncios de incorporación",
+      "label_en": "Metallicus spokesperson in enrollment announcements",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Patelco Credit Union joins Metal Blockchain's Banking Innovation Program (16-may-2024)",
+          "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/patelco-credit-union-blockchain"
+        },
+        {
+          "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+          "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
+        },
+        {
+          "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+          "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+        },
+        {
+          "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+          "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+        },
+        {
+          "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+          "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+        }
+      ]
+    },
+    {
+      "from": "bonifii",
+      "to": "banking-innovation-program",
+      "label_es": "se unió",
+      "label_en": "joined",
+      "status": "confirmed",
+      "date": "2024-06-25",
+      "sources": [
+        {
+          "title": "CUInsight – Bonifii joins Metal Blockchain's Banking Innovation Program (25-jun-2024)",
+          "url": "https://www.cuinsight.com/press-release/bonifii-joins-metal-blockchains-banking-innovation-program/"
+        }
+      ]
+    },
+    {
+      "from": "velera",
+      "to": "metallicus",
+      "label_es": "inversor estratégico de",
+      "label_en": "strategic investor in",
+      "status": "confirmed",
+      "date": "2025-08-20",
+      "sources": [
+        {
+          "title": "Velera – Digital Asset Lab (comunicado, 20-ago-2025)",
+          "url": "https://www.velera.com/digital-asset-lab-stablecoin-for-credit-unions"
+        },
+        {
+          "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+          "url": "https://metallicus.com/blog/metallicus-velera"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "velera",
+      "label_es": "primer socio de plataforma del Digital Asset Lab de",
+      "label_en": "first platform partner of the Digital Asset Lab of",
+      "status": "confirmed",
+      "date": "2025-08-20",
+      "sources": [
+        {
+          "title": "Velera – Digital Asset Lab (comunicado, 20-ago-2025)",
+          "url": "https://www.velera.com/digital-asset-lab-stablecoin-for-credit-unions"
+        },
+        {
+          "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+          "url": "https://metallicus.com/blog/metallicus-velera"
+        },
+        {
+          "title": "PYMNTS – Velera bets on stablecoin growth with Digital Asset Lab",
+          "url": "https://www.pymnts.com/credit-unions/2025/velera-bets-on-stablecoin-growth-with-digital-asset-lab/"
+        }
+      ]
+    },
+    {
+      "from": "john-ainsworth",
+      "to": "velera",
+      "label_es": "portavoz de Metallicus en el anuncio con (según Metallicus)",
+      "label_en": "Metallicus spokesperson in the announcement with (according to Metallicus)",
+      "status": "self",
+      "date": "2025-08-20",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+          "url": "https://metallicus.com/blog/metallicus-velera"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "velera",
+      "label_es": "portavoz de Metallicus en el anuncio con",
+      "label_en": "Metallicus spokesperson in the announcement with",
+      "status": "confirmed",
+      "date": "2025-08-20",
+      "sources": [
+        {
+          "title": "Velera – Digital Asset Lab (comunicado, 20-ago-2025)",
+          "url": "https://www.velera.com/digital-asset-lab-stablecoin-for-credit-unions"
+        },
+        {
+          "title": "Metallicus – Metallicus y Velera (20-ago-2025)",
+          "url": "https://metallicus.com/blog/metallicus-velera"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "investifi",
+      "label_es": "alianza estratégica de stablecoins con",
+      "label_en": "strategic stablecoin alliance with",
+      "status": "confirmed",
+      "date": "2025-11-03",
+      "sources": [
+        {
+          "title": "CUInsight – InvestiFi announce strategic alliance with Metallicus",
+          "url": "https://www.cuinsight.com/press-release/investifi-announce-strategic-alliance-with-metallicus-to-deliver-institution-backed-stablecoins-within-their-digital-investing-platform/"
+        },
+        {
+          "title": "Metallicus – Metallicus–InvestiFi stablecoin alliance (3-nov-2025)",
+          "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+        },
+        {
+          "title": "InvestiFi – Stablecoin (página propia, 2026)",
+          "url": "https://investifi.com/stablecoin/"
+        }
+      ]
+    },
+    {
+      "from": "investifi",
+      "to": "xpr-network",
+      "label_es": "infraestructura anunciada (capa 1) para stablecoins",
+      "label_en": "announced infrastructure (layer 1) for stablecoins",
+      "status": "self",
+      "date": "2025-11-03",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus–InvestiFi stablecoin alliance (3-nov-2025)",
+          "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+        }
+      ]
+    },
+    {
+      "from": "investifi",
+      "to": "metal-blockchain",
+      "label_es": "infraestructura anunciada (capa 0) para stablecoins",
+      "label_en": "announced infrastructure (layer 0) for stablecoins",
+      "status": "self",
+      "date": "2025-11-03",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus–InvestiFi stablecoin alliance (3-nov-2025)",
+          "url": "https://www.metallicus.com/blog/metallicus-investifi-stablecoin-alliance"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "daland-cuso",
+      "label_es": "alianza estratégica con",
+      "label_en": "strategic alliance with",
+      "status": "confirmed",
+      "date": "2025-08-05",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus partners with DaLand CUSO (5-ago-2025)",
+          "url": "https://metallicus.com/blog/metallicus-partners-with-daland-cuso"
+        },
+        {
+          "title": "CUInsight – DaLand CUSO empowers credit unions with institution-branded stablecoins (6-ago-2025)",
+          "url": "https://www.cuinsight.com/press-release/daland-cuso-empowers-credit-unions-with-institution-branded-stablecoins-via-new-metallicus-partnership/"
+        }
+      ]
+    },
+    {
+      "from": "daland-cuso",
+      "to": "metal-blockchain",
+      "label_es": "integra Coin2Core con",
+      "label_en": "integrates Coin2Core with",
+      "status": "confirmed",
+      "date": "2025-08",
+      "sources": [
+        {
+          "title": "Metallicus – Metallicus partners with DaLand CUSO (5-ago-2025)",
+          "url": "https://metallicus.com/blog/metallicus-partners-with-daland-cuso"
+        },
+        {
+          "title": "CUInsight – DaLand CUSO empowers credit unions with institution-branded stablecoins (6-ago-2025)",
+          "url": "https://www.cuinsight.com/press-release/daland-cuso-empowers-credit-unions-with-institution-branded-stablecoins-via-new-metallicus-partnership/"
+        }
+      ]
+    },
+    {
+      "from": "st-cloud-fcu",
+      "to": "daland-cuso",
+      "label_es": "propietaria principal de",
+      "label_en": "principal owner of",
+      "status": "confirmed",
+      "date": "2024-08-14",
+      "sources": [
+        {
+          "title": "CUInsight – St. Cloud Financial CU announces strategic investment in DaLand CUSO (14-ago-2024)",
+          "url": "https://www.cuinsight.com/press-release/st-cloud-financial-credit-union-announces-strategic-investment-in-daland-cuso/"
+        },
+        {
+          "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+          "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+        }
+      ]
+    },
+    {
+      "from": "altra-fcu",
+      "to": "daland-cuso",
+      "label_es": "copropietaria de",
+      "label_en": "co-owner of",
+      "status": "confirmed",
+      "date": "2024-08-14",
+      "sources": [
+        {
+          "title": "CUInsight – St. Cloud Financial CU announces strategic investment in DaLand CUSO (14-ago-2024)",
+          "url": "https://www.cuinsight.com/press-release/st-cloud-financial-credit-union-announces-strategic-investment-in-daland-cuso/"
+        },
+        {
+          "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+          "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+        }
+      ]
+    },
+    {
+      "from": "blaze-cu",
+      "to": "daland-cuso",
+      "label_es": "segunda mayor accionista de",
+      "label_en": "second-largest shareholder of",
+      "status": "confirmed",
+      "date": "2025-03-20",
+      "sources": [
+        {
+          "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+          "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+        }
+      ]
+    },
+    {
+      "from": "canvas-cu",
+      "to": "daland-cuso",
+      "label_es": "propietaria de",
+      "label_en": "owner of",
+      "status": "confirmed",
+      "date": "2026-01-13",
+      "sources": [
+        {
+          "title": "CUInsight – DaLand CUSO… Canvas Credit Union becomes latest owner (13-ene-2026)",
+          "url": "https://www.cuinsight.com/press-release/daland-cuso-delivers-new-money-integration-into-the-credit-union-core-landscape-and-unlocks-turnkey-bitcoin-and-digital-asset-access-for-the-entire-industry-canvas-credit-union-4-95b-becomes-lates/"
+        }
+      ]
+    },
+    {
+      "from": "st-cloud-fcu",
+      "to": "cldusd",
+      "label_es": "anunció la emisión de",
+      "label_en": "announced issuance of",
+      "status": "confirmed",
+      "date": "2025-09-16",
+      "sources": [
+        {
+          "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+          "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+        },
+        {
+          "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+          "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+        }
+      ]
+    },
+    {
+      "from": "cldusd",
+      "to": "metal-blockchain",
+      "label_es": "anunciada para emitirse en",
+      "label_en": "announced to be issued on",
+      "status": "confirmed",
+      "date": "2025-09",
+      "sources": [
+        {
+          "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+          "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+        },
+        {
+          "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+          "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+        }
+      ]
+    },
+    {
+      "from": "daland-cuso",
+      "to": "cldusd",
+      "label_es": "integra en el núcleo bancario (Coin2Core)",
+      "label_en": "integrates into the core (Coin2Core)",
+      "status": "confirmed",
+      "date": "2025-09",
+      "sources": [
+        {
+          "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+          "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+        },
+        {
+          "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+          "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "cldusd",
+      "label_es": "proveedor de infraestructura blockchain de",
+      "label_en": "blockchain infrastructure provider for",
+      "status": "confirmed",
+      "date": "2025-09",
+      "sources": [
+        {
+          "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+          "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+        },
+        {
+          "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+          "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+        },
+        {
+          "title": "Co-operative News – US credit union launches stablecoin crypto (12-sep-2025)",
+          "url": "https://www.thenews.coop/us-credit-union-launches-stablecoin-crypto-as-part-of-digital-asset-platform/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "st-cloud-fcu",
+      "label_es": "socio tecnológico de la stablecoin de",
+      "label_en": "technology partner for the stablecoin of",
+      "status": "confirmed",
+      "date": "2025-09-16",
+      "sources": [
+        {
+          "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+          "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+        },
+        {
+          "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+          "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+        }
+      ]
+    },
+    {
+      "from": "cornerstone-league",
+      "to": "metallicus",
+      "label_es": "alianza: piloto de stablecoins gratuito para sus cooperativas (según Metallicus)",
+      "label_en": "partnership: free stablecoin pilot for its credit unions (according to Metallicus)",
+      "status": "self",
+      "date": "2025-10-09",
+      "sources": [
+        {
+          "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+          "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+        },
+        {
+          "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+          "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+        }
+      ]
+    },
+    {
+      "from": "cornerstone-league",
+      "to": "banking-innovation-program",
+      "label_es": "da acceso a sus miembros a (según Metallicus)",
+      "label_en": "gives its members access to (according to Metallicus)",
+      "status": "self",
+      "date": "2025-10-09",
+      "sources": [
+        {
+          "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+          "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "cornerstone-league",
+      "label_es": "portavoz de Metallicus en la alianza con",
+      "label_en": "Metallicus spokesperson in the partnership with",
+      "status": "self",
+      "date": "2025-10-09",
+      "sources": [
+        {
+          "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+          "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+        },
+        {
+          "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+          "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+        }
+      ]
+    },
+    {
+      "from": "payfinia",
+      "to": "metal-pay",
+      "label_es": "socio preferente de API y pagos de",
+      "label_en": "preferred API and payments partner of",
+      "status": "confirmed",
+      "date": "2025-02-25",
+      "sources": [
+        {
+          "title": "FinTech Futures (Business Wire) – Payfinia and Metallicus partner (25-feb-2025)",
+          "url": "https://www.fintechfutures.com/press-releases/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-u-s-credit-unions"
+        },
+        {
+          "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+          "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+        },
+        {
+          "title": "Retail Banker International – Metallicus and Payfinia partner (26-feb-2025)",
+          "url": "https://www.retailbankerinternational.com/news/metallicus-payfinia-credit-union/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "payfinia",
+      "label_es": "alianza de pagos instantáneos y cripto con",
+      "label_en": "instant payments and crypto partnership with",
+      "status": "confirmed",
+      "date": "2025-02-25",
+      "sources": [
+        {
+          "title": "FinTech Futures (Business Wire) – Payfinia and Metallicus partner (25-feb-2025)",
+          "url": "https://www.fintechfutures.com/press-releases/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-u-s-credit-unions"
+        },
+        {
+          "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+          "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+        },
+        {
+          "title": "Retail Banker International – Metallicus and Payfinia partner (26-feb-2025)",
+          "url": "https://www.retailbankerinternational.com/news/metallicus-payfinia-credit-union/"
+        }
+      ]
+    },
+    {
+      "from": "payfinia",
+      "to": "banking-innovation-program",
+      "label_es": "se unió",
+      "label_en": "joined",
+      "status": "confirmed",
+      "date": "2025-02-25",
+      "sources": [
+        {
+          "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+          "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+        },
+        {
+          "title": "Retail Banker International – Metallicus and Payfinia partner (26-feb-2025)",
+          "url": "https://www.retailbankerinternational.com/news/metallicus-payfinia-credit-union/"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "payfinia",
+      "label_es": "portavoz de Metallicus en la alianza con",
+      "label_en": "Metallicus spokesperson in the partnership with",
+      "status": "confirmed",
+      "date": "2025-02-25",
+      "sources": [
+        {
+          "title": "FinTech Futures (Business Wire) – Payfinia and Metallicus partner (25-feb-2025)",
+          "url": "https://www.fintechfutures.com/press-releases/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-u-s-credit-unions"
+        },
+        {
+          "title": "CUInsight – Payfinia and Metallicus partner to extend instant payments and cryptocurrency (25-feb-2025)",
+          "url": "https://www.cuinsight.com/press-release/payfinia-and-metallicus-partner-to-extend-instant-payments-and-cryptocurrency-to-us-credit-unions/"
+        },
+        {
+          "title": "Retail Banker International – Metallicus and Payfinia partner (26-feb-2025)",
+          "url": "https://www.retailbankerinternational.com/news/metallicus-payfinia-credit-union/"
+        }
+      ]
+    },
+    {
+      "from": "mddc-cua",
+      "to": "metallicus",
+      "label_es": "alianza: programa de innovación gratuito para sus miembros (según Metallicus)",
+      "label_en": "partnership: free innovation program for its members (according to Metallicus)",
+      "status": "self",
+      "date": "2025-05-07",
+      "sources": [
+        {
+          "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+          "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+        },
+        {
+          "title": "Metallicus – MD|DC Credit Union Association partners with Metallicus' Blockchain Innovation Program",
+          "url": "https://metallicus.com/blog/mddc"
+        }
+      ]
+    },
+    {
+      "from": "mddc-cua",
+      "to": "banking-innovation-program",
+      "label_es": "da acceso a sus miembros a (según Metallicus)",
+      "label_en": "gives its members access to (according to Metallicus)",
+      "status": "self",
+      "date": "2025-05-07",
+      "sources": [
+        {
+          "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+          "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "mddc-cua",
+      "label_es": "portavoz de Metallicus en la alianza con",
+      "label_en": "Metallicus spokesperson in the partnership with",
+      "status": "self",
+      "date": "2025-05-07",
+      "sources": [
+        {
+          "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+          "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+        },
+        {
+          "title": "Metallicus – MD|DC Credit Union Association partners with Metallicus' Blockchain Innovation Program",
+          "url": "https://metallicus.com/blog/mddc"
+        }
+      ]
+    },
+    {
+      "from": "crossstate-cua",
+      "to": "metallicus",
+      "label_es": "piloto simulado de stablecoins con 50 cooperativas",
+      "label_en": "simulated stablecoin pilot with 50 credit unions",
+      "status": "confirmed",
+      "date": "2026-05-14",
+      "sources": [
+        {
+          "title": "CUInsight – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+          "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure/"
+        },
+        {
+          "title": "CUInsight – CrossState & Metallicus launch pilot program (versión con contacto de prensa de CrossState, 15-may-2026)",
+          "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure-2/"
+        },
+        {
+          "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+          "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+        },
+        {
+          "title": "ACCESS Newswire – CrossState & Metallicus launch pilot program (14-may-2026)",
+          "url": "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-e-1167019"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "crossstate-cua",
+      "label_es": "portavoz de Metallicus en el piloto con",
+      "label_en": "Metallicus spokesperson in the pilot with",
+      "status": "confirmed",
+      "date": "2026-05-14",
+      "sources": [
+        {
+          "title": "Metallicus – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+          "url": "https://metallicus.com/blog/crossstate-metallicus-launch-pilot-program-with-50-credit-unions"
+        },
+        {
+          "title": "CUInsight – CrossState & Metallicus launch pilot program with 50 credit unions (14-may-2026)",
+          "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure/"
+        }
+      ]
+    },
+    {
+      "from": "oneaz-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió",
+      "label_en": "joined",
+      "status": "confirmed",
+      "date": "2024-06-11",
+      "sources": [
+        {
+          "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+          "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+        },
+        {
+          "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+          "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+        }
+      ]
+    },
+    {
+      "from": "patelco-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se inscribió",
+      "label_en": "enrolled",
+      "status": "confirmed",
+      "date": "2024-05-16",
+      "sources": [
+        {
+          "title": "Metallicus – Patelco Credit Union joins Metal Blockchain's Banking Innovation Program (16-may-2024)",
+          "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/patelco-credit-union-blockchain"
+        },
+        {
+          "title": "Metal Blockchain – Patelco Credit Union blockchain (16-may-2024)",
+          "url": "https://metalblockchain.org/news-insights/patelco-credit-union-blockchain"
+        },
+        {
+          "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+          "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+        }
+      ]
+    },
+    {
+      "from": "gesa-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió",
+      "label_en": "joined",
+      "status": "confirmed",
+      "date": "2024-07-16",
+      "sources": [
+        {
+          "title": "Gesa Credit Union – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+          "url": "https://gesa.com/gesa-credit-union-joins-metal-blockchains-banking-innovation-program"
+        },
+        {
+          "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+          "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
+        }
+      ]
+    },
+    {
+      "from": "bay-federal-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió",
+      "label_en": "joined",
+      "status": "confirmed",
+      "date": "2025-02-20",
+      "sources": [
+        {
+          "title": "Bay Federal Credit Union – Bay Federal Credit Union joins Metal Blockchain's Banking Innovation Program (20-feb-2025)",
+          "url": "https://bfstandby.bayfed.com/about-us/news/media-and-press-releases/bay-federal-credit-union-joins-metal-blockchain%E2%80%99s-banking-innovation-program"
+        },
+        {
+          "title": "CUInsight – Bay Federal Credit Union joins Metal Blockchain's Banking Innovation Program (20-feb-2025)",
+          "url": "https://www.cuinsight.com/press-release/bay-federal-credit-union-joins-metal-blockchains-banking-innovation-program/"
+        }
+      ]
+    },
+    {
+      "from": "tdecu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-07-09",
+      "sources": [
+        {
+          "title": "Metal Blockchain – TDECU joins Banking Innovation Program (9-jul-2024)",
+          "url": "https://metalblockchain.org/news-insights/tdecu-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "empower-fcu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-06-06",
+      "sources": [
+        {
+          "title": "Metallicus – Empower Federal Credit Union joins Metal Blockchain's Banking Innovation Program (6-jun-2024)",
+          "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/empower-federal-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "vibrant-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-03-07",
+      "sources": [
+        {
+          "title": "Metallicus – Vibrant Credit Union joins Banking Innovation Program (7-mar-2024)",
+          "url": "https://metallicus.com/blog/vibrant-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "fairwinds-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-04-25",
+      "sources": [
+        {
+          "title": "Metal Blockchain – FAIRWINDS Credit Union joins Banking Innovation Program (25-abr-2024)",
+          "url": "https://metalblockchain.org/news-insights/fairwinds-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "meritrust-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-05-01",
+      "sources": [
+        {
+          "title": "Metallicus – Meritrust Credit Union joins Metal Blockchain Banking Innovation Program (1-may-2024)",
+          "url": "https://metallicus.com/blog/meritrust-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "keypoint-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-06-29",
+      "sources": [
+        {
+          "title": "Metallicus – KeyPoint Credit Union joins Metal Blockchain's Banking Innovation Program (29-jun-2024)",
+          "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/keypoint-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "summerland-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-06-27",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Summerland Credit Union joins Banking Innovation Program (27-jun-2024)",
+          "url": "https://metalblockchain.org/news-insights/summerland-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "illiana-fcu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-07-02",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Illiana Financial Credit Union joins Banking Innovation Program (2-jul-2024)",
+          "url": "https://metalblockchain.org/news-insights/illiana-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "glendale-area-schools-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-07-18",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Glendale Area Schools Credit Union joins Banking Innovation Program (18-jul-2024)",
+          "url": "https://metalblockchain.org/news-insights/glendale-area-schools-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "greenstate-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-09-18",
+      "sources": [
+        {
+          "title": "Newswire – GreenState Credit Union joins Metal Blockchain's Banking Innovation Program (18-sep-2024)",
+          "url": "https://www.newswire.com/view/content/greenstate-credit-union-joins-metal-blockchains-banking-innovation-22427477"
+        }
+      ]
+    },
+    {
+      "from": "community-healthcare-fcu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2024-09-10",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Community Healthcare Federal Credit Union joins Banking Innovation Program (10-sep-2024)",
+          "url": "https://metalblockchain.org/news-insights/community-healthcare-federal-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "excite-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2025-01-31",
+      "sources": [
+        {
+          "title": "Metallicus – Excite Credit Union joins Metal Blockchain Banking Innovation Program (31-ene-2025)",
+          "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/excite-credit-union-joins-metal-blockchain-banking-innovation-program"
+        }
+      ]
+    },
+    {
+      "from": "mocse-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2025-05-08",
+      "sources": [
+        {
+          "title": "Newswire – Mocse Credit Union joins Metal Blockchain's Banking Innovation Program (8-may-2025)",
+          "url": "https://www.newswire.com/view/content/mocse-credit-union-joins-metal-blockchains-banking-innovation-program-22570296"
+        }
+      ]
+    },
+    {
+      "from": "directions-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió (según Metallicus)",
+      "label_en": "joined (according to Metallicus)",
+      "status": "self",
+      "date": "2025-05-19",
+      "sources": [
+        {
+          "title": "Metal Blockchain – Directions Credit Union joins Banking Innovation Program (19-may-2025)",
+          "url": "https://metalblockchain.org/news-insights/directions-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "one-nevada-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió a su piloto de stablecoins (según Metallicus)",
+      "label_en": "joined its stablecoin pilot (according to Metallicus)",
+      "status": "self",
+      "date": "2025-11-25",
+      "sources": [
+        {
+          "title": "Metallicus – One Nevada Credit Union joins Stablecoin Pilot (25-nov-2025)",
+          "url": "https://metallicus.com/blog/one-nevada-credit-union-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "arizona-financial-cu",
+      "to": "banking-innovation-program",
+      "label_es": "se unió a su piloto de stablecoins (según Metallicus)",
+      "label_en": "joined its stablecoin pilot (according to Metallicus)",
+      "status": "self",
+      "date": "2025-12-04",
+      "sources": [
+        {
+          "title": "Metallicus – Arizona Financial Credit Union joins Stablecoin Pilot (4-dic-2025)",
+          "url": "https://metallicus.com/blog/arizona-financial-credit-union-blockchain-stablecoin"
+        }
+      ]
+    },
+    {
+      "from": "gowest-solutions",
+      "to": "banking-innovation-program",
+      "label_es": "da acceso a sus miembros a",
+      "label_en": "gives its members access to",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "GoWest Credit Union Association – Credit unions embrace blockchain… (comunicado, 28-may-2025)",
+          "url": "https://gowestassociation.org/2025/05/28/credit-unions-embrace-blockchain-to-leverage-the-future-of-trustworthy-financial-services/"
+        },
+        {
+          "title": "Metal Blockchain – Banking Innovation Program con GoWest Solutions (landing page)",
+          "url": "https://metalblockchain.org/gowest"
+        }
+      ]
+    },
+    {
+      "from": "gowest-solutions",
+      "to": "metallicus",
+      "label_es": "alianza: programa de innovación gratuito para sus miembros",
+      "label_en": "partnership: free innovation program for its members",
+      "status": "confirmed",
+      "date": "2025-05-28",
+      "sources": [
+        {
+          "title": "GoWest Credit Union Association – Credit unions embrace blockchain… (comunicado, 28-may-2025)",
+          "url": "https://gowestassociation.org/2025/05/28/credit-unions-embrace-blockchain-to-leverage-the-future-of-trustworthy-financial-services/"
+        },
+        {
+          "title": "GoWest Credit Union Association – All Partners: Metallicus",
+          "url": "https://gowestassociation.org/?p=146012"
+        }
+      ]
+    }
+  ]
+}

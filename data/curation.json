@@ -1,0 +1,22 @@
+{
+ "_comment": "Edges dropped as duplicates or superseded by a better-sourced edge. Key: from|to|label_es",
+ "drop_edges": [
+  "john-ainsworth|bonifii|fue presidente y CEO de",
+  "marshall-hayner|bitcoin-fair-2014|co-organizó",
+  "marshall-hayner|block-io|director de marketing (según Hayner)",
+  "marshall-hayner|dogecoin-foundation|miembro del consejo",
+  "glenn-marien|dogechain-info|creó (según Metallicus)",
+  "metallicus|mtl|emitió (como Metal)",
+  "metallicus|xpr-network|desarrolla (antes Proton)",
+  "metallicus|crumbs|acuerdo definitivo de compra de",
+  "metallicus|lynx|adquirió (como Metal Pay)",
+  "metallicus|bloks-io|adquirió (como Metal Pay)",
+  "metallicus|cornerstone-league|socio en el Stablecoin Pilot con",
+  "lynx|xpr-network|su Lynx Chain se fusionó en Proton (según Hayner)",
+  "metal-pay|temenos|API listada en Temenos Exchange",
+  "metal-pay|fednow|listado en el FedNow Innovator Exchange (sin respaldo de la Fed)",
+  "investifi|xpr-network|infraestructura anunciada (capa 1) para stablecoins",
+  "investifi|metal-blockchain|infraestructura anunciada (capa 0) para stablecoins",
+  "daland-cuso|metal-blockchain|integra Coin2Core con"
+ ]
+}

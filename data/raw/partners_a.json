@@ -1,0 +1,771 @@
+{
+  "nodes": [
+    {
+      "id": "bonifii",
+      "name": "Bonifii (antes CULedger)",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "CUSO (organización de servicios para cooperativas de crédito) con sede en Denver, fundada como CULedger y renombrada Bonifii en 2021; su producto principal era MemberPass, una credencial de identidad digital. Metallicus adquirió sus activos con efecto el 1 de enero de 2025.",
+      "summary_en": "Denver-based CUSO (credit union service organization), founded as CULedger and renamed Bonifii in 2021; its flagship product was MemberPass, a digital identity credential. Metallicus acquired its assets effective January 1, 2025.",
+      "facts": [
+        {
+          "es": "Según la propia empresa, CULedger nació en 2017 como proyecto del National Credit Union Roundtable de CUNA y era una CUSO propiedad de cooperativas de crédito, con sede en Denver.",
+          "en": "According to the company itself, CULedger began in 2017 as a project of CUNA's National Credit Union Roundtable and was a credit-union-owned CUSO based in Denver.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Business Wire – CULedger Undergoes Rebrand, Changes Name to Bonifii",
+              "url": "https://www.businesswire.com/news/home/20210303005089/en/CULedger-Undergoes-Rebrand-Changes-Name-to-Bonifii"
+            },
+            {
+              "title": "Business Wire – CULedger Reveals New Name for MyCUID, Rebranded as MemberPass",
+              "url": "https://businesswire.com/news/home/20200205005394/en/CULedger-Reveals-New-Name-for-MyCUID-Rebranded-as-MemberPass"
+            }
+          ]
+        },
+        {
+          "es": "En febrero de 2020 CULedger renombró su credencial de identidad MyCUID como MemberPass, descrita como una credencial digital respaldada por KYC que controla el socio y sigue el estándar W3C Verifiable Credentials.",
+          "en": "In February 2020 CULedger renamed its MyCUID identity credential as MemberPass, described as a KYC-backed digital credential controlled by the member and following the W3C Verifiable Credentials standard.",
+          "status": "self",
+          "date": "2020-02-05",
+          "sources": [
+            {
+              "title": "Business Wire – CULedger Reveals New Name for MyCUID, Rebranded as MemberPass",
+              "url": "https://businesswire.com/news/home/20200205005394/en/CULedger-Reveals-New-Name-for-MyCUID-Rebranded-as-MemberPass"
+            }
+          ]
+        },
+        {
+          "es": "En marzo de 2021 CULedger cambió su nombre a Bonifii; la empresa explicó que el nombre juega con la expresión 'bona fide'.",
+          "en": "In March 2021 CULedger changed its name to Bonifii; the company explained that the name plays on the phrase 'bona fide'.",
+          "status": "confirmed",
+          "date": "2021-03",
+          "sources": [
+            {
+              "title": "Business Wire – CULedger Undergoes Rebrand, Changes Name to Bonifii",
+              "url": "https://www.businesswire.com/news/home/20210303005089/en/CULedger-Undergoes-Rebrand-Changes-Name-to-Bonifii"
+            },
+            {
+              "title": "CU Times – CULedger Gets a New Name: Bonifii (4-mar-2021)",
+              "url": "https://www.cutimes.com/2021/03/04/culedger-gets-a-new-name-bonifii"
+            }
+          ]
+        },
+        {
+          "es": "El 25 de junio de 2024 Metallicus anunció que Bonifii se unía al Metal Blockchain Banking Innovation Program, un programa sin coste para instituciones financieras (talleres, socios fintech, subvenciones de I+D y desarrollo a medida). El comunicado lo emitió Metallicus e incluía declaraciones de Marshall Hayner y de John Ainsworth, presidente y CEO de Bonifii, quien lo presentó como un paso clave en su misión y como retomar el trabajo blockchain iniciado por CULedger.",
+          "en": "On June 25, 2024 Metallicus announced that Bonifii was joining the Metal Blockchain Banking Innovation Program, a no-cost program for financial institutions (workshops, fintech partnerships, R&D grants and bespoke development). The release was issued by Metallicus and quoted Marshall Hayner and John Ainsworth, President and CEO of Bonifii, who framed it as a key step in Bonifii's mission and as reviving blockchain work first explored by CULedger.",
+          "status": "confirmed",
+          "date": "2024-06-25",
+          "sources": [
+            {
+              "title": "CUInsight – Bonifii joins Metal Blockchain's Banking Innovation Program (25-jun-2024)",
+              "url": "https://www.cuinsight.com/press-release/bonifii-joins-metal-blockchains-banking-innovation-program/"
+            }
+          ]
+        },
+        {
+          "es": "El 18-19 de diciembre de 2024 Metallicus anunció la adquisición de Bonifii. Según el comunicado, más de 70 cooperativas clientes de Bonifii obtendrían acceso a Metal Blockchain y ambas partes crearían una CUSO para las cooperativas de The Digital Banking Network (TDBN).",
+          "en": "On December 18-19, 2024 Metallicus announced the acquisition of Bonifii. According to the release, more than 70 of Bonifii's credit union customers would gain access to Metal Blockchain and the parties would form a CUSO for credit unions on The Digital Banking Network (TDBN).",
+          "status": "confirmed",
+          "date": "2024-12-18",
+          "sources": [
+            {
+              "title": "CUInsight – Metallicus acquires FinTech Bonifii (18-dic-2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            },
+            {
+              "title": "Metallicus blog – Metallicus Acquires FinTech Bonifii Connecting 70+ Credit Unions",
+              "url": "https://www.metallicus.com/blog/metallicus-blockchain-credit-unions-bonifii"
+            },
+            {
+              "title": "Cointelegraph – Metallicus acquires fintech operator connected to 70 credit unions",
+              "url": "https://regional-front.cointelegraph.com/news/metallicus-acquires-fintech-operator-connected-70-credit-unions"
+            }
+          ]
+        },
+        {
+          "es": "En el comunicado de la adquisición, John Ainsworth (CEO de Bonifii) describió a Bonifii como la única CUSO conectada directamente con un desarrollador de núcleo blockchain, y Jim Phillips (EVP/CIO de SchoolsFirst FCU y presidente del consejo de Bonifii) dijo que la operación reforzaría MemberPass y ampliaría la oferta en identidad, pagos, contratos inteligentes y prevención del fraude.",
+          "en": "In the acquisition release, John Ainsworth (Bonifii CEO) described Bonifii as the only CUSO directly connected to a blockchain core developer, and Jim Phillips (EVP/CIO of SchoolsFirst FCU and Bonifii board chairman) said the deal would strengthen MemberPass and expand offerings in identity, payments, smart contracts and fraud prevention.",
+          "status": "self",
+          "date": "2024-12-18",
+          "sources": [
+            {
+              "title": "CUInsight – Metallicus acquires FinTech Bonifii (18-dic-2024)",
+              "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+            },
+            {
+              "title": "Metallicus blog – Metallicus Acquires FinTech Bonifii Connecting 70+ Credit Unions",
+              "url": "https://www.metallicus.com/blog/metallicus-blockchain-credit-unions-bonifii"
+            }
+          ]
+        },
+        {
+          "es": "Según la firma contable Doeren Mayhew (ajena a la operación), fue una compra de activos (no de acciones), efectiva el 1 de enero de 2025, pagada con warrants sobre acciones ordinarias de Metallicus por valor de 10 millones de dólares; la entidad resultante se denominaría 'Metal CUSO'. Los comunicados de las partes no revelaron el precio.",
+          "en": "According to accounting firm Doeren Mayhew (not a party to the deal), it was an asset (not stock) acquisition, effective January 1, 2025, paid with $10 million of Metallicus common stock warrants; the resulting entity would be called 'Metal CUSO'. The parties' releases did not disclose the price.",
+          "status": "confirmed",
+          "date": "2025-01-01",
+          "sources": [
+            {
+              "title": "Doeren Mayhew – Metallicus Acquires FinTech Bonifii CUSO",
+              "url": "https://doeren.com/viewpoint/metallicus-acquires-fintech-bonifii-cuso"
+            },
+            {
+              "title": "Cointelegraph – Metallicus acquires fintech operator connected to 70 credit unions",
+              "url": "https://regional-front.cointelegraph.com/news/metallicus-acquires-fintech-operator-connected-70-credit-unions"
+            }
+          ]
+        },
+        {
+          "es": "Tras la operación, John Ainsworth, expresidente y CEO de Bonifii, pasó a ser General Manager de Metallicus.",
+          "en": "After the deal, John Ainsworth, former President and CEO of Bonifii, became General Manager at Metallicus.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Cointelegraph – Metallicus acquires fintech operator connected to 70 credit unions",
+              "url": "https://regional-front.cointelegraph.com/news/metallicus-acquires-fintech-operator-connected-70-credit-unions"
+            },
+            {
+              "title": "Metallicus – Company / team",
+              "url": "https://www.metallicus.com/company"
+            }
+          ]
+        },
+        {
+          "es": "Estado actual: la web de Metallicus presenta MemberPass como producto propio e indica que CULedger (Bonifii) fue adquirida por Metallicus.",
+          "en": "Current status: Metallicus's website presents MemberPass as its own product and states that CULedger (Bonifii) was acquired by Metallicus.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – MemberPass",
+              "url": "https://www.metallicus.com/memberpass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "memberpass",
+      "name": "MemberPass",
+      "type": "product",
+      "group": "products",
+      "summary_es": "Credencial de identidad digital para socios de cooperativas de crédito creada por CULedger/Bonifii (antes MyCUID); hoy Metallicus la ofrece como solución de autenticación biométrica.",
+      "summary_en": "Digital identity credential for credit union members created by CULedger/Bonifii (formerly MyCUID); Metallicus now offers it as a biometric authentication solution.",
+      "website": "https://www.metallicus.com/memberpass",
+      "facts": [
+        {
+          "es": "MyCUID pasó a llamarse MemberPass en febrero de 2020.",
+          "en": "MyCUID was renamed MemberPass in February 2020.",
+          "status": "self",
+          "date": "2020-02-05",
+          "sources": [
+            {
+              "title": "Business Wire – CULedger Reveals New Name for MyCUID, Rebranded as MemberPass",
+              "url": "https://businesswire.com/news/home/20200205005394/en/CULedger-Reveals-New-Name-for-MyCUID-Rebranded-as-MemberPass"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, MemberPass es una solución de autenticación biométrica para cooperativas de crédito pensada para sustituir los códigos por SMS y reducir el fraude.",
+          "en": "According to Metallicus, MemberPass is a biometric authentication solution for credit unions intended to replace SMS passcodes and reduce fraud.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – MemberPass",
+              "url": "https://www.metallicus.com/memberpass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jack-henry",
+      "name": "Jack Henry & Associates, Inc.",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "Empresa estadounidense de tecnología financiera para bancos y cooperativas de crédito, fundada en 1976, con sede en Monett (Misuri) y cotizada en Nasdaq (JKHY).",
+      "summary_en": "U.S. financial technology company serving banks and credit unions, founded in 1976, headquartered in Monett, Missouri, and listed on Nasdaq (JKHY).",
+      "website": "https://www.jackhenry.com",
+      "facts": [
+        {
+          "es": "Según su informe 10-K del ejercicio 2025, atiende a unas 7.400 instituciones financieras y entidades corporativas, y contaba con unos 7.240 empleados a 30 de junio de 2025; SilverLake es su plataforma de core para bancos comerciales.",
+          "en": "According to its FY2025 Form 10-K, it serves about 7,400 financial institutions and corporate entities and had about 7,240 associates as of June 30, 2025; SilverLake is its core platform for commercial banks.",
+          "status": "confirmed",
+          "date": "2025-06-30",
+          "sources": [
+            {
+              "title": "SEC – Jack Henry & Associates Form 10-K FY2025",
+              "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000055/jkhy-20250630.htm"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, el 12 de septiembre de 2023 Metal Blockchain se unió al Vendor Integration Program (VIP) de Jack Henry, un programa de proveedores que da acceso a recursos técnicos y sistemas de prueba de Jack Henry. No se encontró comunicado ni cita de Jack Henry.",
+          "en": "According to Metallicus, on September 12, 2023 Metal Blockchain joined Jack Henry's Vendor Integration Program (VIP), a vendor program giving access to Jack Henry technical resources and test systems. No Jack Henry release or quote was found.",
+          "status": "self",
+          "date": "2023-09-12",
+          "sources": [
+            {
+              "title": "Metallicus blog – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, la integración con el core SilverLake mediante la interfaz jXchange está operativa para clientes de SilverLake.",
+          "en": "According to Metallicus, the integration with the SilverLake core via the jXchange interface is live for SilverLake customers.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus blog – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+            },
+            {
+              "title": "Metallicus – Integrations",
+              "url": "https://www.metallicus.com/integrations"
+            }
+          ]
+        },
+        {
+          "es": "Descargo: el propio comunicado de Metallicus indica que la inclusión en el VIP no supone un respaldo (endorsement) del producto del proveedor.",
+          "en": "Disclaimer: Metallicus's own release states that VIP inclusion is not an endorsement of the vendor's product.",
+          "status": "confirmed",
+          "date": "2023-09-12",
+          "sources": [
+            {
+              "title": "Metallicus blog – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+            }
+          ]
+        },
+        {
+          "es": "Jack Henry explica que el VIP no es exclusivo, que no revisa la funcionalidad de las soluciones de los proveedores (solo que las llamadas a la API sean correctas), que cada institución debe decidir si una solución le conviene y que 'certificado' no es un término oficial del programa.",
+          "en": "Jack Henry explains that the VIP is not exclusive, that it does not review vendors' solution functionality (only that API calls are correct), that each institution must decide whether a solution suits it, and that 'certified' is not an official term for the program.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Jack Henry Developer Programs – VIP general FAQ",
+              "url": "https://jkhy.github.io/developer-programs/vendor-integration-program/faq/vip-general-faq/"
+            },
+            {
+              "title": "Jack Henry Developer Programs – Vendor Integration Program overview",
+              "url": "https://jkhy.github.io/developer-programs/vendor-integration-program/overview/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temenos",
+      "name": "Temenos",
+      "type": "company",
+      "group": "partners",
+      "summary_es": "Proveedor de software de banca (core y banca digital) que se presenta como pionero del core bancario desde 1993; opera Temenos Exchange, un ecosistema de fintechs con soluciones complementarias.",
+      "summary_en": "Banking software provider (core and digital banking) that presents itself as a core banking pioneer since 1993; it runs Temenos Exchange, an ecosystem of fintechs offering complementary solutions.",
+      "website": "https://www.temenos.com",
+      "facts": [
+        {
+          "es": "Según Temenos, cuenta con más de 950 clientes de core bancario y 600 de banca digital.",
+          "en": "According to Temenos, it has over 950 core banking clients and 600 digital banking clients.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Temenos – About us",
+              "url": "https://www.temenos.com/about-us/"
+            }
+          ]
+        },
+        {
+          "es": "El 7 de septiembre de 2023 Metallicus anunció que Metal Blockchain, WebAuth Wallet y Metal Pay API estaban disponibles en Temenos Exchange. Es un listado en un marketplace de soluciones de terceros, no una integración en el core de Temenos.",
+          "en": "On September 7, 2023 Metallicus announced that Metal Blockchain, WebAuth Wallet and Metal Pay API were available on Temenos Exchange. This is a listing in a third-party solutions marketplace, not an integration into Temenos's core.",
+          "status": "confirmed",
+          "date": "2023-09-07",
+          "sources": [
+            {
+              "title": "Metallicus blog – Metal Blockchain, WebAuth Wallet and Metal Pay API now available on Temenos Exchange (7-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+            },
+            {
+              "title": "Temenos – Solution provider: Metallicus Inc.",
+              "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+            }
+          ]
+        },
+        {
+          "es": "En ese comunicado, Martin Bailey, Director of Innovation and Ecosystems de Temenos, describió Temenos Exchange como un acelerador para fintechs y señaló que Metallicus podría desarrollar una vez y llegar a bancos de todo el mundo que usan Temenos.",
+          "en": "In that release, Martin Bailey, Temenos Director of Innovation and Ecosystems, described Temenos Exchange as an accelerator for fintechs and said Metallicus could build once and reach banks worldwide running Temenos.",
+          "status": "confirmed",
+          "date": "2023-09-07",
+          "sources": [
+            {
+              "title": "Metallicus blog – Metal Blockchain, WebAuth Wallet and Metal Pay API now available on Temenos Exchange (7-sep-2023)",
+              "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+            }
+          ]
+        },
+        {
+          "es": "Temenos mantiene un perfil de Metallicus como 'Solution Provider' (sección de fintechs curadas con soluciones complementarias) con esos tres productos, sin nivel de socio indicado, y con una evaluación de The Disruption House de enero de 2023.",
+          "en": "Temenos maintains a Metallicus 'Solution Provider' profile (section for curated fintechs with complementary solutions) listing those three products, with no partner tier stated, and a January 2023 evaluation by The Disruption House.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Temenos – Solution provider: Metallicus Inc.",
+              "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fednow",
+      "name": "FedNow® Service",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Servicio de pagos instantáneos desarrollado por la Reserva Federal de EE. UU. que permite a bancos y cooperativas de crédito ofrecer pagos 24/7 todo el año; se lanzó el 20 de julio de 2023.",
+      "summary_en": "Instant payment service developed by the U.S. Federal Reserve that lets banks and credit unions offer payments 24/7 year-round; it launched on July 20, 2023.",
+      "website": "https://explore.fednow.org",
+      "facts": [
+        {
+          "es": "La Reserva Federal lanzó FedNow el 20 de julio de 2023 con 35 bancos y cooperativas pioneros, el Bureau of the Fiscal Service del Tesoro y 16 proveedores de servicios.",
+          "en": "The Federal Reserve launched FedNow on July 20, 2023 with 35 early-adopting banks and credit unions, the Treasury's Bureau of the Fiscal Service and 16 service providers.",
+          "status": "confirmed",
+          "date": "2023-07-20",
+          "sources": [
+            {
+              "title": "Federal Reserve – press release, FedNow Service launch (20-jul-2023)",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm"
+            },
+            {
+              "title": "FedNow Explore – About",
+              "url": "https://explore.fednow.org/about"
+            }
+          ]
+        },
+        {
+          "es": "Descargo: la Reserva Federal afirma que el servicio FedNow no está relacionado con ninguna moneda digital y que no ha decidido emitir una CBDC.",
+          "en": "Disclaimer: the Federal Reserve states that the FedNow Service is not related to a digital currency and that it has made no decision on issuing a CBDC.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Federal Reserve – FAQ: Is FedNow replacing cash? Is it a CBDC?",
+              "url": "https://www.federalreserve.gov/faqs/is-fednow-replacing-cash-is-it-a-central-bank-digital-currency.htm"
+            },
+            {
+              "title": "Cointelegraph – Federal Reserve: service not related to CBDCs",
+              "url": "https://cointelegraph.com/news/federal-reserve-service-not-related-to-cbdcs"
+            }
+          ]
+        },
+        {
+          "es": "En mayo de 2023 Cointelegraph informó, a partir de un anuncio de Metal Blockchain, de que esta figuraba en el FedNow Service Provider Showcase; el medio advirtió que no pudo verificar los criterios de FedNow para ese listado.",
+          "en": "In May 2023 Cointelegraph reported, based on a Metal Blockchain announcement, that it was listed in the FedNow Service Provider Showcase; the outlet noted it could not verify FedNow's criteria for that listing.",
+          "status": "self",
+          "date": "2023-05-11",
+          "sources": [
+            {
+              "title": "Cointelegraph – Federal Reserve's FedNow will integrate with Metal Blockchain (11-may-2023)",
+              "url": "https://cointelegraph.com/news/federal-reserve-s-fednow-will-integrate-with-metal-blockchain"
+            }
+          ]
+        },
+        {
+          "es": "El 22 de octubre de 2024 Metallicus anunció que, tras completar el programa de pruebas y certificación de clientes de FedNow, quedó certificada como proveedor de servicios para instituciones financieras y empezó a procesar transacciones en vivo. Don Berk, COO, lo atribuyó al trabajo con socios bancarios y al equipo de ingeniería.",
+          "en": "On October 22, 2024 Metallicus announced that, after completing FedNow's customer testing and certification program, it was certified as a service provider to financial institutions and began supporting live transactions. COO Don Berk credited work with banking partners and the engineering team.",
+          "status": "self",
+          "date": "2024-10-22",
+          "sources": [
+            {
+              "title": "Metallicus blog – FedNow (22-oct-2024)",
+              "url": "https://metallicus.com/blog/fednow"
+            }
+          ]
+        },
+        {
+          "es": "El 25-26 de febrero de 2026 Metallicus anunció su certificación de Request for Payment (RfP) en FedNow, que se suma a las de envío, recepción y gestión de liquidez; Marshall Hayner la presentó como un avance en cómo se mueve el dinero. El comunicado no incluye declaración de la Reserva Federal.",
+          "en": "On February 25-26, 2026 Metallicus announced its FedNow Request for Payment (RfP) certification, adding to its send, receive and liquidity management certifications; Marshall Hayner called it a step forward in how money moves. The release includes no Federal Reserve statement.",
+          "status": "self",
+          "date": "2026-02-26",
+          "sources": [
+            {
+              "title": "Metallicus blog – Metallicus expands FedNow Service capabilities with Request for Payment (RfP) certification",
+              "url": "https://metallicus.com/blog/metallicus-expands-fednow-service-capabilities-with-request-for-payment-rfp-certification"
+            },
+            {
+              "title": "CUInsight – Metallicus expands FedNow Service capabilities with RfP certification",
+              "url": "https://www.cuinsight.com/press-release/metallicus-expands-fednow-service-capabilities-with-request-for-payment-rfp-certification/"
+            }
+          ]
+        },
+        {
+          "es": "Federal Reserve Financial Services lista a Metallicus (solución Metal Pay) en el FedNow Innovator Exchange como 'Financial Institution Service Provider', con funciones de envío y recepción, conectividad vía FedLine e integración con cualquier core; el contacto indicado es Frank Mazza.",
+          "en": "Federal Reserve Financial Services lists Metallicus (Metal Pay solution) on the FedNow Innovator Exchange as a 'Financial Institution Service Provider', with send and receive capability, FedLine connectivity and core-agnostic integration; the listed contact is Frank Mazza.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Federal Reserve Financial Services – FedNow Innovator Exchange: Metallicus (Metal Pay)",
+              "url": "https://www.frbservices.org/?p=18354"
+            }
+          ]
+        },
+        {
+          "es": "Descargo: según la Reserva Federal, la inclusión en el Innovator Exchange no supone recomendación ni respaldo de la Reserva Federal ni relación alguna entre el proveedor y la Fed, que no responde de la exactitud de la información.",
+          "en": "Disclaimer: according to the Federal Reserve, inclusion in the Innovator Exchange does not reflect any recommendation or endorsement by the Federal Reserve or any relationship between the provider and the Fed, which takes no responsibility for the accuracy of the information.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Federal Reserve Financial Services – FedNow Innovator Exchange: Metallicus (Metal Pay)",
+              "url": "https://www.frbservices.org/?p=18354"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fpc",
+      "name": "U.S. Faster Payments Council (FPC)",
+      "type": "organization",
+      "group": "partners",
+      "summary_es": "Organización de membresía de pago, dirigida por la industria y abierta a todos los actores del sistema de pagos de EE. UU., que busca eliminar obstáculos a la adopción de pagos más rápidos; surgió de una recomendación del Faster Payments Task Force.",
+      "summary_en": "Industry-led, fee-based membership organization open to all U.S. payment system stakeholders that works to remove barriers to faster payments adoption; it arose from a Faster Payments Task Force recommendation.",
+      "website": "https://fasterpaymentscouncil.org",
+      "facts": [
+        {
+          "es": "El FPC fue creado por el Governance Framework Formation Team de 27 miembros en respuesta a una recomendación del Faster Payments Task Force.",
+          "en": "The FPC was established by the 27-member Governance Framework Formation Team in response to a Faster Payments Task Force recommendation.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Federal Reserve Financial Services FedNow/Fed360 – Faster Payments Council launch",
+              "url": "https://app.frbservices.org/news/fed360/issues/121718/121718-faster-payments-council.html"
+            },
+            {
+              "title": "U.S. Faster Payments Council – About",
+              "url": "https://fasterpaymentscouncil.org/about"
+            }
+          ]
+        },
+        {
+          "es": "El 2 de octubre de 2024 Metallicus anunció que Metal Blockchain se había unido al FPC como miembro. El comunicado incluye una bienvenida de Reed Luhtanen, director ejecutivo del FPC.",
+          "en": "On October 2, 2024 Metallicus announced that Metal Blockchain had joined the FPC as a member. The release includes a welcome from Reed Luhtanen, FPC Executive Director.",
+          "status": "confirmed",
+          "date": "2024-10-02",
+          "sources": [
+            {
+              "title": "Metallicus blog – Metal Blockchain joins U.S. Faster Payments Council (2-oct-2024)",
+              "url": "https://metallicus.com/blog/faster-payments-council-blockchain"
+            }
+          ]
+        },
+        {
+          "es": "El 28 de agosto de 2025 el FPC anunció su Board Advisory Group 2025-2026 (grupo de líderes del sector que asesora a la junta y al personal) e incluyó a Frank Mazza, de Metallicus, como nuevo miembro. No figuraba en la lista 2024-2025.",
+          "en": "On August 28, 2025 the FPC announced its 2025-2026 Board Advisory Group (industry leaders advising the Board and staff) and included Frank Mazza of Metallicus as a new member. He was not on the 2024-2025 list.",
+          "status": "confirmed",
+          "date": "2025-08-28",
+          "sources": [
+            {
+              "title": "U.S. Faster Payments Council – Announces 2025 Board Advisory Group (28-ago-2025)",
+              "url": "https://fasterpaymentscouncil.org/blog/15565/U-S-Faster-Payments-Council-Announces-2025-Board-Advisory-Group"
+            },
+            {
+              "title": "MACHA/FPC – 2024-2025 FPC Board Advisory Group list (31-jul-2024)",
+              "url": "https://macha.org/aws/MACHA/asset_manager/get_file/902546"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "metallicus",
+      "to": "bonifii",
+      "label_es": "incorporó a su programa de innovación a",
+      "label_en": "enrolled in its innovation program",
+      "status": "confirmed",
+      "date": "2024-06-25",
+      "sources": [
+        {
+          "title": "CUInsight – Bonifii joins Metal Blockchain's Banking Innovation Program (25-jun-2024)",
+          "url": "https://www.cuinsight.com/press-release/bonifii-joins-metal-blockchains-banking-innovation-program/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "bonifii",
+      "label_es": "adquirió los activos de",
+      "label_en": "acquired the assets of",
+      "status": "confirmed",
+      "date": "2025-01-01",
+      "sources": [
+        {
+          "title": "Doeren Mayhew – Metallicus Acquires FinTech Bonifii CUSO",
+          "url": "https://doeren.com/viewpoint/metallicus-acquires-fintech-bonifii-cuso"
+        },
+        {
+          "title": "CUInsight – Metallicus acquires FinTech Bonifii (18-dic-2024)",
+          "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+        },
+        {
+          "title": "Cointelegraph – Metallicus acquires fintech operator connected to 70 credit unions",
+          "url": "https://regional-front.cointelegraph.com/news/metallicus-acquires-fintech-operator-connected-70-credit-unions"
+        }
+      ]
+    },
+    {
+      "from": "john-ainsworth",
+      "to": "bonifii",
+      "label_es": "fue presidente y CEO de",
+      "label_en": "was President and CEO of",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "CUInsight – Bonifii joins Metal Blockchain's Banking Innovation Program (25-jun-2024)",
+          "url": "https://www.cuinsight.com/press-release/bonifii-joins-metal-blockchains-banking-innovation-program/"
+        },
+        {
+          "title": "Metallicus – Company / team",
+          "url": "https://www.metallicus.com/company"
+        }
+      ]
+    },
+    {
+      "from": "bonifii",
+      "to": "memberpass",
+      "label_es": "creó",
+      "label_en": "created",
+      "status": "confirmed",
+      "date": "2020-02",
+      "sources": [
+        {
+          "title": "Business Wire – CULedger Reveals New Name for MyCUID, Rebranded as MemberPass",
+          "url": "https://businesswire.com/news/home/20200205005394/en/CULedger-Reveals-New-Name-for-MyCUID-Rebranded-as-MemberPass"
+        },
+        {
+          "title": "CUInsight – Metallicus acquires FinTech Bonifii (18-dic-2024)",
+          "url": "https://www.cuinsight.com/press-release/metallicus-acquires-fintech-bonifii-connecting-70-credit-unions-to-metal-blockchain/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "memberpass",
+      "label_es": "ofrece actualmente",
+      "label_en": "currently offers",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – MemberPass",
+          "url": "https://www.metallicus.com/memberpass"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "jack-henry",
+      "label_es": "miembro del programa de proveedores VIP de (según Metallicus)",
+      "label_en": "member of the VIP vendor program of (per Metallicus)",
+      "status": "self",
+      "date": "2023-09-12",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "jack-henry",
+      "label_es": "integrado vía jXchange con SilverLake de (según Metallicus)",
+      "label_en": "integrated via jXchange with SilverLake of (per Metallicus)",
+      "status": "self",
+      "date": "2023-09-12",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+        },
+        {
+          "title": "Metallicus – Integrations",
+          "url": "https://www.metallicus.com/integrations"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "temenos",
+      "label_es": "listado como proveedor en Temenos Exchange",
+      "label_en": "listed as solution provider on Temenos Exchange",
+      "status": "confirmed",
+      "date": "2023-09-07",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metal Blockchain, WebAuth Wallet and Metal Pay API now available on Temenos Exchange (7-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+        },
+        {
+          "title": "Temenos – Solution provider: Metallicus Inc.",
+          "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "temenos",
+      "label_es": "listado en Temenos Exchange",
+      "label_en": "listed on Temenos Exchange",
+      "status": "confirmed",
+      "date": "2023-09-07",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metal Blockchain, WebAuth Wallet and Metal Pay API now available on Temenos Exchange (7-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+        },
+        {
+          "title": "Temenos – Solution provider: Metallicus Inc.",
+          "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+        }
+      ]
+    },
+    {
+      "from": "webauth",
+      "to": "temenos",
+      "label_es": "listado en Temenos Exchange",
+      "label_en": "listed on Temenos Exchange",
+      "status": "confirmed",
+      "date": "2023-09-07",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metal Blockchain, WebAuth Wallet and Metal Pay API now available on Temenos Exchange (7-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+        },
+        {
+          "title": "Temenos – Solution provider: Metallicus Inc.",
+          "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "temenos",
+      "label_es": "API listada en Temenos Exchange",
+      "label_en": "API listed on Temenos Exchange",
+      "status": "confirmed",
+      "date": "2023-09-07",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metal Blockchain, WebAuth Wallet and Metal Pay API now available on Temenos Exchange (7-sep-2023)",
+          "url": "https://www.metallicus.com/blog/metal-blockchain-webauth-wallet-and-metal-pay-api-now-available-on-temenos-exchange"
+        },
+        {
+          "title": "Temenos – Solution provider: Metallicus Inc.",
+          "url": "https://www.temenos.com/solution-provider/metallicus-inc/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "fednow",
+      "label_es": "proveedor de servicios certificado de (según Metallicus)",
+      "label_en": "certified service provider for (per Metallicus)",
+      "status": "self",
+      "date": "2024-10-22",
+      "sources": [
+        {
+          "title": "Metallicus blog – FedNow (22-oct-2024)",
+          "url": "https://metallicus.com/blog/fednow"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "fednow",
+      "label_es": "certificación Request for Payment en (según Metallicus)",
+      "label_en": "Request for Payment certification on (per Metallicus)",
+      "status": "self",
+      "date": "2026-02-26",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metallicus expands FedNow Service capabilities with Request for Payment (RfP) certification",
+          "url": "https://metallicus.com/blog/metallicus-expands-fednow-service-capabilities-with-request-for-payment-rfp-certification"
+        },
+        {
+          "title": "CUInsight – Metallicus expands FedNow Service capabilities with RfP certification",
+          "url": "https://www.cuinsight.com/press-release/metallicus-expands-fednow-service-capabilities-with-request-for-payment-rfp-certification/"
+        }
+      ]
+    },
+    {
+      "from": "metal-pay",
+      "to": "fednow",
+      "label_es": "listado en el Innovator Exchange de (sin respaldo de la Fed)",
+      "label_en": "listed on the Innovator Exchange of (no Fed endorsement)",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Federal Reserve Financial Services – FedNow Innovator Exchange: Metallicus (Metal Pay)",
+          "url": "https://www.frbservices.org/?p=18354"
+        }
+      ]
+    },
+    {
+      "from": "metal-blockchain",
+      "to": "fednow",
+      "label_es": "figuró en el Service Provider Showcase de (según Metal)",
+      "label_en": "appeared in the Service Provider Showcase of (per Metal)",
+      "status": "self",
+      "date": "2023-05",
+      "sources": [
+        {
+          "title": "Cointelegraph – Federal Reserve's FedNow will integrate with Metal Blockchain (11-may-2023)",
+          "url": "https://cointelegraph.com/news/federal-reserve-s-fednow-will-integrate-with-metal-blockchain"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "fednow",
+      "label_es": "contacto del listado de Metallicus en el Innovator Exchange de",
+      "label_en": "contact for Metallicus's Innovator Exchange listing on",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Federal Reserve Financial Services – FedNow Innovator Exchange: Metallicus (Metal Pay)",
+          "url": "https://www.frbservices.org/?p=18354"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "fpc",
+      "label_es": "miembro (como Metal Blockchain) de",
+      "label_en": "member (as Metal Blockchain) of",
+      "status": "confirmed",
+      "date": "2024-10-02",
+      "sources": [
+        {
+          "title": "Metallicus blog – Metal Blockchain joins U.S. Faster Payments Council (2-oct-2024)",
+          "url": "https://metallicus.com/blog/faster-payments-council-blockchain"
+        },
+        {
+          "title": "U.S. Faster Payments Council – Announces 2025 Board Advisory Group (28-ago-2025)",
+          "url": "https://fasterpaymentscouncil.org/blog/15565/U-S-Faster-Payments-Council-Announces-2025-Board-Advisory-Group"
+        }
+      ]
+    },
+    {
+      "from": "frank-mazza",
+      "to": "fpc",
+      "label_es": "miembro del Board Advisory Group 2025-2026 de",
+      "label_en": "member of the 2025-2026 Board Advisory Group of",
+      "status": "confirmed",
+      "date": "2025-08-28",
+      "sources": [
+        {
+          "title": "U.S. Faster Payments Council – Announces 2025 Board Advisory Group (28-ago-2025)",
+          "url": "https://fasterpaymentscouncil.org/blog/15565/U-S-Faster-Payments-Council-Announces-2025-Board-Advisory-Group"
+        }
+      ]
+    }
+  ]
+}

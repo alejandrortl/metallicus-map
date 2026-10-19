@@ -1,0 +1,161 @@
+{
+ "corrections": [
+  {
+   "ref": "fact:fpc:1",
+   "match_es": "El 2 de octubre de 2024 Metallicus anunció que Metal Blockchain se había unido al FPC como miembro. El comunicado incluye una bienvenida de Reed Luhtanen, director ejecutivo del FPC.",
+   "action": "fix",
+   "reason": "Metallicus blog (2-oct-2024) confirms membership and Reed Luhtanen (Executive Director) welcome, but the only source is a Metallicus release quoting the partner, which the site's rules say is not enough for confirmed.",
+   "es": "Según Metallicus, el 2 de octubre de 2024 Metal Blockchain se unió al FPC como miembro; su comunicado incluye una bienvenida de Reed Luhtanen, director ejecutivo del FPC.",
+   "en": "According to Metallicus, on 2 October 2024 Metal Blockchain joined the FPC as a member; its release includes a welcome from Reed Luhtanen, the FPC's Executive Director.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:daland-cuso:3",
+   "match_es": "El 5 y el 6 de agosto de 2025 Metallicus y DaLand publicaron sendos comunicados sobre su alianza estratégica: Metallicus aporta su red Metal Blockchain y la capacidad de emitir stablecoins de marca blanca, y DaLand su puente Coin2Core (que ya soportaba BTC, ETH y USDC).",
+   "action": "fix",
+   "reason": "Dates (Metallicus 5-aug, DaLand 6-aug-2025) and Coin2Core supporting BTC, ETH and USDC are confirmed. But neither release says 'white-label' (marca blanca); they say institution-branded stablecoins.",
+   "es": "El 5 y el 6 de agosto de 2025 Metallicus y DaLand publicaron sendos comunicados sobre su alianza estratégica: Metallicus aporta su red Metal Blockchain y la capacidad de emitir stablecoins con la marca de cada institución, y DaLand su puente Coin2Core (que ya soportaba BTC, ETH y USDC).",
+   "en": "On 5 and 6 August 2025 Metallicus and DaLand each published a release on their strategic partnership: Metallicus contributes its Metal Blockchain network and the ability to issue institution-branded stablecoins, and DaLand its Coin2Core bridge (which already supported BTC, ETH and USDC)."
+  },
+  {
+   "ref": "fact:marshall-hayner:8",
+   "match_es": "En febrero de 2021, como CEO de Metal Pay, dijo esperar la aprobación del banco nacional solicitado a la OCC en unos cuatro meses; no se ha encontrado aprobación.",
+   "action": "fix",
+   "reason": "Finance Magnates (5-feb-2021) reports, without a direct quote, that Hayner expected approval within four months. The clause 'no se ha encontrado aprobación' cannot be supported by a Feb-2021 source.",
+   "es": "Según Finance Magnates (5 de febrero de 2021), Hayner, como CEO de Metal Pay, esperaba que la OCC aprobara en unos cuatro meses el banco nacional solicitado.",
+   "en": "According to Finance Magnates (5 February 2021), Hayner, as Metal Pay CEO, expected the OCC to approve the requested national bank within about four months."
+  },
+  {
+   "ref": "fact:erik-finman:2",
+   "match_es": "Decrypt lo describió como inversor principal y documentó que en agosto de 2019 volvió a anunciar noticias antiguas de Metal (lanzamiento, cotización en Binance de 2017, oficina) coincidiendo con subidas breves del MTL.",
+   "action": "fix",
+   "reason": "Decrypt (12-sep-2019) calls him 'one of its primary investors', not the lead investor ('inversor principal'). The rest is supported: re-announced app launch, 2017 Binance listing and office, with brief MTL spikes.",
+   "es": "Decrypt lo describió como uno de los principales inversores de Metal y documentó que en agosto de 2019 la empresa volvió a anunciar noticias antiguas (lanzamiento de la app, cotización en Binance de 2017, oficina) coincidiendo con subidas breves del MTL.",
+   "en": "Decrypt described him as one of Metal's primary investors and documented that in August 2019 the company re-announced old news (app launch, 2017 Binance listing, office), coinciding with brief MTL price spikes."
+  },
+  {
+   "ref": "edge:mtl|xpr-network|se representa como XMT 1:1 en",
+   "match_es": null,
+   "action": "fix",
+   "reason": "Coinone says XMT is MTL on the Proton mainnet at 1:1. WazirX (a Hayner AMA) only says 'XMT (MTL on Proton)' and gives no ratio, so the 1:1 figure rests on one source. Drop '1:1' or cite Coinone alone for it.",
+   "en": "mtl is represented as XMT on xpr-network",
+   "label_es": "se representa como XMT en",
+   "label_en": "is represented as XMT on"
+  },
+  {
+   "ref": "fact:marshall-hayner:5",
+   "match_es": "Entró en el consejo de la Dogecoin Foundation en enero de 2023 y es uno de los cinco custodios del fondo de desarrollo de 5 millones de DOGE.",
+   "action": "fix",
+   "reason": "CryptoPotato (3-jan-2023) reports he 'joined' the board and is one of five custodians of the 5M DOGE fund, but gives no join date: the announcement came around end-2022. Metallicus says only '2023'. 'Entró en enero de 2023' is not supported.",
+   "es": "A principios de enero de 2023 se informó de su entrada en el consejo de la Dogecoin Foundation; es uno de los cinco custodios del fondo de desarrollo de 5 millones de DOGE.",
+   "en": "In early January 2023 he was reported to have joined the Dogecoin Foundation board; he is one of the five custodians of the 5 million DOGE development fund."
+  },
+  {
+   "ref": "fact:kleibert-lawsuit:3",
+   "match_es": "Metallicus y Hayner contestaron el 19 de julio de 2019 y Metallicus reconvino contra Adam Kliebert.",
+   "action": "fix",
+   "reason": "Docket entry 13 (19-jul-2019): 'COUNTERCLAIM against Adam Kliebert by Metallicus, Inc, Marshall Hayner'. Both filed the counterclaim, not Metallicus alone.",
+   "es": "Metallicus y Hayner contestaron el 19 de julio de 2019 y ambos reconvinieron contra Adam Kliebert.",
+   "en": "Metallicus and Hayner answered on 19 July 2019, and both filed a counterclaim against Adam Kliebert."
+  },
+  {
+   "ref": "fact:bonifii:3",
+   "match_es": "El 25 de junio de 2024 Metallicus anunció que Bonifii se unía al Metal Blockchain Banking Innovation Program, un programa sin coste para instituciones financieras (talleres, socios fintech, subvenciones de I+D y desarrollo a medida). El comunicado lo emitió Metallicus e incluía declaraciones de Marshall Hayner y de John Ainsworth, presidente y CEO de Bonifii, quien lo presentó como un paso clave en su misión y como retomar el trabajo blockchain iniciado por CULedger.",
+   "action": "fix",
+   "reason": "The content and date (25-jun-2024) are correct. But the only source is a release issued by Metallicus that quotes the partner, which the site's rules say is not enough for confirmed. The text already says Metallicus issued it.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:occ-charter-application:0",
+   "match_es": "El boletín semanal de la OCC registra la recepción, el 3 de febrero de 2021, de una solicitud de nuevo banco nacional (2021-WE-CHARTER319787) y de facultades fiduciarias (2021-WE-FIDUCIARY319890) para First Blockchain Bank & Trust, NA, con dirección en 1601 Mount Rushmore Rd., Rapid City (Dakota del Sur); plazo de comentarios hasta el 5 de marzo de 2021.",
+   "action": "fix",
+   "reason": "The OCC bulletin matches (receipt 2/3/2021, both application numbers, address). But the 5-mar-2021 comment deadline applies only to the charter application; the fiduciary entry has no end date.",
+   "es": "El boletín semanal de la OCC registra la recepción, el 3 de febrero de 2021, de una solicitud de nuevo banco nacional (2021-WE-CHARTER319787) y de facultades fiduciarias (2021-WE-FIDUCIARY319890) para First Blockchain Bank & Trust, NA, con dirección en 1601 Mount Rushmore Rd., Rapid City (Dakota del Sur); el plazo de comentarios de la solicitud de licencia terminaba el 5 de marzo de 2021.",
+   "en": "The OCC weekly bulletin records the receipt, on 3 February 2021, of a new national bank charter application (2021-WE-CHARTER319787) and a fiduciary powers application (2021-WE-FIDUCIARY319890) for First Blockchain Bank & Trust, NA, at 1601 Mount Rushmore Rd., Rapid City (South Dakota); the comment period for the charter application ended on 5 March 2021."
+  },
+  {
+   "ref": "edge:metal-pay|checkout-com|compra de USDC con tarjeta vía",
+   "match_es": null,
+   "action": "fix",
+   "reason": "The Business Wire release (15-dec-2022) supports the content, but Metallicus issued it and it only quotes Checkout.com (Mark Fernandes). The site's rules say that is not enough for confirmed.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:bonifii|metal-blockchain|se unió al Banking Innovation Program de",
+   "match_es": null,
+   "action": "fix",
+   "reason": "The only source is a Metallicus-issued release on CUInsight that quotes Bonifii, which is not enough for confirmed under the site's rules.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:metallicus|checkout-com|alianza para Metal Pay",
+   "match_es": null,
+   "action": "fix",
+   "reason": "Same single Metallicus-issued Business Wire release, quoting Checkout.com only. That is not enough for confirmed.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:blaze-cu|daland-cuso|segunda mayor accionista de",
+   "match_es": null,
+   "action": "fix",
+   "reason": "Supported ('Blaze Credit Union as its second-largest shareholder', 20-mar-2025), but the only source is DaLand CUSO's own release, so only the interested party says it.",
+   "en": "according to DaLand CUSO, blaze-cu is the second-largest shareholder of daland-cuso",
+   "status": "self"
+  },
+  {
+   "ref": "edge:jackson-palmer|quickcoin|asesor de",
+   "match_es": null,
+   "action": "note",
+   "reason": "PCWorld, Computerworld and Finance Magnates support the claim, so it stands. But one cited source is bitcointalk.org, a forum and therefore a banned source; remove it. Also, PCWorld and Computerworld appear to carry the same IDG wire story."
+  },
+  {
+   "ref": "fact:fairwinds-cu:0",
+   "match_es": "Según Metallicus, el 25 de abril de 2024 anunció su incorporación, con una declaración de su CIO, Charlie Lai.",
+   "action": "fix",
+   "reason": "The source (25-apr-2024) is a Metallicus announcement; the current wording implies FAIRWINDS made the announcement. Charlie Lai, CIO, is confirmed.",
+   "es": "El 25 de abril de 2024 Metallicus anunció la incorporación de FAIRWINDS a su Banking Innovation Program, con una declaración de su director de información (CIO), Charlie Lai.",
+   "en": "On 25 April 2024 Metallicus announced that FAIRWINDS had joined its Banking Innovation Program, with a statement from its Chief Information Officer, Charlie Lai."
+  },
+  {
+   "ref": "fact:banking-innovation-program:7",
+   "match_es": "Según el informe Q3 2025 de Metallicus, el programa contaba con más de 40 instituciones participantes y más de 15 stablecoins de marca institucional desplegadas en su entorno de pruebas.",
+   "action": "fix",
+   "reason": "The figures are correct, but the report says the stablecoins were deployed 'in the XPR Network test environment', not in the program's own environment.",
+   "es": "Según el informe Q3 2025 de Metallicus, el programa contaba con más de 40 instituciones participantes y más de 15 stablecoins de marca institucional desplegadas en el entorno de pruebas de XPR Network.",
+   "en": "According to Metallicus's Q3 2025 report, the program had over 40 participating institutions and more than 15 institution-branded stablecoins deployed in the XPR Network test environment."
+  },
+  {
+   "ref": "fact:sergio-rodriguera-jr:2",
+   "match_es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "action": "fix",
+   "reason": "Supported by the BW release ('planned Board of Directors'), but status is self and the text doesn't attribute it.",
+   "es": "Según el comunicado de Metallicus de febrero de 2023, figuraba entre los consejeros previstos de FBBT Holdings.",
+   "en": "According to Metallicus's February 2023 release, he was among the planned board members of FBBT Holdings."
+  },
+  {
+   "ref": "fact:metal-l2:3",
+   "match_es": "Según Metallicus, el gas de Metal L2 se paga en ETH y el puente admite ETH, USDC y MTL.",
+   "action": "fix",
+   "reason": "The page confirms bridge assets 'ETH, USDC, MTL' but never mentions gas; it only gives 'Currency symbol: ETH'.",
+   "es": "Según Metallicus, la moneda nativa de Metal L2 es ETH y el puente admite ETH, USDC y MTL.",
+   "en": "According to Metallicus, Metal L2's native currency is ETH and its bridge supports ETH, USDC and MTL."
+  },
+  {
+   "ref": "fact:memberpass:0",
+   "match_es": "MyCUID pasó a llamarse MemberPass en febrero de 2020.",
+   "action": "fix",
+   "reason": "Supported (CULedger release, 5-feb-2020), but status is self and the text lacks attribution.",
+   "es": "Según CULedger, MyCUID pasó a llamarse MemberPass en febrero de 2020.",
+   "en": "According to CULedger, MyCUID was renamed MemberPass in February 2020."
+  },
+  {
+   "ref": "fact:kevin-allard:1",
+   "match_es": "Las fuentes no aclaran cómo convivía este cargo con el de Irina Berkon, a quien un tribunal identifica como CFO en 2022.",
+   "action": "fix",
+   "reason": "The sources do not disagree. The court calls Berkon CFO as of July 2022, and the Ohio agreement signed by Allard as CFO dates from after October 2022. That fits a change of CFO, not a conflict, so 'disputed' does not apply. Both are official records.",
+   "es": "Un tribunal identifica a Irina Berkon como CFO de Metallicus en julio de 2022, y Kevin R. Allard firma como CFO el acuerdo de Ohio, posterior a octubre de 2022; las fuentes no aclaran si hubo un relevo en el cargo.",
+   "en": "A court identifies Irina Berkon as Metallicus's CFO in July 2022, and Kevin R. Allard signs the Ohio agreement, dated after October 2022, as CFO; the sources do not say whether the role changed hands.",
+   "status": "confirmed"
+  }
+ ]
+}

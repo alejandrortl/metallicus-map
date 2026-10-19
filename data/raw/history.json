@@ -1,0 +1,1675 @@
+{
+  "nodes": [
+    {
+      "id": "nathan-lands",
+      "name": "Nathan Lands",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Emprendedor de San Francisco; consejero delegado y cofundador de QuickCoin (2014) y después consejero delegado de Blockai, rebautizada Binded y adquirida por Pixsy en 2019.",
+      "summary_en": "San Francisco entrepreneur; CEO and co-founder of QuickCoin (2014), later CEO of Blockai, renamed Binded and acquired by Pixsy in 2019.",
+      "facts": [
+        {
+          "es": "Fue consejero delegado (CEO) y cofundador de QuickCoin.",
+          "en": "Was CEO and co-founder of QuickCoin.",
+          "status": "confirmed",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+              "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+            },
+            {
+              "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+              "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+            },
+            {
+              "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+              "url": "https://bitcointalk.org/index.php?topic=620181.0"
+            }
+          ]
+        },
+        {
+          "es": "Fundó QuickCoin junto con Marshall Hayner a principios de abril de 2014, según VentureBeat.",
+          "en": "Started QuickCoin with Marshall Hayner in early April 2014, according to VentureBeat.",
+          "status": "confirmed",
+          "date": "2014-04",
+          "sources": [
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            },
+            {
+              "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+              "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+            }
+          ]
+        },
+        {
+          "es": "Co-organizó la primera Bitcoin Fair de San Francisco el 6 de febrero de 2014.",
+          "en": "Co-organized the first San Francisco Bitcoin Fair on February 6, 2014.",
+          "status": "confirmed",
+          "date": "2014-02-06",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            },
+            {
+              "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+              "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+            }
+          ]
+        },
+        {
+          "es": "Era consejero delegado de Blockai cuando la startup se presentó en marzo de 2016.",
+          "en": "Was CEO of Blockai when the startup launched publicly in March 2016.",
+          "status": "confirmed",
+          "date": "2016-03-14",
+          "sources": [
+            {
+              "title": "TechCrunch – lanzamiento de Blockai (14-mar-2016)",
+              "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+            }
+          ]
+        },
+        {
+          "es": "Siguió como consejero delegado tras el cambio de nombre a Binded (mayo de 2017) y hasta la compra por Pixsy (septiembre de 2019).",
+          "en": "Remained CEO after the rename to Binded (May 2017) and through the Pixsy acquisition (September 2019).",
+          "status": "confirmed",
+          "date": "2019-09-10",
+          "sources": [
+            {
+              "title": "TechCrunch – Blockai pasa a llamarse Binded (25-may-2017)",
+              "url": "https://techcrunch.com/2017/05/25/binded/"
+            },
+            {
+              "title": "Pixsy – Pixsy adquiere Binded (10-sep-2019)",
+              "url": "https://pixsy.com/binded"
+            }
+          ]
+        },
+        {
+          "es": "Según su propio perfil en Wellfound, QuickCoin fue el primer producto (MVP) de Binded, lanzado en junio de 2014, y los usuarios enviaron más de 150.000 dólares en sus primeros 10 días. La prensa de 2014 fecha el lanzamiento el 20 de mayo y no recoge esa cifra.",
+          "en": "According to his own Wellfound profile, QuickCoin was Binded's first product (MVP), launched in June 2014, and users sent over $150,000 in its first 10 days. 2014 press dates the launch to May 20 and does not report that figure.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Wellfound – perfil de Nathan Lands (autodeclarado)",
+              "url": "https://wellfound.com/p/nathanlands"
+            },
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "william-cotton",
+      "name": "William Cotton",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Director de tecnología (CTO) de QuickCoin en 2014; el anuncio oficial de la empresa también lo presentaba como cofundador.",
+      "summary_en": "Chief technology officer (CTO) of QuickCoin in 2014; the company's official announcement also listed him as a co-founder.",
+      "facts": [
+        {
+          "es": "Fue director de tecnología (CTO) de QuickCoin.",
+          "en": "Was QuickCoin's chief technology officer (CTO).",
+          "status": "confirmed",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            },
+            {
+              "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+              "url": "https://bitcointalk.org/index.php?topic=620181.0"
+            }
+          ]
+        },
+        {
+          "es": "Según el anuncio de QuickCoin en Bitcointalk, figuraba como cofundador; la prensa de 2014 solo cita como cofundadores a Hayner y Lands.",
+          "en": "According to QuickCoin's Bitcointalk announcement he was a co-founder; 2014 press names only Hayner and Lands as co-founders.",
+          "status": "self",
+          "date": "2014-05-22",
+          "sources": [
+            {
+              "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+              "url": "https://bitcointalk.org/index.php?topic=620181.0"
+            },
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jackson-palmer",
+      "name": "Jackson Palmer",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Cocreador de Dogecoin junto con Billy Markus (2013) y asesor de QuickCoin en 2014.",
+      "summary_en": "Co-creator of Dogecoin with Billy Markus (2013) and an adviser to QuickCoin in 2014.",
+      "facts": [
+        {
+          "es": "Creó Dogecoin en 2013 junto con Billy Markus.",
+          "en": "Created Dogecoin in 2013 together with Billy Markus.",
+          "status": "confirmed",
+          "date": "2013",
+          "sources": [
+            {
+              "title": "CNBC – Dogecoin co-creator Jackson Palmer criticizes the crypto industry (14-jul-2021)",
+              "url": "https://www.cnbc.com/2021/07/14/dogecoin-co-creator-jackson-palmer-criticizes-the-crypto-industry.html"
+            },
+            {
+              "title": "Wikipedia – Dogecoin",
+              "url": "https://en.wikipedia.org/wiki/Dogecoin"
+            }
+          ]
+        },
+        {
+          "es": "Fue asesor de QuickCoin.",
+          "en": "Was an adviser to QuickCoin.",
+          "status": "confirmed",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+              "url": "https://bitcointalk.org/index.php?topic=620181.0"
+            },
+            {
+              "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+              "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+            },
+            {
+              "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+              "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+            },
+            {
+              "title": "Finance Magnates – Quickcoin for Facebook (27-may-2014)",
+              "url": "https://www.financemagnates.com/cryptocurrency/innovation/the-next-app-that-simplifies-bitcoins-for-the-masses-quickcoin-for-facebook/"
+            }
+          ]
+        },
+        {
+          "es": "En julio de 2021 criticó públicamente a la industria cripto, a la que describió como controlada por un grupo de figuras adineradas.",
+          "en": "In July 2021 he publicly criticized the crypto industry, describing it as controlled by a group of wealthy figures.",
+          "status": "confirmed",
+          "date": "2021-07",
+          "sources": [
+            {
+              "title": "CNBC – Dogecoin co-creator Jackson Palmer criticizes the crypto industry (14-jul-2021)",
+              "url": "https://www.cnbc.com/2021/07/14/dogecoin-co-creator-jackson-palmer-criticizes-the-crypto-industry.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zach-klein",
+      "name": "Zach Klein",
+      "type": "person",
+      "group": "people",
+      "summary_es": "Cofundador de Vimeo y de DIY.org; fue asesor de QuickCoin en 2014.",
+      "summary_en": "Co-founder of Vimeo and DIY.org; was an adviser to QuickCoin in 2014.",
+      "facts": [
+        {
+          "es": "Es cofundador de Vimeo.",
+          "en": "Is a co-founder of Vimeo.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Wikipedia – Zach Klein",
+              "url": "https://en.wikipedia.org/wiki/Zach_Klein"
+            },
+            {
+              "title": "Input Fort Wayne – Vimeo co-founder Zach Klein (20-ene-2021)",
+              "url": "https://inputfortwayne.com/zach-klein-ed-tech/"
+            }
+          ]
+        },
+        {
+          "es": "Cofundó DIY.org, una plataforma de aprendizaje para menores.",
+          "en": "Co-founded DIY.org, a learning platform for young people.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Wikipedia – Zach Klein",
+              "url": "https://en.wikipedia.org/wiki/Zach_Klein"
+            },
+            {
+              "title": "Input Fort Wayne – Vimeo co-founder Zach Klein (20-ene-2021)",
+              "url": "https://inputfortwayne.com/zach-klein-ed-tech/"
+            }
+          ]
+        },
+        {
+          "es": "Fue asesor de QuickCoin.",
+          "en": "Was an adviser to QuickCoin.",
+          "status": "confirmed",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+              "url": "https://bitcointalk.org/index.php?topic=620181.0"
+            },
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quickcoin",
+      "name": "QuickCoin",
+      "type": "product",
+      "group": "history",
+      "summary_es": "Monedero de bitcoin web integrado con Facebook, creado por una startup autofinanciada de San Francisco y lanzado el 20 de mayo de 2014. Lo cofundaron Marshall Hayner y Nathan Lands.",
+      "summary_en": "A web-based bitcoin wallet integrated with Facebook, built by a self-funded San Francisco startup and launched on May 20, 2014. Co-founded by Marshall Hayner and Nathan Lands.",
+      "facts": [
+        {
+          "es": "Permitía enviar bitcoin a amigos de Facebook usando el inicio de sesión y la API de Facebook; no era un acuerdo con Facebook.",
+          "en": "It let users send bitcoin to Facebook friends using Facebook login and API; it was not a partnership with Facebook.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+              "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+            },
+            {
+              "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+              "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+            },
+            {
+              "title": "Finextra – QuickCoin integrates bitcoin wallet with Facebook",
+              "url": "https://www.finextra.com/newsarticle/26102/quickcoin-integrates-bitcoin-wallet-with-facebook"
+            }
+          ]
+        },
+        {
+          "es": "Se lanzó el 20 de mayo de 2014 tras unas siete semanas de desarrollo; el anuncio oficial en Bitcointalk es del 22 de mayo de 2014.",
+          "en": "Launched on May 20, 2014 after about seven weeks of coding; the official Bitcointalk announcement is dated May 22, 2014.",
+          "status": "confirmed",
+          "date": "2014-05-20",
+          "sources": [
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            },
+            {
+              "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+              "url": "https://bitcointalk.org/index.php?topic=620181.0"
+            }
+          ]
+        },
+        {
+          "es": "Equipo según el anuncio oficial: Nathan Lands (CEO y cofundador), William Cotton (CTO y cofundador) y Marshall Hayner (cofundador); asesores: Jackson Palmer y Zach Klein.",
+          "en": "Team per the official announcement: Nathan Lands (CEO, co-founder), William Cotton (CTO, co-founder) and Marshall Hayner (co-founder); advisers: Jackson Palmer and Zach Klein.",
+          "status": "confirmed",
+          "date": "2014-05-22",
+          "sources": [
+            {
+              "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+              "url": "https://bitcointalk.org/index.php?topic=620181.0"
+            },
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            }
+          ]
+        },
+        {
+          "es": "La empresa era autofinanciada y tenía sede en San Francisco.",
+          "en": "The company was self-funded and based in San Francisco.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+              "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+            },
+            {
+              "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+              "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+            }
+          ]
+        },
+        {
+          "es": "Mostraba saldos en dólares y en 'bits' (0,000001 BTC) y no cobraba comisión propia, solo unos 5 centavos de comisión de red.",
+          "en": "It showed balances in dollars and 'bits' (0.000001 BTC) and charged no fee of its own, only about 5 cents of network fee.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+              "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+            },
+            {
+              "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+              "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+            },
+            {
+              "title": "Finance Magnates – Quickcoin for Facebook (27-may-2014)",
+              "url": "https://www.financemagnates.com/cryptocurrency/innovation/the-next-app-that-simplifies-bitcoins-for-the-masses-quickcoin-for-facebook/"
+            }
+          ]
+        },
+        {
+          "es": "La fecha de fundación es dudosa: VentureBeat la sitúa a principios de abril de 2014; la reseña de OfNumbers dice que Hayner la creó a finales de 2013; Hayner dijo en 2020 que la formó en 2013; y NBC ya la nombraba organizadora de un evento el 27 de enero de 2014.",
+          "en": "The founding date is disputed: VentureBeat places it in early April 2014; the OfNumbers review says Hayner created it in late 2013; Hayner said in 2020 he formed it in 2013; and NBC already named it as an event organizer on January 27, 2014.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+              "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+            },
+            {
+              "title": "OfNumbers (Tim Swanson) – reseña de The Age of Cryptocurrency (19-may-2015)",
+              "url": "https://www.ofnumbers.com/2015/05/19/book-review-the-age-of-cryptocurrency/"
+            },
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            },
+            {
+              "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+              "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+            }
+          ]
+        },
+        {
+          "es": "Según Marshall Hayner (AMA de 2020), QuickCoin llegó a casi un millón de usuarios en unas tres semanas. Ninguna fuente independiente consultada da cifras de usuarios.",
+          "en": "According to Marshall Hayner (2020 AMA), QuickCoin reached just under a million users in about three weeks. No independent source consulted gives user figures.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        },
+        {
+          "es": "Patrocinó la primera Bitcoin Fair de San Francisco (febrero de 2014).",
+          "en": "Sponsored the first San Francisco Bitcoin Fair (February 2014).",
+          "status": "confirmed",
+          "date": "2014-02-06",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            },
+            {
+              "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+              "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blockai-binded",
+      "name": "Blockai / Binded",
+      "type": "company",
+      "group": "history",
+      "summary_es": "Startup de San Francisco que registraba la autoría de obras creativas en una blockchain pública. Se presentó como Blockai en 2016, pasó a llamarse Binded en mayo de 2017 y Pixsy la adquirió en septiembre de 2019. Su CEO era Nathan Lands.",
+      "summary_en": "San Francisco startup that recorded proof of creation for creative works on a public blockchain. Launched as Blockai in 2016, renamed Binded in May 2017 and acquired by Pixsy in September 2019. Its CEO was Nathan Lands.",
+      "facts": [
+        {
+          "es": "Se presentó como Blockai en marzo de 2016, con Nathan Lands como CEO, para que artistas y fotógrafos registraran sus obras en una blockchain.",
+          "en": "Launched as Blockai in March 2016, with Nathan Lands as CEO, letting artists and photographers register their works on a blockchain.",
+          "status": "confirmed",
+          "date": "2016-03-14",
+          "sources": [
+            {
+              "title": "TechCrunch – lanzamiento de Blockai (14-mar-2016)",
+              "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+            }
+          ]
+        },
+        {
+          "es": "Según la empresa (citada por TechCrunch), había recaudado 547.000 dólares; entre los inversores figuraba el restaurante Ramen Underground.",
+          "en": "According to the company (cited by TechCrunch), it had raised $547,000; investors included the Ramen Underground restaurant.",
+          "status": "self",
+          "date": "2016-03",
+          "sources": [
+            {
+              "title": "TechCrunch – lanzamiento de Blockai (14-mar-2016)",
+              "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+            }
+          ]
+        },
+        {
+          "es": "El 25 de mayo de 2017 cambió su nombre a Binded y anunció 950.000 dólares adicionales, hasta 1,5 millones en total.",
+          "en": "On May 25, 2017 it renamed itself Binded and announced an additional $950,000, for $1.5 million in total.",
+          "status": "confirmed",
+          "date": "2017-05-25",
+          "sources": [
+            {
+              "title": "TechCrunch – Blockai pasa a llamarse Binded (25-may-2017)",
+              "url": "https://techcrunch.com/2017/05/25/binded/"
+            },
+            {
+              "title": "Global Venturing – Asahi Shimbun exits as Pixsy picks up Binded (10-sep-2019)",
+              "url": "https://globalventuring.com/asahi-shimbun-exits-as-pixsy-picks-up-binded"
+            }
+          ]
+        },
+        {
+          "es": "El año de inicio difiere: TechCrunch informó de su lanzamiento como Blockai en marzo de 2016, pero Pixsy y Global Venturing dicen que empezó en 2017.",
+          "en": "The start year differs: TechCrunch reported its launch as Blockai in March 2016, but Pixsy and Global Venturing say it started in 2017.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "TechCrunch – lanzamiento de Blockai (14-mar-2016)",
+              "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+            },
+            {
+              "title": "Pixsy – Pixsy adquiere Binded (10-sep-2019)",
+              "url": "https://pixsy.com/binded"
+            },
+            {
+              "title": "Global Venturing – Asahi Shimbun exits as Pixsy picks up Binded (10-sep-2019)",
+              "url": "https://globalventuring.com/asahi-shimbun-exits-as-pixsy-picks-up-binded"
+            }
+          ]
+        },
+        {
+          "es": "Pixsy anunció la compra de Binded el 10 de septiembre de 2019, por un importe no revelado; la plataforma Binded cerró el 30 de septiembre de 2019 y sus usuarios pasaron a Pixsy.",
+          "en": "Pixsy announced its purchase of Binded on September 10, 2019 for an undisclosed amount; the Binded platform closed on September 30, 2019 and its users moved to Pixsy.",
+          "status": "confirmed",
+          "date": "2019-09-10",
+          "sources": [
+            {
+              "title": "Pixsy – Pixsy adquiere Binded (10-sep-2019)",
+              "url": "https://pixsy.com/binded"
+            },
+            {
+              "title": "Global Venturing – Asahi Shimbun exits as Pixsy picks up Binded (10-sep-2019)",
+              "url": "https://globalventuring.com/asahi-shimbun-exits-as-pixsy-picks-up-binded"
+            }
+          ]
+        },
+        {
+          "es": "Según Nathan Lands (Wellfound), QuickCoin fue el primer producto de la misma empresa. Ninguna noticia sobre Blockai o Binded menciona QuickCoin ni a Marshall Hayner.",
+          "en": "According to Nathan Lands (Wellfound), QuickCoin was the same company's first product. No news report on Blockai or Binded mentions QuickCoin or Marshall Hayner.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Wellfound – perfil de Nathan Lands (autodeclarado)",
+              "url": "https://wellfound.com/p/nathanlands"
+            },
+            {
+              "title": "TechCrunch – lanzamiento de Blockai (14-mar-2016)",
+              "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+            },
+            {
+              "title": "TechCrunch – Blockai pasa a llamarse Binded (25-may-2017)",
+              "url": "https://techcrunch.com/2017/05/25/binded/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pixsy",
+      "name": "Pixsy",
+      "type": "company",
+      "group": "history",
+      "website": "https://pixsy.com",
+      "summary_es": "Servicio de protección de imágenes y derechos de autor fundado en 2014, con sede en Covina (California). Compró Binded (antes Blockai) en 2019.",
+      "summary_en": "Image-protection and copyright service founded in 2014, based in Covina, California. Bought Binded (formerly Blockai) in 2019.",
+      "facts": [
+        {
+          "es": "Según Pixsy, la fundó en 2014 el fotógrafo Daniel Foster, junto con Torsten Rüter y Kain Jones.",
+          "en": "According to Pixsy, it was founded in 2014 by photographer Daniel Foster, with Torsten Rüter and Kain Jones.",
+          "status": "self",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "Pixsy – About",
+              "url": "https://pixsy.com/about"
+            }
+          ]
+        },
+        {
+          "es": "Ayuda a creadores a localizar usos no autorizados de sus imágenes y a reclamarlos.",
+          "en": "Helps creators find and resolve unauthorized uses of their images.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Pixsy – About",
+              "url": "https://pixsy.com/about"
+            }
+          ]
+        },
+        {
+          "es": "Adquirió Binded (antes Blockai) en septiembre de 2019, por un importe no revelado.",
+          "en": "Acquired Binded (formerly Blockai) in September 2019 for an undisclosed amount.",
+          "status": "confirmed",
+          "date": "2019-09-10",
+          "sources": [
+            {
+              "title": "Pixsy – Pixsy adquiere Binded (10-sep-2019)",
+              "url": "https://pixsy.com/binded"
+            },
+            {
+              "title": "Global Venturing – Asahi Shimbun exits as Pixsy picks up Binded (10-sep-2019)",
+              "url": "https://globalventuring.com/asahi-shimbun-exits-as-pixsy-picks-up-binded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-fair-2014",
+      "name": "Bitcoin Fair (San Francisco, 2014)",
+      "type": "event",
+      "group": "history",
+      "summary_es": "Primera Bitcoin Fair de San Francisco, celebrada el 6 de febrero de 2014 en el restaurante Ramen Underground (Japantown), co-organizada por Nathan Lands y Marshall Hayner.",
+      "summary_en": "The first San Francisco Bitcoin Fair, held on February 6, 2014 at the Ramen Underground restaurant (Japantown), co-organized by Nathan Lands and Marshall Hayner.",
+      "facts": [
+        {
+          "es": "Se celebró el jueves 6 de febrero de 2014, desde las 18:30, en Ramen Underground, en el Japan Center de Japantown (San Francisco), un restaurante que ya aceptaba bitcoin.",
+          "en": "Held on Thursday, February 6, 2014 from 6:30 pm at Ramen Underground, in Japantown's Japan Center (San Francisco), a restaurant that already accepted bitcoin.",
+          "status": "confirmed",
+          "date": "2014-02-06",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            },
+            {
+              "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+              "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+            }
+          ]
+        },
+        {
+          "es": "La co-organizaron Nathan Lands y Marshall Hayner; Hayner dio la bienvenida. NBC presentó a QuickCoin como organizadora.",
+          "en": "Co-organized by Nathan Lands and Marshall Hayner; Hayner gave the welcome. NBC named QuickCoin as the organizer.",
+          "status": "confirmed",
+          "date": "2014-02-06",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            },
+            {
+              "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+              "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+            }
+          ]
+        },
+        {
+          "es": "Patrocinadores: el bufete Perkins Coie (su socio Jason A. Yurasek habló al público) y QuickCoin.",
+          "en": "Sponsors: law firm Perkins Coie (partner Jason A. Yurasek addressed the crowd) and QuickCoin.",
+          "status": "confirmed",
+          "date": "2014-02-06",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            }
+          ]
+        },
+        {
+          "es": "La entrada era gratuita y el evento ofrecía información para principiantes y contactos con inversores.",
+          "en": "Admission was free and the event offered information for newcomers and networking with investors.",
+          "status": "confirmed",
+          "date": "2014-01-27",
+          "sources": [
+            {
+              "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+              "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+            }
+          ]
+        },
+        {
+          "es": "La asistencia varía según la fuente: CoinDesk habla de más de 200 personas y de al menos 250 según Lands; el perfil de Hayner en Cointelegraph dice unas 300.",
+          "en": "Attendance varies by source: CoinDesk reports more than 200 people and at least 250 according to Lands; Hayner's Cointelegraph profile says about 300.",
+          "status": "disputed",
+          "date": "2014-02-06",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            },
+            {
+              "title": "Cointelegraph – perfil de Marshall Hayner (sin fecha)",
+              "url": "https://cointelegraph.com/news/111171/marshall_hayner"
+            }
+          ]
+        },
+        {
+          "es": "Los organizadores planeaban ferias trimestrales o mensuales de 800 a 1.000 personas y socios en otras ciudades (Los Ángeles, Vancouver, Orlando). No se encontraron pruebas de ediciones posteriores.",
+          "en": "Organizers planned quarterly or monthly fairs of 800 to 1,000 people and partners in other cities (Los Angeles, Vancouver, Orlando). No evidence of later editions was found.",
+          "status": "confirmed",
+          "date": "2014-02-09",
+          "sources": [
+            {
+              "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+              "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+            }
+          ]
+        },
+        {
+          "es": "El detenido Charlie Shrem fue arrestado días antes del evento, no ese mismo día; NBC informó el 27 de enero de 2014 de que la feria seguiría adelante.",
+          "en": "Charlie Shrem was arrested days before the event, not on the same day; NBC reported on January 27, 2014 that the fair would go ahead.",
+          "status": "confirmed",
+          "date": "2014-01-27",
+          "sources": [
+            {
+              "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+              "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dogecoin",
+      "name": "Dogecoin (DOGE)",
+      "type": "token",
+      "group": "history",
+      "website": "https://dogecoin.com",
+      "summary_es": "Criptomoneda creada en 2013 por Billy Markus y Jackson Palmer a partir del meme 'Doge'. En su comunidad se conocieron Marshall Hayner y Glenn Mariën, según Metallicus.",
+      "summary_en": "Cryptocurrency created in 2013 by Billy Markus and Jackson Palmer based on the 'Doge' meme. Marshall Hayner and Glenn Mariën met in its community, according to Metallicus.",
+      "facts": [
+        {
+          "es": "La crearon Billy Markus y Jackson Palmer en 2013, a modo de broma basada en el meme 'Doge'; se lanzó el 6 de diciembre de 2013.",
+          "en": "Created by Billy Markus and Jackson Palmer in 2013 as a joke based on the 'Doge' meme; launched on December 6, 2013.",
+          "status": "confirmed",
+          "date": "2013-12-06",
+          "sources": [
+            {
+              "title": "CNBC – Dogecoin co-creator Jackson Palmer criticizes the crypto industry (14-jul-2021)",
+              "url": "https://www.cnbc.com/2021/07/14/dogecoin-co-creator-jackson-palmer-criticizes-the-crypto-industry.html"
+            },
+            {
+              "title": "Wikipedia – Dogecoin",
+              "url": "https://en.wikipedia.org/wiki/Dogecoin"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, Marshall Hayner y Glenn Mariën se conocieron en la comunidad de Dogecoin.",
+          "en": "According to Metallicus, Marshall Hayner and Glenn Mariën met in the Dogecoin community.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4-ago-2023)",
+              "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+            },
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        },
+        {
+          "es": "Según Hayner, colaboró con la comunidad Dogecoin en iniciativas como Doge at NASCAR y Hackadoge.",
+          "en": "According to Hayner, he worked with the Dogecoin community on initiatives such as Doge at NASCAR and Hackadoge.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dogecoin-foundation",
+      "name": "Dogecoin Foundation",
+      "type": "organization",
+      "group": "history",
+      "website": "https://foundation.dogecoin.com",
+      "summary_es": "Organización sin ánimo de lucro creada en 2014 para apoyar Dogecoin y relanzada en agosto de 2021. Marshall Hayner entró en su consejo a finales de 2022, anunciado al inicio de 2023.",
+      "summary_en": "Non-profit set up in 2014 to support Dogecoin and relaunched in August 2021. Marshall Hayner joined its board at the end of 2022, announced at the start of 2023.",
+      "facts": [
+        {
+          "es": "Se creó en 2014 como organización sin ánimo de lucro de apoyo a Dogecoin.",
+          "en": "Established in 2014 as a non-profit supporting Dogecoin.",
+          "status": "confirmed",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "Dogecoin.com – What is the Dogecoin Foundation?",
+              "url": "https://dogecoin.com/dogepedia/articles/what-is-the-dogecoin-foundation/"
+            },
+            {
+              "title": "CryptoPotato – Dogecoin Foundation rebooted (17-ago-2021)",
+              "url": "https://cryptopotato.com/dogecoin-foundation-rebooted-elon-musks-associate-and-vitalik-buterin-among-board-advisors/"
+            }
+          ]
+        },
+        {
+          "es": "Los desarrolladores principales la relanzaron en agosto de 2021, con asesores como Vitalik Buterin y Jared Birchall.",
+          "en": "Core developers relaunched it in August 2021, with advisers including Vitalik Buterin and Jared Birchall.",
+          "status": "confirmed",
+          "date": "2021-08",
+          "sources": [
+            {
+              "title": "CryptoPotato – Dogecoin Foundation rebooted (17-ago-2021)",
+              "url": "https://cryptopotato.com/dogecoin-foundation-rebooted-elon-musks-associate-and-vitalik-buterin-among-board-advisors/"
+            },
+            {
+              "title": "Dogecoin.com – What is the Dogecoin Foundation?",
+              "url": "https://dogecoin.com/dogepedia/articles/what-is-the-dogecoin-foundation/"
+            }
+          ]
+        },
+        {
+          "es": "En su anuncio del 31 de diciembre de 2022 dio la bienvenida a Marshall Hayner como nuevo miembro del consejo y lo nombró uno de los cinco custodios de un fondo de 5 millones de DOGE para Dogecoin Core.",
+          "en": "In its December 31, 2022 announcement it welcomed Marshall Hayner as a new board member and named him one of five custodians of a 5 million DOGE fund for Dogecoin Core.",
+          "status": "confirmed",
+          "date": "2022-12-31",
+          "sources": [
+            {
+              "title": "Dogecoin Foundation – CoreFund and Foundation updates (31-dic-2022)",
+              "url": "https://foundation.dogecoin.com/announcements/2022-12-31-corefund/"
+            },
+            {
+              "title": "CryptoPotato – Dogecoin Foundation introduces a new core development fund (3-ene-2023)",
+              "url": "https://cryptopotato.com/dogecoin-foundation-introduces-a-new-core-devlopment-fund/"
+            },
+            {
+              "title": "Benzinga – Dogecoin Foundation launches development fund (2-ene-2023)",
+              "url": "https://www.benzinga.com/markets/cryptocurrency/23/01/30249133/supporting-the-future-of-dogecoin-foundation-launches-development-fund-for-dogecoin-core"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stellar",
+      "name": "Stellar Development Foundation",
+      "type": "organization",
+      "group": "history",
+      "website": "https://stellar.org",
+      "summary_es": "Organización sin ánimo de lucro creada en 2014 por Jed McCaleb con financiación inicial de Stripe para desarrollar la red de pagos Stellar. Marshall Hayner dice haber trabajado allí como contratista en 2014.",
+      "summary_en": "Non-profit set up in 2014 by Jed McCaleb with seed funding from Stripe to develop the Stellar payment network. Marshall Hayner says he worked there as a contractor in 2014.",
+      "facts": [
+        {
+          "es": "Se presentó el 31 de julio de 2014 como organización sin ánimo de lucro impulsada por Jed McCaleb, cofundador de Ripple y creador de Mt. Gox.",
+          "en": "Unveiled on July 31, 2014 as a non-profit backed by Jed McCaleb, Ripple co-founder and Mt. Gox creator.",
+          "status": "confirmed",
+          "date": "2014-07-31",
+          "sources": [
+            {
+              "title": "TechCrunch – Stripe backs non-profit Stellar (31-jul-2014)",
+              "url": "https://techcrunch.com/2014/07/31/stripe-backs-non-profit-decentralized-payment-network-stellar-from-mt-goxs-original-creator"
+            },
+            {
+              "title": "Fortune – Stripe launches bitcoin challenger (31-jul-2014)",
+              "url": "https://fortune.com/2014/07/31/stripe-launches-bitcoin-challenger-gives-it-away-for-free"
+            }
+          ]
+        },
+        {
+          "es": "Stripe aportó 3 millones de dólares de financiación inicial a cambio del 2% de los stellars.",
+          "en": "Stripe provided $3 million in initial funding in exchange for 2% of the stellars.",
+          "status": "confirmed",
+          "date": "2014-07-31",
+          "sources": [
+            {
+              "title": "TechCrunch – Stripe backs non-profit Stellar (31-jul-2014)",
+              "url": "https://techcrunch.com/2014/07/31/stripe-backs-non-profit-decentralized-payment-network-stellar-from-mt-goxs-original-creator"
+            },
+            {
+              "title": "Fortune – Stripe launches bitcoin challenger (31-jul-2014)",
+              "url": "https://fortune.com/2014/07/31/stripe-launches-bitcoin-challenger-gives-it-away-for-free"
+            }
+          ]
+        },
+        {
+          "es": "Según Hayner, se unió a la fundación en 2014 como contratista y ayudó a promover el lanzamiento del monedero de Stellar y a gestionar la comunidad. No se encontró ninguna comunicación de la propia fundación que lo mencione.",
+          "en": "According to Hayner, he joined the foundation in 2014 as a contractor and helped promote the Stellar wallet launch and manage the community. No communication from the foundation itself mentioning him was found.",
+          "status": "self",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "Bankless Times – Metal CEO Marshall Hayner on crypto's past and future (16-feb-2023)",
+              "url": "https://www.banklesstimes.com/?p=10348"
+            },
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            },
+            {
+              "title": "YesPress – perfil de Marshall Hayner",
+              "url": "https://yespress.io/marshall-hayner.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "block-io",
+      "name": "Block.io",
+      "type": "company",
+      "group": "history",
+      "website": "https://block.io",
+      "summary_es": "API y monedero para integrar pagos con Bitcoin, Dogecoin y Litecoin, fundado por Atif Nazir. Marshall Hayner dice haber sido su director de marketing (CMO) en 2014.",
+      "summary_en": "API and wallet for integrating Bitcoin, Dogecoin and Litecoin payments, founded by Atif Nazir. Marshall Hayner says he was its chief marketing officer (CMO) in 2014.",
+      "facts": [
+        {
+          "es": "En agosto de 2014 se describía como una API y monedero para Bitcoin, Dogecoin y Litecoin, sin comisiones de servicio; su fundador y CEO era Atif Nazir.",
+          "en": "In August 2014 it was described as an API and wallet for Bitcoin, Dogecoin and Litecoin with no service fees; its founder and CEO was Atif Nazir.",
+          "status": "confirmed",
+          "date": "2014-08-21",
+          "sources": [
+            {
+              "title": "Cointelegraph – Block.io, a foolproof API and wallet (21-ago-2014)",
+              "url": "https://cointelegraph.com/news/blockio-a-fool-proof-api-and-wallet-that-shakes-service-fees"
+            }
+          ]
+        },
+        {
+          "es": "Según Hayner, fue director de marketing (CMO) de Block.io tras su paso por Stellar, y su trabajo con Dogecoin allí renovó su interés por las criptomonedas.",
+          "en": "According to Hayner, he was Block.io's chief marketing officer (CMO) after Stellar, and his Dogecoin work there renewed his interest in crypto.",
+          "status": "self",
+          "date": "2014",
+          "sources": [
+            {
+              "title": "Bankless Times – Metal CEO Marshall Hayner on crypto's past and future (16-feb-2023)",
+              "url": "https://www.banklesstimes.com/?p=10348"
+            },
+            {
+              "title": "YesPress – perfil de Marshall Hayner",
+              "url": "https://yespress.io/marshall-hayner.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dogechain-info",
+      "name": "Dogechain.info",
+      "type": "product",
+      "group": "history",
+      "website": "https://dogechain.info",
+      "summary_es": "Explorador de bloques de Dogecoin, con monedero en línea, creado por Glenn Mariën según Metallicus.",
+      "summary_en": "Dogecoin block explorer with an online wallet, created by Glenn Mariën according to Metallicus.",
+      "facts": [
+        {
+          "es": "En mayo de 2014 era el explorador de bloques de Dogecoin equivalente a Blockchain.info y preparaba un monedero en línea en el que las claves se generaban en el navegador del usuario.",
+          "en": "In May 2014 it was the Dogecoin block explorer analogous to Blockchain.info and was preparing an online wallet with keys generated in the user's browser.",
+          "status": "confirmed",
+          "date": "2014-05-07",
+          "sources": [
+            {
+              "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
+              "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
+            }
+          ]
+        },
+        {
+          "es": "Según Metallicus, Glenn Mariën creó Dogechain.info, que la empresa describe como el primer monedero en línea de Dogecoin. Cointelegraph (2014) atribuye su creación al usuario 'GlennMR'.",
+          "en": "According to Metallicus, Glenn Mariën created Dogechain.info, which the company describes as the first online Dogecoin wallet. Cointelegraph (2014) credits its creation to user 'GlennMR'.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Meet the Team",
+              "url": "https://www.metallicus.com/company/meet-the-team"
+            },
+            {
+              "title": "Metallicus blog – Metallicus patrocina Dogeathon (20-sep-2022)",
+              "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
+            },
+            {
+              "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
+              "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lynx",
+      "name": "Lynx",
+      "type": "company",
+      "group": "history",
+      "summary_es": "Proyecto de monedero y blockchain del ecosistema EOS dirigido por Fred Krueger. Metal (Metallicus) lo adquirió en mayo de 2020 y lo fusionó en Proton, hoy XPR Network.",
+      "summary_en": "EOS-ecosystem wallet and blockchain project led by Fred Krueger. Metal (Metallicus) acquired it in May 2020 and merged it into Proton, now XPR Network.",
+      "facts": [
+        {
+          "es": "Era una plataforma de aplicaciones cripto para consumidores en torno al Lynx Wallet, nacida en EOS, que desarrollaba su propia cadena (Lynx chain); su CEO era Fred Krueger.",
+          "en": "It was a consumer crypto-app platform built around the Lynx Wallet, born on EOS, developing its own chain (Lynx chain); its CEO was Fred Krueger.",
+          "status": "confirmed",
+          "date": "2019-07-16",
+          "sources": [
+            {
+              "title": "DeFiprime – entrevista EOS Lynx (16-jul-2019)",
+              "url": "https://defiprime.com/eos-lynx"
+            },
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        },
+        {
+          "es": "Metal compró Lynx en mayo de 2020; fue su primera adquisición de ese año, antes de Bloks.io.",
+          "en": "Metal bought Lynx in May 2020; it was its first acquisition that year, before Bloks.io.",
+          "status": "confirmed",
+          "date": "2020-05",
+          "sources": [
+            {
+              "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+              "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+            },
+            {
+              "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21-ago-2020)",
+              "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+            },
+            {
+              "title": "Invezz – Metal Pay acquired Bloks.io (21-ago-2020)",
+              "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+            }
+          ]
+        },
+        {
+          "es": "Proton surgió de la unión de Metal y Lynx; su red principal arrancó a finales de abril de 2020 y ambas empresas se fusionaron oficialmente a mediados de mayo de 2020.",
+          "en": "Proton emerged from Metal and Lynx joining forces; its mainnet started in late April 2020 and the two companies officially merged in mid-May 2020.",
+          "status": "confirmed",
+          "date": "2020-05",
+          "sources": [
+            {
+              "title": "Blockonomi – Proton chain guide (29-may-2020)",
+              "url": "https://blockonomi.com/proton-chain-guide/"
+            },
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        },
+        {
+          "es": "Según Hayner, la Lynx chain se combinó con su proyecto XID y ambos se rebautizaron como Proton.",
+          "en": "According to Hayner, Lynx chain was combined with his XID project and both were rebranded as Proton.",
+          "status": "self",
+          "date": "2020",
+          "sources": [
+            {
+              "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+              "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloks-io",
+      "name": "Bloks.io",
+      "type": "product",
+      "group": "history",
+      "website": "https://bloks.io",
+      "summary_es": "Explorador de bloques de EOS ampliado a otras redes EOSIO (WAX, Telos, Proton). Metal Pay anunció su adquisición el 21 de agosto de 2020.",
+      "summary_en": "EOS block explorer extended to other EOSIO networks (WAX, Telos, Proton). Metal Pay announced its acquisition on August 21, 2020.",
+      "facts": [
+        {
+          "es": "Nació como explorador de bloques de EOS y se amplió a otras redes EOSIO como WAX, Telos y Proton.",
+          "en": "Started as an EOS block explorer and expanded to other EOSIO networks such as WAX, Telos and Proton.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+              "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+            },
+            {
+              "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21-ago-2020)",
+              "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+            }
+          ]
+        },
+        {
+          "es": "Metal Pay anunció su adquisición el 21 de agosto de 2020, por un importe no revelado; fue su segunda compra de 2020.",
+          "en": "Metal Pay announced its acquisition on August 21, 2020 for an undisclosed amount; it was its second purchase of 2020.",
+          "status": "confirmed",
+          "date": "2020-08-21",
+          "sources": [
+            {
+              "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+              "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+            },
+            {
+              "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21-ago-2020)",
+              "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+            },
+            {
+              "title": "Invezz – Metal Pay acquired Bloks.io (21-ago-2020)",
+              "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+            }
+          ]
+        },
+        {
+          "es": "Su equipo lo dirigía Syed Jafri, fundador del productor de bloques EOS Cafe Block y de Collectables.io.",
+          "en": "Its team was led by Syed Jafri, founder of block producer EOS Cafe Block and of Collectables.io.",
+          "status": "confirmed",
+          "date": "2020-08-21",
+          "sources": [
+            {
+              "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+              "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+            },
+            {
+              "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21-ago-2020)",
+              "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+            },
+            {
+              "title": "Invezz – Metal Pay acquired Bloks.io (21-ago-2020)",
+              "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+            }
+          ]
+        },
+        {
+          "es": "Según Metal, tenía más de 10.000 usuarios activos diarios en el momento de la compra.",
+          "en": "According to Metal, it had more than 10,000 daily active users at the time of the deal.",
+          "status": "self",
+          "date": "2020-08-21",
+          "sources": [
+            {
+              "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+              "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+            },
+            {
+              "title": "Invezz – Metal Pay acquired Bloks.io (21-ago-2020)",
+              "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crumbs",
+      "name": "Crumbs",
+      "type": "product",
+      "group": "history",
+      "summary_es": "Aplicación de microinversión que redondeaba compras con tarjeta e invertía el cambio en criptoactivos. Metal anunció un acuerdo definitivo para adquirir Crumbs Technologies Inc. el 30 de mayo de 2018.",
+      "summary_en": "Micro-investing app that rounded up card purchases and invested the change in crypto assets. Metal announced a definitive agreement to acquire Crumbs Technologies Inc. on May 30, 2018.",
+      "facts": [
+        {
+          "es": "Redondeaba las compras con tarjeta e invertía la diferencia en una cartera de criptoactivos elegida por el usuario.",
+          "en": "It rounded up card purchases and invested the difference in a crypto portfolio chosen by the user.",
+          "status": "confirmed",
+          "sources": [
+            {
+              "title": "Newswire – Metal to acquire Crumbs Technologies Inc. (30-may-2018)",
+              "url": "https://www.newswire.com/news/metal-to-acquire-crumbs-technologies-inc-20500960"
+            },
+            {
+              "title": "CryptoNinjas – Metal (MTL) acquires micro invest app Crumbs (30-may-2018)",
+              "url": "https://www.cryptoninjas.net/2018/05/30/metal-mtl-acquires-cryptocurrency-micro-invest-app-crumbs/"
+            }
+          ]
+        },
+        {
+          "es": "Metal anunció el 30 de mayo de 2018 un acuerdo definitivo para comprar Crumbs Technologies Inc., sin revelar el precio; fue su primera adquisición. Su CEO era Patrick Mrozowski.",
+          "en": "Metal announced on May 30, 2018 a definitive agreement to buy Crumbs Technologies Inc., without disclosing the price; it was its first acquisition. Its CEO was Patrick Mrozowski.",
+          "status": "confirmed",
+          "date": "2018-05-30",
+          "sources": [
+            {
+              "title": "Newswire – Metal to acquire Crumbs Technologies Inc. (30-may-2018)",
+              "url": "https://www.newswire.com/news/metal-to-acquire-crumbs-technologies-inc-20500960"
+            },
+            {
+              "title": "CryptoNinjas – Metal (MTL) acquires micro invest app Crumbs (30-may-2018)",
+              "url": "https://www.cryptoninjas.net/2018/05/30/metal-mtl-acquires-cryptocurrency-micro-invest-app-crumbs/"
+            }
+          ]
+        },
+        {
+          "es": "En septiembre de 2019 Decrypt la describía como una aplicación ya desaparecida.",
+          "en": "In September 2019 Decrypt described it as a now-defunct app.",
+          "status": "confirmed",
+          "date": "2019-09-12",
+          "sources": [
+            {
+              "title": "Decrypt – Metal Payments is recycling old announcements (12-sep-2019)",
+              "url": "https://decrypt.co/8867/metal-payments-is-recycling-old-announcements-to-help-prop-up-its-flailing-token"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "marshall-hayner",
+      "to": "quickcoin",
+      "label_es": "cofundó",
+      "label_en": "co-founded",
+      "status": "confirmed",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+          "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+        },
+        {
+          "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+          "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+        },
+        {
+          "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+          "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+        },
+        {
+          "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+          "url": "https://bitcointalk.org/index.php?topic=620181.0"
+        }
+      ]
+    },
+    {
+      "from": "nathan-lands",
+      "to": "quickcoin",
+      "label_es": "cofundó y dirigió como CEO",
+      "label_en": "co-founded and led as CEO",
+      "status": "confirmed",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+          "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+        },
+        {
+          "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+          "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+        },
+        {
+          "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+          "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+        },
+        {
+          "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+          "url": "https://bitcointalk.org/index.php?topic=620181.0"
+        }
+      ]
+    },
+    {
+      "from": "nathan-lands",
+      "to": "marshall-hayner",
+      "label_es": "cofundador de QuickCoin con",
+      "label_en": "QuickCoin co-founder with",
+      "status": "confirmed",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+          "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+        },
+        {
+          "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+          "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+        }
+      ]
+    },
+    {
+      "from": "william-cotton",
+      "to": "quickcoin",
+      "label_es": "CTO (y cofundador según la empresa) de",
+      "label_en": "CTO (and co-founder per the company) of",
+      "status": "confirmed",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+          "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+        },
+        {
+          "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+          "url": "https://bitcointalk.org/index.php?topic=620181.0"
+        }
+      ]
+    },
+    {
+      "from": "jackson-palmer",
+      "to": "quickcoin",
+      "label_es": "asesor de",
+      "label_en": "adviser to",
+      "status": "confirmed",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+          "url": "https://bitcointalk.org/index.php?topic=620181.0"
+        },
+        {
+          "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (27-may-2014)",
+          "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+        },
+        {
+          "title": "Computerworld – QuickCoin app brings bitcoin to Facebook users (27-may-2014)",
+          "url": "https://www.computerworld.com/article/1519028/quickcoin-app-brings-bitcoin-to-facebook-users.html"
+        },
+        {
+          "title": "Finance Magnates – Quickcoin for Facebook (27-may-2014)",
+          "url": "https://www.financemagnates.com/cryptocurrency/innovation/the-next-app-that-simplifies-bitcoins-for-the-masses-quickcoin-for-facebook/"
+        }
+      ]
+    },
+    {
+      "from": "zach-klein",
+      "to": "quickcoin",
+      "label_es": "asesor de",
+      "label_en": "adviser to",
+      "status": "confirmed",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "Bitcointalk – anuncio oficial QuickCoin (22-may-2014)",
+          "url": "https://bitcointalk.org/index.php?topic=620181.0"
+        },
+        {
+          "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
+          "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+        }
+      ]
+    },
+    {
+      "from": "jackson-palmer",
+      "to": "dogecoin",
+      "label_es": "cocreó",
+      "label_en": "co-created",
+      "status": "confirmed",
+      "date": "2013-12-06",
+      "sources": [
+        {
+          "title": "CNBC – Dogecoin co-creator Jackson Palmer criticizes the crypto industry (14-jul-2021)",
+          "url": "https://www.cnbc.com/2021/07/14/dogecoin-co-creator-jackson-palmer-criticizes-the-crypto-industry.html"
+        },
+        {
+          "title": "Wikipedia – Dogecoin",
+          "url": "https://en.wikipedia.org/wiki/Dogecoin"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "bitcoin-fair-2014",
+      "label_es": "co-organizó",
+      "label_en": "co-organized",
+      "status": "confirmed",
+      "date": "2014-02-06",
+      "sources": [
+        {
+          "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+          "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+        },
+        {
+          "title": "Cointelegraph – perfil de Marshall Hayner (sin fecha)",
+          "url": "https://cointelegraph.com/news/111171/marshall_hayner"
+        }
+      ]
+    },
+    {
+      "from": "nathan-lands",
+      "to": "bitcoin-fair-2014",
+      "label_es": "co-organizó",
+      "label_en": "co-organized",
+      "status": "confirmed",
+      "date": "2014-02-06",
+      "sources": [
+        {
+          "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+          "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+        }
+      ]
+    },
+    {
+      "from": "quickcoin",
+      "to": "bitcoin-fair-2014",
+      "label_es": "patrocinó y organizó",
+      "label_en": "sponsored and organized",
+      "status": "confirmed",
+      "date": "2014-02-06",
+      "sources": [
+        {
+          "title": "CoinDesk – Inaugural Bitcoin Fair in San Francisco sees high turnout (9-feb-2014)",
+          "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+        },
+        {
+          "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
+          "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+        }
+      ]
+    },
+    {
+      "from": "quickcoin",
+      "to": "blockai-binded",
+      "label_es": "primer producto de la misma empresa, según Nathan Lands",
+      "label_en": "first product of the same company, per Nathan Lands",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Wellfound – perfil de Nathan Lands (autodeclarado)",
+          "url": "https://wellfound.com/p/nathanlands"
+        }
+      ]
+    },
+    {
+      "from": "nathan-lands",
+      "to": "blockai-binded",
+      "label_es": "CEO de",
+      "label_en": "CEO of",
+      "status": "confirmed",
+      "date": "2016-03-14",
+      "sources": [
+        {
+          "title": "TechCrunch – lanzamiento de Blockai (14-mar-2016)",
+          "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+        },
+        {
+          "title": "TechCrunch – Blockai pasa a llamarse Binded (25-may-2017)",
+          "url": "https://techcrunch.com/2017/05/25/binded/"
+        },
+        {
+          "title": "Pixsy – Pixsy adquiere Binded (10-sep-2019)",
+          "url": "https://pixsy.com/binded"
+        }
+      ]
+    },
+    {
+      "from": "pixsy",
+      "to": "blockai-binded",
+      "label_es": "adquirió",
+      "label_en": "acquired",
+      "status": "confirmed",
+      "date": "2019-09-10",
+      "sources": [
+        {
+          "title": "Pixsy – Pixsy adquiere Binded (10-sep-2019)",
+          "url": "https://pixsy.com/binded"
+        },
+        {
+          "title": "Global Venturing – Asahi Shimbun exits as Pixsy picks up Binded (10-sep-2019)",
+          "url": "https://globalventuring.com/asahi-shimbun-exits-as-pixsy-picks-up-binded"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "stellar",
+      "label_es": "contratista de la comunidad (según Hayner)",
+      "label_en": "community contractor (per Hayner)",
+      "status": "self",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "Bankless Times – Metal CEO Marshall Hayner on crypto's past and future (16-feb-2023)",
+          "url": "https://www.banklesstimes.com/?p=10348"
+        },
+        {
+          "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        },
+        {
+          "title": "YesPress – perfil de Marshall Hayner",
+          "url": "https://yespress.io/marshall-hayner.md"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "block-io",
+      "label_es": "director de marketing (según Hayner)",
+      "label_en": "chief marketing officer (per Hayner)",
+      "status": "self",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "Bankless Times – Metal CEO Marshall Hayner on crypto's past and future (16-feb-2023)",
+          "url": "https://www.banklesstimes.com/?p=10348"
+        },
+        {
+          "title": "YesPress – perfil de Marshall Hayner",
+          "url": "https://yespress.io/marshall-hayner.md"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "dogecoin-foundation",
+      "label_es": "miembro del consejo",
+      "label_en": "board member",
+      "status": "confirmed",
+      "date": "2022-12-31",
+      "sources": [
+        {
+          "title": "Dogecoin Foundation – CoreFund and Foundation updates (31-dic-2022)",
+          "url": "https://foundation.dogecoin.com/announcements/2022-12-31-corefund/"
+        },
+        {
+          "title": "CryptoPotato – Dogecoin Foundation introduces a new core development fund (3-ene-2023)",
+          "url": "https://cryptopotato.com/dogecoin-foundation-introduces-a-new-core-devlopment-fund/"
+        },
+        {
+          "title": "Benzinga – Dogecoin Foundation launches development fund (2-ene-2023)",
+          "url": "https://www.benzinga.com/markets/cryptocurrency/23/01/30249133/supporting-the-future-of-dogecoin-foundation-launches-development-fund-for-dogecoin-core"
+        }
+      ]
+    },
+    {
+      "from": "marshall-hayner",
+      "to": "dogecoin",
+      "label_es": "miembro de la comunidad (según Metallicus)",
+      "label_en": "community member (per Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4-ago-2023)",
+          "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+        },
+        {
+          "title": "Metallicus blog – Metallicus patrocina Dogeathon (20-sep-2022)",
+          "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
+        },
+        {
+          "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        }
+      ]
+    },
+    {
+      "from": "glenn-marien",
+      "to": "dogecoin",
+      "label_es": "miembro de la comunidad (según Metallicus)",
+      "label_en": "community member (per Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus blog – Meet Marshall Hayner of Metallicus (4-ago-2023)",
+          "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
+        },
+        {
+          "title": "Metallicus blog – Metallicus patrocina Dogeathon (20-sep-2022)",
+          "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
+        }
+      ]
+    },
+    {
+      "from": "glenn-marien",
+      "to": "dogechain-info",
+      "label_es": "creó (según Metallicus)",
+      "label_en": "created (per Metallicus)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "Metallicus – Meet the Team",
+          "url": "https://www.metallicus.com/company/meet-the-team"
+        },
+        {
+          "title": "Metallicus blog – Metallicus patrocina Dogeathon (20-sep-2022)",
+          "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
+        },
+        {
+          "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
+          "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
+        }
+      ]
+    },
+    {
+      "from": "glenn-marien",
+      "to": "quickcoin",
+      "label_es": "invitado a unirse por Hayner (según Hayner)",
+      "label_en": "invited to join by Hayner (per Hayner)",
+      "status": "self",
+      "sources": [
+        {
+          "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        }
+      ]
+    },
+    {
+      "from": "dogechain-info",
+      "to": "dogecoin",
+      "label_es": "explorador de bloques y monedero de",
+      "label_en": "block explorer and wallet for",
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
+          "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
+        }
+      ]
+    },
+    {
+      "from": "block-io",
+      "to": "dogecoin",
+      "label_es": "admite pagos en",
+      "label_en": "supports payments in",
+      "status": "confirmed",
+      "date": "2014-08-21",
+      "sources": [
+        {
+          "title": "Cointelegraph – Block.io, a foolproof API and wallet (21-ago-2014)",
+          "url": "https://cointelegraph.com/news/blockio-a-fool-proof-api-and-wallet-that-shakes-service-fees"
+        }
+      ]
+    },
+    {
+      "from": "dogecoin-foundation",
+      "to": "dogecoin",
+      "label_es": "organización de apoyo a",
+      "label_en": "support organization for",
+      "status": "confirmed",
+      "date": "2014",
+      "sources": [
+        {
+          "title": "Dogecoin.com – What is the Dogecoin Foundation?",
+          "url": "https://dogecoin.com/dogepedia/articles/what-is-the-dogecoin-foundation/"
+        },
+        {
+          "title": "CryptoPotato – Dogecoin Foundation rebooted (17-ago-2021)",
+          "url": "https://cryptopotato.com/dogecoin-foundation-rebooted-elon-musks-associate-and-vitalik-buterin-among-board-advisors/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "crumbs",
+      "label_es": "acordó adquirir",
+      "label_en": "agreed to acquire",
+      "status": "confirmed",
+      "date": "2018-05-30",
+      "sources": [
+        {
+          "title": "Newswire – Metal to acquire Crumbs Technologies Inc. (30-may-2018)",
+          "url": "https://www.newswire.com/news/metal-to-acquire-crumbs-technologies-inc-20500960"
+        },
+        {
+          "title": "CryptoNinjas – Metal (MTL) acquires micro invest app Crumbs (30-may-2018)",
+          "url": "https://www.cryptoninjas.net/2018/05/30/metal-mtl-acquires-cryptocurrency-micro-invest-app-crumbs/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "lynx",
+      "label_es": "adquirió y fusionó en Proton",
+      "label_en": "acquired and merged into Proton",
+      "status": "confirmed",
+      "date": "2020-05",
+      "sources": [
+        {
+          "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+          "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+        },
+        {
+          "title": "Blockonomi – Proton chain guide (29-may-2020)",
+          "url": "https://blockonomi.com/proton-chain-guide/"
+        },
+        {
+          "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21-ago-2020)",
+          "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+        }
+      ]
+    },
+    {
+      "from": "lynx",
+      "to": "xpr-network",
+      "label_es": "dio origen, con Metal, a Proton (hoy XPR Network)",
+      "label_en": "gave rise, with Metal, to Proton (now XPR Network)",
+      "status": "confirmed",
+      "date": "2020-05",
+      "sources": [
+        {
+          "title": "Blockonomi – Proton chain guide (29-may-2020)",
+          "url": "https://blockonomi.com/proton-chain-guide/"
+        },
+        {
+          "title": "WazirX – resumen del AMA con Marshall Hayner (8-dic-2020)",
+          "url": "https://wazirx.com/blog/ama-with-marshall-hayner-metal-summary/"
+        }
+      ]
+    },
+    {
+      "from": "metallicus",
+      "to": "bloks-io",
+      "label_es": "adquirió",
+      "label_en": "acquired",
+      "status": "confirmed",
+      "date": "2020-08-21",
+      "sources": [
+        {
+          "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+          "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+        },
+        {
+          "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21-ago-2020)",
+          "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+        },
+        {
+          "title": "Invezz – Metal Pay acquired Bloks.io (21-ago-2020)",
+          "url": "https://invezz.com/news/2020/08/21/metal-pay-acquired-blocks-io/"
+        }
+      ]
+    },
+    {
+      "from": "bloks-io",
+      "to": "xpr-network",
+      "label_es": "admite la red Proton",
+      "label_en": "supports the Proton network",
+      "status": "confirmed",
+      "date": "2020-08-21",
+      "sources": [
+        {
+          "title": "Cointelegraph – Major EOS block explorer Bloks.io acquired by Metal Pay (21-ago-2020)",
+          "url": "https://cointelegraph.com/news/major-eos-block-explorer-bloksio-acquired-by-metal-pay"
+        },
+        {
+          "title": "Cryptopolitan – Metal Pay acquires Bloks.io (21-ago-2020)",
+          "url": "https://www.cryptopolitan.com/metal-pay-acquires-bloks-io/"
+        }
+      ]
+    }
+  ]
+}
