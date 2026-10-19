@@ -8,7 +8,7 @@ An interactive map of Metallicus, Inc.'s people, products, partners and regulato
 
 | Marca | Estado | Significado |
 |---|---|---|
-| ● | Confirmado / Confirmed | Registro oficial, publicación de ambas partes o 2+ fuentes independientes fiables |
+| ● | Confirmado / Confirmed | Registro oficial, publicación de ambas partes o prensa independiente fiable |
 | ○ | Según la parte interesada / Per the interested party | Solo lo afirma Metallicus, la propia persona o la propia empresa |
 | ◐ | Fuentes discrepan / Sources disagree | Se muestran todas las versiones con sus fuentes |
 

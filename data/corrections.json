@@ -156,6 +156,663 @@
    "es": "Un tribunal identifica a Irina Berkon como CFO de Metallicus en julio de 2022, y Kevin R. Allard firma como CFO el acuerdo de Ohio, posterior a octubre de 2022; las fuentes no aclaran si hubo un relevo en el cargo.",
    "en": "A court identifies Irina Berkon as Metallicus's CFO in July 2022, and Kevin R. Allard signs the Ohio agreement, dated after October 2022, as CFO; the sources do not say whether the role changed hands.",
    "status": "confirmed"
+  },
+  {
+   "ref": "fact:banking-innovation-program",
+   "action": "fix",
+   "reason": "GoWest release (28-may-2025) confirms no-cost offer. The CrossState release (May 2026, both versions and Metallicus blog) does not mention cost or a free benefit, and calls it 'Innovation Program 2.0', not the Banking Innovation Program.",
+   "match_es": "La asociación GoWest (may-2025, comunicado propio) y CrossState CUA (may-2026, comunicado conjunto con contacto de prensa propio) ofrecieron el programa a sus cooperativas como beneficio gratuito.",
+   "es": "La asociación GoWest ofreció en mayo de 2025, en un comunicado propio, el programa sin coste a todas sus cooperativas miembro. En mayo de 2026 CrossState CUA lanzó con Metallicus, en un comunicado conjunto con contacto de prensa propio, un 'Innovation Program 2.0' para una cohorte de 50 cooperativas; el comunicado no indica su coste.",
+   "en": "The GoWest association offered the program at no cost to all its member credit unions in May 2025, in its own release. In May 2026 CrossState CUA launched an 'Innovation Program 2.0' with Metallicus for a cohort of 50 credit unions, in a joint release with its own press contact; the release does not state its cost."
+  },
+  {
+   "ref": "fact:bitcoin-fair-2014",
+   "action": "fix",
+   "reason": "CoinDesk says Los Angeles, Vancouver and Orlando had expressed interest in hosting their own fairs, not that partners existed there; the 'no later editions' line is the site's own finding, kept.",
+   "match_es": "Los organizadores planeaban ferias trimestrales o mensuales de 800 a 1.000 personas y socios en otras ciudades (Los Ángeles, Vancouver, Orlando). No se encontraron pruebas de ediciones posteriores.",
+   "es": "Los organizadores creían que ferias trimestrales o mensuales podrían atraer a entre 800 y 1.000 personas, y Lands dijo que Los Ángeles, Vancouver y Orlando habían mostrado interés en organizar las suyas. No se encontraron pruebas de ediciones posteriores.",
+   "en": "Organizers thought quarterly or monthly fairs could draw 800 to 1,000 people, and Lands said Los Angeles, Vancouver and Orlando had expressed interest in hosting their own. No evidence of later editions was found."
+  },
+  {
+   "ref": "fact:block-io",
+   "action": "fix",
+   "reason": "BanklessTimes (16-feb-2023) supports CMO after Stellar and the Dogecoin work rekindling his interest, but as article narration, not Hayner's words; yespress.io (unclear-origin profile) lists both roles but not the 'renewed interest' claim.",
+   "match_es": "Según Hayner, fue director de marketing (CMO) de Block.io tras su paso por Stellar, y su trabajo con Dogecoin allí renovó su interés por las criptomonedas.",
+   "es": "Según un perfil de Hayner publicado por BanklessTimes (2023), tras su paso por Stellar fue director de marketing (CMO) de Block.io, y su trabajo con Dogecoin allí renovó su interés por las criptomonedas.",
+   "en": "According to a 2023 BanklessTimes profile of Hayner, after Stellar he became Block.io's chief marketing officer (CMO), and his Dogecoin work there renewed his interest in crypto."
+  },
+  {
+   "ref": "edge:block-io|dogecoin|admite pagos en",
+   "action": "fix",
+   "reason": "Cointelegraph describes Block.io as an API/wallet supporting Dogecoin, Bitcoin and Litecoin; it does not specifically describe Dogecoin payments.",
+   "label_es": "ofrecía API y monedero para",
+   "label_en": "offered an API and wallet for"
+  },
+  {
+   "ref": "fact:blockai-binded",
+   "action": "fix",
+   "reason": "Pixsy (10-sep-2019) and Global Venturing confirm undisclosed purchase and closure on 30-sep-2019, but say users would transition; completion of the move is not confirmed.",
+   "match_es": "Pixsy anunció la compra de Binded el 10 de septiembre de 2019, por un importe no revelado; la plataforma Binded cerró el 30 de septiembre de 2019 y sus usuarios pasaron a Pixsy.",
+   "es": "Pixsy anunció la compra de Binded el 10 de septiembre de 2019, por un importe no revelado; la plataforma Binded cerraría el 30 de septiembre de 2019 y sus usuarios pasarían a Pixsy.",
+   "en": "Pixsy announced its purchase of Binded on September 10, 2019 for an undisclosed amount; the Binded platform was to close on September 30, 2019, with its users moving to Pixsy."
+  },
+  {
+   "ref": "fact:bonifii",
+   "action": "fix",
+   "reason": "Doeren Mayhew (3-ene-2025) supports asset acquisition, effective 1-ene-2025, $10M common stock warrants, 'Metal CUSO'; it does not say it was not a party/advisor, nor 'not stock'. Single third-party source for the price.",
+   "match_es": "Según la firma contable Doeren Mayhew (ajena a la operación), fue una compra de activos (no de acciones), efectiva el 1 de enero de 2025, pagada con warrants sobre acciones ordinarias de Metallicus por valor de 10 millones de dólares; la entidad resultante se denominaría 'Metal CUSO'. Los comunicados de las partes no revelaron el precio.",
+   "es": "Según la firma contable Doeren Mayhew, Metallicus adquirió los activos de Bonifii, con efecto el 1 de enero de 2025, a cambio de warrants sobre acciones ordinarias de Metallicus por valor de 10 millones de dólares; la operación daría lugar a 'Metal CUSO'. Los comunicados de las partes no revelaron el precio.",
+   "en": "According to accounting firm Doeren Mayhew, Metallicus acquired Bonifii's assets, effective January 1, 2025, in exchange for $10 million of Metallicus common stock warrants; the deal would result in 'Metal CUSO'. The parties' releases did not disclose the price."
+  },
+  {
+   "ref": "edge:bonifii|memberpass|creó",
+   "action": "fix",
+   "reason": "The Feb-2020 release documents the renaming of MyCUID to MemberPass (MyCUID already existed), not its creation in Feb 2020.",
+   "label_es": "rebautizó su credencial MyCUID como",
+   "label_en": "renamed its MyCUID credential as"
+  },
+  {
+   "ref": "edge:bonifii|banking-innovation-program|se unió",
+   "action": "fix",
+   "reason": "Only source is a Metallicus release quoting Bonifii's CEO (no Bonifii contact/publication) -- not enough for confirmed.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:checkout-com",
+   "action": "fix",
+   "reason": "Only source is a Metallicus Business Wire release quoting Checkout.com; per rules that is the issuer's own publication, so self.",
+   "match_es": "Mark Fernandes, Head of Crypto Product de Checkout.com, habla en el comunicado de la alianza con Metallicus.",
+   "es": "Según un comunicado de Metallicus (15 de diciembre de 2022), Mark Fernandes, Head of Crypto Product de Checkout.com, habló en él sobre la alianza con Metallicus.",
+   "en": "According to a Metallicus release (December 15, 2022), Mark Fernandes, Head of Crypto Product at Checkout.com, was quoted on the Metallicus partnership.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:cornerstone-league",
+   "action": "fix",
+   "reason": "English adds a sentence absent from Spanish and contradicted by the sources: the CUInsight version is a joint release listing Cornerstone's own media contact (media@cornerstoneleague.coop). Under the both-parties rule (as applied to CrossState) status should be confirmed.",
+   "match_es": "Según Metallicus, el 9 de octubre de 2025 se anunció una alianza que da a las cooperativas miembro acceso gratuito a su Stablecoin Pilot, parte del Banking Innovation Program: un entorno de pruebas con reservas simuladas, sin fondos de socios ni criptoactivos reales.",
+   "es": "El 9 de octubre de 2025 Cornerstone y Metallicus anunciaron, en un comunicado con contacto de prensa propio de Cornerstone, una alianza que da a las cooperativas miembro acceso gratuito al Stablecoin Pilot de Metallicus, parte del Banking Innovation Program: un entorno de pruebas con reservas simuladas, sin fondos de socios ni criptoactivos reales.",
+   "en": "On October 9, 2025 Cornerstone and Metallicus announced, in a release listing Cornerstone's own press contact, a partnership that gives member credit unions free access to Metallicus's Stablecoin Pilot, part of the Banking Innovation Program: a test environment with simulated reserves and no member funds or live crypto assets.",
+   "status": "confirmed"
+  },
+  {
+   "ref": "edge:cornerstone-league|metallicus|alianza: piloto de stablecoins gratuito para sus cooperativas",
+   "action": "fix",
+   "reason": "CUInsight joint release lists Cornerstone's own media contact; both parties published it, so confirmed.",
+   "status": "confirmed"
+  },
+  {
+   "ref": "edge:cornerstone-league|banking-innovation-program|da acceso a sus miembros a",
+   "action": "fix",
+   "reason": "CUInsight joint release lists Cornerstone's own media contact and states free member access to the pilot (part of the Banking Innovation Program); confirmed.",
+   "status": "confirmed"
+  },
+  {
+   "ref": "fact:crumbs",
+   "action": "fix",
+   "reason": "Both sources originate from Metal (Newswire release issued by Metallicus; CryptoNinjas repackages the announcement with no independent reporting).",
+   "match_es": "Redondeaba las compras con tarjeta e invertía la diferencia en una cartera de criptoactivos elegida por el usuario.",
+   "es": "Según Metal, redondeaba las compras con tarjeta e invertía la diferencia en una cartera de criptoactivos elegida por el usuario.",
+   "en": "According to Metal, it rounded up card purchases and invested the difference in a crypto portfolio chosen by the user.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:daland-cuso|metal-blockchain|conecta CLDUSD al núcleo bancario (Coin2Core) sobre",
+   "action": "fix",
+   "reason": "Cited only to Metallicus (owner of Metal Blockchain, interested party) and describes a planned integration as if operating.",
+   "label_es": "anunció que conectaría CLDUSD al núcleo bancario (Coin2Core) sobre",
+   "label_en": "announced it would connect CLDUSD to the banking core (Coin2Core) on",
+   "status": "self"
+  },
+  {
+   "ref": "fact:fbbt-holdings",
+   "action": "fix",
+   "reason": "Only one source (Bank Reg Blog, Mar 2023) gives the USD 37M asset figure; no official record or second source cited, so attribute it.",
+   "match_es": "El State Bank of Nauvoo (Nauvoo, Illinois) tenía unos 37 millones de dólares en activos.",
+   "es": "Según Bank Reg Blog (marzo de 2023), el State Bank of Nauvoo (Nauvoo, Illinois) tenía unos 37 millones de dólares en activos.",
+   "en": "According to Bank Reg Blog (March 2023), State Bank of Nauvoo (Nauvoo, Illinois) had about USD 37 million in assets."
+  },
+  {
+   "ref": "fact:fednow",
+   "action": "fix",
+   "reason": "Cointelegraph said it could not verify what criteria FedNow will use to decide who can integrate with the payment system, not criteria for the showcase listing.",
+   "match_es": "En mayo de 2023 Cointelegraph informó, a partir de un anuncio de Metal Blockchain, de que esta figuraba en el FedNow Service Provider Showcase; el medio advirtió que no pudo verificar los criterios de FedNow para ese listado.",
+   "es": "En mayo de 2023 Cointelegraph informó, a partir de un anuncio de Metal Blockchain, de que esta figuraba en el FedNow Service Provider Showcase; el medio advirtió que no pudo verificar qué criterios usará FedNow para decidir quién puede integrarse con el sistema.",
+   "en": "In May 2023 Cointelegraph reported, based on a Metal Blockchain announcement, that it was listed in the FedNow Service Provider Showcase; the outlet noted it could not verify what criteria FedNow will use to decide who can integrate with the system."
+  },
+  {
+   "ref": "edge:glenn-marien|quickcoin|invitado a unirse por Hayner",
+   "action": "remove",
+   "reason": "WazirX AMA summary (from a Telegram AMA) says Hayner picked up where he left off with QuickCoin and 'asked Glenn to join me and Metal was formed'; it does not say Glenn was invited to join QuickCoin."
+  },
+  {
+   "ref": "fact:irina-berkon",
+   "action": "fix",
+   "reason": "CFO is documented 2022 (court order) to 2025 (Q3 report), but board membership only in 2022-2023 sources (Authority Magazine, Ryze Labs); Q3 2025 report and Metallicus bio list only CFO.",
+   "match_es": "CFO y miembro del consejo de Metallicus (2022-2025).",
+   "es": "CFO de Metallicus (documentado de 2022 a 2025) y miembro de su consejo (documentado en 2022-2023).",
+   "en": "CFO of Metallicus (documented 2022-2025) and member of its board (documented 2022-2023)."
+  },
+  {
+   "ref": "fact:irina-berkon",
+   "action": "fix",
+   "reason": "Co-founding is supported (BusinessWire release; Bank Reg Blog says Metallicus founders created it), but the BusinessWire planned FBBT board list does not include her; 'director' and the 'First Blockchain Bank and Trust Holdings' name come only from her interview bios.",
+   "match_es": "Cofundadora y consejera de FBBT Holdings, Inc. (First Blockchain Bank and Trust Holdings), junto a Marshall Hayner.",
+   "es": "Cofundó FBBT Holdings, Inc. junto a Marshall Hayner; según sus biografías en entrevistas, también es consejera de la sociedad (que llama First Blockchain Bank and Trust Holdings).",
+   "en": "Co-founded FBBT Holdings, Inc. with Marshall Hayner; according to her interview bios, she is also a director of the company (which they call First Blockchain Bank and Trust Holdings)."
+  },
+  {
+   "ref": "fact:irina-berkon",
+   "action": "fix",
+   "reason": "Status is self but text lacks attribution; Golden Seeds role comes only from her bios (Authority Magazine intro, Ryze Labs, Metallicus page).",
+   "match_es": "Managing Director de Golden Seeds, red de inversores ángel que financia empresas lideradas por mujeres.",
+   "es": "Según sus biografías, es Managing Director de Golden Seeds, red de inversores ángel que financia empresas lideradas por mujeres.",
+   "en": "According to her bios, she is Managing Director of Golden Seeds, an angel investor network funding women-led companies."
+  },
+  {
+   "ref": "edge:irina-berkon|fbbt-holdings|cofundó y es consejera de",
+   "action": "fix",
+   "reason": "Same as Berkon FBBT fact: co-founding supported, but she is not on the planned FBBT board in the BusinessWire release; director role only in self-sourced bios.",
+   "label_es": "cofundó",
+   "label_en": "co-founded"
+  },
+  {
+   "ref": "fact:john-ainsworth",
+   "action": "fix",
+   "reason": "The 31 Dec 2024 letter is signed by Marshall (CEO); 'John - General Manager Metal Blockchain' is only the attribution of a quote, without surname. Team page lists John Ainsworth as General Manager.",
+   "match_es": "Según Metallicus, hoy es su General Manager (en la carta de diciembre de 2024 firma como General Manager de Metal Blockchain).",
+   "es": "Según Metallicus, hoy es su General Manager (en la carta de fin de año de diciembre de 2024 aparece una cita atribuida a «John - General Manager Metal Blockchain»).",
+   "en": "According to Metallicus, he is now its General Manager (the December 2024 year-end letter includes a quote attributed to 'John - General Manager Metal Blockchain')."
+  },
+  {
+   "ref": "fact:karen-mchenry",
+   "action": "fix",
+   "reason": "Business Wire release (Metallicus-issued, 15 Dec 2022) gives 'Vice President of Product at Metallicus'; team page says VP of Product. Status self but text lacks 'Según'.",
+   "match_es": "Vicepresidenta de Producto, cargo con el que aparece en la nota con Checkout.com (diciembre de 2022).",
+   "es": "Según Metallicus, es su vicepresidenta de Producto; con ese cargo aparece en su nota con Checkout.com (diciembre de 2022).",
+   "en": "According to Metallicus, she is its VP of Product; she appears with that title in its Checkout.com release (December 2022)."
+  },
+  {
+   "ref": "fact:lee-woolley",
+   "action": "fix",
+   "reason": "Business Wire (Metallicus) 4 Aug 2022 gives 'Head of Banking Strategy'; status self but text lacks 'Según'.",
+   "match_es": "Mencionado como Head of Banking Strategy de Metallicus en agosto de 2022.",
+   "es": "Según Metallicus, en agosto de 2022 era su Head of Banking Strategy.",
+   "en": "According to Metallicus, in August 2022 he was its Head of Banking Strategy."
+  },
+  {
+   "ref": "fact:lee-woolley",
+   "action": "fix",
+   "reason": "Release (22 Feb 2023) is issued by Metallicus executives; lists Lee Woolley, former BNY Mellon, on proposed FBBT board. Text should name the interested party.",
+   "match_es": "Según la nota de 2023, viene de BNY Mellon y estaba previsto como consejero de FBBT Holdings.",
+   "es": "Según la nota de Metallicus de 2023, viene de BNY Mellon y estaba previsto como consejero de FBBT Holdings.",
+   "en": "According to Metallicus' 2023 release, he came from BNY Mellon and was slated to sit on the FBBT Holdings board."
+  },
+  {
+   "ref": "fact:marshall-hayner",
+   "action": "fix",
+   "reason": "CoinDesk (9 Feb 2014) calls Hayner an 'event partner' with whom co-organizer Nathan Lands organized the inaugural Bitcoin Fair at Ramen Underground; it does not call Hayner co-organizer. Only one independent source.",
+   "match_es": "Socio del evento y coorganizador, con Nathan Lands, de la primera Bitcoin Fair en Ramen Underground (San Francisco), en febrero de 2014.",
+   "es": "Según CoinDesk, fue socio del evento («event partner») con quien el coorganizador Nathan Lands montó la primera Bitcoin Fair en Ramen Underground (San Francisco), en febrero de 2014.",
+   "en": "According to CoinDesk, he was the event partner with whom co-organizer Nathan Lands put together the first Bitcoin Fair at Ramen Underground (San Francisco) in February 2014."
+  },
+  {
+   "ref": "edge:marshall-hayner|fbbt-holdings|cofundó",
+   "action": "fix",
+   "reason": "Business Wire release is Metallicus-issued (paid distribution); Bank Reg Blog is an unbylined Substack and only says Hayner and Berkon announced the formation, not that they co-founded it. Not 2 independent reliable sources.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:marshall-hayner|occ-charter-application|anunció como CEO de Metal Pay",
+   "action": "fix",
+   "reason": "Finance Magnates (5 Feb 2021) attributes the OCC filing report to CoinDesk; Hayner is only quoted on expectations, he is not described as announcing it.",
+   "label_es": "declaró sobre ella como CEO de Metal Pay",
+   "label_en": "commented on it as Metal Pay CEO"
+  },
+  {
+   "ref": "edge:marshall-hayner|stellar|contratista de la comunidad",
+   "action": "fix",
+   "reason": "'Contractor' and the 2014 date come only from yespress.io, an unbylined templated profile (unreliable/AI-style aggregator). WazirX AMA says he joined Stellar, helped launch the wallet and handled community, social media, marketing and support; no year.",
+   "label_es": "se encargó de comunidad y marketing en",
+   "label_en": "handled community and marketing at",
+   "date": "__clear__"
+  },
+  {
+   "ref": "fact:mddc-cua",
+   "action": "fix",
+   "reason": "Facts supported (7 May 2025, free access to the Metal Blockchain Innovation Program, steering group), but the English text contains an extra sentence absent from the Spanish.",
+   "match_es": "Según Metallicus, el 7 de mayo de 2025 se anunció su alianza con Metallicus para dar a las cooperativas miembro acceso gratuito al Metal Blockchain Innovation Program, con un grupo directivo de cooperativas participantes.",
+   "es": "Según Metallicus, el 7 de mayo de 2025 se anunció su alianza con Metallicus para dar a las cooperativas miembro acceso gratuito al Metal Blockchain Innovation Program, con un grupo directivo de cooperativas participantes.",
+   "en": "According to Metallicus, on May 7, 2025 its partnership with Metallicus was announced, giving member credit unions free access to the Metal Blockchain Innovation Program, guided by a steering group of participating credit unions."
+  },
+  {
+   "ref": "fact:metal-blockchain",
+   "action": "fix",
+   "reason": "Source is Metallicus' own blog release that only quotes FPC executive director Reed Luhtanen; per rules not enough for confirmed.",
+   "match_es": "El 2 de octubre de 2024 Metal Blockchain se unió al U.S. Faster Payments Council, con una cita de bienvenida de su director ejecutivo, Reed Luhtanen.",
+   "es": "Según Metallicus, el 2 de octubre de 2024 Metal Blockchain se unió al U.S. Faster Payments Council, con una cita de bienvenida de su director ejecutivo, Reed Luhtanen.",
+   "en": "According to Metallicus, on 2 October 2024 Metal Blockchain joined the U.S. Faster Payments Council, with a welcoming quote from its executive director, Reed Luhtanen.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:metal-blockchain",
+   "action": "fix",
+   "reason": "Only source is a release on Metallicus' blog (16 Sep 2025) quoting St. Cloud (Chase Larson) and DaLand (Jeff Levesque); no publication by St. Cloud or DaLand cited.",
+   "match_es": "St. Cloud Financial Credit Union anunció en septiembre de 2025 su stablecoin Cloud Dollar (CLDUSD) sobre Metal Blockchain, conectada a su núcleo bancario mediante Coin2Core de DaLand CUSO; hablan las tres partes.",
+   "es": "Según un comunicado publicado por Metallicus, St. Cloud Financial Credit Union anunció en septiembre de 2025 su stablecoin Cloud Dollar (CLDUSD) sobre Metal Blockchain, conectada a su núcleo bancario mediante Coin2Core de DaLand CUSO; se citan a las tres partes.",
+   "en": "According to a release published by Metallicus, St. Cloud Financial Credit Union announced in September 2025 its Cloud Dollar (CLDUSD) stablecoin on Metal Blockchain, connected to its core via DaLand CUSO's Coin2Core; all three parties are quoted.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:metal-blockchain",
+   "action": "fix",
+   "reason": "Q3 2025 report says the 15+ institution-branded stablecoins were deployed on the XPR Network test environment (not Metal Blockchain); ISS in test-environment QA is correct.",
+   "match_es": "Según Metallicus, a finales del 3T de 2025 había más de 15 stablecoins con marca de instituciones desplegadas en entorno de pruebas y estaban en QA las Institutional Stablecoin Subnets.",
+   "es": "Según Metallicus, a finales del 3T de 2025 había más de 15 stablecoins con marca de instituciones desplegadas en el entorno de pruebas de XPR Network y estaban en QA las Institutional Stablecoin Subnets.",
+   "en": "According to Metallicus, by the end of Q3 2025 more than 15 institution-branded stablecoins had been deployed in the XPR Network test environment and Institutional Stablecoin Subnets were in QA."
+  },
+  {
+   "ref": "edge:metal-blockchain|tdbn|forma parte de",
+   "action": "fix",
+   "reason": "Neither source says Metal Blockchain is 'part of' TDBN; Crowdfund Insider says TDBN connects Web2 to Web3 through interoperability with the layer 0 Metal Blockchain; year-in-review does not state the relation.",
+   "label_es": "capa 0 conectada a",
+   "label_en": "Layer 0 connected to"
+  },
+  {
+   "ref": "edge:metal-blockchain|fpc|miembro de",
+   "action": "fix",
+   "reason": "Only source is Metallicus' blog release quoting FPC's Reed Luhtanen; not enough for confirmed.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:metal-dollar",
+   "action": "fix",
+   "reason": "CoinGecko shows 836,560 XMD, the Ethereum contract and only Metal X markets, but the displayed price is $0.993 (~$0.99), not $0.97.",
+   "match_es": "CoinGecko registra unos 836.560 XMD en circulación, un contrato en Ethereum (0xa6707a8a00e94d1834ccda2856c9cf948941078d) y mercados solo en Metal X; el precio mostrado era de 0,97 dólares (oct-2026).",
+   "es": "CoinGecko registra unos 836.560 XMD en circulación, un contrato en Ethereum (0xa6707a8a00e94d1834ccda2856c9cf948941078d) y mercados solo en Metal X; el precio mostrado era de unos 0,99 dólares (oct-2026).",
+   "en": "CoinGecko records about 836,560 XMD in circulation, an Ethereum contract (0xa6707a8a00e94d1834ccda2856c9cf948941078d) and markets only on Metal X; the displayed price was about $0.99 (Oct 2026)."
+  },
+  {
+   "ref": "edge:metal-dollar|tdbn|forma parte de",
+   "action": "remove",
+   "reason": "The year-in-review letter never states Metal Dollar is part of TDBN (only mentions launching Metal Dollar); no source supports the component relationship."
+  },
+  {
+   "ref": "fact:metal-pay",
+   "action": "fix",
+   "reason": "Sources match (Decrypt Sept 2018 + beta; Coinone primer 2018; CoinGecko 2016), but the clause that 2016 'is Metallicus's founding year' is unsupported and contradicts the site's own disputed founding-year item (2016 vs 2017).",
+   "match_es": "Decrypt y el documento informativo de Coinone sitúan el lanzamiento de Metal Pay en 2018 (Decrypt: septiembre de 2018, y un portavoz lo calificó después de versión beta); CoinGecko lo atribuye a 2016, que es el año de fundación de Metallicus.",
+   "es": "Decrypt y el documento informativo de Coinone sitúan el lanzamiento de Metal Pay en 2018 (Decrypt: septiembre de 2018, y un portavoz lo calificó después de versión beta); CoinGecko lo atribuye a 2016.",
+   "en": "Decrypt and the Coinone primer place Metal Pay's launch in 2018 (Decrypt: September 2018, later described by a spokesman as a beta); CoinGecko attributes it to 2016."
+  },
+  {
+   "ref": "fact:metal-pay",
+   "action": "fix",
+   "reason": "The App Store listing gives 47 states plus DC and Puerto Rico but does not name excluded states; Hawaii, New York and North Carolina are only absent from the list.",
+   "match_es": "Según metalpay.com, Metal Pay es un servicio de Metallicus, Inc. (NMLS ID 2057807) y de MetalPay, Inc. (NMLS ID 2731963), y opera en EE. UU., Australia y Nueva Zelanda.",
+   "es": "Según la ficha del App Store redactada por la empresa, la app de EE. UU. está disponible en 47 estados más DC y Puerto Rico; en la lista no figuran Hawái, Nueva York ni Carolina del Norte.",
+   "en": "According to the company's App Store description, the US app is available in 47 states plus DC and Puerto Rico; Hawaii, New York and North Carolina do not appear in the list."
+  },
+  {
+   "ref": "fact:metal-pay",
+   "action": "fix",
+   "reason": "19 Aug 2024 is the Crowdfund Insider article date; Metallicus announced the Australian launch on 9 July 2024. Minimum $15 and card recurring buys are supported; no licence mentioned.",
+   "match_es": "Metal Pay se lanzó en Australia el 19 de agosto de 2024, con compras recurrentes de BTC y ETH con tarjeta de débito o crédito y un mínimo de 15 por operación. El artículo no menciona ninguna licencia australiana.",
+   "es": "Metal Pay se lanzó en Australia (anuncio de Metallicus del 9 de julio de 2024; Crowdfund Insider lo cubrió el 19 de agosto de 2024), con compras automáticas periódicas de BTC y ETH con tarjeta de débito o crédito y un mínimo de 15 por operación. Ninguna de las fuentes menciona una licencia australiana.",
+   "en": "Metal Pay launched in Australia (Metallicus announcement of 9 July 2024; covered by Crowdfund Insider on 19 August 2024), offering recurring BTC and ETH purchases by debit or credit card with a 15 minimum per purchase. Neither source mentions an Australian licence.",
+   "date": "2024-07-09"
+  },
+  {
+   "ref": "fact:metal-pay",
+   "action": "fix",
+   "reason": "Only source is a Business Wire release issued by Metallicus quoting Checkout.com; under the rules that is the issuer's own publication, so status must be self.",
+   "match_es": "En diciembre de 2022 Metallicus y Checkout.com anunciaron una alianza para que usuarios de la UE y EE. UU. compren USDC con tarjeta en Metal Pay; hablan representantes de ambas empresas.",
+   "es": "Según un comunicado de Metallicus (Business Wire), en diciembre de 2022 Metallicus y Checkout.com se aliaron para que usuarios de la UE y EE. UU. compren USDC con tarjeta en Metal Pay; el comunicado cita a representantes de ambas empresas.",
+   "en": "According to a Metallicus release (Business Wire), in December 2022 Metallicus and Checkout.com partnered to let EU and US users buy USDC by card in Metal Pay; the release quotes executives of both companies.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:metal-pay|washington-mt-license|obtuvo licencia de transmisor de dinero en Washington",
+   "action": "fix",
+   "reason": "Only source (Decrypt) relies on Metal Pay's own blog post and tweet; no regulator record cited, so status should be self and label attributed.",
+   "label_es": "obtuvo licencia de transmisor de dinero en Washington (según Metal Pay)",
+   "label_en": "obtained a Washington money transmitter licence (according to Metal Pay)",
+   "status": "self"
+  },
+  {
+   "ref": "edge:metal-x|tdbn|forma parte de",
+   "action": "remove",
+   "reason": "The year-in-review letter mentions Metal X but never states it is part of TDBN; no source supports the component relationship."
+  },
+  {
+   "ref": "edge:metal-x-lending|tdbn|forma parte de",
+   "action": "remove",
+   "reason": "The year-in-review letter does not mention Metal X Lending/LOAN as part of TDBN (only lending markets in passing); no supporting source."
+  },
+  {
+   "ref": "fact:metallicus",
+   "action": "fix",
+   "reason": "Decrypt (12 Sep 2019) reports Hayner's April Medium post on using pool/foundation funds, but the 2.8M MTL (~$1M) outflow covers the 30 days before publication (Aug-Sep 2019), not April.",
+   "match_es": "En abril de 2019 Hayner reconoció haber usado fondos del pool PoPP y de la Metal Foundation para financiar al equipo; en 30 días salieron más de 2,8 millones de MTL del pool (unos 1 M$), según Decrypt.",
+   "es": "En abril de 2019 Hayner reconoció haber usado fondos del pool PoPP y de la Metal Foundation para financiar al equipo; según Decrypt, en los 30 días previos a su artículo de septiembre de 2019 salieron más de 2,8 millones de MTL del pool (unos 1 M$).",
+   "en": "In April 2019 Hayner acknowledged using funds from the PoPP pool and the Metal Foundation to fund the team; per Decrypt, over 2.8 million MTL (about USD 1M) left the pool in the 30 days before its September 2019 article."
+  },
+  {
+   "ref": "fact:metallicus",
+   "action": "fix",
+   "reason": "Lifeboat calls it an undisclosed angel investment, but Decrypt says Finman 'reportedly' invested and VentureBeat describes converting his crypto into MTL tokens, not an angel investment.",
+   "match_es": "El inversor Erik Finman hizo una inversión ángel no revelada en agosto de 2019.",
+   "es": "En agosto de 2019 se informó de que el inversor Erik Finman invertía en Metal sin revelar la cantidad: un artículo lo describe como inversión ángel en Metallicus y VentureBeat como la conversión de sus criptoactivos a tokens MTL.",
+   "en": "In August 2019 investor Erik Finman was reported to be investing in Metal, amount undisclosed: one article calls it an angel investment in Metallicus, while VentureBeat describes it as converting his crypto holdings into MTL tokens."
+  },
+  {
+   "ref": "edge:metallicus|bonifii|incorporó a su programa de innovación a",
+   "action": "fix",
+   "reason": "Only source is a CUInsight press-release (issued by Metallicus, quoting Bonifii's CEO); per rules this is the issuer's own publication, so status must be self.",
+   "label_es": "incorporó a su programa de innovación a (según Metallicus)",
+   "label_en": "enrolled in its innovation program (according to Metallicus)",
+   "status": "self"
+  },
+  {
+   "ref": "edge:metallicus|jack-henry|miembro del programa de proveedores VIP de",
+   "action": "fix",
+   "reason": "Metallicus blog (12-sep-2023) says Metal Blockchain joined Jack Henry's Vendor Integration Program (VIP); 'VIP' is the program's acronym, not a 'VIP vendor' tier. No Jack Henry statement, so self is correct.",
+   "label_es": "miembro del Vendor Integration Program (VIP) de",
+   "label_en": "member of the Vendor Integration Program (VIP) of"
+  },
+  {
+   "ref": "edge:metallicus|fpc|miembro (como Metal Blockchain) de",
+   "action": "fix",
+   "reason": "Metallicus blog (2-oct-2024) announces the membership and quotes FPC's Reed Luhtanen. That is a Metallicus release quoting the partner. The FPC page (28-aug-2025) only lists 'Frank Mazza, Metallicus' on the Board Advisory Group and does not mention Metal Blockchain or the membership.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:metallicus|daland-cuso|alianza estratégica con",
+   "action": "fix",
+   "reason": "Both the Metallicus blog (5-aug-2025) and the DaLand-issued CUInsight release call it a 'strategic partnership', not an alliance. Both parties published it, so confirmed is correct.",
+   "label_es": "asociación estratégica con",
+   "label_en": "strategic partnership with"
+  },
+  {
+   "ref": "edge:metallicus|metal-x-lending|desarrolla",
+   "action": "fix",
+   "reason": "The loan-protocol page doesn't say Metallicus develops Metal X Lending. It only lists Metal X Lending in Metallicus's site navigation, next to the 'LOAN Protocol by Metallicus'.",
+   "label_es": "incluye entre sus productos",
+   "label_en": "lists among its products"
+  },
+  {
+   "ref": "edge:metallicus|metal-dollar|desarrolla",
+   "action": "fix",
+   "reason": "Neither source says Metallicus develops Metal Dollar. metallicus.com/metal-dollar is a product page in Metallicus's navigation. The BW release only says XMD runs on Proton and is governed by Metal DAO.",
+   "label_es": "incluye entre sus productos",
+   "label_en": "lists among its products"
+  },
+  {
+   "ref": "edge:metallicus|metal-token|emitió con la mainnet de Metal Blockchain",
+   "action": "fix",
+   "reason": "Metallicus blog (18-oct-2022) announces mainnet with the $METAL hard cap and says $METAL staking is now live. It does not describe a token issuance event.",
+   "label_es": "lanzó junto con la mainnet de Metal Blockchain",
+   "label_en": "launched alongside Metal Blockchain mainnet"
+  },
+  {
+   "ref": "edge:mtl|ethereum|token ERC-20 original (v1)",
+   "action": "fix",
+   "reason": "KuCoin lists MTL as ERC-20, and the migration guide calls v1 the Ethereum MTL token. Neither cited source gives 2017, so the date is unsupported.",
+   "date": "__clear__"
+  },
+  {
+   "ref": "fact:nmls-licensing",
+   "action": "fix",
+   "reason": "The terms (last updated 1-oct-2026), under 'Disclosures for California Residents', direct complaints to the California DFPI. The claim describes the document itself, which is primary evidence, so it should be confirmed rather than self without a 'Según'.",
+   "match_es": "Los términos de Metal Pay remiten a los residentes de California al regulador DFPI para quejas.",
+   "status": "confirmed"
+  },
+  {
+   "ref": "fact:occ-charter-application",
+   "action": "fix",
+   "reason": "All three outlets attribute the OCC application to Metal Pay. Only Finance Magnates (5-feb-2021) says it had not yet filed with the FDIC or the SF Fed. CoinPost doesn't mention the SF Fed and Decrypt doesn't mention it either.",
+   "match_es": "La prensa atribuye la solicitud a Metal Pay, que aún no había acudido a la FDIC ni a la Fed de San Francisco.",
+   "es": "La prensa atribuye la solicitud a Metal Pay; según Finance Magnates, aún no había presentado solicitudes ante la FDIC ni la Fed de San Francisco.",
+   "en": "The press attributes the application to Metal Pay; according to Finance Magnates, it had not yet filed with the FDIC or the San Francisco Fed."
+  },
+  {
+   "ref": "fact:one-nevada-cu",
+   "action": "fix",
+   "reason": "The Q4 2025 report says 'Arizona Financial Credit Union and One Nevada Credit Union joined the Stablecoin Pilot Program during the quarter.' The claim is about the report's content, which the document itself verifies, so it should be confirmed rather than self without a 'Según'.",
+   "match_es": "El informe Q4 2025 de Metallicus la nombra entre las cooperativas que se unieron al piloto ese trimestre.",
+   "status": "confirmed"
+  },
+  {
+   "ref": "fact:payfinia",
+   "action": "fix",
+   "reason": "All sources (BW, CUInsight, FinTech Futures, RBI) use the future tense: Payfinia 'will join' or is 'slated to join' the program. None says it joined.",
+   "match_es": "En el mismo anuncio Payfinia se unió al Metal Blockchain Banking Innovation Program.",
+   "es": "En el mismo anuncio se informó de que Payfinia se uniría al Metal Blockchain Banking Innovation Program.",
+   "en": "The same announcement said Payfinia would join the Metal Blockchain Banking Innovation Program."
+  },
+  {
+   "ref": "edge:payfinia|banking-innovation-program|se unió",
+   "action": "fix",
+   "reason": "Sources say Payfinia 'will join' or is 'slated to join' the program. Actual joining is not documented.",
+   "label_es": "anunció que se uniría a",
+   "label_en": "announced it would join"
+  },
+  {
+   "ref": "edge:payfinia|metal-blockchain|se unió al Banking Innovation Program de",
+   "action": "fix",
+   "reason": "The BW release says 'Payfinia will also join the Metal Blockchain Banking Innovation Program' (future tense).",
+   "label_es": "anunció que se uniría al Banking Innovation Program de",
+   "label_en": "announced it would join the Banking Innovation Program of"
+  },
+  {
+   "ref": "fact:quickcoin",
+   "action": "fix",
+   "reason": "VentureBeat supports the 20-may-2014 launch after seven weeks of coding. The Bitcointalk part isn't in the cited source, and Bitcointalk is a banned forum source.",
+   "match_es": "Se lanzó el 20 de mayo de 2014 tras unas siete semanas de desarrollo; el anuncio oficial en Bitcointalk es del 22 de mayo de 2014.",
+   "es": "Se lanzó el 20 de mayo de 2014 tras unas siete semanas de desarrollo, según VentureBeat.",
+   "en": "Launched on May 20, 2014 after about seven weeks of coding, according to VentureBeat."
+  },
+  {
+   "ref": "fact:quickcoin",
+   "action": "fix",
+   "reason": "The only cited source is VentureBeat (11-jun-2014), not the 'official announcement' (Bitcointalk, a banned source). VB names Hayner and Lands as founders and William Cotton as CTO (not co-founder), and says Zach Klein and Jackson Palmer were 'brought on' without calling them advisers. Lands' CEO title comes from PCWorld.",
+   "match_es": "Equipo según el anuncio oficial: Nathan Lands (CEO y cofundador), William Cotton (CTO y cofundador) y Marshall Hayner (cofundador); asesores: Jackson Palmer y Zach Klein.",
+   "es": "Según VentureBeat, QuickCoin la fundaron Marshall Hayner y Nathan Lands; William Cotton era director de tecnología (CTO), y la empresa incorporó a Zach Klein (cofundador de Vimeo) y Jackson Palmer (cofundador de Dogecoin).",
+   "en": "According to VentureBeat, QuickCoin was founded by Marshall Hayner and Nathan Lands; William Cotton was CTO, and the company brought on Zach Klein (Vimeo co-founder) and Jackson Palmer (Dogecoin co-founder).",
+   "date": "2014-06-11"
+  },
+  {
+   "ref": "fact:soc2",
+   "action": "fix",
+   "reason": "The post is dated 18-aug-2026 and names Prescient Assurance and the AICPA standards, but it gives no completion date. 18 August is the announcement date.",
+   "match_es": "Según Metallicus, completó el 18 de agosto de 2026 una evaluación SOC 2 Tipo I realizada por Prescient Assurance, LLC con normas de la AICPA.",
+   "es": "Según Metallicus, que lo anunció el 18 de agosto de 2026, completó una evaluación SOC 2 Tipo I realizada por Prescient Assurance, LLC con normas de la AICPA.",
+   "en": "According to Metallicus, which announced it on 18 August 2026, it completed a SOC 2 Type I assessment by Prescient Assurance, LLC under AICPA standards."
+  },
+  {
+   "ref": "fact:stellar",
+   "action": "fix",
+   "reason": "Both sources give $3M from Stripe; only TechCrunch gives '2 percent of the existing Stellars'. Fortune doesn't mention it. Attribute the 2% to TechCrunch.",
+   "match_es": "Stripe aportó 3 millones de dólares de financiación inicial a cambio del 2% de los stellars.",
+   "es": "Stripe aportó 3 millones de dólares de financiación inicial; según TechCrunch, a cambio del 2% de los stellars existentes.",
+   "en": "Stripe provided $3 million in initial funding; according to TechCrunch, in exchange for 2% of the existing stellars."
+  },
+  {
+   "ref": "fact:stellar",
+   "action": "fix",
+   "reason": "Bankless Times and the WazirX AMA (Hayner's own words) support joining after QuickCoin (2014), promoting/launching the Stellar wallet and managing the community. Only yespress.io, an unattributed profile page, says 'contractor', so it is not shown to be Hayner's own statement.",
+   "match_es": "Según Hayner, se unió a la fundación en 2014 como contratista y ayudó a promover el lanzamiento del monedero de Stellar y a gestionar la comunidad. No se encontró ninguna comunicación de la propia fundación que lo mencione.",
+   "es": "Según Hayner, tras fundar QuickCoin en 2014 se unió a la fundación y ayudó a lanzar y promover el monedero de Stellar y a gestionar la comunidad. No se encontró ninguna comunicación de la propia fundación que lo mencione.",
+   "en": "According to Hayner, after founding QuickCoin in 2014 he joined the foundation and helped launch and promote the Stellar wallet and manage the community. No communication from the foundation itself mentioning him was found."
+  },
+  {
+   "ref": "fact:syed-jafri",
+   "action": "fix",
+   "reason": "Both sources say he led the Bloks.io developers and founded EOS Cafe Block. Only Cryptopolitan says he built Collectables.io; Invezz mentions Collectables.io without him.",
+   "match_es": "Dirigía a los desarrolladores de Bloks.io, fundó el productor de bloques EOS Cafe Block y creó Collectables.io.",
+   "es": "Dirigía a los desarrolladores de Bloks.io y fundó el productor de bloques EOS Cafe Block; según Cryptopolitan, también creó Collectables.io.",
+   "en": "He led the Bloks.io developers and founded the EOS Cafe Block block producer; according to Cryptopolitan, he also created Collectables.io."
+  },
+  {
+   "ref": "fact:tdbn",
+   "action": "fix",
+   "reason": "Only one press source: Crowdfund Insider (19-aug-2024), which reads as a relay of Metallicus's own announcement. The CUInsight item is a Metallicus press release, so it is not independent press.",
+   "match_es": "La prensa presenta a Metallicus como desarrolladora de The Digital Banking Network (agosto de 2024).",
+   "es": "Según Metallicus, es la desarrolladora de The Digital Banking Network; Crowdfund Insider la presentó así en agosto de 2024 al recoger un anuncio de la empresa.",
+   "en": "According to Metallicus, it is the developer of The Digital Banking Network; Crowdfund Insider described it that way in August 2024 when reporting a company announcement.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:temenos",
+   "action": "fix",
+   "reason": "The content matches (Bailey's title, 'accelerator for fintechs', build once and reach banks running Temenos). But the only source is a Metallicus-issued release (San Francisco dateline, Metallicus PR contact) quoting the partner, which is not enough for confirmed.",
+   "match_es": "En ese comunicado, Martin Bailey, Director of Innovation and Ecosystems de Temenos, describió Temenos Exchange como un acelerador para fintechs y señaló que Metallicus podría desarrollar una vez y llegar a bancos de todo el mundo que usan Temenos.",
+   "es": "Según el comunicado de Metallicus, Martin Bailey, Director of Innovation and Ecosystems de Temenos, describió Temenos Exchange como un acelerador para fintechs y señaló que Metallicus podría desarrollar una vez y llegar a bancos de todo el mundo que usan Temenos.",
+   "en": "According to Metallicus's release, Martin Bailey, Temenos Director of Innovation and Ecosystems, described Temenos Exchange as an accelerator for fintechs and said Metallicus could build once and reach banks worldwide running Temenos.",
+   "status": "self"
+  },
+  {
+   "ref": "edge:webauth|metal-x|acceso obligatorio a",
+   "action": "fix",
+   "reason": "Neither source says WebAuth is required. metalx.com says you need an On-Chain Account; the Q1 2026 report says trading and lending are available 'with one WebAuth sign-in'.",
+   "label_es": "sirve de inicio de sesión en",
+   "label_en": "used to sign in to"
+  },
+  {
+   "ref": "fact:william-cotton",
+   "action": "remove",
+   "reason": "The core claim (co-founder per the Bitcointalk announcement) has no cited source and would rest on a banned forum. VentureBeat, the only cited source, calls him CTO only and names Hayner and Lands as founders.",
+   "match_es": "Según el anuncio de QuickCoin en Bitcointalk, figuraba como cofundador; la prensa de 2014 solo cita como cofundadores a Hayner y Lands."
+  },
+  {
+   "ref": "edge:william-cotton|quickcoin|CTO (y cofundador según la empresa) de",
+   "action": "fix",
+   "reason": "VentureBeat supports CTO only; the 'co-founder per the company' part rests on an uncited, banned Bitcointalk source.",
+   "label_es": "CTO de",
+   "label_en": "CTO of"
+  },
+  {
+   "ref": "fact:xpr-network",
+   "action": "fix",
+   "reason": "The two data points don't conflict. KuCoin (23-aug-2021) says Proton launched in 2020 and gives the XPR 'issue date' as 6-apr-2021: a network launch and a token issue date can differ. Not a dispute.",
+   "match_es": "La ficha de listado de KuCoin (ago-2021) describe Proton como una red lanzada en 2020, pero da como «fecha de emisión» de XPR el 6 de abril de 2021.",
+   "es": "La ficha de listado de KuCoin (ago-2021) describe Proton como una red lanzada en 2020 y da el 6 de abril de 2021 como «fecha de emisión» del token XPR.",
+   "en": "KuCoin's listing note (Aug 2021) describes Proton as a network launched in 2020 and gives 6 April 2021 as the XPR token's \"issue date\".",
+   "status": "confirmed",
+   "date": "2021-08-23"
+  },
+  {
+   "ref": "fact:xpr-network",
+   "action": "fix",
+   "reason": "KuCoin (15-mar-2024) supports the rebrand, and the ticker stays XPR. CoinGecko doesn't show the literal name 'XPR Network (formerly Proton)'; it says 'Proton (XPR) has rebranded to XPR Network (XPR)'.",
+   "match_es": "Proton pasó a llamarse XPR Network manteniendo el ticker XPR; KuCoin anunció el 15 de marzo de 2024 que daba soporte al cambio de marca, y CoinGecko la lista como «XPR Network (formerly Proton)».",
+   "es": "Proton pasó a llamarse XPR Network manteniendo el ticker XPR; KuCoin anunció el 15 de marzo de 2024 que daba soporte al cambio de marca, y CoinGecko indica que Proton (XPR) se renombró como XPR Network.",
+   "en": "Proton was renamed XPR Network, keeping the XPR ticker; KuCoin announced on 15 March 2024 that it supported the rebrand, and CoinGecko states that Proton (XPR) rebranded to XPR Network."
+  },
+  {
+   "ref": "fact:xpr-network",
+   "action": "fix",
+   "reason": "The footer '© 2026 Metallicus, Inc.' is confirmed, and the GitHub org has proton-web-sdk and proton-cli. But the cited page doesn't say the network is Metallicus's work; the footer says the site is 'Built by' Metallicus 'in support of XPR Network'.",
+   "match_es": "La web de XPR Network lleva la firma «© Metallicus, Inc.», y según Metallicus la red es obra suya; varias herramientas oficiales del GitHub XPRNetwork conservan el nombre Proton (proton-web-sdk, proton-cli).",
+   "es": "La web de XPR Network lleva la firma «© Metallicus, Inc.» e indica que el sitio lo construye Metallicus en apoyo de XPR Network; varias herramientas oficiales del GitHub XPRNetwork conservan el nombre Proton (proton-web-sdk, proton-cli).",
+   "en": "The XPR Network website carries the notice \"© Metallicus, Inc.\" and states the site is built by Metallicus in support of XPR Network; several official tools in the XPRNetwork GitHub keep the Proton name (proton-web-sdk, proton-cli)."
+  },
+  {
+   "ref": "fact:zach-klein",
+   "action": "fix",
+   "reason": "VentureBeat (11-jun-2014) says only that QuickCoin 'brought on Vimeo cofounder Zach Klein', with no role. It does not say adviser.",
+   "match_es": "Fue asesor de QuickCoin.",
+   "es": "QuickCoin lo incorporó en 2014, según VentureBeat, que no precisa su función.",
+   "en": "QuickCoin brought him on in 2014, according to VentureBeat, which does not specify his role.",
+   "date": "2014-06"
+  },
+  {
+   "ref": "edge:zach-klein|quickcoin|asesor de",
+   "action": "fix",
+   "reason": "VentureBeat says QuickCoin 'brought on' Klein without stating his role, so 'adviser' is not supported.",
+   "label_es": "se incorporó a",
+   "label_en": "joined",
+   "date": "2014-06"
+  },
+  {
+   "ref": "fact:frank-mazza",
+   "action": "fix",
+   "match_es": "En mayo de 2023 era Head of Metal Blockchain Marketing.",
+   "es": "Según el blog de Metallicus, en mayo de 2023 era Head of Metal Blockchain Marketing.",
+   "en": "According to the Metallicus blog, in May 2023 he was Head of Metal Blockchain Marketing.",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:john-ainsworth",
+   "action": "fix",
+   "match_es": "CEO de CULedger en abril de 2018.",
+   "es": "Según un comunicado de CULedger, en abril de 2018 era su CEO.",
+   "en": "According to a CULedger release, he was its CEO in April 2018.",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:mark-carawan",
+   "action": "fix",
+   "match_es": "Sigue listado en el consejo asesor de la web actual.",
+   "es": "Sigue en el consejo asesor según la web actual de Metallicus.",
+   "en": "Still on the advisory board according to the current Metallicus website.",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:mark-carawan",
+   "action": "fix",
+   "match_es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "es": "Según el comunicado de Metallicus, figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "en": "According to the Metallicus release, he was listed among the planned FBBT Holdings directors (February 2023).",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:sergio-rodriguera-jr",
+   "action": "fix",
+   "match_es": "Sigue listado en el consejo asesor de la web actual.",
+   "es": "Sigue en el consejo asesor según la web actual de Metallicus.",
+   "en": "Still on the advisory board according to the current Metallicus website.",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:marc-joseph",
+   "action": "fix",
+   "match_es": "Sigue listado en el consejo asesor de la web actual.",
+   "es": "Sigue en el consejo asesor según la web actual de Metallicus.",
+   "en": "Still on the advisory board according to the current Metallicus website.",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:marc-joseph",
+   "action": "fix",
+   "match_es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "es": "Según el comunicado de Metallicus, figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "en": "According to the Metallicus release, he was listed among the planned FBBT Holdings directors (February 2023).",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:lauren-hargraves",
+   "action": "fix",
+   "match_es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "es": "Según el comunicado de Metallicus, figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "en": "According to the Metallicus release, she was listed among the planned FBBT Holdings directors (February 2023).",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:bryan-hubbard",
+   "action": "fix",
+   "match_es": "Figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "es": "Según el comunicado de Metallicus, figuraba entre los consejeros previstos de FBBT Holdings (febrero de 2023).",
+   "en": "According to the Metallicus release, he was listed among the planned FBBT Holdings directors (February 2023).",
+   "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:pixsy",
+   "action": "fix",
+   "match_es": "Ayuda a creadores a localizar usos no autorizados de sus imágenes y a reclamarlos.",
+   "es": "Según Pixsy, ayuda a creadores a localizar usos no autorizados de sus imágenes y a reclamarlos.",
+   "en": "According to Pixsy, it helps creators find and resolve unauthorized uses of their images.",
+   "reason": "add attribution to self fact"
   }
  ]
 }

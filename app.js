@@ -3,7 +3,7 @@ const I18N = {
   es: {
     title:"Metallicus, verificado", tagline:"Cada dato enlaza a su fuente.", search:"Buscar",
     searchPh:"Buscar persona, empresa, producto…", vMap:"Mapa", vList:"Lista", vTime:"Cronología", vAbout:"Método",
-    sConfirmed:"Confirmado", sConfirmedD:"registro oficial, ambas partes o 2+ fuentes independientes",
+    sConfirmed:"Confirmado", sConfirmedD:"registro oficial, publicación de ambas partes o prensa independiente fiable",
     sSelf:"Según la parte interesada", sSelfD:"solo lo afirma Metallicus o la propia persona/empresa",
     sDisputed:"Fuentes discrepan", sDisputedD:"se muestran las versiones con sus fuentes",
     mapHint:"Toca un elemento para ver sus datos y fuentes. Línea continua: confirmado. Discontinua: según la parte interesada.",
@@ -17,7 +17,7 @@ const I18N = {
   en: {
     title:"Metallicus, verified", tagline:"Every fact links to its source.", search:"Search",
     searchPh:"Search a person, company, product…", vMap:"Map", vList:"List", vTime:"Timeline", vAbout:"Method",
-    sConfirmed:"Confirmed", sConfirmedD:"official record, both parties or 2+ independent sources",
+    sConfirmed:"Confirmed", sConfirmedD:"official record, publication by both parties or reliable independent press",
     sSelf:"Per the interested party", sSelfD:"only Metallicus or the person/company itself says so",
     sDisputed:"Sources disagree", sDisputedD:"each version is shown with its source",
     mapHint:"Tap an item to see its facts and sources. Solid line: confirmed. Dashed: per the interested party.",
@@ -35,7 +35,7 @@ const ABOUT = {
   es:`<h2>Cómo se ha hecho</h2>
 <p>Este mapa parte de un mapa anterior en Kumu. Se revisó cada elemento y cada conexión, se eliminó todo lo que no tenía fuente y se investigó de nuevo cada entidad.</p>
 <h3>Qué entra</h3>
-<ul><li><b>Confirmado</b>: lo respalda un registro oficial (regulador, tribunal), un comunicado de ambas partes o al menos dos fuentes independientes fiables.</li>
+<ul><li><b>Confirmado</b>: lo respalda un registro oficial (regulador, tribunal), una publicación de ambas partes o prensa independiente fiable. Un comunicado de Metallicus que solo cita a su socio no basta.</li>
 <li><b>Según la parte interesada</b>: solo lo dice Metallicus, la propia persona o la propia empresa. Es verificable que lo afirman, no que sea cierto.</li>
 <li><b>Fuentes discrepan</b>: hay fuentes fiables con versiones distintas, y se muestran todas.</li></ul>
 <h3>Qué no entra</h3>
@@ -45,7 +45,7 @@ const ABOUT = {
   en:`<h2>How this was made</h2>
 <p>This map started from an earlier Kumu map. Every element and connection was checked, anything without a source was removed, and each entity was researched again.</p>
 <h3>What is included</h3>
-<ul><li><b>Confirmed</b>: backed by an official record (regulator, court), a release from both parties, or at least two independent reliable sources.</li>
+<ul><li><b>Confirmed</b>: backed by an official record (regulator, court), a publication by both parties, or reliable independent press. A Metallicus release that only quotes its partner is not enough.</li>
 <li><b>Per the interested party</b>: only Metallicus, the person or the company itself says it. It is verifiable that they claim it, not that it is true.</li>
 <li><b>Sources disagree</b>: reliable sources give different versions, and all are shown.</li></ul>
 <h3>What is left out</h3>

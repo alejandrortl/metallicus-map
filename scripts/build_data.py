@@ -106,7 +106,8 @@ for c in corrs:
                 if c["action"] == "remove":
                     n["facts"].remove(f); continue
                 for k in ("es", "en", "status", "date"):
-                    if c.get(k): f[k] = c[k]
+                    if c.get(k) == "__clear__": f.pop(k, None)
+                    elif c.get(k): f[k] = c[k]
     else:
         frm, to, lab = ref[5:].split("|", 2)
         for e in list(final_edges):
@@ -115,7 +116,8 @@ for c in corrs:
                 if c["action"] == "remove":
                     final_edges.remove(e); continue
                 for k in ("label_es", "label_en", "status", "date"):
-                    if c.get(k): e[k] = c[k]
+                    if c.get(k) == "__clear__": e.pop(k, None)
+                    elif c.get(k): e[k] = c[k]
     if not hit:
         problems.append(f"correction not applied: {ref[:90]}")
 for k in drop - used:
