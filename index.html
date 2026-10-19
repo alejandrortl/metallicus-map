@@ -2,9 +2,14 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F2F4F6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121820" media="(prefers-color-scheme: dark)">
 <title>Metallicus, verificado</title>
 <meta name="description" content="Mapa de relaciones de Metallicus en el que cada dato enlaza a su fuente.">
+<meta property="og:title" content="Metallicus, verificado">
+<meta property="og:description" content="Personas, productos, socios y regulación de Metallicus. Cada dato enlaza a su fuente.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='%231B7553'/%3E%3Cpath d='M10 16.5l4 4 8-9' stroke='white' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
@@ -14,49 +19,53 @@
 </head>
 <body>
 <header class="bar">
-  <div class="brand">
-    <h1 data-i18n="title">Metallicus, verificado</h1>
-    <p class="tagline" data-i18n="tagline">Cada dato enlaza a su fuente.</p>
+  <div class="top">
+    <div class="brand">
+      <h1 data-i18n="title">Metallicus, verificado</h1>
+      <p class="tagline" data-i18n="tagline">Cada dato enlaza a su fuente.</p>
+    </div>
+    <button id="lang" class="lang" aria-label="Language">EN</button>
   </div>
   <div class="controls">
     <label class="search">
       <span class="sr-only" data-i18n="search">Buscar</span>
       <input id="q" type="search" autocomplete="off" data-i18n-ph="searchPh" placeholder="Buscar persona, empresa, producto…">
     </label>
-    <div class="seg" role="tablist" aria-label="Vista">
-      <button role="tab" data-view="map" data-i18n="vMap">Mapa</button>
-      <button role="tab" data-view="list" data-i18n="vList">Lista</button>
-      <button role="tab" data-view="time" data-i18n="vTime">Cronología</button>
-      <button role="tab" data-view="about" data-i18n="vAbout">Método</button>
-    </div>
-    <button id="lang" class="lang" aria-label="Language">EN</button>
+    <nav class="seg" id="tabs" aria-label="Vista">
+      <button data-view="list"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg><span data-i18n="vList">Lista</span></button>
+      <button data-view="map"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="6" cy="7" r="2.5"/><circle cx="18" cy="6" r="2.5"/><circle cx="12" cy="17" r="2.5"/><path d="M8 8l3 7M16 8l-3 7M8.4 6.8h7.2"/></svg><span data-i18n="vMap">Mapa</span></button>
+      <button data-view="time"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M12 7h6M12 12H6M12 17h5"/></svg><span data-i18n="vTime">Cronología</span></button>
+      <button data-view="about"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg><span data-i18n="vAbout">Método</span></button>
+    </nav>
   </div>
 </header>
 
-<div class="legend" id="legend" aria-label="Leyenda">
-  <span class="st st-confirmed"><i></i><b data-i18n="sConfirmed">Confirmado</b><em data-i18n="sConfirmedD">registro oficial, publicación de ambas partes o prensa independiente fiable</em></span>
-  <span class="st st-self"><i></i><b data-i18n="sSelf">Según la parte interesada</b><em data-i18n="sSelfD">solo lo afirma Metallicus o la propia persona/empresa</em></span>
-  <span class="st st-disputed"><i></i><b data-i18n="sDisputed">Fuentes discrepan</b><em data-i18n="sDisputedD">se muestran las versiones con sus fuentes</em></span>
+<div class="legend" id="legend">
+  <span class="st"><span class="mark confirmed"></span><b data-i18n="sConfirmed">Confirmado</b><em data-i18n="sConfirmedD">registro oficial, publicación de ambas partes o prensa independiente fiable</em></span>
+  <span class="st"><span class="mark self"></span><b data-i18n="sSelf">Según la parte interesada</b><em data-i18n="sSelfD">solo lo afirma Metallicus o la propia persona/empresa</em></span>
+  <span class="st"><span class="mark disputed"></span><b data-i18n="sDisputed">Fuentes discrepan</b><em data-i18n="sDisputedD">se muestran las versiones con sus fuentes</em></span>
 </div>
 
-<div class="filters" id="filters" aria-label="Filtros"></div>
+<div class="filters" id="filters"></div>
 
 <main id="main">
-  <section id="view-map" class="view">
-    <div id="cy" aria-label="Mapa de relaciones"></div>
-    <p class="map-hint" data-i18n="mapHint">Toca un elemento para ver sus datos y fuentes. Línea continua: confirmado. Discontinua: según la parte interesada.</p>
-  </section>
   <section id="view-list" class="view" hidden><div id="list"></div></section>
+  <section id="view-map" class="view" hidden>
+    <div id="cy" aria-label="Mapa de relaciones"></div>
+    <p class="map-hint" data-i18n="mapHint">Toca un elemento para ver sus datos y fuentes.</p>
+  </section>
   <section id="view-time" class="view" hidden><ol id="timeline"></ol></section>
   <section id="view-about" class="view prose" hidden><div id="about"></div></section>
   <aside id="panel" class="panel" hidden aria-live="polite">
-    <button class="close" id="close" data-i18n-aria="close" aria-label="Cerrar">×</button>
+    <div class="panel-bar">
+      <button class="back" id="close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg><span data-i18n="back">Volver</span></button>
+    </div>
     <div id="detail"></div>
   </aside>
 </main>
 
 <footer class="foot">
-  <p><span data-i18n="updated">Datos revisados el</span> <time id="updated"></time>. <span data-i18n="footNote">No es asesoramiento financiero. ¿Ves un error? Abre un issue en GitHub con la fuente.</span></p>
+  <p><span data-i18n="updated">Datos revisados el</span> <time id="updated"></time>. <span data-i18n="footNote">No es asesoramiento financiero.</span> <a href="https://github.com/alejandrortl/metallicus-map/issues/new?template=correccion.md" target="_blank" rel="noopener" data-i18n="report">Avisar de un error</a></p>
 </footer>
 </body>
 </html>

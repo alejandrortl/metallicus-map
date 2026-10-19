@@ -124,6 +124,15 @@ for k in drop - used:
     problems.append(f"curation key not found: {k}")
 for e in final_edges:
     e.pop("_orig_label", None)
+# reviewed summaries (data/summaries.json)
+sum_path = os.path.join(ROOT, "data", "summaries.json")
+if os.path.exists(sum_path):
+    for nid, sm in json.load(open(sum_path, encoding="utf-8")).items():
+        if nid in nodes:
+            for k in ("summary_es", "summary_en"):
+                if sm.get(k): nodes[nid][k] = sm[k]
+        else:
+            problems.append(f"summary for unknown node: {nid}")
 out = {"updated": datetime.date.today().isoformat(), "nodes": list(nodes.values()), "edges": final_edges}
 json.dump(out, open(os.path.join(ROOT, "data", "graph.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 nf = sum(len(n["facts"]) for n in nodes.values())
