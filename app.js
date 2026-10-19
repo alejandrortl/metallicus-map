@@ -85,7 +85,8 @@ function avatar(n,size){
   const im=IMG[n.id];
   const cls=["av"]; if(im) cls.push(im.kind==="photo"?"photo":"logo"); if(n.type==="person") cls.push("person");
   const inner = im ? `<img src="${esc(im.url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.remove('logo','photo');this.replaceWith(document.createTextNode('${esc(initials(n.name))}'))">` : esc(initials(n.name));
-  return `<span class="${cls.join(" ")}" style="--s:${size}px;--c:${GVAR(n.group)}" aria-hidden="true">${inner}</span>`;
+  const bg = im&&im.bg ? `;background:${esc(im.bg)}` : "";
+  return `<span class="${cls.join(" ")}" style="--s:${size}px;--c:${GVAR(n.group)}${bg}" aria-hidden="true">${inner}</span>`;
 }
 
 async function init(){
