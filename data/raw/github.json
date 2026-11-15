@@ -1,0 +1,110 @@
+{
+ "_note": "Datos obtenidos del historial público de git (git clone) el 2026-11-15. Recuentos de commits por autor en todas las ramas. La identidad real detrás de cada cuenta de GitHub no está verificada formalmente: ver el texto de cada hecho.",
+ "nodes": [
+  {
+   "id": "pulsevm",
+   "name": "PulseVM",
+   "type": "product",
+   "group": "products",
+   "summary_es": "Máquina virtual escrita en Rust para Metal Blockchain, compatible con contratos de tipo EOSIO/Antelope (el modelo de XPR Network). Su código es público en GitHub y está en desarrollo activo.",
+   "summary_en": "A virtual machine written in Rust for Metal Blockchain, compatible with EOSIO/Antelope-style contracts (the XPR Network model). Its code is public on GitHub and under active development.",
+   "website": "https://github.com/MetalBlockchain/pulsevm",
+   "facts": [
+    {
+     "es": "Según su README, PulseVM es una implementación en Rust de una máquina virtual WebAssembly compatible con EOSIO/Antelope que funciona como VM de una subred de MetalGo; MetalGo aporta el consenso.",
+     "en": "According to its README, PulseVM is a Rust implementation of an EOSIO/Antelope-compatible WebAssembly virtual machine that runs as a MetalGo subnet VM; MetalGo provides consensus.",
+     "status": "self",
+     "sources": [{"title": "GitHub – MetalBlockchain/pulsevm (README)", "url": "https://github.com/MetalBlockchain/pulsevm"}]
+    },
+    {
+     "es": "El repositorio se creó con un primer commit el 1 de noviembre de 2024.",
+     "en": "The repository began with a first commit on 1 November 2024.",
+     "status": "confirmed",
+     "date": "2024-11-01",
+     "sources": [{"title": "GitHub – MetalBlockchain/pulsevm (historial de commits)", "url": "https://github.com/MetalBlockchain/pulsevm/commits/main"}]
+    },
+    {
+     "es": "Sigue en desarrollo: el último cambio integrado en la rama principal antes de esta revisión es del 13 de noviembre de 2026 (una corrección titulada «audit-hardening»).",
+     "en": "It is still under development: the latest change merged into the main branch before this review is dated 13 November 2026 (a fix titled \"audit-hardening\").",
+     "status": "confirmed",
+     "date": "2026-11-13",
+     "sources": [{"title": "GitHub – MetalBlockchain/pulsevm (historial de commits)", "url": "https://github.com/MetalBlockchain/pulsevm/commits/main"}]
+    },
+    {
+     "es": "Metallicus la presentaba en su informe del tercer trimestre de 2025 como la máquina virtual de Metal Blockchain basada en Rust, aún en desarrollo.",
+     "en": "Metallicus described it in its Q3 2025 report as Metal Blockchain's Rust-based virtual machine, still in development.",
+     "status": "self",
+     "date": "2025",
+     "sources": [{"title": "Metallicus – Informe Q3 2025 (PDF)", "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"}]
+    },
+    {
+     "es": "Tiene además un kit en Rust para escribir contratos (pulse-cdt-rust), con licencia MIT a nombre de Metal Blockchain, que incluye contratos base de arranque, firmas múltiples, sistema y tokens. Su primer commit es del 1 de abril de 2025 y el último del 12 de agosto de 2026.",
+     "en": "It also has a Rust kit for writing contracts (pulse-cdt-rust), MIT-licensed to Metal Blockchain, including base contracts for bootstrapping, multisig, system and tokens. Its first commit is from 1 April 2025 and its latest from 12 August 2026.",
+     "status": "confirmed",
+     "date": "2025-04-01",
+     "sources": [{"title": "GitHub – MetalBlockchain/pulse-cdt-rust", "url": "https://github.com/MetalBlockchain/pulse-cdt-rust"}]
+    }
+   ]
+  },
+  {
+   "id": "metal-blockchain",
+   "facts": [
+    {
+     "es": "Su código es público en la organización de GitHub «MetalBlockchain», que el propio whitepaper de Metal Blockchain enlaza como su repositorio. Incluye metalgo (el nodo, un fork de AvalancheGo), coreth, metal-cli, metal-network-runner, antelopevm y PulseVM.",
+     "en": "Its code is public in the \"MetalBlockchain\" GitHub organisation, which the Metal Blockchain whitepaper itself links as its repository. It includes metalgo (the node, a fork of AvalancheGo), coreth, metal-cli, metal-network-runner, antelopevm and PulseVM.",
+     "status": "confirmed",
+     "sources": [
+      {"title": "Metal Blockchain – Whitepaper v1.2 (PDF)", "url": "https://cdn.metallicus.com/Metal_Blockchain_Whitepaper_v1.2.pdf"},
+      {"title": "GitHub – MetalBlockchain/metalgo", "url": "https://github.com/MetalBlockchain/metalgo"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glenn-marien",
+   "facts": [
+    {
+     "es": "La cuenta de GitHub «MlennGarien», que firma como «Glenn», es la principal autora del código de Metal Blockchain: 363 commits en metalgo (julio 2022 – septiembre 2026), 469 en PulseVM (noviembre 2024 – octubre 2026), 151 en coreth, 52 en metal-network-runner, 48 en antelopevm, 44 en pulse-cdt-rust y 34 en metal-cli. Que esa cuenta sea de Glenn Mariën no está verificado formalmente: el perfil de GitHub no indica su nombre completo.",
+     "en": "The GitHub account \"MlennGarien\", which signs as \"Glenn\", is the main author of Metal Blockchain's code: 363 commits in metalgo (July 2022 – September 2026), 469 in PulseVM (November 2024 – October 2026), 151 in coreth, 52 in metal-network-runner, 48 in antelopevm, 44 in pulse-cdt-rust and 34 in metal-cli. That the account belongs to Glenn Mariën is not formally verified: the GitHub profile does not give his full name.",
+     "status": "confirmed",
+     "date": "2026-10",
+     "sources": [
+      {"title": "GitHub – metalgo, commits de MlennGarien", "url": "https://github.com/MetalBlockchain/metalgo/commits?author=MlennGarien"},
+      {"title": "GitHub – pulsevm, commits de MlennGarien", "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=MlennGarien"},
+      {"title": "GitHub – pulse-cdt-rust, commits de MlennGarien", "url": "https://github.com/MetalBlockchain/pulse-cdt-rust/commits?author=MlennGarien"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-grey",
+   "facts": [
+    {
+     "es": "La cuenta de GitHub «paulgnz», que firma como «Paul Grey», es la autora principal de la guía para desarrolladores alojada en la organización de GitHub de XPR Network (139 commits, enero – octubre 2026) y contribuye al arranque de la red de pruebas de XPR (57 commits desde agosto de 2023), a la herramienta de línea de comandos de XPR (9) y a PulseVM y su kit de contratos en Metal Blockchain (11 commits, junio – octubre 2026). Que sea el Paul Grey del equipo de Metallicus no está verificado formalmente.",
+     "en": "The GitHub account \"paulgnz\", which signs as \"Paul Grey\", is the main author of the developer guide hosted in XPR Network's GitHub organisation (139 commits, January – October 2026) and contributes to the XPR testnet bootstrap (57 commits since August 2023), the XPR command-line tool (9) and to PulseVM and its contract kit on Metal Blockchain (11 commits, June – October 2026). That it is the Paul Grey on Metallicus's team is not formally verified.",
+     "status": "confirmed",
+     "date": "2026-10",
+     "sources": [
+      {"title": "GitHub – XPRNetwork/xpr-network-dev-skill", "url": "https://github.com/XPRNetwork/xpr-network-dev-skill/commits?author=paulgnz"},
+      {"title": "GitHub – XPRNetwork/xpr-testnet.start", "url": "https://github.com/XPRNetwork/xpr-testnet.start/commits?author=paulgnz"},
+      {"title": "GitHub – pulsevm, commits de paulgnz", "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=paulgnz"}
+     ]
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {"from": "pulsevm", "to": "metal-blockchain", "label_es": "máquina virtual para", "label_en": "virtual machine for", "status": "confirmed",
+   "sources": [{"title": "GitHub – MetalBlockchain/pulsevm", "url": "https://github.com/MetalBlockchain/pulsevm"}]},
+  {"from": "pulsevm", "to": "xpr-network", "label_es": "usa el mismo modelo de contratos (Antelope) que", "label_en": "uses the same contract model (Antelope) as", "status": "self",
+   "sources": [{"title": "GitHub – MetalBlockchain/pulsevm (README)", "url": "https://github.com/MetalBlockchain/pulsevm"}]},
+  {"from": "glenn-marien", "to": "pulsevm", "label_es": "principal autor del código de", "label_en": "main code author of", "status": "confirmed",
+   "sources": [{"title": "GitHub – pulsevm, commits de MlennGarien", "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=MlennGarien"}]},
+  {"from": "glenn-marien", "to": "metal-blockchain", "label_es": "principal autor del código de", "label_en": "main code author of", "status": "confirmed",
+   "sources": [{"title": "GitHub – metalgo, commits de MlennGarien", "url": "https://github.com/MetalBlockchain/metalgo/commits?author=MlennGarien"}]},
+  {"from": "paul-grey", "to": "pulsevm", "label_es": "contribuye al código de", "label_en": "contributes code to", "status": "confirmed",
+   "sources": [{"title": "GitHub – pulsevm, commits de paulgnz", "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=paulgnz"}]},
+  {"from": "paul-grey", "to": "xpr-network", "label_es": "mantiene la guía para desarrolladores de", "label_en": "maintains the developer guide for", "status": "confirmed",
+   "sources": [{"title": "GitHub – XPRNetwork/xpr-network-dev-skill", "url": "https://github.com/XPRNetwork/xpr-network-dev-skill"}]}
+ ]
+}

@@ -44,7 +44,7 @@ for f in sorted(glob.glob(os.path.join(ROOT, "data", "raw", "*.json"))):
             cur = nodes[nid]
             seen = {x["es"] for x in cur["facts"]}
             cur["facts"] += [x for x in facts if x["es"] not in seen]
-            for k in ("summary_es", "summary_en", "website", "type", "group"):
+            for k in ("name", "summary_es", "summary_en", "website", "type", "group"):
                 if not cur.get(k) and n.get(k):
                     cur[k] = n[k]
         else:

@@ -521,6 +521,26 @@
        "url": "https://www.metallicus.com/blog/meet-marshall-hayner-of-metallicus"
       }
      ]
+    },
+    {
+     "es": "La cuenta de GitHub «MlennGarien», que firma como «Glenn», es la principal autora del código de Metal Blockchain: 363 commits en metalgo (julio 2022 – septiembre 2026), 469 en PulseVM (noviembre 2024 – octubre 2026), 151 en coreth, 52 en metal-network-runner, 48 en antelopevm, 44 en pulse-cdt-rust y 34 en metal-cli. Que esa cuenta sea de Glenn Mariën no está verificado formalmente: el perfil de GitHub no indica su nombre completo.",
+     "en": "The GitHub account \"MlennGarien\", which signs as \"Glenn\", is the main author of Metal Blockchain's code: 363 commits in metalgo (July 2022 – September 2026), 469 in PulseVM (November 2024 – October 2026), 151 in coreth, 52 in metal-network-runner, 48 in antelopevm, 44 in pulse-cdt-rust and 34 in metal-cli. That the account belongs to Glenn Mariën is not formally verified: the GitHub profile does not give his full name.",
+     "status": "confirmed",
+     "date": "2026-10",
+     "sources": [
+      {
+       "title": "GitHub – metalgo, commits de MlennGarien",
+       "url": "https://github.com/MetalBlockchain/metalgo/commits?author=MlennGarien"
+      },
+      {
+       "title": "GitHub – pulsevm, commits de MlennGarien",
+       "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=MlennGarien"
+      },
+      {
+       "title": "GitHub – pulse-cdt-rust, commits de MlennGarien",
+       "url": "https://github.com/MetalBlockchain/pulse-cdt-rust/commits?author=MlennGarien"
+      }
+     ]
     }
    ]
   },
@@ -1027,6 +1047,26 @@
       {
        "title": "Metallicus – Company / team page",
        "url": "https://www.metallicus.com/company"
+      }
+     ]
+    },
+    {
+     "es": "La cuenta de GitHub «paulgnz», que firma como «Paul Grey», es la autora principal de la guía para desarrolladores alojada en la organización de GitHub de XPR Network (139 commits, enero – octubre 2026) y contribuye al arranque de la red de pruebas de XPR (57 commits desde agosto de 2023), a la herramienta de línea de comandos de XPR (9) y a PulseVM y su kit de contratos en Metal Blockchain (11 commits, junio – octubre 2026). Que sea el Paul Grey del equipo de Metallicus no está verificado formalmente.",
+     "en": "The GitHub account \"paulgnz\", which signs as \"Paul Grey\", is the main author of the developer guide hosted in XPR Network's GitHub organisation (139 commits, January – October 2026) and contributes to the XPR testnet bootstrap (57 commits since August 2023), the XPR command-line tool (9) and to PulseVM and its contract kit on Metal Blockchain (11 commits, June – October 2026). That it is the Paul Grey on Metallicus's team is not formally verified.",
+     "status": "confirmed",
+     "date": "2026-10",
+     "sources": [
+      {
+       "title": "GitHub – XPRNetwork/xpr-network-dev-skill",
+       "url": "https://github.com/XPRNetwork/xpr-network-dev-skill/commits?author=paulgnz"
+      },
+      {
+       "title": "GitHub – XPRNetwork/xpr-testnet.start",
+       "url": "https://github.com/XPRNetwork/xpr-testnet.start/commits?author=paulgnz"
+      },
+      {
+       "title": "GitHub – pulsevm, commits de paulgnz",
+       "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=paulgnz"
       }
      ]
     }
@@ -1939,11 +1979,286 @@
      ]
     }
    ],
+   "name": "Dogechain.info",
    "summary_es": "Explorador de bloques de Dogecoin, con monedero en línea, creado por Glenn Mariën según Metallicus.",
    "summary_en": "Dogecoin block explorer with an online wallet, created by Glenn Mariën according to Metallicus.",
    "website": "https://dogechain.info",
    "type": "product",
    "group": "history"
+  },
+  {
+   "id": "pulsevm",
+   "name": "PulseVM",
+   "type": "product",
+   "group": "products",
+   "summary_es": "Máquina virtual escrita en Rust para Metal Blockchain, compatible con contratos de tipo EOSIO/Antelope (el modelo de XPR Network). Su código es público en GitHub y está en desarrollo activo.",
+   "summary_en": "A virtual machine written in Rust for Metal Blockchain, compatible with EOSIO/Antelope-style contracts (the XPR Network model). Its code is public on GitHub and under active development.",
+   "website": "https://github.com/MetalBlockchain/pulsevm",
+   "facts": [
+    {
+     "es": "Según su README, PulseVM es una implementación en Rust de una máquina virtual WebAssembly compatible con EOSIO/Antelope que funciona como VM de una subred de MetalGo; MetalGo aporta el consenso.",
+     "en": "According to its README, PulseVM is a Rust implementation of an EOSIO/Antelope-compatible WebAssembly virtual machine that runs as a MetalGo subnet VM; MetalGo provides consensus.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "GitHub – MetalBlockchain/pulsevm (README)",
+       "url": "https://github.com/MetalBlockchain/pulsevm"
+      }
+     ]
+    },
+    {
+     "es": "El repositorio se creó con un primer commit el 1 de noviembre de 2024.",
+     "en": "The repository began with a first commit on 1 November 2024.",
+     "status": "confirmed",
+     "date": "2024-11-01",
+     "sources": [
+      {
+       "title": "GitHub – MetalBlockchain/pulsevm (historial de commits)",
+       "url": "https://github.com/MetalBlockchain/pulsevm/commits/main"
+      }
+     ]
+    },
+    {
+     "es": "Sigue en desarrollo: el último cambio integrado en la rama principal antes de esta revisión es del 13 de noviembre de 2026 (una corrección titulada «audit-hardening»).",
+     "en": "It is still under development: the latest change merged into the main branch before this review is dated 13 November 2026 (a fix titled \"audit-hardening\").",
+     "status": "confirmed",
+     "date": "2026-11-13",
+     "sources": [
+      {
+       "title": "GitHub – MetalBlockchain/pulsevm (historial de commits)",
+       "url": "https://github.com/MetalBlockchain/pulsevm/commits/main"
+      }
+     ]
+    },
+    {
+     "es": "Metallicus la presentaba en su informe del tercer trimestre de 2025 como la máquina virtual de Metal Blockchain basada en Rust, aún en desarrollo.",
+     "en": "Metallicus described it in its Q3 2025 report as Metal Blockchain's Rust-based virtual machine, still in development.",
+     "status": "self",
+     "date": "2025",
+     "sources": [
+      {
+       "title": "Metallicus – Informe Q3 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      }
+     ]
+    },
+    {
+     "es": "Tiene además un kit en Rust para escribir contratos (pulse-cdt-rust), con licencia MIT a nombre de Metal Blockchain, que incluye contratos base de arranque, firmas múltiples, sistema y tokens. Su primer commit es del 1 de abril de 2025 y el último del 12 de agosto de 2026.",
+     "en": "It also has a Rust kit for writing contracts (pulse-cdt-rust), MIT-licensed to Metal Blockchain, including base contracts for bootstrapping, multisig, system and tokens. Its first commit is from 1 April 2025 and its latest from 12 August 2026.",
+     "status": "confirmed",
+     "date": "2025-04-01",
+     "sources": [
+      {
+       "title": "GitHub – MetalBlockchain/pulse-cdt-rust",
+       "url": "https://github.com/MetalBlockchain/pulse-cdt-rust"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "metal-blockchain",
+   "facts": [
+    {
+     "es": "Su código es público en la organización de GitHub «MetalBlockchain», que el propio whitepaper de Metal Blockchain enlaza como su repositorio. Incluye metalgo (el nodo, un fork de AvalancheGo), coreth, metal-cli, metal-network-runner, antelopevm y PulseVM.",
+     "en": "Its code is public in the \"MetalBlockchain\" GitHub organisation, which the Metal Blockchain whitepaper itself links as its repository. It includes metalgo (the node, a fork of AvalancheGo), coreth, metal-cli, metal-network-runner, antelopevm and PulseVM.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Metal Blockchain – Whitepaper v1.2 (PDF)",
+       "url": "https://cdn.metallicus.com/Metal_Blockchain_Whitepaper_v1.2.pdf"
+      },
+      {
+       "title": "GitHub – MetalBlockchain/metalgo",
+       "url": "https://github.com/MetalBlockchain/metalgo"
+      }
+     ]
+    },
+    {
+     "es": "El nodo oficial, metalgo, es un fork en GitHub del repositorio ava-labs/avalanchego (licencia BSD-3-Clause), y Cointelegraph describe Metal Blockchain como basada en un fork del código de Avalanche.",
+     "en": "The official node, metalgo, is a GitHub fork of the ava-labs/avalanchego repository (BSD-3-Clause licence), and Cointelegraph describes Metal Blockchain as based on a fork of Avalanche's code.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "GitHub – MetalBlockchain/metalgo",
+       "url": "https://github.com/MetalBlockchain/metalgo"
+      },
+      {
+       "title": "Cointelegraph – Federal Reserve: FedNow not related to CBDCs (20-jul-2023)",
+       "url": "https://cointelegraph.com/news/federal-reserve-service-not-related-to-cbdcs"
+      },
+      {
+       "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
+       "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, la mainnet se lanzó el 18 de octubre de 2022 con 37 validadores, entre ellos la Metal Foundation y varios productores de bloque de Proton, y con un puente hacia XPR Network.",
+     "en": "According to Metallicus, mainnet launched on 18 October 2022 with 37 validators, including the Metal Foundation and several Proton block producers, plus a bridge to XPR Network.",
+     "status": "self",
+     "date": "2022-10-18",
+     "sources": [
+      {
+       "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+       "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+      }
+     ]
+    },
+    {
+     "es": "Según su documentación, tiene cuatro cadenas en la red primaria: A-Chain (XPR Network, máquina virtual Antelope), X-Chain (AVM), P-Chain (validadores y subredes) y C-Chain (EVM).",
+     "en": "According to its documentation, the primary network has four chains: A-Chain (XPR Network, Antelope virtual machine), X-Chain (AVM), P-Chain (validators and subnets) and C-Chain (EVM).",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metal Blockchain Docs – Intro",
+       "url": "https://docs.metalblockchain.org/intro"
+      },
+      {
+       "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
+       "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, ser validador exige un mínimo de 2.000 METAL bloqueados entre 14 días y un año, y delegar exige un mínimo de 25 METAL; las comisiones de red se queman.",
+     "en": "According to Metallicus, running a validator requires a minimum of 2,000 METAL locked for 14 days to one year, delegating requires at least 25 METAL, and network fees are burned.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
+       "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
+      },
+      {
+       "title": "Metal Blockchain Docs – Intro",
+       "url": "https://docs.metalblockchain.org/intro"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, cada subred puede procesar hasta 4.500 transacciones por segundo y el consenso Snow ofrece una finalidad de unos 0,5 segundos.",
+     "en": "According to Metallicus, each subnet can process up to 4,500 transactions per second and Snow consensus gives finality of about 0.5 seconds.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metal Blockchain Docs – Intro",
+       "url": "https://docs.metalblockchain.org/intro"
+      },
+      {
+       "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+       "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, Metal Blockchain es «compatible con ISO 20022» desde el 4 de diciembre de 2023, con una demo propia; no cita certificación ni organismo certificador.",
+     "en": "According to Metallicus, Metal Blockchain has been \"ISO 20022 compatible\" since 4 December 2023, based on its own demo; it cites no certification or certifying body.",
+     "status": "self",
+     "date": "2023-12-04",
+     "sources": [
+      {
+       "title": "Metal Blockchain – Metal Blockchain is now ISO 20022 compatible (4-dic-2023)",
+       "url": "https://metalblockchain.org/news-insights/metal-blockchain-is-now-iso-20022-compatible"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, el explorador mostraba más de 175 validadores a principios de noviembre de 2025 y 169 validadores conectados con unos 51,0 millones de METAL en staking en el 1T de 2026.",
+     "en": "According to Metallicus, the explorer showed more than 175 validators in early November 2025 and 169 connected validators with about 51.0 million METAL staked in Q1 2026.",
+     "status": "self",
+     "date": "2026-Q1",
+     "sources": [
+      {
+       "title": "Metallicus – Informe Q3 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      },
+      {
+       "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+       "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+      }
+     ]
+    },
+    {
+     "es": "La organización MetalBlockchain en GitHub publica, además de metalgo, los repositorios pulsevm (máquina virtual en Rust para banca), btcvm, antelopevm y dogecoin-vm.",
+     "en": "The MetalBlockchain GitHub organisation publishes, besides metalgo, the repositories pulsevm (Rust virtual machine for banking), btcvm, antelopevm and dogecoin-vm.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "GitHub – organización MetalBlockchain",
+       "url": "https://github.com/MetalBlockchain"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, en 2024 lanzó una testnet de una máquina virtual Bitcoin, y en el 1T de 2026 la A-Chain (PulseVM) y la B-Chain (BTCVM) seguían en desarrollo.",
+     "en": "According to Metallicus, it launched a Bitcoin virtual machine testnet in 2024, and in Q1 2026 the A-Chain (PulseVM) and B-Chain (BTCVM) were still in development.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus – A Year in Review (31-dic-2024)",
+       "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
+      },
+      {
+       "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+       "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, Metal Blockchain entró en el Vendor Integration Program de Jack Henry en septiembre de 2023; el comunicado aclara que la inclusión no supone respaldo del producto.",
+     "en": "According to Metallicus, Metal Blockchain joined Jack Henry's Vendor Integration Program in September 2023; the announcement states that inclusion is not an endorsement of the product.",
+     "status": "self",
+     "date": "2023-09-12",
+     "sources": [
+      {
+       "title": "Metallicus – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
+       "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, el 2 de octubre de 2024 Metal Blockchain se unió al U.S. Faster Payments Council, con una cita de bienvenida de su director ejecutivo, Reed Luhtanen.",
+     "en": "According to Metallicus, on 2 October 2024 Metal Blockchain joined the U.S. Faster Payments Council, with a welcoming quote from its executive director, Reed Luhtanen.",
+     "status": "self",
+     "date": "2024-10-02",
+     "sources": [
+      {
+       "title": "Metallicus – Metal Blockchain joins the U.S. Faster Payments Council (2-oct-2024)",
+       "url": "https://metallicus.com/blog/faster-payments-council-blockchain"
+      }
+     ]
+    },
+    {
+     "es": "Según un comunicado publicado por Metallicus, St. Cloud Financial Credit Union anunció en septiembre de 2025 su stablecoin Cloud Dollar (CLDUSD) sobre Metal Blockchain, conectada a su núcleo bancario mediante Coin2Core de DaLand CUSO; se citan a las tres partes.",
+     "en": "According to a release published by Metallicus, St. Cloud Financial Credit Union announced in September 2025 its Cloud Dollar (CLDUSD) stablecoin on Metal Blockchain, connected to its core via DaLand CUSO's Coin2Core; all three parties are quoted.",
+     "status": "self",
+     "date": "2025-09-16",
+     "sources": [
+      {
+       "title": "Metallicus – St. Cloud Financial Credit Union stablecoin (16-sep-2025)",
+       "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, a finales del 3T de 2025 había más de 15 stablecoins con marca de instituciones desplegadas en el entorno de pruebas de XPR Network y estaban en QA las Institutional Stablecoin Subnets.",
+     "en": "According to Metallicus, by the end of Q3 2025 more than 15 institution-branded stablecoins had been deployed in the XPR Network test environment and Institutional Stablecoin Subnets were in QA.",
+     "status": "self",
+     "date": "2025-Q3",
+     "sources": [
+      {
+       "title": "Metallicus – Informe Q3 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      }
+     ]
+    }
+   ],
+   "name": "Metal Blockchain",
+   "summary_es": "Blockchain desarrollada por Metallicus a partir de un fork del código de Avalanche (AvalancheGo), con token METAL. Según la empresa, es una red de capa 0 cuya mainnet arrancó en octubre de 2022.",
+   "summary_en": "Blockchain developed by Metallicus from a fork of Avalanche's code (AvalancheGo), with the METAL token. According to the company, it is a layer-0 network whose mainnet launched in October 2022.",
+   "website": "https://metalblockchain.org/",
+   "type": "blockchain",
+   "group": "products"
   },
   {
    "id": "nathan-lands",
@@ -5550,195 +5865,6 @@
    ]
   },
   {
-   "id": "metal-blockchain",
-   "name": "Metal Blockchain",
-   "type": "blockchain",
-   "group": "products",
-   "summary_es": "Blockchain desarrollada por Metallicus a partir de un fork del código de Avalanche (AvalancheGo), con token METAL. Según la empresa, es una red de capa 0 cuya mainnet arrancó en octubre de 2022.",
-   "summary_en": "Blockchain developed by Metallicus from a fork of Avalanche's code (AvalancheGo), with the METAL token. According to the company, it is a layer-0 network whose mainnet launched in October 2022.",
-   "website": "https://metalblockchain.org/",
-   "facts": [
-    {
-     "es": "El nodo oficial, metalgo, es un fork en GitHub del repositorio ava-labs/avalanchego (licencia BSD-3-Clause), y Cointelegraph describe Metal Blockchain como basada en un fork del código de Avalanche.",
-     "en": "The official node, metalgo, is a GitHub fork of the ava-labs/avalanchego repository (BSD-3-Clause licence), and Cointelegraph describes Metal Blockchain as based on a fork of Avalanche's code.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "GitHub – MetalBlockchain/metalgo",
-       "url": "https://github.com/MetalBlockchain/metalgo"
-      },
-      {
-       "title": "Cointelegraph – Federal Reserve: FedNow not related to CBDCs (20-jul-2023)",
-       "url": "https://cointelegraph.com/news/federal-reserve-service-not-related-to-cbdcs"
-      },
-      {
-       "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
-       "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, la mainnet se lanzó el 18 de octubre de 2022 con 37 validadores, entre ellos la Metal Foundation y varios productores de bloque de Proton, y con un puente hacia XPR Network.",
-     "en": "According to Metallicus, mainnet launched on 18 October 2022 with 37 validators, including the Metal Foundation and several Proton block producers, plus a bridge to XPR Network.",
-     "status": "self",
-     "date": "2022-10-18",
-     "sources": [
-      {
-       "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
-       "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
-      }
-     ]
-    },
-    {
-     "es": "Según su documentación, tiene cuatro cadenas en la red primaria: A-Chain (XPR Network, máquina virtual Antelope), X-Chain (AVM), P-Chain (validadores y subredes) y C-Chain (EVM).",
-     "en": "According to its documentation, the primary network has four chains: A-Chain (XPR Network, Antelope virtual machine), X-Chain (AVM), P-Chain (validators and subnets) and C-Chain (EVM).",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Metal Blockchain Docs – Intro",
-       "url": "https://docs.metalblockchain.org/intro"
-      },
-      {
-       "title": "Metal Blockchain Knowledge Center – What is Metal Blockchain and Ecosystem",
-       "url": "https://help.metalblockchain.org/hc/en-us/articles/9594828846871-What-is-Metal-Blockchain-and-Ecosystem"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, ser validador exige un mínimo de 2.000 METAL bloqueados entre 14 días y un año, y delegar exige un mínimo de 25 METAL; las comisiones de red se queman.",
-     "en": "According to Metallicus, running a validator requires a minimum of 2,000 METAL locked for 14 days to one year, delegating requires at least 25 METAL, and network fees are burned.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Metallicus – Metal Blockchain Mainnet now live (18-oct-2022)",
-       "url": "https://metallicus.com/blog/metal-blockchain-mainnet-now-live"
-      },
-      {
-       "title": "Metal Blockchain Docs – Intro",
-       "url": "https://docs.metalblockchain.org/intro"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, cada subred puede procesar hasta 4.500 transacciones por segundo y el consenso Snow ofrece una finalidad de unos 0,5 segundos.",
-     "en": "According to Metallicus, each subnet can process up to 4,500 transactions per second and Snow consensus gives finality of about 0.5 seconds.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Metal Blockchain Docs – Intro",
-       "url": "https://docs.metalblockchain.org/intro"
-      },
-      {
-       "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
-       "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, Metal Blockchain es «compatible con ISO 20022» desde el 4 de diciembre de 2023, con una demo propia; no cita certificación ni organismo certificador.",
-     "en": "According to Metallicus, Metal Blockchain has been \"ISO 20022 compatible\" since 4 December 2023, based on its own demo; it cites no certification or certifying body.",
-     "status": "self",
-     "date": "2023-12-04",
-     "sources": [
-      {
-       "title": "Metal Blockchain – Metal Blockchain is now ISO 20022 compatible (4-dic-2023)",
-       "url": "https://metalblockchain.org/news-insights/metal-blockchain-is-now-iso-20022-compatible"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, el explorador mostraba más de 175 validadores a principios de noviembre de 2025 y 169 validadores conectados con unos 51,0 millones de METAL en staking en el 1T de 2026.",
-     "en": "According to Metallicus, the explorer showed more than 175 validators in early November 2025 and 169 connected validators with about 51.0 million METAL staked in Q1 2026.",
-     "status": "self",
-     "date": "2026-Q1",
-     "sources": [
-      {
-       "title": "Metallicus – Informe Q3 2025 (PDF)",
-       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
-      },
-      {
-       "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
-       "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
-      }
-     ]
-    },
-    {
-     "es": "La organización MetalBlockchain en GitHub publica, además de metalgo, los repositorios pulsevm (máquina virtual en Rust para banca), btcvm, antelopevm y dogecoin-vm.",
-     "en": "The MetalBlockchain GitHub organisation publishes, besides metalgo, the repositories pulsevm (Rust virtual machine for banking), btcvm, antelopevm and dogecoin-vm.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "GitHub – organización MetalBlockchain",
-       "url": "https://github.com/MetalBlockchain"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, en 2024 lanzó una testnet de una máquina virtual Bitcoin, y en el 1T de 2026 la A-Chain (PulseVM) y la B-Chain (BTCVM) seguían en desarrollo.",
-     "en": "According to Metallicus, it launched a Bitcoin virtual machine testnet in 2024, and in Q1 2026 the A-Chain (PulseVM) and B-Chain (BTCVM) were still in development.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Metallicus – A Year in Review (31-dic-2024)",
-       "url": "https://www.metallicus.com/blog/metallicus-a-year-in-review"
-      },
-      {
-       "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
-       "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, Metal Blockchain entró en el Vendor Integration Program de Jack Henry en septiembre de 2023; el comunicado aclara que la inclusión no supone respaldo del producto.",
-     "en": "According to Metallicus, Metal Blockchain joined Jack Henry's Vendor Integration Program in September 2023; the announcement states that inclusion is not an endorsement of the product.",
-     "status": "self",
-     "date": "2023-09-12",
-     "sources": [
-      {
-       "title": "Metallicus – Metal Blockchain joins the Jack Henry Vendor Integration Program (12-sep-2023)",
-       "url": "https://www.metallicus.com/blog/metal-blockchain-joins-the-jack-henry-vendor-integration-program"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, el 2 de octubre de 2024 Metal Blockchain se unió al U.S. Faster Payments Council, con una cita de bienvenida de su director ejecutivo, Reed Luhtanen.",
-     "en": "According to Metallicus, on 2 October 2024 Metal Blockchain joined the U.S. Faster Payments Council, with a welcoming quote from its executive director, Reed Luhtanen.",
-     "status": "self",
-     "date": "2024-10-02",
-     "sources": [
-      {
-       "title": "Metallicus – Metal Blockchain joins the U.S. Faster Payments Council (2-oct-2024)",
-       "url": "https://metallicus.com/blog/faster-payments-council-blockchain"
-      }
-     ]
-    },
-    {
-     "es": "Según un comunicado publicado por Metallicus, St. Cloud Financial Credit Union anunció en septiembre de 2025 su stablecoin Cloud Dollar (CLDUSD) sobre Metal Blockchain, conectada a su núcleo bancario mediante Coin2Core de DaLand CUSO; se citan a las tres partes.",
-     "en": "According to a release published by Metallicus, St. Cloud Financial Credit Union announced in September 2025 its Cloud Dollar (CLDUSD) stablecoin on Metal Blockchain, connected to its core via DaLand CUSO's Coin2Core; all three parties are quoted.",
-     "status": "self",
-     "date": "2025-09-16",
-     "sources": [
-      {
-       "title": "Metallicus – St. Cloud Financial Credit Union stablecoin (16-sep-2025)",
-       "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, a finales del 3T de 2025 había más de 15 stablecoins con marca de instituciones desplegadas en el entorno de pruebas de XPR Network y estaban en QA las Institutional Stablecoin Subnets.",
-     "en": "According to Metallicus, by the end of Q3 2025 more than 15 institution-branded stablecoins had been deployed in the XPR Network test environment and Institutional Stablecoin Subnets were in QA.",
-     "status": "self",
-     "date": "2025-Q3",
-     "sources": [
-      {
-       "title": "Metallicus – Informe Q3 2025 (PDF)",
-       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "metal-x",
    "name": "Metal X",
    "type": "product",
@@ -7795,6 +7921,84 @@
     {
      "title": "Metallicus blog – Metallicus sponsors inaugural Dogecoin Hackathon 'Dogeathon'",
      "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
+    }
+   ]
+  },
+  {
+   "from": "pulsevm",
+   "to": "metal-blockchain",
+   "label_es": "máquina virtual para",
+   "label_en": "virtual machine for",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "GitHub – MetalBlockchain/pulsevm",
+     "url": "https://github.com/MetalBlockchain/pulsevm"
+    }
+   ]
+  },
+  {
+   "from": "pulsevm",
+   "to": "xpr-network",
+   "label_es": "usa el mismo modelo de contratos (Antelope) que",
+   "label_en": "uses the same contract model (Antelope) as",
+   "status": "self",
+   "sources": [
+    {
+     "title": "GitHub – MetalBlockchain/pulsevm (README)",
+     "url": "https://github.com/MetalBlockchain/pulsevm"
+    }
+   ]
+  },
+  {
+   "from": "glenn-marien",
+   "to": "pulsevm",
+   "label_es": "principal autor del código de",
+   "label_en": "main code author of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "GitHub – pulsevm, commits de MlennGarien",
+     "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=MlennGarien"
+    }
+   ]
+  },
+  {
+   "from": "glenn-marien",
+   "to": "metal-blockchain",
+   "label_es": "principal autor del código de",
+   "label_en": "main code author of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "GitHub – metalgo, commits de MlennGarien",
+     "url": "https://github.com/MetalBlockchain/metalgo/commits?author=MlennGarien"
+    }
+   ]
+  },
+  {
+   "from": "paul-grey",
+   "to": "pulsevm",
+   "label_es": "contribuye al código de",
+   "label_en": "contributes code to",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "GitHub – pulsevm, commits de paulgnz",
+     "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=paulgnz"
+    }
+   ]
+  },
+  {
+   "from": "paul-grey",
+   "to": "xpr-network",
+   "label_es": "mantiene la guía para desarrolladores de",
+   "label_en": "maintains the developer guide for",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "GitHub – XPRNetwork/xpr-network-dev-skill",
+     "url": "https://github.com/XPRNetwork/xpr-network-dev-skill"
     }
    ]
   },
