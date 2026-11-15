@@ -1,5 +1,5 @@
 {
- "_note": "Datos de LinkedIn transcritos de una captura facilitada por el usuario el 2026-11-15. Autodeclarados.",
+ "_note": "Datos de LinkedIn transcritos de capturas facilitadas por el usuario el 2026-11-15. Autodeclarados salvo que se indique.",
  "nodes": [
   {
    "id": "glenn-marien",
@@ -60,6 +60,111 @@
       {
        "title": "LinkedIn – Glenn Mariën (perfil enlazado desde la web de Metallicus)",
        "url": "https://www.linkedin.com/in/glenn-marien/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marshall-hayner",
+   "facts": [
+    {
+     "es": "Según su LinkedIn, es fundador y CEO de Metallicus desde enero de 2015 y miembro del consejo de la Dogecoin Foundation desde enero de 2023.",
+     "en": "According to his LinkedIn, he has been founder and CEO of Metallicus since January 2015 and a board member of the Dogecoin Foundation since January 2023.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
+      }
+     ],
+     "date": "2015-01"
+    },
+    {
+     "es": "Según su LinkedIn, fue director de marketing (CMO) de Block.io de agosto de 2014 a enero de 2015.",
+     "en": "According to his LinkedIn, he was Chief Marketing Officer of Block.io from August 2014 to January 2015.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
+      }
+     ],
+     "date": "2014-08"
+    },
+    {
+     "es": "Según su LinkedIn, trabajó como contratista de la Stellar Development Foundation creando comunidad entre junio y agosto de 2014.",
+     "en": "According to his LinkedIn, he worked as a contractor for the Stellar Development Foundation building community between June and August 2014.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
+      }
+     ],
+     "date": "2014-06"
+    },
+    {
+     "es": "En su LinkedIn se presenta como creador de The Bitcoin Fair (enero de 2014 – enero de 2015). La crónica de CoinDesk del primer evento lo describe como socio del evento y atribuye la organización a Nathan Lands.",
+     "en": "On his LinkedIn he describes himself as creator of The Bitcoin Fair (January 2014 – January 2015). CoinDesk's report on the first event describes him as an event partner and credits Nathan Lands as organiser.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
+      },
+      {
+       "title": "CoinDesk – Inaugural Bitcoin Fair (9 feb 2014)",
+       "url": "https://www.coindesk.com/markets/2014/02/09/inaugural-bitcoin-fair-in-san-francisco-sees-high-turnout"
+      }
+     ],
+     "date": "2014-01"
+    },
+    {
+     "es": "En su LinkedIn figura como fundador y CEO de «Blockai (acquired by Pixsy)» de abril de 2013 a junio de 2014, con el lema «Bitcoin Made Simple». La prensa de la época sitúa esas fechas en QuickCoin, que cofundó con Nathan Lands, y Blockai se lanzó en 2016 con Lands como CEO.",
+     "en": "On his LinkedIn he is listed as founder and CEO of \"Blockai (acquired by Pixsy)\" from April 2013 to June 2014, with the tagline \"Bitcoin Made Simple\". Contemporary press places those dates at QuickCoin, which he co-founded with Nathan Lands, and Blockai launched in 2016 with Lands as CEO.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
+      },
+      {
+       "title": "VentureBeat – QuickCoin (11 jun 2014)",
+       "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+      },
+      {
+       "title": "TechCrunch – Blockai launch (14 mar 2016)",
+       "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+      }
+     ],
+     "date": "2013-04"
+    },
+    {
+     "es": "Según su LinkedIn, estudió en Northeastern University.",
+     "en": "According to his LinkedIn, he studied at Northeastern University.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "metallicus",
+   "facts": [
+    {
+     "es": "La fecha de inicio varía también en LinkedIn: Marshall Hayner fecha su puesto de fundador y CEO de Metallicus en enero de 2015, mientras que comunicados de la empresa dan 2016 o 2017 como año de fundación.",
+     "en": "The start date also varies on LinkedIn: Marshall Hayner dates his role as founder and CEO of Metallicus to January 2015, while company releases give 2016 or 2017 as the founding year.",
+     "status": "disputed",
+     "date": "2015-01",
+     "sources": [
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
       }
      ]
     }
