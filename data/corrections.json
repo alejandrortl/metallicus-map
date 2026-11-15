@@ -813,6 +813,22 @@
    "es": "Según Pixsy, ayuda a creadores a localizar usos no autorizados de sus imágenes y a reclamarlos.",
    "en": "According to Pixsy, it helps creators find and resolve unauthorized uses of their images.",
    "reason": "add attribution to self fact"
+  },
+  {
+   "ref": "fact:glenn-marien:wallet",
+   "match_es": "Según Metallicus, tiene más de 10 años de experiencia full-stack y creó Dogechain.info, primer monedero online de Dogecoin.",
+   "action": "fix",
+   "reason": "2013 press (TNW, IBTimes) shows online wallets Dogewallet and Instadoge running before Dogechain's wallet (beta in May 2014 per Cointelegraph); 'first' is disputed, see dogechain-info.",
+   "es": "Según Metallicus, tiene más de 10 años de experiencia full-stack y creó Dogechain.info, que la empresa presenta como el primer monedero online de Dogecoin; la prensa de 2013 lo contradice (ver Dogechain.info).",
+   "en": "According to Metallicus, he has 10+ years of full-stack experience and created Dogechain.info, which the company presents as the first online Dogecoin wallet; 2013 press contradicts that (see Dogechain.info)."
+  },
+  {
+   "ref": "fact:dogechain-info:creator",
+   "match_es": "Según Metallicus, Glenn Mariën creó Dogechain.info, que la empresa describe como el primer monedero en línea de Dogecoin. Cointelegraph (2014) atribuye su creación al usuario 'GlennMR'.",
+   "action": "fix",
+   "reason": "Split: the 'first wallet' claim now has its own disputed fact with contrary sources.",
+   "es": "Según Metallicus, Glenn Mariën creó Dogechain.info. Cointelegraph (2014) atribuye su creación al usuario 'GlennMR'.",
+   "en": "According to Metallicus, Glenn Mariën created Dogechain.info. Cointelegraph (2014) credits its creation to user 'GlennMR'."
   }
  ]
 }

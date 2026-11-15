@@ -500,8 +500,8 @@
      ]
     },
     {
-     "es": "Según Metallicus, tiene más de 10 años de experiencia full-stack y creó Dogechain.info, primer monedero online de Dogecoin.",
-     "en": "According to Metallicus, he has 10+ years of full-stack experience and created Dogechain.info, the first online Dogecoin wallet.",
+     "es": "Según Metallicus, tiene más de 10 años de experiencia full-stack y creó Dogechain.info, que la empresa presenta como el primer monedero online de Dogecoin; la prensa de 2013 lo contradice (ver Dogechain.info).",
+     "en": "According to Metallicus, he has 10+ years of full-stack experience and created Dogechain.info, which the company presents as the first online Dogecoin wallet; 2013 press contradicts that (see Dogechain.info).",
      "status": "self",
      "sources": [
       {
@@ -1870,6 +1870,82 @@
    ]
   },
   {
+   "id": "dogechain-info",
+   "facts": [
+    {
+     "es": "Según Block.io, su operador desde diciembre de 2014, dogechain.info ya funcionaba en diciembre de 2013: el día 21 seguía el bloque 21.558 y se presentaba como «the official Dogecoin blockchain». Estaba basado en Abe, un explorador de código abierto.",
+     "en": "According to Block.io, its operator since December 2014, dogechain.info was already running in December 2013: on the 21st it was tracking block 21,558 and billed itself as 'the official Dogecoin blockchain'. It was built on Abe, an open-source explorer.",
+     "status": "self",
+     "date": "2013-12",
+     "sources": [
+      {
+       "title": "Dogechain – About (Block.io)",
+       "url": "https://dogechain.com/about"
+      }
+     ]
+    },
+    {
+     "es": "¿Primer monedero en línea de Dogecoin? Metallicus lo describe así, pero la prensa de 2013 informa de que los monederos en línea Dogewallet e Instadoge ya funcionaban y fueron hackeados el 25 de diciembre de 2013, mientras que en mayo de 2014 Cointelegraph presentaba el monedero de Dogechain como una beta de próximo lanzamiento.",
+     "en": "First online Dogecoin wallet? Metallicus describes it that way, but 2013 press reports that the online wallets Dogewallet and Instadoge were already running and were hacked on December 25, 2013, while in May 2014 Cointelegraph presented Dogechain's wallet as a beta about to launch.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "Metallicus – Meet the Team",
+       "url": "https://www.metallicus.com/company/meet-the-team"
+      },
+      {
+       "title": "The Next Web – Dogecoin suffers first hack as $13,000 is stolen from an online wallet service (26-dic-2013)",
+       "url": "https://thenextweb.com/news/virtual-currency-dogecoin-suffers-first-hack-as-13000-is-stolen-from-an-online-wallet-service"
+      },
+      {
+       "title": "IBTimes UK – Save Dogemas campaign looks to recover stolen Dogecoin (dic-2013)",
+       "url": "https://www.ibtimes.co.uk/save-dogemas-campaign-looks-recover-stolen-dogecoin-1430691"
+      },
+      {
+       "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
+       "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
+      }
+     ]
+    },
+    {
+     "es": "En mayo de 2014 era el explorador de bloques de Dogecoin equivalente a Blockchain.info y preparaba un monedero en línea en el que las claves se generaban en el navegador del usuario.",
+     "en": "In May 2014 it was the Dogecoin block explorer analogous to Blockchain.info and was preparing an online wallet with keys generated in the user's browser.",
+     "status": "confirmed",
+     "date": "2014-05-07",
+     "sources": [
+      {
+       "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
+       "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, Glenn Mariën creó Dogechain.info. Cointelegraph (2014) atribuye su creación al usuario 'GlennMR'.",
+     "en": "According to Metallicus, Glenn Mariën created Dogechain.info. Cointelegraph (2014) credits its creation to user 'GlennMR'.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus – Meet the Team",
+       "url": "https://www.metallicus.com/company/meet-the-team"
+      },
+      {
+       "title": "Metallicus blog – Metallicus patrocina Dogeathon (20-sep-2022)",
+       "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
+      },
+      {
+       "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
+       "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
+      }
+     ]
+    }
+   ],
+   "summary_es": "Explorador de bloques de Dogecoin, con monedero en línea, creado por Glenn Mariën según Metallicus.",
+   "summary_en": "Dogecoin block explorer with an online wallet, created by Glenn Mariën according to Metallicus.",
+   "website": "https://dogechain.info",
+   "type": "product",
+   "group": "history"
+  },
+  {
    "id": "nathan-lands",
    "name": "Nathan Lands",
    "type": "person",
@@ -2712,48 +2788,6 @@
       {
        "title": "YesPress – perfil de Marshall Hayner",
        "url": "https://yespress.io/marshall-hayner.md"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dogechain-info",
-   "name": "Dogechain.info",
-   "type": "product",
-   "group": "history",
-   "website": "https://dogechain.info",
-   "summary_es": "Explorador de bloques de Dogecoin, con monedero en línea, creado por Glenn Mariën según Metallicus.",
-   "summary_en": "Dogecoin block explorer with an online wallet, created by Glenn Mariën according to Metallicus.",
-   "facts": [
-    {
-     "es": "En mayo de 2014 era el explorador de bloques de Dogecoin equivalente a Blockchain.info y preparaba un monedero en línea en el que las claves se generaban en el navegador del usuario.",
-     "en": "In May 2014 it was the Dogecoin block explorer analogous to Blockchain.info and was preparing an online wallet with keys generated in the user's browser.",
-     "status": "confirmed",
-     "date": "2014-05-07",
-     "sources": [
-      {
-       "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
-       "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, Glenn Mariën creó Dogechain.info, que la empresa describe como el primer monedero en línea de Dogecoin. Cointelegraph (2014) atribuye su creación al usuario 'GlennMR'.",
-     "en": "According to Metallicus, Glenn Mariën created Dogechain.info, which the company describes as the first online Dogecoin wallet. Cointelegraph (2014) credits its creation to user 'GlennMR'.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Metallicus – Meet the Team",
-       "url": "https://www.metallicus.com/company/meet-the-team"
-      },
-      {
-       "title": "Metallicus blog – Metallicus patrocina Dogeathon (20-sep-2022)",
-       "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
-      },
-      {
-       "title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)",
-       "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"
       }
      ]
     }

@@ -1,0 +1,30 @@
+{
+ "nodes": [
+  {
+   "id": "dogechain-info",
+   "facts": [
+    {
+     "es": "Según Block.io, su operador desde diciembre de 2014, dogechain.info ya funcionaba en diciembre de 2013: el día 21 seguía el bloque 21.558 y se presentaba como «the official Dogecoin blockchain». Estaba basado en Abe, un explorador de código abierto.",
+     "en": "According to Block.io, its operator since December 2014, dogechain.info was already running in December 2013: on the 21st it was tracking block 21,558 and billed itself as 'the official Dogecoin blockchain'. It was built on Abe, an open-source explorer.",
+     "status": "self",
+     "date": "2013-12",
+     "sources": [
+      {"title": "Dogechain – About (Block.io)", "url": "https://dogechain.com/about"}
+     ]
+    },
+    {
+     "es": "¿Primer monedero en línea de Dogecoin? Metallicus lo describe así, pero la prensa de 2013 informa de que los monederos en línea Dogewallet e Instadoge ya funcionaban y fueron hackeados el 25 de diciembre de 2013, mientras que en mayo de 2014 Cointelegraph presentaba el monedero de Dogechain como una beta de próximo lanzamiento.",
+     "en": "First online Dogecoin wallet? Metallicus describes it that way, but 2013 press reports that the online wallets Dogewallet and Instadoge were already running and were hacked on December 25, 2013, while in May 2014 Cointelegraph presented Dogechain's wallet as a beta about to launch.",
+     "status": "disputed",
+     "sources": [
+      {"title": "Metallicus – Meet the Team", "url": "https://www.metallicus.com/company/meet-the-team"},
+      {"title": "The Next Web – Dogecoin suffers first hack as $13,000 is stolen from an online wallet service (26-dic-2013)", "url": "https://thenextweb.com/news/virtual-currency-dogecoin-suffers-first-hack-as-13000-is-stolen-from-an-online-wallet-service"},
+      {"title": "IBTimes UK – Save Dogemas campaign looks to recover stolen Dogecoin (dic-2013)", "url": "https://www.ibtimes.co.uk/save-dogemas-campaign-looks-recover-stolen-dogecoin-1430691"},
+      {"title": "Cointelegraph – New Dogechain wallet in beta launching soon (7-may-2014)", "url": "https://cointelegraph.com/news/new-dogechain-wallet-in-beta-launching-soon"}
+     ]
+    }
+   ]
+  }
+ ],
+ "edges": []
+}
