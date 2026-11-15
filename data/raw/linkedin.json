@@ -1,0 +1,70 @@
+{
+ "_note": "Datos de LinkedIn transcritos de una captura facilitada por el usuario el 2026-11-15. Autodeclarados.",
+ "nodes": [
+  {
+   "id": "glenn-marien",
+   "facts": [
+    {
+     "es": "Según su perfil de LinkedIn (el que enlaza la web de Metallicus), es cofundador y CTO de Metal desde julio de 2017.",
+     "en": "According to his LinkedIn profile (the one Metallicus's website links to), he has been co-founder and CTO of Metal since July 2017.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Glenn Mariën (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/glenn-marien/"
+      }
+     ],
+     "date": "2017-07"
+    },
+    {
+     "es": "Según su LinkedIn, antes trabajó como desarrollador full-stack en iDA Mediafoundry (enero – noviembre de 2017, Amberes) y como consultor de comercio electrónico Intershop y desarrollador web JEE en Fenego (agosto de 2012 – enero de 2017), donde participó en un proyecto para TomTom (diciembre de 2015 – febrero de 2016).",
+     "en": "According to his LinkedIn, he previously worked as a full-stack developer at iDA Mediafoundry (January – November 2017, Antwerp) and as an Intershop e-commerce consultant and JEE web developer at Fenego (August 2012 – January 2017), where he worked on a project for TomTom (December 2015 – February 2016).",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Glenn Mariën (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/glenn-marien/"
+      }
+     ],
+     "date": "2012-08"
+    },
+    {
+     "es": "Según su LinkedIn, es graduado (Bachelor) en Informática por la Provinciale Hogeschool Limburg, hoy PXL (2009–2012).",
+     "en": "According to his LinkedIn, he holds a Bachelor's in Computer Science from Provinciale Hogeschool Limburg, now PXL (2009–2012).",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Glenn Mariën (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/glenn-marien/"
+      }
+     ],
+     "date": "2012"
+    },
+    {
+     "es": "Según su LinkedIn, entre junio y octubre de 2014 trabajó en un proyecto de «monedero online para una moneda virtual», lo que encaja con que Metallicus le atribuya la creación de Dogechain.info.",
+     "en": "According to his LinkedIn, between June and October 2014 he worked on an \"online wallet for a virtual currency\" project, which fits with Metallicus crediting him with creating Dogechain.info.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Glenn Mariën (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/glenn-marien/"
+      }
+     ],
+     "date": "2014-06"
+    },
+    {
+     "es": "Según su LinkedIn, tiene las certificaciones Oracle Certified Java Professional, Microsoft MTA Server Administration Fundamentals e Intershop Certified Developer.",
+     "en": "According to his LinkedIn, he holds the Oracle Certified Java Professional, Microsoft MTA Server Administration Fundamentals and Intershop Certified Developer certifications.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Glenn Mariën (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/glenn-marien/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "edges": []
+}
