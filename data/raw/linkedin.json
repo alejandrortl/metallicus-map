@@ -121,8 +121,8 @@
      "date": "2014-01"
     },
     {
-     "es": "En su LinkedIn figura como fundador y CEO de «Blockai (acquired by Pixsy)» de abril de 2013 a junio de 2014, con el lema «Bitcoin Made Simple». La prensa de la época sitúa esas fechas en QuickCoin, que cofundó con Nathan Lands, y Blockai se lanzó en 2016 con Lands como CEO.",
-     "en": "On his LinkedIn he is listed as founder and CEO of \"Blockai (acquired by Pixsy)\" from April 2013 to June 2014, with the tagline \"Bitcoin Made Simple\". Contemporary press places those dates at QuickCoin, which he co-founded with Nathan Lands, and Blockai launched in 2016 with Lands as CEO.",
+     "es": "En su LinkedIn figura como fundador y CEO de «Blockai (acquired by Pixsy)» de abril de 2013 a junio de 2014, con el lema «Bitcoin Made Simple». Esa página de empresa conserva la dirección de QuickCoin, lo que indica que es la misma empresa con otro nombre. Siguen sin cuadrar dos cosas: la página fecha la fundación en 2014, no en 2013, y la prensa de 2014 da el cargo de CEO a Nathan Lands, con Hayner como cofundador.",
+     "en": "On his LinkedIn he is listed as founder and CEO of \"Blockai (acquired by Pixsy)\" from April 2013 to June 2014, with the tagline \"Bitcoin Made Simple\". That company page keeps QuickCoin's address, indicating it is the same company under another name. Two things still do not match: the page dates the founding to 2014, not 2013, and 2014 press gives the CEO title to Nathan Lands, with Hayner as co-founder.",
      "status": "disputed",
      "sources": [
       {
@@ -136,6 +136,10 @@
       {
        "title": "TechCrunch – Blockai launch (14 mar 2016)",
        "url": "https://techcrunch.com/2016/03/14/blockai-launch"
+      },
+      {
+       "title": "LinkedIn – página de empresa «Blockai (acquired by Pixsy)» (dirección /company/quickcoin)",
+       "url": "https://www.linkedin.com/company/quickcoin"
       }
      ],
      "date": "2013-04"
@@ -426,7 +430,42 @@
      "date": "2021-07"
     }
    ]
+  },
+  {
+   "id": "blockai-binded",
+   "facts": [
+    {
+     "es": "Su página de empresa en LinkedIn, hoy llamada «Blockai (acquired by Pixsy)», conserva la dirección «/company/quickcoin» e indica fundación en 2014 y sede en San Francisco: la empresa usó la misma página para QuickCoin y para Blockai.",
+     "en": "Its LinkedIn company page, now called \"Blockai (acquired by Pixsy)\", keeps the address \"/company/quickcoin\" and gives 2014 as the founding year and San Francisco as headquarters: the company used the same page for QuickCoin and for Blockai.",
+     "status": "self",
+     "date": "2014",
+     "sources": [
+      {
+       "title": "LinkedIn – página de empresa «Blockai (acquired by Pixsy)» (dirección /company/quickcoin)",
+       "url": "https://www.linkedin.com/company/quickcoin"
+      }
+     ]
+    }
+   ]
   }
  ],
- "edges": []
+ "edges": [
+  {
+   "from": "quickcoin",
+   "to": "blockai-binded",
+   "label_es": "pasó a llamarse",
+   "label_en": "was renamed",
+   "status": "self",
+   "sources": [
+    {
+     "title": "LinkedIn – página de empresa «Blockai (acquired by Pixsy)» (dirección /company/quickcoin)",
+     "url": "https://www.linkedin.com/company/quickcoin"
+    },
+    {
+     "title": "Wellfound – Nathan Lands",
+     "url": "https://wellfound.com/p/nathanlands"
+    }
+   ]
+  }
+ ]
 }
