@@ -287,6 +287,56 @@
      ]
     }
    ]
+  },
+  {
+   "id": "john-ainsworth",
+   "facts": [
+    {
+     "es": "Según su LinkedIn, fue presidente y CEO de Bonifii (antes CULedger) de diciembre de 2017 a febrero de 2025, y es General Manager de Metallicus desde febrero de 2025.",
+     "en": "According to his LinkedIn, he was President and CEO of Bonifii (formerly CULedger) from December 2017 to February 2025, and has been General Manager of Metallicus since February 2025.",
+     "status": "self",
+     "date": "2017-12",
+     "sources": [
+      {
+       "title": "LinkedIn – John Ainsworth",
+       "url": "https://www.linkedin.com/in/johnainsworthjr/"
+      }
+     ]
+    },
+    {
+     "es": "Según su LinkedIn, trabajó en Mastercard de 2006 a 2017: ejecutivo de cuentas globales (2006–2010), vicepresidente sénior de Mercados de EE. UU. (2010–2015) y vicepresidente ejecutivo de Mercados de Norteamérica (abril de 2015 – noviembre de 2017). Antes fue vicepresidente en Visa (1995–2005).",
+     "en": "According to his LinkedIn, he worked at Mastercard from 2006 to 2017: global key accounts executive (2006–2010), Senior Vice President of US Markets (2010–2015) and Executive Vice President of North America Markets (April 2015 – November 2017). Before that he was a Vice President at Visa (1995–2005).",
+     "status": "self",
+     "date": "2006-02",
+     "sources": [
+      {
+       "title": "LinkedIn – John Ainsworth",
+       "url": "https://www.linkedin.com/in/johnainsworthjr/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonifii",
+   "facts": [
+    {
+     "es": "Las fuentes describen la operación de forma distinta: John Ainsworth la presenta en su LinkedIn como una «adquisición mayoritaria» de Bonifii en febrero de 2025, mientras que la firma contable Doeren Mayhew habla de una compra de activos con efecto el 1 de enero de 2025.",
+     "en": "Sources describe the deal differently: John Ainsworth presents it on his LinkedIn as a \"majority acquisition\" of Bonifii in February 2025, while the accounting firm Doeren Mayhew describes an asset purchase effective 1 January 2025.",
+     "status": "disputed",
+     "date": "2025-01",
+     "sources": [
+      {
+       "title": "LinkedIn – John Ainsworth",
+       "url": "https://www.linkedin.com/in/johnainsworthjr/"
+      },
+      {
+       "title": "Doeren Mayhew – Metallicus acquires Bonifii",
+       "url": "https://doeren.com/viewpoint/metallicus-acquires-fintech-bonifii-cuso"
+      }
+     ]
+    }
+   ]
   }
  ],
  "edges": []
