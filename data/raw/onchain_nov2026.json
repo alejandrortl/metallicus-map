@@ -1,0 +1,72 @@
+{
+  "nodes": [
+    {
+      "id": "metal-blockchain",
+      "facts": [
+        {
+          "es": "Consulta directa a la P-Chain el 15 de noviembre de 2026 (API pública api.metalblockchain.org, método platform.getCurrentValidators): 192 validadores activos, 184 de ellos conectados; ninguno con menos de 2.000 METAL de stake propio.",
+          "en": "Direct P-Chain query on 15 November 2026 (public API api.metalblockchain.org, method platform.getCurrentValidators): 192 active validators, 184 of them connected; none with less than 2,000 METAL of own stake.",
+          "status": "confirmed",
+          "date": "2026-11-15",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Explorador, validadores (datos de la P-Chain consultados el 15-nov-2026)",
+              "url": "https://explorer.metalblockchain.org/validators"
+            }
+          ]
+        },
+        {
+          "es": "En la misma consulta (15-nov-2026), el stake total de la red primaria era de unos 126,2 millones de METAL (platform.getTotalStake): unos 54,95 millones aportados por los propios validadores y unos 71,25 millones delegados en 2.288 delegaciones.",
+          "en": "In the same query (15 Nov 2026), total primary-network stake was about 126.2 million METAL (platform.getTotalStake): about 54.95 million put up by the validators themselves and about 71.25 million delegated across 2,288 delegations.",
+          "status": "confirmed",
+          "date": "2026-11-15",
+          "sources": [
+            {
+              "title": "Metal Blockchain – Explorador, validadores (datos de la P-Chain consultados el 15-nov-2026)",
+              "url": "https://explorer.metalblockchain.org/validators"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xpr-token",
+      "facts": [
+        {
+          "es": "Según la propia cadena (contrato eosio.token, consulta del 15-nov-2026), el suministro de XPR era de 32.739.941.120 XPR, sin suministro máximo fijado.",
+          "en": "According to the chain itself (eosio.token contract, queried 15 Nov 2026), XPR supply was 32,739,941,120 XPR, with no maximum supply set.",
+          "status": "confirmed",
+          "date": "2026-11-15",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador, contrato eosio.token (consultado el 15-nov-2026)",
+              "url": "https://explorer.xprnetwork.org/account/eosio.token"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "banking-innovation-program",
+      "facts": [
+        {
+          "es": "En la red principal de XPR, el registro de tokens token.proton (2.787 entradas legibles el 15-nov-2026) no incluye ninguna stablecoin con marca de una cooperativa de crédito: las stablecoins que figuran son versiones envueltas (XUSDC, XUSDT, XPYUSD…), XMD y tokens de la comunidad. Encaja con que Metallicus sitúa las stablecoins del piloto en su entorno de pruebas; la red de pruebas no se pudo consultar.",
+          "en": "On XPR mainnet, the token.proton token registry (2,787 readable entries on 15 Nov 2026) contains no credit-union-branded stablecoin: the stablecoins listed are wrapped versions (XUSDC, XUSDT, XPYUSD…), XMD and community tokens. This is consistent with Metallicus placing the pilot stablecoins in its test environment; the testnet could not be queried.",
+          "status": "confirmed",
+          "date": "2026-11-15",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador, contrato token.proton (consultado el 15-nov-2026)",
+              "url": "https://explorer.xprnetwork.org/account/token.proton"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": []
+}
