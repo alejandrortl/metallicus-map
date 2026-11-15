@@ -85,9 +85,9 @@
   "reason": "Removed 'San Francisco entrepreneur' (not in facts)."
  },
  "william-cotton": {
-  "summary_es": "Director de tecnología (CTO) de QuickCoin en 2014.",
-  "summary_en": "Chief technology officer (CTO) of QuickCoin in 2014.",
-  "reason": "Removed co-founder claim (not in any fact; facts name only Hayner and Lands as founders)."
+  "summary_es": "Cofundador y director de tecnología (CTO) de QuickCoin en 2014, según la prensa de la época.",
+  "summary_en": "Co-founder and chief technology officer (CTO) of QuickCoin in 2014, according to contemporary press.",
+  "reason": "CoinDesk y Coinspeaker lo llaman cofundador"
  },
  "zach-klein": {
   "summary_es": "Cofundador de Vimeo y de DIY.org; QuickCoin lo incorporó en 2014, sin que conste su función.",

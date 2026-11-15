@@ -687,9 +687,10 @@
   {
    "ref": "edge:william-cotton|quickcoin|CTO (y cofundador según la empresa) de",
    "action": "fix",
-   "reason": "VentureBeat supports CTO only; the 'co-founder per the company' part rests on an uncited, banned Bitcointalk source.",
-   "label_es": "CTO de",
-   "label_en": "CTO of"
+   "reason": "VentureBeat supports CTO only; the 'co-founder per the company' part rests on an uncited, banned Bitcointalk source. | Updated: CoinDesk (26 May 2014) and Coinspeaker call him co-founder.",
+   "label_es": "cofundador y CTO de",
+   "label_en": "co-founder and CTO of",
+   "status": "confirmed"
   },
   {
    "ref": "fact:xpr-network",

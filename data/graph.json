@@ -528,8 +528,8 @@
      "date": "2014-01"
     },
     {
-     "es": "En su LinkedIn figura como fundador y CEO de «Blockai (acquired by Pixsy)» de abril de 2013 a junio de 2014, con el lema «Bitcoin Made Simple». Esa página de empresa conserva la dirección de QuickCoin, lo que indica que es la misma empresa con otro nombre. Siguen sin cuadrar dos cosas: la página fecha la fundación en 2014, no en 2013, y la prensa de 2014 da el cargo de CEO a Nathan Lands, con Hayner como cofundador.",
-     "en": "On his LinkedIn he is listed as founder and CEO of \"Blockai (acquired by Pixsy)\" from April 2013 to June 2014, with the tagline \"Bitcoin Made Simple\". That company page keeps QuickCoin's address, indicating it is the same company under another name. Two things still do not match: the page dates the founding to 2014, not 2013, and 2014 press gives the CEO title to Nathan Lands, with Hayner as co-founder.",
+     "es": "En su LinkedIn figura como fundador y CEO de «Blockai (acquired by Pixsy)» de abril de 2013 a junio de 2014, con el lema «Bitcoin Made Simple». Esa página de empresa conserva la dirección de QuickCoin, lo que indica que es la misma empresa con otro nombre. Siguen sin cuadrar dos cosas: la página fecha la fundación en 2014, no en 2013, y la prensa de 2014 (PCWorld, The Next Web, CoinDesk) llama CEO a Nathan Lands y cofundador a Hayner, y el propio Lands también se presenta en LinkedIn como cofundador y CEO de esa empresa.",
+     "en": "On his LinkedIn he is listed as founder and CEO of \"Blockai (acquired by Pixsy)\" from April 2013 to June 2014, with the tagline \"Bitcoin Made Simple\". That company page keeps QuickCoin's address, indicating it is the same company under another name. Two things still do not match: the page dates the founding to 2014, not 2013, and 2014 press (PCWorld, The Next Web, CoinDesk) calls Nathan Lands CEO and Hayner co-founder, and Lands himself also presents himself on LinkedIn as co-founder and CEO of that company.",
      "status": "disputed",
      "sources": [
       {
@@ -547,6 +547,18 @@
       {
        "title": "LinkedIn – página de empresa «Blockai (acquired by Pixsy)» (dirección /company/quickcoin)",
        "url": "https://www.linkedin.com/company/quickcoin"
+      },
+      {
+       "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (2014)",
+       "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+      },
+      {
+       "title": "The Next Web – QuickCoin (22 may 2014)",
+       "url": "https://thenextweb.com/news/quickcoin-makes-sharing-bitcoin-easy-sending-facebook-message"
+      },
+      {
+       "title": "LinkedIn – Nathan Lands",
+       "url": "https://www.linkedin.com/in/nathanlands/"
       }
      ],
      "date": "2013-04"
@@ -2768,6 +2780,50 @@
        "url": "https://www.linkedin.com/in/nathanlands/"
       }
      ]
+    },
+    {
+     "es": "La prensa de 2014 lo presenta como CEO y cofundador de QuickCoin.",
+     "en": "2014 press presents him as CEO and co-founder of QuickCoin.",
+     "status": "confirmed",
+     "date": "2014-05",
+     "sources": [
+      {
+       "title": "PCWorld – QuickCoin app lets users send bitcoin through Facebook (2014)",
+       "url": "https://www.pcworld.com/article/439462/quickcoin-app-lets-users-send-bitcoin-through-facebook.html"
+      },
+      {
+       "title": "The Next Web – QuickCoin (22 may 2014)",
+       "url": "https://thenextweb.com/news/quickcoin-makes-sharing-bitcoin-easy-sending-facebook-message"
+      },
+      {
+       "title": "CoinDesk – Bitcoin's banking crunch (17 sep 2014)",
+       "url": "https://www.coindesk.com/markets/2014/09/17/how-bitcoins-banking-crunch-is-holding-back-us-startups"
+      }
+     ]
+    },
+    {
+     "es": "Según su LinkedIn, fue cofundador y CEO de «QuickCoin / Blockai» de enero de 2015 a diciembre de 2016 y de Binded de enero de 2017 a septiembre de 2019, cuando se vendió a Pixsy.",
+     "en": "According to his LinkedIn, he was co-founder and CEO of \"QuickCoin / Blockai\" from January 2015 to December 2016 and of Binded from January 2017 to September 2019, when it was sold to Pixsy.",
+     "status": "self",
+     "date": "2015-01",
+     "sources": [
+      {
+       "title": "LinkedIn – Nathan Lands",
+       "url": "https://www.linkedin.com/in/nathanlands/"
+      }
+     ]
+    },
+    {
+     "es": "Según su LinkedIn, fue mentor del programa «20 Under 20» de la Thiel Foundation de abril de 2013 a enero de 2015.",
+     "en": "According to his LinkedIn, he was a mentor in the Thiel Foundation's \"20 Under 20\" programme from April 2013 to January 2015.",
+     "status": "self",
+     "date": "2013-04",
+     "sources": [
+      {
+       "title": "LinkedIn – Nathan Lands",
+       "url": "https://www.linkedin.com/in/nathanlands/"
+      }
+     ]
     }
    ]
   },
@@ -2776,8 +2832,8 @@
    "name": "William Cotton",
    "type": "person",
    "group": "people",
-   "summary_es": "Director de tecnología (CTO) de QuickCoin en 2014.",
-   "summary_en": "Chief technology officer (CTO) of QuickCoin in 2014.",
+   "summary_es": "Cofundador y director de tecnología (CTO) de QuickCoin en 2014, según la prensa de la época.",
+   "summary_en": "Co-founder and chief technology officer (CTO) of QuickCoin in 2014, according to contemporary press.",
    "facts": [
     {
      "es": "Fue director de tecnología (CTO) de QuickCoin.",
@@ -2788,6 +2844,22 @@
       {
        "title": "VentureBeat – QuickCoin lanzamiento (11-jun-2014)",
        "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+      }
+     ]
+    },
+    {
+     "es": "Además de CTO, CoinDesk y Coinspeaker lo citaban en 2014 como cofundador de QuickCoin.",
+     "en": "Besides CTO, CoinDesk and Coinspeaker cited him in 2014 as a co-founder of QuickCoin.",
+     "status": "confirmed",
+     "date": "2014-05",
+     "sources": [
+      {
+       "title": "CoinDesk – Facebook-integrated wallet (26 may 2014)",
+       "url": "https://www.coindesk.com/markets/2014/05/26/facebook-integrated-wallet-makes-sending-bitcoin-as-easy-as-messaging"
+      },
+      {
+       "title": "Coinspeaker – QuickCoin makes sending bitcoin as easy as Facebook messaging",
+       "url": "https://www.coinspeaker.com/quickcoin-makes-sending-bitcoin-as-easy-as-facebook-messaging-video"
       }
      ]
     }
@@ -3035,6 +3107,42 @@
       {
        "title": "NBC Bay Area – First Bitcoin Fair coming to SF (27-ene-2014)",
        "url": "https://www.nbcbayarea.com/news/local/first-bitcoin-fair-coming-to-sf/1984803/"
+      }
+     ]
+    },
+    {
+     "es": "Las fechas no coinciden entre fuentes: la prensa sitúa su fundación a principios de abril de 2014 y su lanzamiento el 20 de mayo de 2014; en LinkedIn, Marshall Hayner fecha su etapa en la empresa de abril de 2013 a junio de 2014, y Nathan Lands de enero de 2015 a diciembre de 2016.",
+     "en": "Dates do not match across sources: the press places its founding in early April 2014 and its launch on 20 May 2014; on LinkedIn, Marshall Hayner dates his time at the company from April 2013 to June 2014, and Nathan Lands from January 2015 to December 2016.",
+     "status": "disputed",
+     "date": "2014-04",
+     "sources": [
+      {
+       "title": "VentureBeat – QuickCoin (11 jun 2014)",
+       "url": "https://venturebeat.com/technology/quickcoin-bitcoin"
+      },
+      {
+       "title": "LinkedIn – Marshall Hayner (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/marshallhayner/"
+      },
+      {
+       "title": "LinkedIn – Nathan Lands",
+       "url": "https://www.linkedin.com/in/nathanlands/"
+      }
+     ]
+    },
+    {
+     "es": "CoinDesk y Coinspeaker citaban en 2014 a William Cotton y Nathan Lands como cofundadores junto a Marshall Hayner.",
+     "en": "In 2014 CoinDesk and Coinspeaker cited William Cotton and Nathan Lands as co-founders alongside Marshall Hayner.",
+     "status": "confirmed",
+     "date": "2014-05",
+     "sources": [
+      {
+       "title": "CoinDesk – Facebook-integrated wallet (26 may 2014)",
+       "url": "https://www.coindesk.com/markets/2014/05/26/facebook-integrated-wallet-makes-sending-bitcoin-as-easy-as-messaging"
+      },
+      {
+       "title": "Coinspeaker – QuickCoin makes sending bitcoin as easy as Facebook messaging",
+       "url": "https://www.coinspeaker.com/quickcoin-makes-sending-bitcoin-as-easy-as-facebook-messaging-video"
       }
      ]
     }
@@ -8483,8 +8591,8 @@
   {
    "from": "william-cotton",
    "to": "quickcoin",
-   "label_es": "CTO de",
-   "label_en": "CTO of",
+   "label_es": "cofundador y CTO de",
+   "label_en": "co-founder and CTO of",
    "status": "confirmed",
    "date": "2014",
    "sources": [
