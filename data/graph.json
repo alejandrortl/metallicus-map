@@ -718,8 +718,8 @@
    "name": "Irina Berkon",
    "type": "person",
    "group": "people",
-   "summary_es": "Directora financiera (CFO) de Metallicus, cargo documentado de 2022 a 2025, y miembro de su consejo en 2022-2023; dice haberse incorporado en 2020. Cofundó FBBT Holdings con Marshall Hayner y, según sus biografías, es Managing Director de Golden Seeds.",
-   "summary_en": "Chief financial officer (CFO) of Metallicus, documented from 2022 to 2025, and a board member in 2022-2023; she says she joined in 2020. She co-founded FBBT Holdings with Marshall Hayner and, according to her bios, is a Managing Director of Golden Seeds.",
+   "summary_es": "Directora financiera (CFO) de Metallicus; según su LinkedIn, entró en enero de 2020, es CFO desde octubre de 2020 y consejera desde enero de 2021. Cofundó FBBT Holdings con Marshall Hayner.",
+   "summary_en": "Metallicus's Chief Financial Officer; according to her LinkedIn she joined in January 2020, has been CFO since October 2020 and a board member since January 2021. She co-founded FBBT Holdings with Marshall Hayner.",
    "facts": [
     {
      "es": "Un tribunal federal recoge su declaración jurada como CFO de Metallicus en el pleito con Proton (orden del 26 de julio de 2022).",
@@ -835,6 +835,70 @@
        "url": "https://metallicus.com/company/irina-berkon"
       }
      ]
+    },
+    {
+     "es": "Según su LinkedIn, entró en Metallicus en enero de 2020 como vicepresidenta de Finanzas; es directora financiera (CFO) desde octubre de 2020 y miembro del consejo desde enero de 2021.",
+     "en": "According to her LinkedIn, she joined Metallicus in January 2020 as Vice President of Finance; she has been CFO since October 2020 and a board member since January 2021.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2020-01"
+    },
+    {
+     "es": "Su LinkedIn indica que es CFO de Metallicus sin interrupción desde octubre de 2020, pero el acuerdo con el regulador de Ohio, posterior a octubre de 2022, lo firma Kevin R. Allard con el cargo de CFO.",
+     "en": "Her LinkedIn says she has been Metallicus's CFO continuously since October 2020, but the agreement with the Ohio regulator, dated after October 2022, is signed by Kevin R. Allard with the title of CFO.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      },
+      {
+       "title": "Ohio DFI – Acuerdo MT2022-004 (PDF)",
+       "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+      }
+     ],
+     "date": "2020-10"
+    },
+    {
+     "es": "Según su LinkedIn, antes fue directora de Finanzas de TubeMogul (noviembre de 2013 – enero de 2016), vicepresidenta de Finanzas de MeForo (enero de 2016 – enero de 2018) y Managing Director de IBLS Global (octubre de 2017 – julio de 2020); es Managing Director de Golden Seeds desde marzo de 2019.",
+     "en": "According to her LinkedIn, she was previously Director of Finance at TubeMogul (November 2013 – January 2016), Vice President of Finance at MeForo (January 2016 – January 2018) and Managing Director of IBLS Global (October 2017 – July 2020); she has been a Managing Director of Golden Seeds since March 2019.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2013-11"
+    },
+    {
+     "es": "Según su LinkedIn, trabajó en auditoría en Grant Thornton de agosto de 2004 a noviembre de 2013, los últimos tres años como Audit Manager.",
+     "en": "According to her LinkedIn, she worked in audit at Grant Thornton from August 2004 to November 2013, the last three years as Audit Manager.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2004-08"
+    },
+    {
+     "es": "Según su LinkedIn, estudió Administración de Empresas, Economía y Contabilidad en la Universidad de California en Santa Cruz (2001–2004) y es contable pública certificada (CPA).",
+     "en": "According to her LinkedIn, she studied Business Management, Economics and Accounting at the University of California, Santa Cruz (2001–2004) and is a Certified Public Accountant (CPA).",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2004"
     }
    ]
   },
@@ -869,6 +933,22 @@
       {
        "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+      }
+     ]
+    },
+    {
+     "es": "El LinkedIn de Irina Berkon indica que ella es CFO de Metallicus sin interrupción desde octubre de 2020, pero el acuerdo con el regulador de Ohio, posterior a octubre de 2022, lo firma Kevin R. Allard con el cargo de CFO.",
+     "en": "Irina Berkon's LinkedIn says she has been Metallicus's CFO continuously since October 2020, but the agreement with the Ohio regulator, dated after October 2022, is signed by Kevin R. Allard with the title of CFO.",
+     "status": "disputed",
+     "date": "2022-10",
+     "sources": [
+      {
+       "title": "Ohio DFI – Acuerdo MT2022-004 (PDF)",
+       "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+      },
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
       }
      ]
     }
