@@ -447,6 +447,22 @@
      ]
     }
    ]
+  },
+  {
+   "id": "nathan-lands",
+   "facts": [
+    {
+     "es": "En su LinkedIn dice que cocreó QuickCoin, a la que describe como el primer monedero social de bitcoin, y que eso le hizo aparecer en el libro «The Age of Cryptocurrency».",
+     "en": "On his LinkedIn he says he co-created QuickCoin, which he describes as the first social Bitcoin wallet, and that this got him into the book \"The Age of Cryptocurrency\".",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Nathan Lands",
+       "url": "https://www.linkedin.com/in/nathanlands/"
+      }
+     ]
+    }
+   ]
   }
  ],
  "edges": [
