@@ -523,11 +523,15 @@
      ]
     },
     {
-     "es": "La cuenta de GitHub «MlennGarien», que firma como «Glenn», es la principal autora del código de Metal Blockchain: 363 commits en metalgo (julio 2022 – septiembre 2026), 469 en PulseVM (noviembre 2024 – octubre 2026), 151 en coreth, 52 en metal-network-runner, 48 en antelopevm, 44 en pulse-cdt-rust y 34 en metal-cli. La cuenta lleva el nombre «Glenn» y la misma foto de perfil que la cuenta verificada de X @GlennMarien, y tiene permisos para integrar cambios en los repositorios oficiales de Metallicus; su perfil no incluye apellido ni enlaces, así que la identidad no está confirmada de forma explícita.",
-     "en": "The GitHub account \"MlennGarien\", which signs as \"Glenn\", is the main author of Metal Blockchain's code: 363 commits in metalgo (July 2022 – September 2026), 469 in PulseVM (November 2024 – October 2026), 151 in coreth, 52 in metal-network-runner, 48 in antelopevm, 44 in pulse-cdt-rust and 34 in metal-cli. The account uses the name \"Glenn\" and the same profile photo as the verified X account @GlennMarien, and it has permission to merge changes into Metallicus's official repositories; its profile gives no surname or links, so the identity is not explicitly confirmed.",
+     "es": "La cuenta de GitHub «MlennGarien», que firma como «Glenn», es la principal autora del código de Metal Blockchain: 363 commits en metalgo (julio 2022 – septiembre 2026), 469 en PulseVM (noviembre 2024 – octubre 2026), 151 en coreth, 52 en metal-network-runner, 48 en antelopevm, 44 en pulse-cdt-rust y 34 en metal-cli. Se identifica como suya porque la página oficial del equipo de Metallicus enlaza a su cuenta de X @GlennMarien, que usa la misma foto de perfil que esta cuenta de GitHub, y porque la cuenta tiene permisos para integrar cambios en los repositorios oficiales de Metallicus.",
+     "en": "The GitHub account \"MlennGarien\", which signs as \"Glenn\", is the main author of Metal Blockchain's code: 363 commits in metalgo (July 2022 – September 2026), 469 in PulseVM (November 2024 – October 2026), 151 in coreth, 52 in metal-network-runner, 48 in antelopevm, 44 in pulse-cdt-rust and 34 in metal-cli. It is identified as his because Metallicus's official team page links to his X account @GlennMarien, which uses the same profile photo as this GitHub account, and because the account has permission to merge changes into Metallicus's official repositories.",
      "status": "confirmed",
      "date": "2026-10",
      "sources": [
+      {
+       "title": "Metallicus – Meet the team",
+       "url": "https://metallicus.com/company/meet-the-team"
+      },
       {
        "title": "GitHub – metalgo, commits de MlennGarien",
        "url": "https://github.com/MetalBlockchain/metalgo/commits?author=MlennGarien"
@@ -539,6 +543,17 @@
       {
        "title": "GitHub – pulse-cdt-rust, commits de MlennGarien",
        "url": "https://github.com/MetalBlockchain/pulse-cdt-rust/commits?author=MlennGarien"
+      }
+     ]
+    },
+    {
+     "es": "La página oficial del equipo de Metallicus lo presenta como cofundador y CTO y enlaza a su cuenta de X @GlennMarien y a su perfil de LinkedIn.",
+     "en": "Metallicus's official team page lists him as co-founder and CTO and links to his X account @GlennMarien and his LinkedIn profile.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus – Meet the team",
+       "url": "https://metallicus.com/company/meet-the-team"
       }
      ]
     }
@@ -1051,11 +1066,15 @@
      ]
     },
     {
-     "es": "La cuenta de GitHub «paulgnz», que firma como «Paul Grey», es la autora principal de la guía para desarrolladores alojada en la organización de GitHub de XPR Network (139 commits, enero – octubre 2026) y contribuye al arranque de la red de pruebas de XPR (57 commits desde agosto de 2023), a la herramienta de línea de comandos de XPR (9) y a PulseVM y su kit de contratos en Metal Blockchain (11 commits, junio – octubre 2026). Que sea el Paul Grey del equipo de Metallicus no está verificado formalmente.",
-     "en": "The GitHub account \"paulgnz\", which signs as \"Paul Grey\", is the main author of the developer guide hosted in XPR Network's GitHub organisation (139 commits, January – October 2026) and contributes to the XPR testnet bootstrap (57 commits since August 2023), the XPR command-line tool (9) and to PulseVM and its contract kit on Metal Blockchain (11 commits, June – October 2026). That it is the Paul Grey on Metallicus's team is not formally verified.",
+     "es": "La cuenta de GitHub «paulgnz», que firma como «Paul Grey», es la autora principal de la guía para desarrolladores alojada en la organización de GitHub de XPR Network (139 commits, enero – octubre 2026) y contribuye al arranque de la red de pruebas de XPR (57 commits desde agosto de 2023), a la herramienta de línea de comandos de XPR (9) y a PulseVM y su kit de contratos en Metal Blockchain (11 commits, junio – octubre 2026). Se identifica con el Paul Grey de Metallicus porque la página oficial del equipo le enlaza un perfil de LinkedIn con el mismo identificador, «paulgnz».",
+     "en": "The GitHub account \"paulgnz\", which signs as \"Paul Grey\", is the main author of the developer guide hosted in XPR Network's GitHub organisation (139 commits, January – October 2026) and contributes to the XPR testnet bootstrap (57 commits since August 2023), the XPR command-line tool (9) and to PulseVM and its contract kit on Metal Blockchain (11 commits, June – October 2026). It is identified with Metallicus's Paul Grey because the company's official team page links him to a LinkedIn profile with the same handle, \"paulgnz\".",
      "status": "confirmed",
      "date": "2026-10",
      "sources": [
+      {
+       "title": "Metallicus – Meet the team",
+       "url": "https://metallicus.com/company/meet-the-team"
+      },
       {
        "title": "GitHub – XPRNetwork/xpr-network-dev-skill",
        "url": "https://github.com/XPRNetwork/xpr-network-dev-skill/commits?author=paulgnz"
@@ -1067,6 +1086,17 @@
       {
        "title": "GitHub – pulsevm, commits de paulgnz",
        "url": "https://github.com/MetalBlockchain/pulsevm/commits?author=paulgnz"
+      }
+     ]
+    },
+    {
+     "es": "La página oficial del equipo de Metallicus lo presenta como Business Development Manager (responsable de desarrollo de negocio).",
+     "en": "Metallicus's official team page lists him as Business Development Manager.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus – Meet the team",
+       "url": "https://metallicus.com/company/meet-the-team"
       }
      ]
     }
