@@ -4295,6 +4295,22 @@
      ]
     },
     {
+     "es": "La lista oficial de proveedores de servicios certificados de FedNow, actualizada a 9 de noviembre de 2026, incluye a Metallicus con los cuatro tipos de participación: solo recepción, envío y recepción, recepción de Request for Payment (RfP) y transferencias de gestión de liquidez. Ripple no figura en esa lista; Volante Technologies sí (solo recepción y envío y recepción).",
+     "en": "The official list of FedNow certified service providers, updated as of November 9, 2026, includes Metallicus with all four participation types: receive only, send and receive, receive Request for Payment (RfP) and liquidity management transfers. Ripple is not on that list; Volante Technologies is (receive only and send and receive).",
+     "status": "confirmed",
+     "date": "2026-11-09",
+     "sources": [
+      {
+       "title": "Federal Reserve Financial Services – FedNow Certified Service Providers (XLSX, as of 9-nov-2026)",
+       "url": "https://www.frbservices.org/wp-content/uploads/fednow-certified-service-providers.xlsx"
+      },
+      {
+       "title": "Federal Reserve Financial Services – FedNow Service Participants and Service Providers",
+       "url": "https://www.frbservices.org/financial-services/fednow/organizations"
+      }
+     ]
+    },
+    {
      "es": "Federal Reserve Financial Services lista a Metallicus (solución Metal Pay) en el FedNow Innovator Exchange como 'Financial Institution Service Provider', con funciones de envío y recepción, conectividad vía FedLine e integración con cualquier core; el contacto indicado es Frank Mazza.",
      "en": "Federal Reserve Financial Services lists Metallicus (Metal Pay solution) on the FedNow Innovator Exchange as a 'Financial Institution Service Provider', with send and receive capability, FedLine connectivity and core-agnostic integration; the listed contact is Frank Mazza.",
      "status": "confirmed",
