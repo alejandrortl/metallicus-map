@@ -4239,14 +4239,14 @@
      ]
     },
     {
-     "es": "El 29 de junio de 2023 la Reserva Federal publicó la lista de organizaciones certificadas como listas para el lanzamiento de FedNow, con 15 proveedores de servicios; ni Metallicus, ni Metal Pay, ni Metal Blockchain figuran en ella. La página indica que no se actualizará.",
-     "en": "On June 29, 2023 the Federal Reserve published the list of organizations certified as ready for the FedNow launch, including 15 service providers; neither Metallicus, Metal Pay nor Metal Blockchain appears on it. The page states it will not be updated.",
+     "es": "El 29 de junio de 2023 la Reserva Federal publicó la lista de organizaciones certificadas como listas para el lanzamiento de FedNow, con 15 proveedores de servicios; ni Metallicus, ni Metal Pay, ni Metal Blockchain figuran en ella, y tampoco Ripple. La página indica que no se actualizará.",
+     "en": "On June 29, 2023 the Federal Reserve published the list of organizations certified as ready for the FedNow launch, including 15 service providers; neither Metallicus, Metal Pay nor Metal Blockchain appears on it, nor does Ripple. The page states it will not be updated.",
      "status": "confirmed",
      "date": "2023-06-29",
      "sources": [
       {
        "title": "Federal Reserve Financial Services – Organizations Certified as Ready for the FedNow Service (29-jun-2023)",
-       "url": "https://www.frbservices.org/financial-services/fednow/certified-organizations"
+       "url": "https://www.frbservices.org/financial-services/fednow-service/organizations-certified-ready-fednow-service/"
       },
       {
        "title": "Federal Reserve Financial Services – Federal Reserve names organizations certified as ready for FedNow Service (29-jun-2023)",
