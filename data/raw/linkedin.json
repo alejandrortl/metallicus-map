@@ -259,6 +259,34 @@
      ]
     }
    ]
+  },
+  {
+   "id": "paul-grey",
+   "facts": [
+    {
+     "es": "Según su LinkedIn, es Business Development Manager de Metallicus desde mayo de 2020, con base en Los Ángeles, y es el único puesto que lista en su experiencia.",
+     "en": "According to his LinkedIn, he has been Business Development Manager at Metallicus since May 2020, based in Los Angeles, and it is the only role listed in his experience.",
+     "status": "self",
+     "date": "2020-05",
+     "sources": [
+      {
+       "title": "LinkedIn – Paul Grey (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/paulgnz/"
+      }
+     ]
+    },
+    {
+     "es": "Según su LinkedIn, su trabajo consiste en ayudar a bancos y cooperativas de crédito a emitir sus propias stablecoins y depósitos tokenizados, para que los depósitos no salgan de su balance.",
+     "en": "According to his LinkedIn, his work consists of helping banks and credit unions issue their own stablecoins and tokenized deposits, so that deposits stay on their balance sheet.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Paul Grey (perfil enlazado desde la web de Metallicus)",
+       "url": "https://www.linkedin.com/in/paulgnz/"
+      }
+     ]
+    }
+   ]
   }
  ],
  "edges": []
