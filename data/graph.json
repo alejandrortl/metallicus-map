@@ -4116,14 +4116,30 @@
    "id": "banking-innovation-program",
    "facts": [
     {
-     "es": "En la red principal de XPR, el registro de tokens token.proton (2.787 entradas legibles el 15-nov-2026) no incluye ninguna stablecoin con marca de una cooperativa de crédito: las stablecoins que figuran son versiones envueltas (XUSDC, XUSDT, XPYUSD…), XMD y tokens de la comunidad. Encaja con que Metallicus sitúa las stablecoins del piloto en su entorno de pruebas; la red de pruebas no se pudo consultar.",
-     "en": "On XPR mainnet, the token.proton token registry (2,787 readable entries on 15 Nov 2026) contains no credit-union-branded stablecoin: the stablecoins listed are wrapped versions (XUSDC, XUSDT, XPYUSD…), XMD and community tokens. This is consistent with Metallicus placing the pilot stablecoins in its test environment; the testnet could not be queried.",
+     "es": "En la red principal de XPR, el registro de tokens token.proton (2.787 entradas legibles el 15-nov-2026) no incluye ninguna stablecoin con marca de una cooperativa de crédito: las stablecoins que figuran son versiones envueltas (XUSDC, XUSDT, XPYUSD…), XMD y tokens de la comunidad. Encaja con que Metallicus sitúa las stablecoins del piloto en su entorno de pruebas; véase el dato sobre la red de pruebas.",
+     "en": "On XPR mainnet, the token.proton token registry (2,787 readable entries on 15 Nov 2026) contains no credit-union-branded stablecoin: the stablecoins listed are wrapped versions (XUSDC, XUSDT, XPYUSD…), XMD and community tokens. This is consistent with Metallicus placing the pilot stablecoins in its test environment; see the fact on the testnet.",
      "status": "confirmed",
      "date": "2026-11-15",
      "sources": [
       {
        "title": "XPR Network – Explorador, contrato token.proton (consultado el 15-nov-2026)",
        "url": "https://explorer.xprnetwork.org/account/token.proton"
+      },
+      {
+       "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      }
+     ]
+    },
+    {
+     "es": "En la red de pruebas de XPR, el registro token.proton contenía el 15-nov-2026 25 contratos de stablecoins de prueba creados entre julio de 2025 y marzo de 2026. En 21 de ellos los metadatos enlazan a la web de una cooperativa de crédito (SND, TWUSD, 4FUSD, OAZD, M1USD, FFUSD, AZUSD, ONUSD, GASD, CLDUSD, CWUSD, ALTUSD, USMCD, GESAD, NUMD, DFUSD, MTUSD, CFUSD, PCOD, NOBLED, MINNCO) y otros 4 (BFUSD, PCUSD, KPUSD, MCUSD, de julio de 2025) no identifican a ninguna entidad. La emisión no es cero: 22 contratos tienen 1.000 unidades emitidas, SND 100.000, CLDUSD 1.001 y solo MTUSD 0; ninguno fija suministro máximo. Que los metadatos apunten a una cooperativa no demuestra por sí solo que esa cooperativa participe en el piloto.",
+     "en": "On the XPR testnet, the token.proton registry held on 15 Nov 2026 25 test stablecoin contracts created between July 2025 and March 2026. In 21 of them the metadata links to a credit union website (SND, TWUSD, 4FUSD, OAZD, M1USD, FFUSD, AZUSD, ONUSD, GASD, CLDUSD, CWUSD, ALTUSD, USMCD, GESAD, NUMD, DFUSD, MTUSD, CFUSD, PCOD, NOBLED, MINNCO) and 4 more (BFUSD, PCUSD, KPUSD, MCUSD, from July 2025) identify no entity. Issuance is not zero: 22 contracts have 1,000 units issued, SND 100,000, CLDUSD 1,001 and only MTUSD 0; none sets a maximum supply. Metadata pointing to a credit union does not by itself prove that credit union takes part in the pilot.",
+     "status": "confirmed",
+     "date": "2026-11-15",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador de la red de pruebas, registro de tokens token.proton (consultado el 15-nov-2026)",
+       "url": "https://testnet.explorer.xprnetwork.org/account/token.proton"
       },
       {
        "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
@@ -4274,6 +4290,463 @@
    "summary_en": "Metallicus research program, announced in January 2024, that the company presents as free for financial institutions to explore blockchain use cases (digital identity, BSA compliance, private subnets, tokenization and, since 2025, test stablecoins). Participant figures come from Metallicus.",
    "website": "https://metalblockchain.org/banking-innovation-program",
    "type": "product",
+   "group": "partners"
+  },
+  {
+   "id": "metal-dollar",
+   "facts": [
+    {
+     "es": "Según el contrato de tesorería de XMD en la red principal de XPR (xmd.treasury, consulta del 15-nov-2026), los activos aceptados para acuñar y canjear son XUSDC (máximo 60 % de la tesorería), XPAX/USDP (15 %), XPYUSD (15 %) y MPD, «Metal Pay Dollar» (2 %); todas las comisiones de acuñación y canje están a 0. El suministro de XMD era de 2.441.158,95.",
+     "en": "According to the XMD treasury contract on XPR mainnet (xmd.treasury, queried 15 Nov 2026), the assets accepted for minting and redemption are XUSDC (max 60% of the treasury), XPAX/USDP (15%), XPYUSD (15%) and MPD, 'Metal Pay Dollar' (2%); all minting and redemption fees are set to 0. XMD supply was 2,441,158.95.",
+     "status": "confirmed",
+     "date": "2026-11-15",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador, contrato xmd.treasury (consultado el 15-nov-2026)",
+       "url": "https://explorer.xprnetwork.org/account/xmd.treasury"
+      },
+      {
+       "title": "XPR Network – Explorador, contrato xmd.token (consultado el 15-nov-2026)",
+       "url": "https://explorer.xprnetwork.org/account/xmd.token"
+      }
+     ]
+    },
+    {
+     "es": "¿Está RLUSD en la cesta? Metallicus dice que en abril de 2026 la cesta era USDC, PYUSD, USDP y RLUSD, pero el contrato de tesorería de XMD en XPR no incluía RLUSD el 15-nov-2026 e incluía en cambio MPD (Metal Pay Dollar), que Metallicus no menciona.",
+     "en": "Is RLUSD in the basket? Metallicus says the April 2026 basket was USDC, PYUSD, USDP and RLUSD, but the XMD treasury contract on XPR did not include RLUSD on 15 Nov 2026 and instead included MPD (Metal Pay Dollar), which Metallicus does not mention.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+       "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+      },
+      {
+       "title": "XPR Network – Explorador, contrato xmd.treasury (consultado el 15-nov-2026)",
+       "url": "https://explorer.xprnetwork.org/account/xmd.treasury"
+      }
+     ]
+    },
+    {
+     "es": "El whitepaper de Metal Dollar v1.1 fija un quórum mínimo del 40 % del poder de voto para aprobar propuestas (1 XMT = 1 voto) y no menciona ninguna cuota de admisión para incorporar stablecoins a la cesta.",
+     "en": "The Metal Dollar whitepaper v1.1 sets a minimum quorum of 40% of voting power to pass proposals (1 XMT = 1 vote) and mentions no admission fee for adding stablecoins to the basket.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus – Metal Dollar Whitepaper v1.1 (PDF)",
+       "url": "https://cdn.metallicus.com/Metal_Dollar_Whitepaper_v1.1.pdf"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, XMD se lanzó con Proton DEX en noviembre de 2022 sobre Proton, con una cesta de USDC, BUSDC, TUSD y USDP.",
+     "en": "According to Metallicus, XMD launched with Proton DEX in November 2022 on Proton, with a basket of USDC, BUSDC, TUSD and USDP.",
+     "status": "self",
+     "date": "2022-11-16",
+     "sources": [
+      {
+       "title": "Business Wire – Proton DEX launch (16-nov-2022)",
+       "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, en abril de 2026 la cesta estaba formada por USDC, PYUSD, USDP y RLUSD, gobernada por los titulares de MTL, y se puede acuñar o canjear 1:1 con cualquier stablecoin de la cesta.",
+     "en": "According to Metallicus, in April 2026 the basket was USDC, PYUSD, USDP and RLUSD, governed by MTL holders, and XMD can be minted or redeemed 1:1 against any basket stablecoin.",
+     "status": "self",
+     "date": "2026-04",
+     "sources": [
+      {
+       "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+       "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+      },
+      {
+       "title": "Metallicus – Metal Dollar",
+       "url": "https://www.metallicus.com/metal-dollar"
+      }
+     ]
+    },
+    {
+     "es": "CoinGecko registra unos 836.560 XMD en circulación, un contrato en Ethereum (0xa6707a8a00e94d1834ccda2856c9cf948941078d) y mercados solo en Metal X; el precio mostrado era de unos 0,99 dólares (oct-2026).",
+     "en": "CoinGecko records about 836,560 XMD in circulation, an Ethereum contract (0xa6707a8a00e94d1834ccda2856c9cf948941078d) and markets only on Metal X; the displayed price was about $0.99 (Oct 2026).",
+     "status": "confirmed",
+     "date": "2026-10",
+     "sources": [
+      {
+       "title": "CoinGecko – Metal Dollar (XMD)",
+       "url": "https://www.coingecko.com/en/coins/metal-dollar"
+      }
+     ]
+    },
+    {
+     "es": "Su estado es contradictorio: XMD se negocia en Metal X desde 2022 y en el 3T de 2025 se añadió a Metal X Lending, pero el informe del 1T de 2026 dice que XMD «se estableció en testnet en el 4T de 2025» y que las auditorías estaban por programar; en el 2T de 2026 la gobernanza aprobó su expansión a Ethereum y preparaba un lanzamiento para el 3T.",
+     "en": "Its status is contradictory: XMD has traded on Metal X since 2022 and was added to Metal X Lending in Q3 2025, but the Q1 2026 report says XMD was \"established on testnet in Q4 2025\" with audits still being scheduled; in Q2 2026 governance approved its expansion to Ethereum and a Q3 launch was being prepared.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "CoinGecko – Metal Dollar (XMD)",
+       "url": "https://www.coingecko.com/en/coins/metal-dollar"
+      },
+      {
+       "title": "Metallicus – Informe Q3 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      },
+      {
+       "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
+       "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
+      },
+      {
+       "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+       "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, la gobernanza estudiaba en el 2T de 2026 añadir MGUSD, FIDD, RLUSD y SOFID a la cesta.",
+     "en": "According to Metallicus, in Q2 2026 governance was considering adding MGUSD, FIDD, RLUSD and SOFID to the basket.",
+     "status": "self",
+     "date": "2026-Q2",
+     "sources": [
+      {
+       "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
+       "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
+      }
+     ]
+    }
+   ],
+   "name": "Metal Dollar (XMD)",
+   "summary_es": "Stablecoin índice de Metallicus que, según la empresa, está respaldada por una cesta de stablecoins en dólares; cotiza en Metal X y tiene contrato en Ethereum. Su estado es contradictorio: se negocia desde 2022, pero Metallicus la describía en 2026 como en testnet y con un lanzamiento aún en preparación.",
+   "summary_en": "Metallicus's index stablecoin which, according to the company, is backed by a basket of dollar stablecoins; it trades on Metal X and has an Ethereum contract. Its status is contradictory: it has traded since 2022, yet in 2026 Metallicus described it as on testnet with a launch still being prepared.",
+   "website": "https://www.metallicus.com/metal-dollar",
+   "type": "token",
+   "group": "products"
+  },
+  {
+   "id": "arizona-financial-cu",
+   "facts": [
+    {
+     "es": "En la red de pruebas de XPR existe el contrato azusd.token (token AZUSD), creado el 2025-08-21, cuyos metadatos enlazan a arizonafinancial.org; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+     "en": "The XPR testnet has the contract azusd.token (token AZUSD), created on 2025-08-21, whose metadata links to arizonafinancial.org; on 15 Nov 2026 it had 1,000 units issued.",
+     "status": "confirmed",
+     "date": "2025-08-21",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador de la red de pruebas, contrato azusd.token (consultado el 15-nov-2026)",
+       "url": "https://testnet.explorer.xprnetwork.org/account/azusd.token"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, el 4 de diciembre de 2025 anunció su incorporación al Stablecoin Pilot Program, con una declaración de su SVP de I+D, Eric Givens, que subrayó el uso de reservas simuladas.",
+     "en": "According to Metallicus, on December 4, 2025 it announced its entry into the Stablecoin Pilot Program, with a statement by its SVP of R&D, Eric Givens, who stressed the use of simulated reserves.",
+     "status": "self",
+     "date": "2025-12-04",
+     "sources": [
+      {
+       "title": "Metallicus – Arizona Financial Credit Union joins Stablecoin Pilot (4-dic-2025)",
+       "url": "https://metallicus.com/blog/arizona-financial-credit-union-blockchain-stablecoin"
+      }
+     ]
+    },
+    {
+     "es": "El informe Q4 2025 de Metallicus la nombra entre las cooperativas que se unieron al piloto ese trimestre.",
+     "en": "Metallicus's Q4 2025 report names it among the credit unions that joined the pilot that quarter.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
+      }
+     ]
+    }
+   ],
+   "name": "Arizona Financial Credit Union",
+   "summary_es": "Cooperativa de crédito de Arizona que, según Metallicus, se unió al piloto simulado de stablecoins de Metallicus en diciembre de 2025.",
+   "summary_en": "Arizona credit union that, according to Metallicus, joined Metallicus's simulated stablecoin pilot in December 2025.",
+   "type": "organization",
+   "group": "partners"
+  },
+  {
+   "id": "one-nevada-cu",
+   "facts": [
+    {
+     "es": "En la red de pruebas de XPR existe el contrato onusd.token (token ONUSD), creado el 2025-08-21, cuyos metadatos enlazan a onenevada.org; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+     "en": "The XPR testnet has the contract onusd.token (token ONUSD), created on 2025-08-21, whose metadata links to onenevada.org; on 15 Nov 2026 it had 1,000 units issued.",
+     "status": "confirmed",
+     "date": "2025-08-21",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador de la red de pruebas, contrato onusd.token (consultado el 15-nov-2026)",
+       "url": "https://testnet.explorer.xprnetwork.org/account/onusd.token"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, el 25 de noviembre de 2025 anunció su incorporación al Stablecoin Pilot Program (entorno simulado, sin dinero real), con una declaración de su presidente y CEO, Steve O'Donnell.",
+     "en": "According to Metallicus, on November 25, 2025 it announced its entry into the Stablecoin Pilot Program (simulated environment, no real money), with a statement by its President & CEO, Steve O'Donnell.",
+     "status": "self",
+     "date": "2025-11-25",
+     "sources": [
+      {
+       "title": "Metallicus – One Nevada Credit Union joins Stablecoin Pilot (25-nov-2025)",
+       "url": "https://metallicus.com/blog/one-nevada-credit-union-blockchain"
+      }
+     ]
+    },
+    {
+     "es": "El informe Q4 2025 de Metallicus la nombra entre las cooperativas que se unieron al piloto ese trimestre.",
+     "en": "Metallicus's Q4 2025 report names it among the credit unions that joined the pilot that quarter.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
+      }
+     ]
+    }
+   ],
+   "name": "One Nevada Credit Union",
+   "summary_es": "Cooperativa de crédito de Nevada que, según Metallicus, se unió al piloto simulado de stablecoins de Metallicus en noviembre de 2025.",
+   "summary_en": "Nevada credit union that, according to Metallicus, joined Metallicus's simulated stablecoin pilot in November 2025.",
+   "type": "organization",
+   "group": "partners"
+  },
+  {
+   "id": "oneaz-cu",
+   "facts": [
+    {
+     "es": "En la red de pruebas de XPR existe el contrato oazd.token (token OAZD), creado el 2025-08-21, cuyos metadatos enlazan a oneazcu.com; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+     "en": "The XPR testnet has the contract oazd.token (token OAZD), created on 2025-08-21, whose metadata links to oneazcu.com; on 15 Nov 2026 it had 1,000 units issued.",
+     "status": "confirmed",
+     "date": "2025-08-21",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador de la red de pruebas, contrato oazd.token (consultado el 15-nov-2026)",
+       "url": "https://testnet.explorer.xprnetwork.org/account/oazd.token"
+      }
+     ]
+    },
+    {
+     "es": "Según su web, OneAZ tiene unos 3.400 millones de dólares en activos y más de 200.000 socios, y fue fundada en 1951.",
+     "en": "According to its website, OneAZ has about $3.4 billion in assets and more than 200,000 members, and was founded in 1951.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+       "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+      }
+     ]
+    },
+    {
+     "es": "En junio de 2024 (comunicado fechado el 11 de junio y publicado también en la web de OneAZ) se anunció su incorporación al Metal Blockchain Banking Innovation Program.",
+     "en": "In June 2024 (release dated June 11 and also published on OneAZ's website) its enrollment in the Metal Blockchain Banking Innovation Program was announced.",
+     "status": "confirmed",
+     "date": "2024-06-11",
+     "sources": [
+      {
+       "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+       "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+      },
+      {
+       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+      }
+     ]
+    },
+    {
+     "es": "Su presidente y CEO, Brandon Michaels, y su EVP y CTO, Sandeep Uthra, presentaron la incorporación como una exploración del potencial de blockchain para sus socios.",
+     "en": "Its President & CEO Brandon Michaels and EVP & CTO Sandeep Uthra presented the enrollment as an exploration of blockchain's potential for their members.",
+     "status": "confirmed",
+     "date": "2024-06",
+     "sources": [
+      {
+       "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
+       "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
+      },
+      {
+       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+      }
+     ]
+    },
+    {
+     "es": "La NASCUS (citando a CUToday) la presentó como la segunda cooperativa en unirse a la iniciativa, después de Patelco.",
+     "en": "NASCUS (citing CUToday) presented it as the second credit union to join the initiative, after Patelco.",
+     "status": "confirmed",
+     "date": "2024-06-20",
+     "sources": [
+      {
+       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+      }
+     ]
+    }
+   ],
+   "name": "OneAZ Credit Union",
+   "summary_es": "Cooperativa de crédito que se incorporó al Banking Innovation Program de Metallicus en junio de 2024; según la NASCUS, fue la segunda en hacerlo, después de Patelco.",
+   "summary_en": "Credit union that joined Metallicus's Banking Innovation Program in June 2024; according to NASCUS, it was the second to do so, after Patelco.",
+   "website": "https://www.oneazcu.com",
+   "type": "organization",
+   "group": "partners"
+  },
+  {
+   "id": "st-cloud-fcu",
+   "facts": [
+    {
+     "es": "En la red de pruebas de XPR existe el contrato cldusd.token (token CLDUSD), creado el 2025-09-04, cuyos metadatos enlazan a scfcu.org; el 15-nov-2026 tenía 1.001 unidades emitidas.",
+     "en": "The XPR testnet has the contract cldusd.token (token CLDUSD), created on 2025-09-04, whose metadata links to scfcu.org; on 15 Nov 2026 it had 1,001 units issued.",
+     "status": "confirmed",
+     "date": "2025-09-04",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador de la red de pruebas, contrato cldusd.token (consultado el 15-nov-2026)",
+       "url": "https://testnet.explorer.xprnetwork.org/account/cldusd.token"
+      }
+     ]
+    },
+    {
+     "es": "CoinDesk y Co-operative News la describen como una cooperativa de Minnesota con más de 400 millones de dólares en activos.",
+     "en": "CoinDesk and Co-operative News describe it as a Minnesota credit union with over $400 million in assets.",
+     "status": "confirmed",
+     "date": "2025-09",
+     "sources": [
+      {
+       "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+       "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+      },
+      {
+       "title": "Co-operative News – US credit union launches stablecoin crypto (12-sep-2025)",
+       "url": "https://www.thenews.coop/us-credit-union-launches-stablecoin-crypto-as-part-of-digital-asset-platform/"
+      }
+     ]
+    },
+    {
+     "es": "Un artículo de CreditUnions.com, marcado como contenido patrocinado (mayo de 2026), la sitúa en Sartell (Minnesota) con 430,0 millones de dólares en activos, 28.066 socios y 5 sucursales.",
+     "en": "A CreditUnions.com article marked as sponsored content (May 2026) places it in Sartell, Minnesota, with $430.0 million in assets, 28,066 members and 5 branches.",
+     "status": "self",
+     "date": "2026-05-11",
+     "sources": [
+      {
+       "title": "CreditUnions.com (contenido patrocinado) – A credit union journey into cryptocurrency and stablecoins (11-may-2026)",
+       "url": "https://creditunions.com/features/a-credit-union-journey-into-cryptocurrency-and-stablecoins/"
+      }
+     ]
+    },
+    {
+     "es": "Es la propietaria principal de DaLand CUSO, en la que invirtió en agosto de 2024 junto con Altra.",
+     "en": "It is the principal owner of DaLand CUSO, in which it invested in August 2024 together with Altra.",
+     "status": "confirmed",
+     "date": "2024-08-14",
+     "sources": [
+      {
+       "title": "CUInsight – St. Cloud Financial CU announces strategic investment in DaLand CUSO (14-ago-2024)",
+       "url": "https://www.cuinsight.com/press-release/st-cloud-financial-credit-union-announces-strategic-investment-in-daland-cuso/"
+      },
+      {
+       "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
+       "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
+      }
+     ]
+    },
+    {
+     "es": "El 16 de septiembre de 2025 Metallicus anunció, con declaraciones de Chase Larson (EVP/CLO de St. Cloud) y Jeff Levesque (CEO de DaLand), que St. Cloud emitiría la stablecoin Cloud Dollar ($CLDUSD) en Metal Blockchain, integrada con su núcleo bancario mediante Coin2Core de DaLand. CoinDesk lo había adelantado el 10 de septiembre.",
+     "en": "On September 16, 2025 Metallicus announced, with statements by Chase Larson (St. Cloud EVP/CLO) and Jeff Levesque (DaLand CEO), that St. Cloud would issue the Cloud Dollar ($CLDUSD) stablecoin on Metal Blockchain, integrated with its core through DaLand's Coin2Core. CoinDesk had reported it on September 10.",
+     "status": "confirmed",
+     "date": "2025-09-16",
+     "sources": [
+      {
+       "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+       "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+      },
+      {
+       "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+       "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+      }
+     ]
+    },
+    {
+     "es": "La afirmación de que CLDUSD sería la primera stablecoin emitida por una cooperativa de crédito de EE. UU. es de la propia cooperativa y de Metallicus; CoinDesk la presenta como una afirmación de la entidad.",
+     "en": "The claim that CLDUSD would be the first stablecoin issued by a U.S. credit union comes from the credit union and Metallicus; CoinDesk presents it as the institution's own claim.",
+     "status": "self",
+     "date": "2025-09",
+     "sources": [
+      {
+       "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
+       "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
+      },
+      {
+       "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
+       "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
+      }
+     ]
+    },
+    {
+     "es": "Según CreditUnions.com (contenido patrocinado), St. Cloud abrió su CU-Digital Asset Vault a todos sus socios en marzo de 2026, tras un piloto de amigos y familiares en diciembre y una auditoría de la NCUA a finales de 2025.",
+     "en": "According to CreditUnions.com (sponsored content), St. Cloud opened its CU-Digital Asset Vault to all members in March 2026, after a friends-and-family pilot in December and an NCUA audit in late 2025.",
+     "status": "self",
+     "date": "2026-05-11",
+     "sources": [
+      {
+       "title": "CreditUnions.com (contenido patrocinado) – A credit union journey into cryptocurrency and stablecoins (11-may-2026)",
+       "url": "https://creditunions.com/features/a-credit-union-journey-into-cryptocurrency-and-stablecoins/"
+      }
+     ]
+    }
+   ],
+   "name": "St. Cloud Financial Credit Union",
+   "summary_es": "Cooperativa de crédito de Minnesota con más de 400 millones de dólares en activos y propietaria principal de DaLand CUSO. En septiembre de 2025 Metallicus anunció que emitiría la stablecoin Cloud Dollar ($CLDUSD) sobre Metal Blockchain, con DaLand.",
+   "summary_en": "Minnesota credit union with more than $400 million in assets and principal owner of DaLand CUSO. In September 2025 Metallicus announced it would issue the Cloud Dollar ($CLDUSD) stablecoin on Metal Blockchain, with DaLand.",
+   "website": "https://www.scfcu.org",
+   "type": "organization",
+   "group": "partners"
+  },
+  {
+   "id": "gesa-cu",
+   "facts": [
+    {
+     "es": "En la red de pruebas de XPR existe el contrato gesad.token (token GESAD), creado el 2026-01-08, cuyos metadatos enlazan a gesa.com; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+     "en": "The XPR testnet has the contract gesad.token (token GESAD), created on 2026-01-08, whose metadata links to gesa.com; on 15 Nov 2026 it had 1,000 units issued.",
+     "status": "confirmed",
+     "date": "2026-01-08",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador de la red de pruebas, contrato gesad.token (consultado el 15-nov-2026)",
+       "url": "https://testnet.explorer.xprnetwork.org/account/gesad.token"
+      }
+     ]
+    },
+    {
+     "es": "El 16 de julio de 2024 Gesa publicó en su propia web su participación en el programa; el comunicado de Metallicus de ese día incluye una declaración de su CIO, Andrew Chung.",
+     "en": "On July 16, 2024 Gesa published its participation in the program on its own website; Metallicus's release that day includes a statement by its CIO, Andrew Chung.",
+     "status": "confirmed",
+     "date": "2024-07-16",
+     "sources": [
+      {
+       "title": "Gesa Credit Union – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+       "url": "https://gesa.com/gesa-credit-union-joins-metal-blockchains-banking-innovation-program"
+      },
+      {
+       "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+       "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
+      }
+     ]
+    },
+    {
+     "es": "Según el comunicado, Gesa tiene más de 5.500 millones de dólares en activos y más de 290.000 socios.",
+     "en": "According to the release, Gesa has over $5.5 billion in assets and more than 290,000 members.",
+     "status": "self",
+     "date": "2024-07-16",
+     "sources": [
+      {
+       "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
+       "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
+      }
+     ]
+    }
+   ],
+   "name": "Gesa Credit Union",
+   "summary_es": "Cooperativa de crédito que se unió al Banking Innovation Program en julio de 2024.",
+   "summary_en": "Credit union that joined the Banking Innovation Program in July 2024.",
+   "type": "organization",
    "group": "partners"
   },
   {
@@ -4956,105 +5429,6 @@
    ]
   },
   {
-   "id": "st-cloud-fcu",
-   "name": "St. Cloud Financial Credit Union",
-   "type": "organization",
-   "group": "partners",
-   "summary_es": "Cooperativa de crédito de Minnesota con más de 400 millones de dólares en activos y propietaria principal de DaLand CUSO. En septiembre de 2025 Metallicus anunció que emitiría la stablecoin Cloud Dollar ($CLDUSD) sobre Metal Blockchain, con DaLand.",
-   "summary_en": "Minnesota credit union with more than $400 million in assets and principal owner of DaLand CUSO. In September 2025 Metallicus announced it would issue the Cloud Dollar ($CLDUSD) stablecoin on Metal Blockchain, with DaLand.",
-   "website": "https://www.scfcu.org",
-   "facts": [
-    {
-     "es": "CoinDesk y Co-operative News la describen como una cooperativa de Minnesota con más de 400 millones de dólares en activos.",
-     "en": "CoinDesk and Co-operative News describe it as a Minnesota credit union with over $400 million in assets.",
-     "status": "confirmed",
-     "date": "2025-09",
-     "sources": [
-      {
-       "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
-       "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
-      },
-      {
-       "title": "Co-operative News – US credit union launches stablecoin crypto (12-sep-2025)",
-       "url": "https://www.thenews.coop/us-credit-union-launches-stablecoin-crypto-as-part-of-digital-asset-platform/"
-      }
-     ]
-    },
-    {
-     "es": "Un artículo de CreditUnions.com, marcado como contenido patrocinado (mayo de 2026), la sitúa en Sartell (Minnesota) con 430,0 millones de dólares en activos, 28.066 socios y 5 sucursales.",
-     "en": "A CreditUnions.com article marked as sponsored content (May 2026) places it in Sartell, Minnesota, with $430.0 million in assets, 28,066 members and 5 branches.",
-     "status": "self",
-     "date": "2026-05-11",
-     "sources": [
-      {
-       "title": "CreditUnions.com (contenido patrocinado) – A credit union journey into cryptocurrency and stablecoins (11-may-2026)",
-       "url": "https://creditunions.com/features/a-credit-union-journey-into-cryptocurrency-and-stablecoins/"
-      }
-     ]
-    },
-    {
-     "es": "Es la propietaria principal de DaLand CUSO, en la que invirtió en agosto de 2024 junto con Altra.",
-     "en": "It is the principal owner of DaLand CUSO, in which it invested in August 2024 together with Altra.",
-     "status": "confirmed",
-     "date": "2024-08-14",
-     "sources": [
-      {
-       "title": "CUInsight – St. Cloud Financial CU announces strategic investment in DaLand CUSO (14-ago-2024)",
-       "url": "https://www.cuinsight.com/press-release/st-cloud-financial-credit-union-announces-strategic-investment-in-daland-cuso/"
-      },
-      {
-       "title": "CUInsight – DaLand CUSO welcomes Blaze Credit Union as a shareholder (20-mar-2025)",
-       "url": "https://www.cuinsight.com/press-release/daland-cuso-welcomes-blaze-credit-union-as-a-shareholder-and-strategic-partner/"
-      }
-     ]
-    },
-    {
-     "es": "El 16 de septiembre de 2025 Metallicus anunció, con declaraciones de Chase Larson (EVP/CLO de St. Cloud) y Jeff Levesque (CEO de DaLand), que St. Cloud emitiría la stablecoin Cloud Dollar ($CLDUSD) en Metal Blockchain, integrada con su núcleo bancario mediante Coin2Core de DaLand. CoinDesk lo había adelantado el 10 de septiembre.",
-     "en": "On September 16, 2025 Metallicus announced, with statements by Chase Larson (St. Cloud EVP/CLO) and Jeff Levesque (DaLand CEO), that St. Cloud would issue the Cloud Dollar ($CLDUSD) stablecoin on Metal Blockchain, integrated with its core through DaLand's Coin2Core. CoinDesk had reported it on September 10.",
-     "status": "confirmed",
-     "date": "2025-09-16",
-     "sources": [
-      {
-       "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
-       "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
-      },
-      {
-       "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
-       "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
-      }
-     ]
-    },
-    {
-     "es": "La afirmación de que CLDUSD sería la primera stablecoin emitida por una cooperativa de crédito de EE. UU. es de la propia cooperativa y de Metallicus; CoinDesk la presenta como una afirmación de la entidad.",
-     "en": "The claim that CLDUSD would be the first stablecoin issued by a U.S. credit union comes from the credit union and Metallicus; CoinDesk presents it as the institution's own claim.",
-     "status": "self",
-     "date": "2025-09",
-     "sources": [
-      {
-       "title": "Metallicus – St. Cloud Financial Credit Union to launch first credit union stablecoin (16-sep-2025)",
-       "url": "https://metallicus.com/blog/st-cloud-credit-union-stablecoin"
-      },
-      {
-       "title": "CoinDesk (vía Yahoo Finance) – Minnesota credit union to launch stablecoin (10-sep-2025)",
-       "url": "https://finance.yahoo.com/news/minnesota-credit-union-launch-stablecoin-150051871.html"
-      }
-     ]
-    },
-    {
-     "es": "Según CreditUnions.com (contenido patrocinado), St. Cloud abrió su CU-Digital Asset Vault a todos sus socios en marzo de 2026, tras un piloto de amigos y familiares en diciembre y una auditoría de la NCUA a finales de 2025.",
-     "en": "According to CreditUnions.com (sponsored content), St. Cloud opened its CU-Digital Asset Vault to all members in March 2026, after a friends-and-family pilot in December and an NCUA audit in late 2025.",
-     "status": "self",
-     "date": "2026-05-11",
-     "sources": [
-      {
-       "title": "CreditUnions.com (contenido patrocinado) – A credit union journey into cryptocurrency and stablecoins (11-may-2026)",
-       "url": "https://creditunions.com/features/a-credit-union-journey-into-cryptocurrency-and-stablecoins/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "cldusd",
    "name": "Cloud Dollar ($CLDUSD)",
    "type": "token",
@@ -5587,72 +5961,6 @@
    ]
   },
   {
-   "id": "oneaz-cu",
-   "name": "OneAZ Credit Union",
-   "type": "organization",
-   "group": "partners",
-   "summary_es": "Cooperativa de crédito que se incorporó al Banking Innovation Program de Metallicus en junio de 2024; según la NASCUS, fue la segunda en hacerlo, después de Patelco.",
-   "summary_en": "Credit union that joined Metallicus's Banking Innovation Program in June 2024; according to NASCUS, it was the second to do so, after Patelco.",
-   "website": "https://www.oneazcu.com",
-   "facts": [
-    {
-     "es": "Según su web, OneAZ tiene unos 3.400 millones de dólares en activos y más de 200.000 socios, y fue fundada en 1951.",
-     "en": "According to its website, OneAZ has about $3.4 billion in assets and more than 200,000 members, and was founded in 1951.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
-       "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
-      }
-     ]
-    },
-    {
-     "es": "En junio de 2024 (comunicado fechado el 11 de junio y publicado también en la web de OneAZ) se anunció su incorporación al Metal Blockchain Banking Innovation Program.",
-     "en": "In June 2024 (release dated June 11 and also published on OneAZ's website) its enrollment in the Metal Blockchain Banking Innovation Program was announced.",
-     "status": "confirmed",
-     "date": "2024-06-11",
-     "sources": [
-      {
-       "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
-       "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
-      },
-      {
-       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
-       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
-      }
-     ]
-    },
-    {
-     "es": "Su presidente y CEO, Brandon Michaels, y su EVP y CTO, Sandeep Uthra, presentaron la incorporación como una exploración del potencial de blockchain para sus socios.",
-     "en": "Its President & CEO Brandon Michaels and EVP & CTO Sandeep Uthra presented the enrollment as an exploration of blockchain's potential for their members.",
-     "status": "confirmed",
-     "date": "2024-06",
-     "sources": [
-      {
-       "title": "OneAZ Credit Union – OneAZ Credit Union joins Metal Blockchain's Banking Innovation Program (jun-2024)",
-       "url": "https://oneazcu.com/about/news/2024/oneaz-credit-union-joins-metal-blockchains-banking-innovation-program"
-      },
-      {
-       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
-       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
-      }
-     ]
-    },
-    {
-     "es": "La NASCUS (citando a CUToday) la presentó como la segunda cooperativa en unirse a la iniciativa, después de Patelco.",
-     "en": "NASCUS (citing CUToday) presented it as the second credit union to join the initiative, after Patelco.",
-     "status": "confirmed",
-     "date": "2024-06-20",
-     "sources": [
-      {
-       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
-       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "patelco-cu",
    "name": "Patelco Credit Union",
    "type": "organization",
@@ -5685,44 +5993,6 @@
       {
        "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
        "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gesa-cu",
-   "name": "Gesa Credit Union",
-   "type": "organization",
-   "group": "partners",
-   "summary_es": "Cooperativa de crédito que se unió al Banking Innovation Program en julio de 2024.",
-   "summary_en": "Credit union that joined the Banking Innovation Program in July 2024.",
-   "facts": [
-    {
-     "es": "El 16 de julio de 2024 Gesa publicó en su propia web su participación en el programa; el comunicado de Metallicus de ese día incluye una declaración de su CIO, Andrew Chung.",
-     "en": "On July 16, 2024 Gesa published its participation in the program on its own website; Metallicus's release that day includes a statement by its CIO, Andrew Chung.",
-     "status": "confirmed",
-     "date": "2024-07-16",
-     "sources": [
-      {
-       "title": "Gesa Credit Union – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
-       "url": "https://gesa.com/gesa-credit-union-joins-metal-blockchains-banking-innovation-program"
-      },
-      {
-       "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
-       "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
-      }
-     ]
-    },
-    {
-     "es": "Según el comunicado, Gesa tiene más de 5.500 millones de dólares en activos y más de 290.000 socios.",
-     "en": "According to the release, Gesa has over $5.5 billion in assets and more than 290,000 members.",
-     "status": "self",
-     "date": "2024-07-16",
-     "sources": [
-      {
-       "title": "StreetInsider (ACCESSWIRE) – Gesa Credit Union joins Metal Blockchain's Banking Innovation Program (16-jul-2024)",
-       "url": "https://www.streetinsider.com/ACCESS+Newswire/Gesa+Credit+Union+Joins+Metal+Blockchain%27s+Banking+Innovation+Program/23468449.html"
       }
      ]
     }
@@ -6085,72 +6355,6 @@
       {
        "title": "Metal Blockchain – Directions Credit Union joins Banking Innovation Program (19-may-2025)",
        "url": "https://metalblockchain.org/news-insights/directions-credit-union-blockchain"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "one-nevada-cu",
-   "name": "One Nevada Credit Union",
-   "type": "organization",
-   "group": "partners",
-   "summary_es": "Cooperativa de crédito de Nevada que, según Metallicus, se unió al piloto simulado de stablecoins de Metallicus en noviembre de 2025.",
-   "summary_en": "Nevada credit union that, according to Metallicus, joined Metallicus's simulated stablecoin pilot in November 2025.",
-   "facts": [
-    {
-     "es": "Según Metallicus, el 25 de noviembre de 2025 anunció su incorporación al Stablecoin Pilot Program (entorno simulado, sin dinero real), con una declaración de su presidente y CEO, Steve O'Donnell.",
-     "en": "According to Metallicus, on November 25, 2025 it announced its entry into the Stablecoin Pilot Program (simulated environment, no real money), with a statement by its President & CEO, Steve O'Donnell.",
-     "status": "self",
-     "date": "2025-11-25",
-     "sources": [
-      {
-       "title": "Metallicus – One Nevada Credit Union joins Stablecoin Pilot (25-nov-2025)",
-       "url": "https://metallicus.com/blog/one-nevada-credit-union-blockchain"
-      }
-     ]
-    },
-    {
-     "es": "El informe Q4 2025 de Metallicus la nombra entre las cooperativas que se unieron al piloto ese trimestre.",
-     "en": "Metallicus's Q4 2025 report names it among the credit unions that joined the pilot that quarter.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
-       "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "arizona-financial-cu",
-   "name": "Arizona Financial Credit Union",
-   "type": "organization",
-   "group": "partners",
-   "summary_es": "Cooperativa de crédito de Arizona que, según Metallicus, se unió al piloto simulado de stablecoins de Metallicus en diciembre de 2025.",
-   "summary_en": "Arizona credit union that, according to Metallicus, joined Metallicus's simulated stablecoin pilot in December 2025.",
-   "facts": [
-    {
-     "es": "Según Metallicus, el 4 de diciembre de 2025 anunció su incorporación al Stablecoin Pilot Program, con una declaración de su SVP de I+D, Eric Givens, que subrayó el uso de reservas simuladas.",
-     "en": "According to Metallicus, on December 4, 2025 it announced its entry into the Stablecoin Pilot Program, with a statement by its SVP of R&D, Eric Givens, who stressed the use of simulated reserves.",
-     "status": "self",
-     "date": "2025-12-04",
-     "sources": [
-      {
-       "title": "Metallicus – Arizona Financial Credit Union joins Stablecoin Pilot (4-dic-2025)",
-       "url": "https://metallicus.com/blog/arizona-financial-credit-union-blockchain-stablecoin"
-      }
-     ]
-    },
-    {
-     "es": "El informe Q4 2025 de Metallicus la nombra entre las cooperativas que se unieron al piloto ese trimestre.",
-     "en": "Metallicus's Q4 2025 report names it among the credit unions that joined the pilot that quarter.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Metallicus – Informe trimestral Q4 2025 (PDF)",
-       "url": "https://cdn.metallicus.com/metallicus_2025_q4.pdf"
       }
      ]
     }
@@ -6833,92 +7037,6 @@
       {
        "title": "Metal DAO – MIP-002: Homecoming (metalhomecoming.com, may-2026)",
        "url": "https://metalhomecoming.com/"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "metal-dollar",
-   "name": "Metal Dollar (XMD)",
-   "type": "token",
-   "group": "products",
-   "summary_es": "Stablecoin índice de Metallicus que, según la empresa, está respaldada por una cesta de stablecoins en dólares; cotiza en Metal X y tiene contrato en Ethereum. Su estado es contradictorio: se negocia desde 2022, pero Metallicus la describía en 2026 como en testnet y con un lanzamiento aún en preparación.",
-   "summary_en": "Metallicus's index stablecoin which, according to the company, is backed by a basket of dollar stablecoins; it trades on Metal X and has an Ethereum contract. Its status is contradictory: it has traded since 2022, yet in 2026 Metallicus described it as on testnet with a launch still being prepared.",
-   "website": "https://www.metallicus.com/metal-dollar",
-   "facts": [
-    {
-     "es": "Según Metallicus, XMD se lanzó con Proton DEX en noviembre de 2022 sobre Proton, con una cesta de USDC, BUSDC, TUSD y USDP.",
-     "en": "According to Metallicus, XMD launched with Proton DEX in November 2022 on Proton, with a basket of USDC, BUSDC, TUSD and USDP.",
-     "status": "self",
-     "date": "2022-11-16",
-     "sources": [
-      {
-       "title": "Business Wire – Proton DEX launch (16-nov-2022)",
-       "url": "https://www.businesswire.com/news/home/20221116005877/en/Proton-DEX-Revolutionizes-DeFi-With-True-Decentralization-That-Gives-Customers-Control-Of-Digital-Assets-At-All-Times"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, en abril de 2026 la cesta estaba formada por USDC, PYUSD, USDP y RLUSD, gobernada por los titulares de MTL, y se puede acuñar o canjear 1:1 con cualquier stablecoin de la cesta.",
-     "en": "According to Metallicus, in April 2026 the basket was USDC, PYUSD, USDP and RLUSD, governed by MTL holders, and XMD can be minted or redeemed 1:1 against any basket stablecoin.",
-     "status": "self",
-     "date": "2026-04",
-     "sources": [
-      {
-       "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
-       "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
-      },
-      {
-       "title": "Metallicus – Metal Dollar",
-       "url": "https://www.metallicus.com/metal-dollar"
-      }
-     ]
-    },
-    {
-     "es": "CoinGecko registra unos 836.560 XMD en circulación, un contrato en Ethereum (0xa6707a8a00e94d1834ccda2856c9cf948941078d) y mercados solo en Metal X; el precio mostrado era de unos 0,99 dólares (oct-2026).",
-     "en": "CoinGecko records about 836,560 XMD in circulation, an Ethereum contract (0xa6707a8a00e94d1834ccda2856c9cf948941078d) and markets only on Metal X; the displayed price was about $0.99 (Oct 2026).",
-     "status": "confirmed",
-     "date": "2026-10",
-     "sources": [
-      {
-       "title": "CoinGecko – Metal Dollar (XMD)",
-       "url": "https://www.coingecko.com/en/coins/metal-dollar"
-      }
-     ]
-    },
-    {
-     "es": "Su estado es contradictorio: XMD se negocia en Metal X desde 2022 y en el 3T de 2025 se añadió a Metal X Lending, pero el informe del 1T de 2026 dice que XMD «se estableció en testnet en el 4T de 2025» y que las auditorías estaban por programar; en el 2T de 2026 la gobernanza aprobó su expansión a Ethereum y preparaba un lanzamiento para el 3T.",
-     "en": "Its status is contradictory: XMD has traded on Metal X since 2022 and was added to Metal X Lending in Q3 2025, but the Q1 2026 report says XMD was \"established on testnet in Q4 2025\" with audits still being scheduled; in Q2 2026 governance approved its expansion to Ethereum and a Q3 launch was being prepared.",
-     "status": "disputed",
-     "sources": [
-      {
-       "title": "CoinGecko – Metal Dollar (XMD)",
-       "url": "https://www.coingecko.com/en/coins/metal-dollar"
-      },
-      {
-       "title": "Metallicus – Informe Q3 2025 (PDF)",
-       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
-      },
-      {
-       "title": "Metallicus – Informe trimestral Q1 2026 (PDF)",
-       "url": "https://cdn.metallicus.com/metallicus_q1_2026.pdf"
-      },
-      {
-       "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
-       "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, la gobernanza estudiaba en el 2T de 2026 añadir MGUSD, FIDD, RLUSD y SOFID a la cesta.",
-     "en": "According to Metallicus, in Q2 2026 governance was considering adding MGUSD, FIDD, RLUSD and SOFID to the basket.",
-     "status": "self",
-     "date": "2026-Q2",
-     "sources": [
-      {
-       "title": "Metallicus – 2026 Q2 Report (6-jul-2026)",
-       "url": "https://metallicus.com/blog/metallicus---2026-q2-report"
       }
      ]
     }

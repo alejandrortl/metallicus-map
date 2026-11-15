@@ -50,8 +50,8 @@
       "id": "banking-innovation-program",
       "facts": [
         {
-          "es": "En la red principal de XPR, el registro de tokens token.proton (2.787 entradas legibles el 15-nov-2026) no incluye ninguna stablecoin con marca de una cooperativa de crédito: las stablecoins que figuran son versiones envueltas (XUSDC, XUSDT, XPYUSD…), XMD y tokens de la comunidad. Encaja con que Metallicus sitúa las stablecoins del piloto en su entorno de pruebas; la red de pruebas no se pudo consultar.",
-          "en": "On XPR mainnet, the token.proton token registry (2,787 readable entries on 15 Nov 2026) contains no credit-union-branded stablecoin: the stablecoins listed are wrapped versions (XUSDC, XUSDT, XPYUSD…), XMD and community tokens. This is consistent with Metallicus placing the pilot stablecoins in its test environment; the testnet could not be queried.",
+          "es": "En la red principal de XPR, el registro de tokens token.proton (2.787 entradas legibles el 15-nov-2026) no incluye ninguna stablecoin con marca de una cooperativa de crédito: las stablecoins que figuran son versiones envueltas (XUSDC, XUSDT, XPYUSD…), XMD y tokens de la comunidad. Encaja con que Metallicus sitúa las stablecoins del piloto en su entorno de pruebas; véase el dato sobre la red de pruebas.",
+          "en": "On XPR mainnet, the token.proton token registry (2,787 readable entries on 15 Nov 2026) contains no credit-union-branded stablecoin: the stablecoins listed are wrapped versions (XUSDC, XUSDT, XPYUSD…), XMD and community tokens. This is consistent with Metallicus placing the pilot stablecoins in its test environment; see the fact on the testnet.",
           "status": "confirmed",
           "date": "2026-11-15",
           "sources": [
@@ -62,6 +62,154 @@
             {
               "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
               "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        },
+        {
+          "es": "En la red de pruebas de XPR, el registro token.proton contenía el 15-nov-2026 25 contratos de stablecoins de prueba creados entre julio de 2025 y marzo de 2026. En 21 de ellos los metadatos enlazan a la web de una cooperativa de crédito (SND, TWUSD, 4FUSD, OAZD, M1USD, FFUSD, AZUSD, ONUSD, GASD, CLDUSD, CWUSD, ALTUSD, USMCD, GESAD, NUMD, DFUSD, MTUSD, CFUSD, PCOD, NOBLED, MINNCO) y otros 4 (BFUSD, PCUSD, KPUSD, MCUSD, de julio de 2025) no identifican a ninguna entidad. La emisión no es cero: 22 contratos tienen 1.000 unidades emitidas, SND 100.000, CLDUSD 1.001 y solo MTUSD 0; ninguno fija suministro máximo. Que los metadatos apunten a una cooperativa no demuestra por sí solo que esa cooperativa participe en el piloto.",
+          "en": "On the XPR testnet, the token.proton registry held on 15 Nov 2026 25 test stablecoin contracts created between July 2025 and March 2026. In 21 of them the metadata links to a credit union website (SND, TWUSD, 4FUSD, OAZD, M1USD, FFUSD, AZUSD, ONUSD, GASD, CLDUSD, CWUSD, ALTUSD, USMCD, GESAD, NUMD, DFUSD, MTUSD, CFUSD, PCOD, NOBLED, MINNCO) and 4 more (BFUSD, PCUSD, KPUSD, MCUSD, from July 2025) identify no entity. Issuance is not zero: 22 contracts have 1,000 units issued, SND 100,000, CLDUSD 1,001 and only MTUSD 0; none sets a maximum supply. Metadata pointing to a credit union does not by itself prove that credit union takes part in the pilot.",
+          "status": "confirmed",
+          "date": "2026-11-15",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador de la red de pruebas, registro de tokens token.proton (consultado el 15-nov-2026)",
+              "url": "https://testnet.explorer.xprnetwork.org/account/token.proton"
+            },
+            {
+              "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+              "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metal-dollar",
+      "facts": [
+        {
+          "es": "Según el contrato de tesorería de XMD en la red principal de XPR (xmd.treasury, consulta del 15-nov-2026), los activos aceptados para acuñar y canjear son XUSDC (máximo 60 % de la tesorería), XPAX/USDP (15 %), XPYUSD (15 %) y MPD, «Metal Pay Dollar» (2 %); todas las comisiones de acuñación y canje están a 0. El suministro de XMD era de 2.441.158,95.",
+          "en": "According to the XMD treasury contract on XPR mainnet (xmd.treasury, queried 15 Nov 2026), the assets accepted for minting and redemption are XUSDC (max 60% of the treasury), XPAX/USDP (15%), XPYUSD (15%) and MPD, 'Metal Pay Dollar' (2%); all minting and redemption fees are set to 0. XMD supply was 2,441,158.95.",
+          "status": "confirmed",
+          "date": "2026-11-15",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador, contrato xmd.treasury (consultado el 15-nov-2026)",
+              "url": "https://explorer.xprnetwork.org/account/xmd.treasury"
+            },
+            {
+              "title": "XPR Network – Explorador, contrato xmd.token (consultado el 15-nov-2026)",
+              "url": "https://explorer.xprnetwork.org/account/xmd.token"
+            }
+          ]
+        },
+        {
+          "es": "¿Está RLUSD en la cesta? Metallicus dice que en abril de 2026 la cesta era USDC, PYUSD, USDP y RLUSD, pero el contrato de tesorería de XMD en XPR no incluía RLUSD el 15-nov-2026 e incluía en cambio MPD (Metal Pay Dollar), que Metallicus no menciona.",
+          "en": "Is RLUSD in the basket? Metallicus says the April 2026 basket was USDC, PYUSD, USDP and RLUSD, but the XMD treasury contract on XPR did not include RLUSD on 15 Nov 2026 and instead included MPD (Metal Pay Dollar), which Metallicus does not mention.",
+          "status": "disputed",
+          "sources": [
+            {
+              "title": "Metal L2 – Announcing MIP-002: Homecoming (16-abr-2026)",
+              "url": "https://metall2.com/news-insights/announcing-mip-002-homecoming"
+            },
+            {
+              "title": "XPR Network – Explorador, contrato xmd.treasury (consultado el 15-nov-2026)",
+              "url": "https://explorer.xprnetwork.org/account/xmd.treasury"
+            }
+          ]
+        },
+        {
+          "es": "El whitepaper de Metal Dollar v1.1 fija un quórum mínimo del 40 % del poder de voto para aprobar propuestas (1 XMT = 1 voto) y no menciona ninguna cuota de admisión para incorporar stablecoins a la cesta.",
+          "en": "The Metal Dollar whitepaper v1.1 sets a minimum quorum of 40% of voting power to pass proposals (1 XMT = 1 vote) and mentions no admission fee for adding stablecoins to the basket.",
+          "status": "self",
+          "sources": [
+            {
+              "title": "Metallicus – Metal Dollar Whitepaper v1.1 (PDF)",
+              "url": "https://cdn.metallicus.com/Metal_Dollar_Whitepaper_v1.1.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arizona-financial-cu",
+      "facts": [
+        {
+          "es": "En la red de pruebas de XPR existe el contrato azusd.token (token AZUSD), creado el 2025-08-21, cuyos metadatos enlazan a arizonafinancial.org; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+          "en": "The XPR testnet has the contract azusd.token (token AZUSD), created on 2025-08-21, whose metadata links to arizonafinancial.org; on 15 Nov 2026 it had 1,000 units issued.",
+          "status": "confirmed",
+          "date": "2025-08-21",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador de la red de pruebas, contrato azusd.token (consultado el 15-nov-2026)",
+              "url": "https://testnet.explorer.xprnetwork.org/account/azusd.token"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "one-nevada-cu",
+      "facts": [
+        {
+          "es": "En la red de pruebas de XPR existe el contrato onusd.token (token ONUSD), creado el 2025-08-21, cuyos metadatos enlazan a onenevada.org; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+          "en": "The XPR testnet has the contract onusd.token (token ONUSD), created on 2025-08-21, whose metadata links to onenevada.org; on 15 Nov 2026 it had 1,000 units issued.",
+          "status": "confirmed",
+          "date": "2025-08-21",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador de la red de pruebas, contrato onusd.token (consultado el 15-nov-2026)",
+              "url": "https://testnet.explorer.xprnetwork.org/account/onusd.token"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oneaz-cu",
+      "facts": [
+        {
+          "es": "En la red de pruebas de XPR existe el contrato oazd.token (token OAZD), creado el 2025-08-21, cuyos metadatos enlazan a oneazcu.com; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+          "en": "The XPR testnet has the contract oazd.token (token OAZD), created on 2025-08-21, whose metadata links to oneazcu.com; on 15 Nov 2026 it had 1,000 units issued.",
+          "status": "confirmed",
+          "date": "2025-08-21",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador de la red de pruebas, contrato oazd.token (consultado el 15-nov-2026)",
+              "url": "https://testnet.explorer.xprnetwork.org/account/oazd.token"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "st-cloud-fcu",
+      "facts": [
+        {
+          "es": "En la red de pruebas de XPR existe el contrato cldusd.token (token CLDUSD), creado el 2025-09-04, cuyos metadatos enlazan a scfcu.org; el 15-nov-2026 tenía 1.001 unidades emitidas.",
+          "en": "The XPR testnet has the contract cldusd.token (token CLDUSD), created on 2025-09-04, whose metadata links to scfcu.org; on 15 Nov 2026 it had 1,001 units issued.",
+          "status": "confirmed",
+          "date": "2025-09-04",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador de la red de pruebas, contrato cldusd.token (consultado el 15-nov-2026)",
+              "url": "https://testnet.explorer.xprnetwork.org/account/cldusd.token"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesa-cu",
+      "facts": [
+        {
+          "es": "En la red de pruebas de XPR existe el contrato gesad.token (token GESAD), creado el 2026-01-08, cuyos metadatos enlazan a gesa.com; el 15-nov-2026 tenía 1.000 unidades emitidas.",
+          "en": "The XPR testnet has the contract gesad.token (token GESAD), created on 2026-01-08, whose metadata links to gesa.com; on 15 Nov 2026 it had 1,000 units issued.",
+          "status": "confirmed",
+          "date": "2026-01-08",
+          "sources": [
+            {
+              "title": "XPR Network – Explorador de la red de pruebas, contrato gesad.token (consultado el 15-nov-2026)",
+              "url": "https://testnet.explorer.xprnetwork.org/account/gesad.token"
             }
           ]
         }
