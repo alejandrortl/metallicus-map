@@ -2814,14 +2814,22 @@
      ]
     },
     {
-     "es": "Según su LinkedIn, fue mentor del programa «20 Under 20» de la Thiel Foundation de abril de 2013 a enero de 2015.",
-     "en": "According to his LinkedIn, he was a mentor in the Thiel Foundation's \"20 Under 20\" programme from April 2013 to January 2015.",
-     "status": "self",
+     "es": "En su LinkedIn dice que fue mentor de la «segunda promoción» del programa «20 Under 20» de la Thiel Foundation, de abril de 2013 a enero de 2015. Las fechas no encajan: la segunda promoción se anunció en junio de 2012, y ese periodo corresponde a las promociones de 2013 y 2014. Ninguna fuente pública lo nombra como mentor.",
+     "en": "On his LinkedIn he says he was a mentor in the \"second cohort\" of the Thiel Foundation's \"20 Under 20\" programme, from April 2013 to January 2015. The dates do not fit: the second cohort was announced in June 2012, and that period matches the 2013 and 2014 cohorts. No public source names him as a mentor.",
+     "status": "disputed",
      "date": "2013-04",
      "sources": [
       {
        "title": "LinkedIn – Nathan Lands",
        "url": "https://www.linkedin.com/in/nathanlands/"
+      },
+      {
+       "title": "Wikipedia – Thiel Fellowship (cronología de promociones)",
+       "url": "https://en.wikipedia.org/wiki/Thiel_Fellowship"
+      },
+      {
+       "title": "Business Wire – Promoción 2013 de Thiel Fellows (9 may 2013)",
+       "url": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows"
       }
      ]
     }
