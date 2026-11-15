@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-11-15",
  "nodes": [
   {
    "id": "metallicus",
@@ -1764,6 +1764,106 @@
       {
        "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
        "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dogeathon-downunder-2022",
+   "name": "Dogeathon Downunder (Australia, 2022)",
+   "type": "event",
+   "group": "history",
+   "website": "https://dogecoin.com/dogeathon-2022",
+   "summary_es": "Primer hackatón oficial de Dogecoin, organizado por la Dogecoin Foundation del 15 al 19 de noviembre de 2022 en Yarra Ranges (Victoria, Australia) y en línea. Metallicus fue uno de sus dos patrocinadores principales.",
+   "summary_en": "The first official Dogecoin hackathon, organized by the Dogecoin Foundation from 15 to 19 November 2022 in the Yarra Ranges (Victoria, Australia) and online. Metallicus was one of its two event sponsors.",
+   "facts": [
+    {
+     "es": "La Dogecoin Foundation lo anunció el 8 de septiembre de 2022 como el primer hackatón de Dogecoin («Inaugural Dogecoin Hackathon»).",
+     "en": "The Dogecoin Foundation announced it on September 8, 2022 as the inaugural Dogecoin hackathon.",
+     "status": "confirmed",
+     "date": "2022-09-08",
+     "sources": [
+      {
+       "title": "Dogecoin Foundation – Announcing the Inaugural Dogecoin Hackathon (8-sep-2022)",
+       "url": "https://foundation.dogecoin.com/announcements/2022-09-08-dogeathon-downunder/"
+      },
+      {
+       "title": "Metallicus blog – Metallicus sponsors inaugural Dogecoin Hackathon 'Dogeathon'",
+       "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
+      }
+     ]
+    },
+    {
+     "es": "Se celebró del 15 al 19 de noviembre de 2022 en el Chestnut Hill Conference Lodge (Yarra Ranges, Victoria, Australia), con participación en línea; las plazas presenciales se limitaron a 70.",
+     "en": "Held from November 15 to 19, 2022 at Chestnut Hill Conference Lodge (Yarra Ranges, Victoria, Australia), with online participation; in-person places were capped at 70.",
+     "status": "confirmed",
+     "date": "2022-11-15",
+     "sources": [
+      {
+       "title": "Dogecoin.com – Dogeathon 2022",
+       "url": "https://dogecoin.com/dogeathon-2022"
+      },
+      {
+       "title": "Benzinga – Dogecoin Hackathon heads for US in 2023 (9-dic-2022)",
+       "url": "https://www.benzinga.com/markets/cryptocurrency/22/12/30018769/dogecoin-hackathon-heads-for-us-in-2023-excitement-soars-as-users-say-to-the-moon"
+      }
+     ]
+    },
+    {
+     "es": "Giraba en torno a las herramientas de integración de Dogecoin: LibDogecoin, GigaWallet API, Core API y el puente Doge-Eth.",
+     "en": "It focused on Dogecoin's integration tools: LibDogecoin, GigaWallet API, Core API and the Doge-Eth Bridge.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Dogecoin Foundation – Announcing the Inaugural Dogecoin Hackathon (8-sep-2022)",
+       "url": "https://foundation.dogecoin.com/announcements/2022-09-08-dogeathon-downunder/"
+      },
+      {
+       "title": "Benzinga – Dogecoin Hackathon heads for US in 2023 (9-dic-2022)",
+       "url": "https://www.benzinga.com/markets/cryptocurrency/22/12/30018769/dogecoin-hackathon-heads-for-us-in-2023-excitement-soars-as-users-say-to-the-moon"
+      }
+     ]
+    },
+    {
+     "es": "El bote de premios partió de Ð 200.069 y la comunidad podía aumentarlo con propinas; la web del evento muestra al final Ð 201.186,922. Hubo premios de la comunidad y de un jurado.",
+     "en": "The prize pool started at Ð 200,069 and the community could top it up with tips; the event page shows a final Ð 201,186.922. There were community awards and panel awards.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Dogecoin Foundation – Announcing the Inaugural Dogecoin Hackathon (8-sep-2022)",
+       "url": "https://foundation.dogecoin.com/announcements/2022-09-08-dogeathon-downunder/"
+      },
+      {
+       "title": "Dogecoin.com – Dogeathon 2022",
+       "url": "https://dogecoin.com/dogeathon-2022"
+      }
+     ]
+    },
+    {
+     "es": "Patrocinadores: Blue Pepper y Metallicus como patrocinadores del evento, y MyDoge como patrocinador «Do Only Good Everyday», que financiaba becas para desarrolladores con dificultades económicas.",
+     "en": "Sponsors: Blue Pepper and Metallicus as event sponsors, and MyDoge as the 'Do Only Good Everyday' sponsor, which funded grants for developers in financial hardship.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Dogecoin Foundation – Announcing the Inaugural Dogecoin Hackathon (8-sep-2022)",
+       "url": "https://foundation.dogecoin.com/announcements/2022-09-08-dogeathon-downunder/"
+      },
+      {
+       "title": "Dogecoin.com – Dogeathon 2022",
+       "url": "https://dogecoin.com/dogeathon-2022"
+      }
+     ]
+    },
+    {
+     "es": "Tras el evento, la Dogecoin Foundation anunció que el Dogeathon se celebraría en Estados Unidos en 2023.",
+     "en": "After the event, the Dogecoin Foundation announced that the Dogeathon would be held in the United States in 2023.",
+     "status": "confirmed",
+     "date": "2022-12-09",
+     "sources": [
+      {
+       "title": "Benzinga – Dogecoin Hackathon heads for US in 2023 (9-dic-2022)",
+       "url": "https://www.benzinga.com/markets/cryptocurrency/22/12/30018769/dogecoin-hackathon-heads-for-us-in-2023-excitement-soars-as-users-say-to-the-moon"
       }
      ]
     }
@@ -7625,6 +7725,42 @@
     {
      "title": "Metallicus – Metallicus attains SOC2 compliance certification (undated)",
      "url": "https://metallicus.com/blog/metallicus-attains-soc2-compliance-certification"
+    }
+   ]
+  },
+  {
+   "from": "dogecoin-foundation",
+   "to": "dogeathon-downunder-2022",
+   "label_es": "organizó",
+   "label_en": "organized",
+   "status": "confirmed",
+   "date": "2022-11",
+   "sources": [
+    {
+     "title": "Dogecoin Foundation – Announcing the Inaugural Dogecoin Hackathon (8-sep-2022)",
+     "url": "https://foundation.dogecoin.com/announcements/2022-09-08-dogeathon-downunder/"
+    },
+    {
+     "title": "Benzinga – Dogecoin Hackathon heads for US in 2023 (9-dic-2022)",
+     "url": "https://www.benzinga.com/markets/cryptocurrency/22/12/30018769/dogecoin-hackathon-heads-for-us-in-2023-excitement-soars-as-users-say-to-the-moon"
+    }
+   ]
+  },
+  {
+   "from": "metallicus",
+   "to": "dogeathon-downunder-2022",
+   "label_es": "patrocinó",
+   "label_en": "sponsored",
+   "status": "confirmed",
+   "date": "2022-11",
+   "sources": [
+    {
+     "title": "Dogecoin Foundation – Announcing the Inaugural Dogecoin Hackathon (8-sep-2022)",
+     "url": "https://foundation.dogecoin.com/announcements/2022-09-08-dogeathon-downunder/"
+    },
+    {
+     "title": "Metallicus blog – Metallicus sponsors inaugural Dogecoin Hackathon 'Dogeathon'",
+     "url": "https://www.metallicus.com/blog/metallicus-sponsors-inaugural-dogecoin-hackathon-dogeathon"
     }
    ]
   },
