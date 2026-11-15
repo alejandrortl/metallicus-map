@@ -368,6 +368,34 @@
           ]
         },
         {
+          "es": "El 29 de junio de 2023 la Reserva Federal publicó la lista de organizaciones certificadas como listas para el lanzamiento de FedNow, con 15 proveedores de servicios; ni Metallicus, ni Metal Pay, ni Metal Blockchain figuran en ella. La página indica que no se actualizará.",
+          "en": "On June 29, 2023 the Federal Reserve published the list of organizations certified as ready for the FedNow launch, including 15 service providers; neither Metallicus, Metal Pay nor Metal Blockchain appears on it. The page states it will not be updated.",
+          "status": "confirmed",
+          "date": "2023-06-29",
+          "sources": [
+            {
+              "title": "Federal Reserve Financial Services – Organizations Certified as Ready for the FedNow Service (29-jun-2023)",
+              "url": "https://www.frbservices.org/financial-services/fednow/certified-organizations"
+            },
+            {
+              "title": "Federal Reserve Financial Services – Federal Reserve names organizations certified as ready for FedNow Service (29-jun-2023)",
+              "url": "https://www.frbservices.org/news/press-releases/062923-organizations-certified-ready-fednow/"
+            }
+          ]
+        },
+        {
+          "es": "El 30 de junio de 2023 Cointelegraph informó de que la mención de Metal Blockchain en el Service Provider Showcase de FedNow, aparecida el 11 de mayo, se retiró pocos días después, y de que no estaba en la lista de primeros adoptantes. Según Marshall Hayner, la empresa seguía queriendo integrarse cuando tuviera un banco patrocinador adecuado.",
+          "en": "On June 30, 2023 Cointelegraph reported that Metal Blockchain's mention in the FedNow Service Provider Showcase, which appeared on May 11, was removed a few days later, and that it was not on the early-adopter list. According to Marshall Hayner, the company still wanted to integrate once it had an appropriate bank sponsor.",
+          "status": "confirmed",
+          "date": "2023-06-30",
+          "sources": [
+            {
+              "title": "Cointelegraph – FedNow 'early adopter' list contains no blockchains, but some may integrate later (30-jun-2023)",
+              "url": "https://cointelegraph.com/news/fednow-early-adopter-list-contains-no-blockchains-but-some-may-integrate-later"
+            }
+          ]
+        },
+        {
           "es": "El 22 de octubre de 2024 Metallicus anunció que, tras completar el programa de pruebas y certificación de clientes de FedNow, quedó certificada como proveedor de servicios para instituciones financieras y empezó a procesar transacciones en vivo. Don Berk, COO, lo atribuyó al trabajo con socios bancarios y al equipo de ingeniería.",
           "en": "On October 22, 2024 Metallicus announced that, after completing FedNow's customer testing and certification program, it was certified as a service provider to financial institutions and began supporting live transactions. COO Don Berk credited work with banking partners and the engineering team.",
           "status": "self",
@@ -711,14 +739,18 @@
     {
       "from": "metal-blockchain",
       "to": "fednow",
-      "label_es": "figuró en el Service Provider Showcase de (según Metal)",
-      "label_en": "appeared in the Service Provider Showcase of (per Metal)",
-      "status": "self",
+      "label_es": "figuró unos días en el Service Provider Showcase de (retirado en mayo de 2023)",
+      "label_en": "briefly appeared in the Service Provider Showcase of (removed in May 2023)",
+      "status": "confirmed",
       "date": "2023-05",
       "sources": [
         {
           "title": "Cointelegraph – Federal Reserve's FedNow will integrate with Metal Blockchain (11-may-2023)",
           "url": "https://cointelegraph.com/news/federal-reserve-s-fednow-will-integrate-with-metal-blockchain"
+        },
+        {
+          "title": "Cointelegraph – FedNow 'early adopter' list contains no blockchains, but some may integrate later (30-jun-2023)",
+          "url": "https://cointelegraph.com/news/fednow-early-adopter-list-contains-no-blockchains-but-some-may-integrate-later"
         }
       ]
     },
