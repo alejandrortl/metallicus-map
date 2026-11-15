@@ -2486,6 +2486,30 @@
      ]
     },
     {
+     "es": "Consulta directa a la P-Chain el 15 de noviembre de 2026 (API pública api.metalblockchain.org, método platform.getCurrentValidators): 192 validadores activos, 184 de ellos conectados; ninguno con menos de 2.000 METAL de stake propio.",
+     "en": "Direct P-Chain query on 15 November 2026 (public API api.metalblockchain.org, method platform.getCurrentValidators): 192 active validators, 184 of them connected; none with less than 2,000 METAL of own stake.",
+     "status": "confirmed",
+     "date": "2026-11-15",
+     "sources": [
+      {
+       "title": "Metal Blockchain – Explorador, validadores (datos de la P-Chain consultados el 15-nov-2026)",
+       "url": "https://explorer.metalblockchain.org/validators"
+      }
+     ]
+    },
+    {
+     "es": "En la misma consulta (15-nov-2026), el stake total de la red primaria era de unos 126,2 millones de METAL (platform.getTotalStake): unos 54,95 millones aportados por los propios validadores y unos 71,25 millones delegados en 2.288 delegaciones.",
+     "en": "In the same query (15 Nov 2026), total primary-network stake was about 126.2 million METAL (platform.getTotalStake): about 54.95 million put up by the validators themselves and about 71.25 million delegated across 2,288 delegations.",
+     "status": "confirmed",
+     "date": "2026-11-15",
+     "sources": [
+      {
+       "title": "Metal Blockchain – Explorador, validadores (datos de la P-Chain consultados el 15-nov-2026)",
+       "url": "https://explorer.metalblockchain.org/validators"
+      }
+     ]
+    },
+    {
      "es": "El nodo oficial, metalgo, es un fork en GitHub del repositorio ava-labs/avalanchego (licencia BSD-3-Clause), y Cointelegraph describe Metal Blockchain como basada en un fork del código de Avalanche.",
      "en": "The official node, metalgo, is a GitHub fork of the ava-labs/avalanchego repository (BSD-3-Clause licence), and Cointelegraph describes Metal Blockchain as based on a fork of Avalanche's code.",
      "status": "confirmed",
@@ -4015,6 +4039,244 @@
    "group": "partners"
   },
   {
+   "id": "xpr-token",
+   "facts": [
+    {
+     "es": "Según la propia cadena (contrato eosio.token, consulta del 15-nov-2026), el suministro de XPR era de 32.739.941.120 XPR, sin suministro máximo fijado.",
+     "en": "According to the chain itself (eosio.token contract, queried 15 Nov 2026), XPR supply was 32,739,941,120 XPR, with no maximum supply set.",
+     "status": "confirmed",
+     "date": "2026-11-15",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador, contrato eosio.token (consultado el 15-nov-2026)",
+       "url": "https://explorer.xprnetwork.org/account/eosio.token"
+      }
+     ]
+    },
+    {
+     "es": "KuCoin listó XPR con los pares XPR/USDT y XPR/BTC; el trading empezó el 24 de agosto de 2021. Su ficha daba entonces un suministro total de 10.000 millones de XPR.",
+     "en": "KuCoin listed XPR with XPR/USDT and XPR/BTC pairs; trading began on 24 August 2021. Its note then gave a total supply of 10 billion XPR.",
+     "status": "confirmed",
+     "date": "2021-08-24",
+     "sources": [
+      {
+       "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
+       "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
+      }
+     ]
+    },
+    {
+     "es": "En oct-2026 CoinGecko muestra unos 28.650 millones de XPR en circulación, 32.390 millones de suministro total y ningún máximo, con contratos envueltos en Ethereum y BNB Smart Chain.",
+     "en": "In Oct 2026 CoinGecko shows about 28.65 billion XPR circulating, 32.39 billion total supply and no maximum, with wrapped contracts on Ethereum and BNB Smart Chain.",
+     "status": "confirmed",
+     "date": "2026-10",
+     "sources": [
+      {
+       "title": "CoinGecko – XPR Network (XPR)",
+       "url": "https://www.coingecko.com/en/coins/xpr-network"
+      }
+     ]
+    },
+    {
+     "es": "Mercados en oct-2026 según CoinGecko: KuCoin, Gate, MEXC, KCEX, Ourbit, BloFin, HiBT, DigiFinex, Uniswap V3 (Ethereum) y Metal X, entre otros.",
+     "en": "Markets in Oct 2026 per CoinGecko: KuCoin, Gate, MEXC, KCEX, Ourbit, BloFin, HiBT, DigiFinex, Uniswap V3 (Ethereum) and Metal X, among others.",
+     "status": "confirmed",
+     "date": "2026-10",
+     "sources": [
+      {
+       "title": "CoinGecko – XPR Network (XPR)",
+       "url": "https://www.coingecko.com/en/coins/xpr-network"
+      }
+     ]
+    },
+    {
+     "es": "Según el proyecto, XPR se usa para hacer staking y votar productores de bloque, y una parte del XPR gastado en recursos y acuñación de NFT se quema.",
+     "en": "According to the project, XPR is used to stake and vote for block producers, and part of the XPR spent on resources and NFT minting is burned.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
+       "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
+      },
+      {
+       "title": "XPR Network – How XPR Network Achieves Zero Gas Fees",
+       "url": "https://xprnetwork.org/blog/how-xpr-network-achieves-zero-gas-fees"
+      }
+     ]
+    }
+   ],
+   "name": "XPR (token)",
+   "summary_es": "Token nativo de XPR Network (antes Proton). Según el proyecto, se usa para hacer staking y votar productores de bloque, y parte del XPR gastado en recursos se quema.",
+   "summary_en": "Native token of XPR Network (formerly Proton). According to the project, it is used for staking and voting for block producers, and part of the XPR spent on resources is burned.",
+   "website": "https://xprnetwork.org/",
+   "type": "token",
+   "group": "products"
+  },
+  {
+   "id": "banking-innovation-program",
+   "facts": [
+    {
+     "es": "En la red principal de XPR, el registro de tokens token.proton (2.787 entradas legibles el 15-nov-2026) no incluye ninguna stablecoin con marca de una cooperativa de crédito: las stablecoins que figuran son versiones envueltas (XUSDC, XUSDT, XPYUSD…), XMD y tokens de la comunidad. Encaja con que Metallicus sitúa las stablecoins del piloto en su entorno de pruebas; la red de pruebas no se pudo consultar.",
+     "en": "On XPR mainnet, the token.proton token registry (2,787 readable entries on 15 Nov 2026) contains no credit-union-branded stablecoin: the stablecoins listed are wrapped versions (XUSDC, XUSDT, XPYUSD…), XMD and community tokens. This is consistent with Metallicus placing the pilot stablecoins in its test environment; the testnet could not be queried.",
+     "status": "confirmed",
+     "date": "2026-11-15",
+     "sources": [
+      {
+       "title": "XPR Network – Explorador, contrato token.proton (consultado el 15-nov-2026)",
+       "url": "https://explorer.xprnetwork.org/account/token.proton"
+      },
+      {
+       "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, el programa se anunció el 10 de enero de 2024 en San Francisco, centrado en identidad digital y cumplimiento de la Bank Secrecy Act (BSA), con talleres y soluciones a medida sin coste para las instituciones.",
+     "en": "According to Metallicus, the program was announced on January 10, 2024 in San Francisco, focused on digital identity and Bank Secrecy Act (BSA) compliance, with workshops and custom solutions at no cost to institutions.",
+     "status": "self",
+     "date": "2024-01-10",
+     "sources": [
+      {
+       "title": "Metal Blockchain – Metal Blockchain introduces its Banking Innovation Program (10-ene-2024)",
+       "url": "https://metalblockchain.org/news-insights/metal-blockchain-introduces-it-s-banking-innovation-program"
+      }
+     ]
+    },
+    {
+     "es": "La página del programa lo describe como un programa de investigación de coste cero con colaboración de expertos, talleres, alianzas con fintechs, desarrollo de casos de uso a medida y confidencialidad.",
+     "en": "The program page describes it as a zero-cost research program offering expert collaboration, workshops, fintech partnerships, custom use-case development and confidentiality.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metal Blockchain – Banking Innovation Program (página del programa)",
+       "url": "https://metalblockchain.org/banking-innovation-program"
+      }
+     ]
+    },
+    {
+     "es": "Comunicados de Metallicus de 2024 citan como áreas del programa la identidad digital, el inicio de sesión único (SSO), las subredes privadas y la tokenización de activos, además de becas de I+D y un consejo asesor.",
+     "en": "Metallicus releases from 2024 list the program's areas as digital identity, single sign-on (SSO), private subnets and asset tokenization, plus R&D grants and an advisory board.",
+     "status": "self",
+     "date": "2024",
+     "sources": [
+      {
+       "title": "Metallicus – Patelco Credit Union joins Metal Blockchain's Banking Innovation Program (16-may-2024)",
+       "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/patelco-credit-union-blockchain"
+      },
+      {
+       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
+       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, en 2024 se incorporaron al programa más de 16 cooperativas de crédito.",
+     "en": "According to Metallicus, more than 16 credit unions joined the program in 2024.",
+     "status": "self",
+     "date": "2024-12-31",
+     "sources": [
+      {
+       "title": "Metallicus – A year in review (31-dic-2024)",
+       "url": "https://metallicus.com/blog/metallicus-a-year-in-review"
+      }
+     ]
+    },
+    {
+     "es": "El informe trimestral Q1 2025 de Metallicus lista 17 cooperativas de crédito con comunicados de incorporación al programa, además de la asociación MD|DC; no nombra bancos.",
+     "en": "Metallicus's Q1 2025 quarterly report lists 17 credit unions with program-entry press releases, plus the MD|DC association; it names no banks.",
+     "status": "self",
+     "date": "2025",
+     "sources": [
+      {
+       "title": "Metallicus – Informe trimestral Q1 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_Quarterly_Report_2025_Q1.pdf"
+      }
+     ]
+    },
+    {
+     "es": "El 16 de junio de 2025 Metallicus lanzó un Stablecoin Pilot Program reservado a participantes del programa, gratuito para ellos, en el que las cooperativas simulan transacciones con una stablecoin de prueba con su marca, sin fondos reales ni custodia de activos digitales.",
+     "en": "On June 16, 2025 Metallicus launched a Stablecoin Pilot Program reserved for program participants, free for them, in which credit unions simulate transactions with a test stablecoin carrying their brand, with no real funds or digital-asset custody.",
+     "status": "self",
+     "date": "2025-06-16",
+     "sources": [
+      {
+       "title": "CUInsight – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
+       "url": "https://www.cuinsight.com/press-release/metallicus-launches-stablecoin-pilot-program-for-credit-unions/"
+      },
+      {
+       "title": "CUbroadcast – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
+       "url": "https://www.cubroadcast.com/news/metallicus-launches-stablecoin-pilot-program-for-credit-unions"
+      }
+     ]
+    },
+    {
+     "es": "En el anuncio del piloto, Metallicus afirmó que su red incluye más de 750 cooperativas de crédito a través de ligas, CUSOs y fintechs; es una cifra de alcance indirecto, no de participantes.",
+     "en": "In the pilot announcement Metallicus stated its network includes 750+ credit unions through leagues, CUSOs and fintechs; this is an indirect-reach figure, not a participant count.",
+     "status": "self",
+     "date": "2025-06-16",
+     "sources": [
+      {
+       "title": "CUInsight – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
+       "url": "https://www.cuinsight.com/press-release/metallicus-launches-stablecoin-pilot-program-for-credit-unions/"
+      }
+     ]
+    },
+    {
+     "es": "Según el informe Q3 2025 de Metallicus, el programa contaba con más de 40 instituciones participantes y más de 15 stablecoins de marca institucional desplegadas en el entorno de pruebas de XPR Network.",
+     "en": "According to Metallicus's Q3 2025 report, the program had over 40 participating institutions and more than 15 institution-branded stablecoins deployed in the XPR Network test environment.",
+     "status": "self",
+     "date": "2025",
+     "sources": [
+      {
+       "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      }
+     ]
+    },
+    {
+     "es": "La asociación GoWest ofreció en mayo de 2025, en un comunicado propio, el programa sin coste a todas sus cooperativas miembro. En mayo de 2026 CrossState CUA lanzó con Metallicus, en un comunicado conjunto con contacto de prensa propio, un 'Innovation Program 2.0' para una cohorte de 50 cooperativas; el comunicado no indica su coste.",
+     "en": "The GoWest association offered the program at no cost to all its member credit unions in May 2025, in its own release. In May 2026 CrossState CUA launched an 'Innovation Program 2.0' with Metallicus for a cohort of 50 credit unions, in a joint release with its own press contact; the release does not state its cost.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "GoWest Credit Union Association – Credit unions embrace blockchain… (comunicado, 28-may-2025)",
+       "url": "https://gowestassociation.org/2025/05/28/credit-unions-embrace-blockchain-to-leverage-the-future-of-trustworthy-financial-services/"
+      },
+      {
+       "title": "CUInsight – CrossState & Metallicus launch pilot program (versión con contacto de prensa de CrossState, 15-may-2026)",
+       "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure-2/"
+      }
+     ]
+    },
+    {
+     "es": "Según Metallicus, MD|DC CUA (may-2025) y Cornerstone League (oct-2025) también ofrecieron el programa o su piloto de stablecoins a sus cooperativas como beneficio gratuito.",
+     "en": "According to Metallicus, MD|DC CUA (May 2025) and Cornerstone League (Oct 2025) also offered the program or its stablecoin pilot to their credit unions as a free benefit.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
+       "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
+      },
+      {
+       "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
+       "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
+      },
+      {
+       "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
+       "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
+      }
+     ]
+    }
+   ],
+   "name": "Metal Blockchain Banking Innovation Program",
+   "summary_es": "Programa de investigación de Metallicus, anunciado en enero de 2024, que la empresa presenta como gratuito para que instituciones financieras exploren usos de blockchain (identidad digital, cumplimiento BSA, subredes privadas, tokenización y, desde 2025, stablecoins de prueba). Las cifras de participantes proceden de Metallicus.",
+   "summary_en": "Metallicus research program, announced in January 2024, that the company presents as free for financial institutions to explore blockchain use cases (digital identity, BSA compliance, private subnets, tokenization and, since 2025, test stablecoins). Participant figures come from Metallicus.",
+   "website": "https://metalblockchain.org/banking-innovation-program",
+   "type": "product",
+   "group": "partners"
+  },
+  {
    "id": "memberpass",
    "name": "MemberPass",
    "type": "product",
@@ -4339,154 +4601,6 @@
       {
        "title": "MACHA/FPC – 2024-2025 FPC Board Advisory Group list (31-jul-2024)",
        "url": "https://macha.org/aws/MACHA/asset_manager/get_file/902546"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "banking-innovation-program",
-   "name": "Metal Blockchain Banking Innovation Program",
-   "type": "product",
-   "group": "partners",
-   "summary_es": "Programa de investigación de Metallicus, anunciado en enero de 2024, que la empresa presenta como gratuito para que instituciones financieras exploren usos de blockchain (identidad digital, cumplimiento BSA, subredes privadas, tokenización y, desde 2025, stablecoins de prueba). Las cifras de participantes proceden de Metallicus.",
-   "summary_en": "Metallicus research program, announced in January 2024, that the company presents as free for financial institutions to explore blockchain use cases (digital identity, BSA compliance, private subnets, tokenization and, since 2025, test stablecoins). Participant figures come from Metallicus.",
-   "website": "https://metalblockchain.org/banking-innovation-program",
-   "facts": [
-    {
-     "es": "Según Metallicus, el programa se anunció el 10 de enero de 2024 en San Francisco, centrado en identidad digital y cumplimiento de la Bank Secrecy Act (BSA), con talleres y soluciones a medida sin coste para las instituciones.",
-     "en": "According to Metallicus, the program was announced on January 10, 2024 in San Francisco, focused on digital identity and Bank Secrecy Act (BSA) compliance, with workshops and custom solutions at no cost to institutions.",
-     "status": "self",
-     "date": "2024-01-10",
-     "sources": [
-      {
-       "title": "Metal Blockchain – Metal Blockchain introduces its Banking Innovation Program (10-ene-2024)",
-       "url": "https://metalblockchain.org/news-insights/metal-blockchain-introduces-it-s-banking-innovation-program"
-      }
-     ]
-    },
-    {
-     "es": "La página del programa lo describe como un programa de investigación de coste cero con colaboración de expertos, talleres, alianzas con fintechs, desarrollo de casos de uso a medida y confidencialidad.",
-     "en": "The program page describes it as a zero-cost research program offering expert collaboration, workshops, fintech partnerships, custom use-case development and confidentiality.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Metal Blockchain – Banking Innovation Program (página del programa)",
-       "url": "https://metalblockchain.org/banking-innovation-program"
-      }
-     ]
-    },
-    {
-     "es": "Comunicados de Metallicus de 2024 citan como áreas del programa la identidad digital, el inicio de sesión único (SSO), las subredes privadas y la tokenización de activos, además de becas de I+D y un consejo asesor.",
-     "en": "Metallicus releases from 2024 list the program's areas as digital identity, single sign-on (SSO), private subnets and asset tokenization, plus R&D grants and an advisory board.",
-     "status": "self",
-     "date": "2024",
-     "sources": [
-      {
-       "title": "Metallicus – Patelco Credit Union joins Metal Blockchain's Banking Innovation Program (16-may-2024)",
-       "url": "https://www.metallicus.com/banking-innovation-program-members-press-releases/patelco-credit-union-blockchain"
-      },
-      {
-       "title": "NASCUS (vía CUToday) – Second credit union enters into partnership with blockchain initiative (20-jun-2024)",
-       "url": "https://www.nascus.org/2024/06/20/second-credit-union-enters-into-partnership-with-blockchain-initiative/"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, en 2024 se incorporaron al programa más de 16 cooperativas de crédito.",
-     "en": "According to Metallicus, more than 16 credit unions joined the program in 2024.",
-     "status": "self",
-     "date": "2024-12-31",
-     "sources": [
-      {
-       "title": "Metallicus – A year in review (31-dic-2024)",
-       "url": "https://metallicus.com/blog/metallicus-a-year-in-review"
-      }
-     ]
-    },
-    {
-     "es": "El informe trimestral Q1 2025 de Metallicus lista 17 cooperativas de crédito con comunicados de incorporación al programa, además de la asociación MD|DC; no nombra bancos.",
-     "en": "Metallicus's Q1 2025 quarterly report lists 17 credit unions with program-entry press releases, plus the MD|DC association; it names no banks.",
-     "status": "self",
-     "date": "2025",
-     "sources": [
-      {
-       "title": "Metallicus – Informe trimestral Q1 2025 (PDF)",
-       "url": "https://cdn.metallicus.com/Metallicus_Quarterly_Report_2025_Q1.pdf"
-      }
-     ]
-    },
-    {
-     "es": "El 16 de junio de 2025 Metallicus lanzó un Stablecoin Pilot Program reservado a participantes del programa, gratuito para ellos, en el que las cooperativas simulan transacciones con una stablecoin de prueba con su marca, sin fondos reales ni custodia de activos digitales.",
-     "en": "On June 16, 2025 Metallicus launched a Stablecoin Pilot Program reserved for program participants, free for them, in which credit unions simulate transactions with a test stablecoin carrying their brand, with no real funds or digital-asset custody.",
-     "status": "self",
-     "date": "2025-06-16",
-     "sources": [
-      {
-       "title": "CUInsight – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
-       "url": "https://www.cuinsight.com/press-release/metallicus-launches-stablecoin-pilot-program-for-credit-unions/"
-      },
-      {
-       "title": "CUbroadcast – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
-       "url": "https://www.cubroadcast.com/news/metallicus-launches-stablecoin-pilot-program-for-credit-unions"
-      }
-     ]
-    },
-    {
-     "es": "En el anuncio del piloto, Metallicus afirmó que su red incluye más de 750 cooperativas de crédito a través de ligas, CUSOs y fintechs; es una cifra de alcance indirecto, no de participantes.",
-     "en": "In the pilot announcement Metallicus stated its network includes 750+ credit unions through leagues, CUSOs and fintechs; this is an indirect-reach figure, not a participant count.",
-     "status": "self",
-     "date": "2025-06-16",
-     "sources": [
-      {
-       "title": "CUInsight – Metallicus launches Stablecoin Pilot Program for credit unions (16-jun-2025)",
-       "url": "https://www.cuinsight.com/press-release/metallicus-launches-stablecoin-pilot-program-for-credit-unions/"
-      }
-     ]
-    },
-    {
-     "es": "Según el informe Q3 2025 de Metallicus, el programa contaba con más de 40 instituciones participantes y más de 15 stablecoins de marca institucional desplegadas en el entorno de pruebas de XPR Network.",
-     "en": "According to Metallicus's Q3 2025 report, the program had over 40 participating institutions and more than 15 institution-branded stablecoins deployed in the XPR Network test environment.",
-     "status": "self",
-     "date": "2025",
-     "sources": [
-      {
-       "title": "Metallicus – Informe trimestral Q3 2025 (PDF)",
-       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
-      }
-     ]
-    },
-    {
-     "es": "La asociación GoWest ofreció en mayo de 2025, en un comunicado propio, el programa sin coste a todas sus cooperativas miembro. En mayo de 2026 CrossState CUA lanzó con Metallicus, en un comunicado conjunto con contacto de prensa propio, un 'Innovation Program 2.0' para una cohorte de 50 cooperativas; el comunicado no indica su coste.",
-     "en": "The GoWest association offered the program at no cost to all its member credit unions in May 2025, in its own release. In May 2026 CrossState CUA launched an 'Innovation Program 2.0' with Metallicus for a cohort of 50 credit unions, in a joint release with its own press contact; the release does not state its cost.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "GoWest Credit Union Association – Credit unions embrace blockchain… (comunicado, 28-may-2025)",
-       "url": "https://gowestassociation.org/2025/05/28/credit-unions-embrace-blockchain-to-leverage-the-future-of-trustworthy-financial-services/"
-      },
-      {
-       "title": "CUInsight – CrossState & Metallicus launch pilot program (versión con contacto de prensa de CrossState, 15-may-2026)",
-       "url": "https://www.cuinsight.com/press-release/crossstate-metallicus-launch-pilot-program-with-50-credit-unions-to-explore-stablecoins-and-digital-financial-infrastructure-2/"
-      }
-     ]
-    },
-    {
-     "es": "Según Metallicus, MD|DC CUA (may-2025) y Cornerstone League (oct-2025) también ofrecieron el programa o su piloto de stablecoins a sus cooperativas como beneficio gratuito.",
-     "en": "According to Metallicus, MD|DC CUA (May 2025) and Cornerstone League (Oct 2025) also offered the program or its stablecoin pilot to their credit unions as a free benefit.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Newswire – MD|DC Credit Union Association partners with Metallicus (7-may-2025)",
-       "url": "https://www.newswire.com/view/content/md-dc-credit-union-association-partners-with-metallicus-blockchain-22569598"
-      },
-      {
-       "title": "Metallicus – Cornerstone Credit Union League stablecoins (9-oct-2025)",
-       "url": "https://www.metallicus.com/blog/cornerstone-credit-union-league-stablecoins"
-      },
-      {
-       "title": "CUInsight – Cornerstone League and Metallicus partner to bring stablecoin innovation to credit unions",
-       "url": "https://www.cuinsight.com/press-release/cornerstone-league-and-metallicus-partner-to-bring-stablecoin-innovation-to-credit-unions/"
       }
      ]
     }
@@ -7145,68 +7259,6 @@
       {
        "title": "Decrypt – Metal coin surges 250% on licensing news (30-mar-2021)",
        "url": "https://decrypt.co/63344/metal-coin-surges-250-on-licensing-news"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "xpr-token",
-   "name": "XPR (token)",
-   "type": "token",
-   "group": "products",
-   "summary_es": "Token nativo de XPR Network (antes Proton). Según el proyecto, se usa para hacer staking y votar productores de bloque, y parte del XPR gastado en recursos se quema.",
-   "summary_en": "Native token of XPR Network (formerly Proton). According to the project, it is used for staking and voting for block producers, and part of the XPR spent on resources is burned.",
-   "website": "https://xprnetwork.org/",
-   "facts": [
-    {
-     "es": "KuCoin listó XPR con los pares XPR/USDT y XPR/BTC; el trading empezó el 24 de agosto de 2021. Su ficha daba entonces un suministro total de 10.000 millones de XPR.",
-     "en": "KuCoin listed XPR with XPR/USDT and XPR/BTC pairs; trading began on 24 August 2021. Its note then gave a total supply of 10 billion XPR.",
-     "status": "confirmed",
-     "date": "2021-08-24",
-     "sources": [
-      {
-       "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
-       "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
-      }
-     ]
-    },
-    {
-     "es": "En oct-2026 CoinGecko muestra unos 28.650 millones de XPR en circulación, 32.390 millones de suministro total y ningún máximo, con contratos envueltos en Ethereum y BNB Smart Chain.",
-     "en": "In Oct 2026 CoinGecko shows about 28.65 billion XPR circulating, 32.39 billion total supply and no maximum, with wrapped contracts on Ethereum and BNB Smart Chain.",
-     "status": "confirmed",
-     "date": "2026-10",
-     "sources": [
-      {
-       "title": "CoinGecko – XPR Network (XPR)",
-       "url": "https://www.coingecko.com/en/coins/xpr-network"
-      }
-     ]
-    },
-    {
-     "es": "Mercados en oct-2026 según CoinGecko: KuCoin, Gate, MEXC, KCEX, Ourbit, BloFin, HiBT, DigiFinex, Uniswap V3 (Ethereum) y Metal X, entre otros.",
-     "en": "Markets in Oct 2026 per CoinGecko: KuCoin, Gate, MEXC, KCEX, Ourbit, BloFin, HiBT, DigiFinex, Uniswap V3 (Ethereum) and Metal X, among others.",
-     "status": "confirmed",
-     "date": "2026-10",
-     "sources": [
-      {
-       "title": "CoinGecko – XPR Network (XPR)",
-       "url": "https://www.coingecko.com/en/coins/xpr-network"
-      }
-     ]
-    },
-    {
-     "es": "Según el proyecto, XPR se usa para hacer staking y votar productores de bloque, y una parte del XPR gastado en recursos y acuñación de NFT se quema.",
-     "en": "According to the project, XPR is used to stake and vote for block producers, and part of the XPR spent on resources and NFT minting is burned.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "KuCoin – Proton (XPR) gets listed on KuCoin (23-ago-2021)",
-       "url": "https://kucoin.com/news/en-proton-xpr-gets-listed-on-kucoin"
-      },
-      {
-       "title": "XPR Network – How XPR Network Achieves Zero Gas Fees",
-       "url": "https://xprnetwork.org/blog/how-xpr-network-achieves-zero-gas-fees"
       }
      ]
     }
