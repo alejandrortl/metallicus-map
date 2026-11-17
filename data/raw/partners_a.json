@@ -396,6 +396,22 @@
           ]
         },
         {
+          "es": "La lista oficial de proveedores de servicios certificados de FedNow con fecha 15 de octubre de 2024 (archivo creado el 11-sep-2024 y modificado el 16-oct-2024 por Federal Reserve Financial Services) incluye a Metallicus con tres tipos de participación: solo recepción, envío y recepción, y transferencias de gestión de liquidez; aún sin recepción de Request for Payment. Es la versión más antigua de la lista en la que se ha encontrado a Metallicus, una semana antes de su anuncio del 22-oct-2024. Ripple no figura; Volante Technologies sí.",
+          "en": "The official list of FedNow certified service providers dated October 15, 2024 (file created on Sep 11, 2024 and modified on Oct 16, 2024 by Federal Reserve Financial Services) includes Metallicus with three participation types: receive only, send and receive, and liquidity management transfers; not yet receive Request for Payment. It is the earliest version of the list in which Metallicus has been found, one week before its October 22, 2024 announcement. Ripple is not on it; Volante Technologies is.",
+          "status": "confirmed",
+          "date": "2024-10-15",
+          "sources": [
+            {
+              "title": "Federal Reserve Financial Services – FedNow Certified Service Providers (XLSX, as of 15-oct-2024), copia en el Wayback Machine",
+              "url": "https://web.archive.org/web/20241017000000/https://www.frbservices.org/binaries/content/assets/crsocms/financial-services/fednow/fednow-certified-service-providers.xlsx"
+            },
+            {
+              "title": "Federal Reserve Financial Services – FedNow Service Participants and Service Providers",
+              "url": "https://www.frbservices.org/financial-services/fednow/organizations"
+            }
+          ]
+        },
+        {
           "es": "El 22 de octubre de 2024 Metallicus anunció que, tras completar el programa de pruebas y certificación de clientes de FedNow, quedó certificada como proveedor de servicios para instituciones financieras y empezó a procesar transacciones en vivo. Don Berk, COO, lo atribuyó al trabajo con socios bancarios y al equipo de ingeniería.",
           "en": "On October 22, 2024 Metallicus announced that, after completing FedNow's customer testing and certification program, it was certified as a service provider to financial institutions and began supporting live transactions. COO Don Berk credited work with banking partners and the engineering team.",
           "status": "self",
