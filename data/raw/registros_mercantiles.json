@@ -1,0 +1,434 @@
+{
+ "nodes": [
+  {
+   "id": "metallicus",
+   "facts": [
+    {
+     "es": "Según el certificado de vigencia (good standing) del Secretario de Estado de Delaware de 5 de diciembre de 2018, «Metallicus, Inc.» se constituyó en Delaware el 5 de octubre de 2016 (número de archivo 6173898). El certificado está incluido en su solicitud de autorización en Rhode Island.",
+     "en": "According to the Delaware Secretary of State's certificate of good standing of 5 December 2018, 'Metallicus, Inc.' was incorporated in Delaware on 5 October 2016 (file number 6173898). The certificate is included in its Rhode Island application for authority.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Application for Certificate of Authority, Metallicus, Inc., with Delaware certificate of good standing (filed 12 Dec 2018)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2018/1212/000185104/0001/201882554500_1.pdf"
+      }
+     ],
+     "date": "2016-10-05"
+    },
+    {
+     "es": "El registro de Nueva York también da el 5 de octubre de 2016 como fecha de constitución en Delaware. Allí está inscrita como sociedad extranjera desde el 6 de abril de 2018 (DOS ID 5318474), con el nombre comercial «METAL», y figura activa.",
+     "en": "The New York registry also gives 5 October 2016 as its Delaware formation date. It has been registered there as a foreign corporation since 6 April 2018 (DOS ID 5318474), with the assumed name 'METAL', and is listed as active.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "New York Department of State – Corporation & Business Entity Database, METALLICUS, INC. (DOS ID 5318474)",
+       "url": "https://apps.dos.ny.gov/publicInquiry/"
+      }
+     ],
+     "date": "2018-04-06"
+    },
+    {
+     "es": "Se inscribió en Rhode Island como sociedad extranjera el 12 de diciembre de 2018 (ID 001690783) para ofrecer «servicios de monedero digital». La solicitud la firmó Marshall Hayner el 6 de diciembre de 2018 y su primer agente registrado fue Corporation Service Company (222 Jefferson Boulevard, Suite 200, Warwick, RI).",
+     "en": "It registered in Rhode Island as a foreign corporation on 12 December 2018 (ID 001690783) to provide 'digital wallet services'. Marshall Hayner signed the application on 6 December 2018, and its first registered agent was Corporation Service Company (222 Jefferson Boulevard, Suite 200, Warwick, RI).",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Application for Certificate of Authority, Metallicus, Inc., with Delaware certificate of good standing (filed 12 Dec 2018)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2018/1212/000185104/0001/201882554500_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Entity summary, Metallicus, Inc. (ID 001690783)",
+       "url": "https://business.sos.ri.gov/CorpWeb/CorpSearch/CorpSummary.aspx?FEIN=001690783&SEARCH_TYPE=1"
+      }
+     ],
+     "date": "2018-12-12"
+    },
+    {
+     "es": "En sus solicitudes e informes anuales a Rhode Island declaró como oficina principal 660 4th Street, Suite 107, San Francisco, CA 94107 de 2018 a 2021; 353 Sacramento Street, San Francisco, CA 94111 en 2022 (sin suite en ese campo); 660 4th St., San Francisco en 2023, y 1429 Rollins Road, Burlingame, CA 94010 de 2024 a 2026.",
+     "en": "In its applications and annual reports to Rhode Island it gave as its principal office 660 4th Street, Suite 107, San Francisco, CA 94107 from 2018 to 2021; 353 Sacramento Street, San Francisco, CA 94111 in 2022 (no suite in that field); 660 4th St., San Francisco in 2023; and 1429 Rollins Road, Burlingame, CA 94010 from 2024 to 2026.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Application for Certificate of Authority, Metallicus, Inc., with Delaware certificate of good standing (filed 12 Dec 2018)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2018/1212/000185104/0001/201882554500_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2019, Metallicus, Inc. (26 Feb 2019)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2019/0226/000000000/9667/201987608900_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2018-12-12"
+    },
+    {
+     "es": "La dirección 353 Sacramento St., Suite 740, San Francisco, CA 94111 aparece en el acuerdo de Ohio (2023) como domicilio de Metallicus y en los informes anuales de Rhode Island de 2022 y 2023 como dirección de su CFO, Irina Berkon.",
+     "en": "The address 353 Sacramento St., Suite 740, San Francisco, CA 94111 appears in the Ohio agreement (2023) as Metallicus's address, and in the 2022 and 2023 Rhode Island annual reports as the address of its CFO, Irina Berkon.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+       "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
+      }
+     ],
+     "date": "2022-04-19"
+    },
+    {
+     "es": "El registro de Nueva York indica como oficina ejecutiva principal 1429 Rollins Road, Burlingame, CA 94010, y como dirección del CEO, Marshall Hayner, 660 4th Street, Suite 107, San Francisco, CA 94107.",
+     "en": "The New York registry lists 1429 Rollins Road, Burlingame, CA 94010 as its principal executive office, and 660 4th Street, Suite 107, San Francisco, CA 94107 as the address of its CEO, Marshall Hayner.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "New York Department of State – Corporation & Business Entity Database, METALLICUS, INC. (DOS ID 5318474)",
+       "url": "https://apps.dos.ny.gov/publicInquiry/"
+      }
+     ]
+    },
+    {
+     "es": "Agentes registrados actuales: National Registered Agents, Inc., en Rhode Island (450 Veterans Memorial Parkway, Suite 7A, East Providence) desde el 3 de diciembre de 2025, en sustitución de Corporation Service Company; y en Nueva York (28 Liberty Street, Nueva York). El cambio en Rhode Island lo firmó Irina Berkon el 24 de noviembre de 2025.",
+     "en": "Current registered agents: National Registered Agents, Inc. in Rhode Island (450 Veterans Memorial Parkway, Suite 7A, East Providence) since 3 December 2025, replacing Corporation Service Company; and in New York (28 Liberty Street, New York). Irina Berkon signed the Rhode Island change on 24 November 2025.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Statement of change of registered agent, Metallicus, Inc. (filed 3 Dec 2025)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2025/1203/000294998/0001/202580526310_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Entity summary, Metallicus, Inc. (ID 001690783)",
+       "url": "https://business.sos.ri.gov/CorpWeb/CorpSearch/CorpSummary.aspx?FEIN=001690783&SEARCH_TYPE=1"
+      },
+      {
+       "title": "New York Department of State – Corporation & Business Entity Database, METALLICUS, INC. (DOS ID 5318474)",
+       "url": "https://apps.dos.ny.gov/publicInquiry/"
+      }
+     ],
+     "date": "2025-12-03"
+    },
+    {
+     "es": "El 25 de octubre de 2021 registró en Rhode Island los nombres comerciales «Metal» y «Metal Pay».",
+     "en": "On 25 October 2021 it registered the fictitious business names 'Metal' and 'Metal Pay' in Rhode Island.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Fictitious business name statement, Metallicus, Inc. (25 Oct 2021)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2021/1025/000243804/0001/202103758770_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Fictitious business name statement, Metallicus, Inc. (25 Oct 2021)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2021/1025/000243804/0002/202103758950_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Entity summary, Metallicus, Inc. (ID 001690783)",
+       "url": "https://business.sos.ri.gov/CorpWeb/CorpSearch/CorpSummary.aspx?FEIN=001690783&SEARCH_TYPE=1"
+      }
+     ],
+     "date": "2021-10-25"
+    },
+    {
+     "es": "En 2018 declaró a Rhode Island 10.000.000 acciones comunes autorizadas (valor nominal 0,00001 dólares). En sus informes anuales declaró como emitidas 5.000.000 (2019), 7.663.348 (2020), 8.709.748 (2021), 7.284.406 (2022), 7.309.315 (2023), 7.379.478 (2024) y 7.380.153 (2025).",
+     "en": "In 2018 it reported 10,000,000 authorized common shares (par value USD 0.00001) to Rhode Island. In its annual reports it reported as issued 5,000,000 (2019), 7,663,348 (2020), 8,709,748 (2021), 7,284,406 (2022), 7,309,315 (2023), 7,379,478 (2024) and 7,380,153 (2025).",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Application for Certificate of Authority, Metallicus, Inc., with Delaware certificate of good standing (filed 12 Dec 2018)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2018/1212/000185104/0001/201882554500_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2019, Metallicus, Inc. (26 Feb 2019)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2019/0226/000000000/9667/201987608900_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2020, Metallicus, Inc. (24 Feb 2020)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2020/0224/000000000/2935/202035040550_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2021, Metallicus, Inc. (1 Mar 2021)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2021/0301/000000000/8401/202193314050_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2025, Metallicus, Inc. (28 Apr 2025)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2025/0428/000000000/7398/202571512450_1.pdf"
+      }
+     ],
+     "date": "2018-12-12"
+    },
+    {
+     "es": "En abril de 2026 amplió en Rhode Island su capital autorizado a 80.114.843 acciones comunes y 21 series de acciones preferentes (A, A1 a A7 y B1 a B13). Las series preferentes indican varias rondas de financiación, pero el registro no dice quiénes son los accionistas.",
+     "en": "In April 2026 it increased its authorized capital in Rhode Island to 80,114,843 common shares and 21 series of preferred stock (A, A1 to A7 and B1 to B13). The preferred series point to several funding rounds, but the registry does not say who the shareholders are.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Application for Amended Certificate of Authority, Metallicus, Inc. (filed 24 Apr 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0428/000298220/0005/202690581810_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2026-04-24"
+    },
+    {
+     "es": "En la base de datos de la SEC (EDGAR) no hay ninguna empresa registrada con el nombre Metallicus, de modo que no consta ningún Form D (aviso de oferta privada de valores) presentado por Metallicus, Inc. (consulta de 18 de noviembre de 2026).",
+     "en": "The SEC's EDGAR database has no company registered under the name Metallicus, so no Form D (notice of a private securities offering) filed by Metallicus, Inc. appears there (search of 18 November 2026).",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "SEC EDGAR – Company search 'Metallicus' (consulted 18 Nov 2026)",
+       "url": "https://www.sec.gov/cgi-bin/browse-edgar?company=metallicus&type=&dateb=&owner=include&count=40&action=getcompany"
+      }
+     ],
+     "date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "marshall-hayner",
+   "facts": [
+    {
+     "es": "Firmó la solicitud de Metallicus en Rhode Island (2018) y casi todos sus informes anuales. Figura en ellos como presidente, secretario, tesorero y consejero (además de CEO de 2019 a 2022).",
+     "en": "He signed Metallicus's Rhode Island application (2018) and nearly all of its annual reports. They list him as president, secretary, treasurer and director (and as CEO from 2019 to 2022).",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Application for Certificate of Authority, Metallicus, Inc., with Delaware certificate of good standing (filed 12 Dec 2018)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2018/1212/000185104/0001/201882554500_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2019, Metallicus, Inc. (26 Feb 2019)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2019/0226/000000000/9667/201987608900_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2018-12-06"
+    },
+    {
+     "es": "El registro de Nueva York lo identifica como CEO de Metallicus, Inc.",
+     "en": "The New York registry identifies him as CEO of Metallicus, Inc.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "New York Department of State – Corporation & Business Entity Database, METALLICUS, INC. (DOS ID 5318474)",
+       "url": "https://apps.dos.ny.gov/publicInquiry/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glenn-marien",
+   "facts": [
+    {
+     "es": "En la solicitud de Metallicus en Rhode Island (2018) figura como consejero y vicepresidente, y como consejero en los informes anuales de 2019 a 2023. Ya no aparece en el de 2024.",
+     "en": "Metallicus's Rhode Island application (2018) lists him as director and vice president, and the 2019 to 2023 annual reports list him as director. He no longer appears in the 2024 report.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Application for Certificate of Authority, Metallicus, Inc., with Delaware certificate of good standing (filed 12 Dec 2018)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2018/1212/000185104/0001/201882554500_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2019, Metallicus, Inc. (26 Feb 2019)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2019/0226/000000000/9667/201987608900_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+      }
+     ],
+     "date": "2018-12-06"
+    }
+   ]
+  },
+  {
+   "id": "irina-berkon",
+   "facts": [
+    {
+     "es": "Los informes anuales de Metallicus a Rhode Island la listan como CFO en 2022 y 2023 y como consejera de 2024 a 2026.",
+     "en": "Metallicus's annual reports to Rhode Island list her as CFO in 2022 and 2023 and as a director from 2024 to 2026.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2022-04-19"
+    },
+    {
+     "es": "Firmó como CFO de Metallicus el acuerdo con el regulador de Ohio MT2022-004, el 23 de marzo de 2023.",
+     "en": "She signed Ohio agreement MT2022-004 as Metallicus's CFO on 23 March 2023.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+       "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+      }
+     ],
+     "date": "2023-03-23"
+    }
+   ]
+  },
+  {
+   "id": "donald-berk",
+   "facts": [
+    {
+     "es": "El informe anual de Metallicus a Rhode Island de 2024 lo lista como consejero. En los de 2025 y 2026 ya no aparece.",
+     "en": "Metallicus's 2024 annual report to Rhode Island lists him as a director. He does not appear in the 2025 and 2026 reports.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2025, Metallicus, Inc. (28 Apr 2025)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2025/0428/000000000/7398/202571512450_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2024-04-29"
+    }
+   ]
+  },
+  {
+   "id": "frederick-krueger",
+   "name": "Frederick Krueger",
+   "type": "person",
+   "group": "people",
+   "summary_es": "Figura como consejero de Metallicus en su informe anual de 2021 a Rhode Island.",
+   "summary_en": "Listed as a director of Metallicus in its 2021 annual report to Rhode Island.",
+   "facts": [
+    {
+     "es": "El informe anual de Metallicus a Rhode Island de 2021 lo lista como consejero. No aparece en los de 2019, 2020 ni 2022.",
+     "en": "Metallicus's 2021 annual report to Rhode Island lists him as a director. He does not appear in the 2019, 2020 or 2022 reports.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2021, Metallicus, Inc. (1 Mar 2021)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2021/0301/000000000/8401/202193314050_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2020, Metallicus, Inc. (24 Feb 2020)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2020/0224/000000000/2935/202035040550_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      }
+     ],
+     "date": "2021-03-01"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "frederick-krueger",
+   "to": "metallicus",
+   "label_es": "consejero (2021) de",
+   "label_en": "director (2021) of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Rhode Island Secretary of State – Annual report 2021, Metallicus, Inc. (1 Mar 2021)",
+     "url": "https://business.sos.ri.gov/CORP_DRIVE1/2021/0301/000000000/8401/202193314050_1.pdf"
+    }
+   ]
+  },
+  {
+   "from": "donald-berk",
+   "to": "metallicus",
+   "label_es": "consejero (2024) de",
+   "label_en": "director (2024) of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+     "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+    }
+   ]
+  },
+  {
+   "from": "glenn-marien",
+   "to": "metallicus",
+   "label_es": "consejero (2018-2023) de",
+   "label_en": "director (2018-2023) of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Rhode Island Secretary of State – Application for Certificate of Authority, Metallicus, Inc., with Delaware certificate of good standing (filed 12 Dec 2018)",
+     "url": "https://business.sos.ri.gov/CORP_DRIVE1/2018/1212/000185104/0001/201882554500_1.pdf"
+    },
+    {
+     "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
+     "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
+    },
+    {
+     "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+     "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+    }
+   ]
+  }
+ ]
+}
