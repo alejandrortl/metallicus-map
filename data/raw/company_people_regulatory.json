@@ -649,42 +649,6 @@
       ]
     },
     {
-      "id": "kevin-allard",
-      "name": "Kevin R. Allard",
-      "type": "person",
-      "group": "people",
-      "summary_es": "Firmó como director financiero (CFO) de Metallicus el acuerdo de consentimiento con la División de Instituciones Financieras de Ohio (caso MT2022-004).",
-      "summary_en": "Signed the consent agreement with the Ohio Division of Financial Institutions (case MT2022-004) as Metallicus's chief financial officer (CFO).",
-      "facts": [
-        {
-          "es": "Firmó por Metallicus, Inc. con el cargo de CFO el acuerdo de Ohio MT2022-004, posterior a octubre de 2022.",
-          "en": "Signed Ohio agreement MT2022-004 for Metallicus, Inc. with the title CFO, after October 2022.",
-          "status": "confirmed",
-          "sources": [
-            {
-              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
-              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
-            }
-          ]
-        },
-        {
-          "es": "Las fuentes no aclaran cómo convivía este cargo con el de Irina Berkon, a quien un tribunal identifica como CFO en 2022.",
-          "en": "Sources do not explain how this title coexisted with that of Irina Berkon, whom a court identifies as CFO in 2022.",
-          "status": "disputed",
-          "sources": [
-            {
-              "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
-              "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
-            },
-            {
-              "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
-              "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "frank-mazza",
       "name": "Frank Mazza",
       "type": "person",
@@ -1360,15 +1324,16 @@
           ]
         },
         {
-          "es": "Firmado por Kevin R. Allard como CFO de Metallicus.",
-          "en": "Signed by Kevin R. Allard as Metallicus CFO.",
+          "es": "Firmado por Irina Berkon como CFO de Metallicus (23 de marzo de 2023) y, por la División de Ohio, por Ingrid E. White, subdirectora para bancos, y Kevin R. Allard, superintendente (18 de abril de 2023).",
+          "en": "Signed by Irina Berkon as Metallicus's CFO (23 March 2023) and, for the Ohio Division, by Ingrid E. White, Deputy Superintendent for Banks, and Kevin R. Allard, Superintendent (18 April 2023).",
           "status": "confirmed",
           "sources": [
             {
               "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
               "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
             }
-          ]
+          ],
+          "date": "2023-04-18"
         }
       ]
     },
@@ -1851,32 +1816,6 @@
         {
           "title": "Metallicus – 2025 Q3 quarterly report (PDF)",
           "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
-        }
-      ]
-    },
-    {
-      "from": "kevin-allard",
-      "to": "metallicus",
-      "label_es": "firmó como CFO de",
-      "label_en": "signed as CFO of",
-      "status": "confirmed",
-      "sources": [
-        {
-          "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
-          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
-        }
-      ]
-    },
-    {
-      "from": "kevin-allard",
-      "to": "ohio-consent-order",
-      "label_es": "firmó",
-      "label_en": "signed",
-      "status": "confirmed",
-      "sources": [
-        {
-          "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
-          "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
         }
       ]
     },

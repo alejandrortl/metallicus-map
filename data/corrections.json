@@ -149,15 +149,6 @@
    "en": "According to CULedger, MyCUID was renamed MemberPass in February 2020."
   },
   {
-   "ref": "fact:kevin-allard:1",
-   "match_es": "Las fuentes no aclaran cómo convivía este cargo con el de Irina Berkon, a quien un tribunal identifica como CFO en 2022.",
-   "action": "fix",
-   "reason": "The sources do not disagree. The court calls Berkon CFO as of July 2022, and the Ohio agreement signed by Allard as CFO dates from after October 2022. That fits a change of CFO, not a conflict, so 'disputed' does not apply. Both are official records.",
-   "es": "Un tribunal identifica a Irina Berkon como CFO de Metallicus en julio de 2022, y Kevin R. Allard firma como CFO el acuerdo de Ohio, posterior a octubre de 2022; las fuentes no aclaran si hubo un relevo en el cargo.",
-   "en": "A court identifies Irina Berkon as Metallicus's CFO in July 2022, and Kevin R. Allard signs the Ohio agreement, dated after October 2022, as CFO; the sources do not say whether the role changed hands.",
-   "status": "confirmed"
-  },
-  {
    "ref": "fact:banking-innovation-program",
    "action": "fix",
    "reason": "GoWest release (28-may-2025) confirms no-cost offer. The CrossState release (May 2026, both versions and Metallicus blog) does not mention cost or a free benefit, and calls it 'Innovation Program 2.0', not the Banking Innovation Program.",
@@ -830,6 +821,19 @@
    "reason": "Split: the 'first wallet' claim now has its own disputed fact with contrary sources.",
    "es": "Según Metallicus, Glenn Mariën creó Dogechain.info. Cointelegraph (2014) atribuye su creación al usuario 'GlennMR'.",
    "en": "According to Metallicus, Glenn Mariën created Dogechain.info. Cointelegraph (2014) credits its creation to user 'GlennMR'."
+  },
+  {
+   "ref": "node:kevin-allard",
+   "action": "note",
+   "reason": "Removed on 18 Nov 2026: page 5 of the Ohio agreement MT2022-004 shows Kevin R. Allard signing as Ohio's Superintendent of Financial Institutions, not for Metallicus; Metallicus's signer is Irina Berkon, CFO (23 Mar 2023). The earlier 'CFO Berkon vs Allard' conflict came from misreading the signature block."
+  },
+  {
+   "ref": "fact:metallicus",
+   "match_es": "Año de fundación discrepante: una nota de prensa de 2018 y otras de 2022 dicen 2016 (Decrypt precisa abril de 2016), mientras que el blog de la empresa (2023) y la nota de FBBT Holdings (2023) dicen 2017.",
+   "action": "fix",
+   "reason": "Delaware certificate of good standing (in the Rhode Island filing of 12 Dec 2018) and the New York registry give the incorporation date, 5 Oct 2016. The founding-year conflict in press and company sources remains, but the legal incorporation date is now on record.",
+   "es": "Año de fundación discrepante: una nota de prensa de 2018 y otras de 2022 dicen 2016 (Decrypt precisa abril de 2016), mientras que el blog de la empresa (2023) y la nota de FBBT Holdings (2023) dicen 2017. Los registros oficiales de Delaware y Nueva York fechan la constitución de la sociedad el 5 de octubre de 2016.",
+   "en": "Founding year conflict: a 2018 press release and 2022 releases say 2016 (Decrypt specifies April 2016), while the company blog (2023) and the FBBT Holdings release (2023) say 2017. Official Delaware and New York records date the company's incorporation to 5 October 2016."
   }
  ]
 }
