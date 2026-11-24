@@ -2,14 +2,134 @@
  "updated": "2026-11-24",
  "nodes": [
   {
-   "id": "metallicus",
-   "name": "Metallicus, Inc.",
+   "id": "metallicus-california",
+   "name": "Metallicus Inc. (California, 2017-2022)",
    "type": "company",
-   "group": "core",
-   "summary_es": "Sociedad de Delaware constituida el 5 de octubre de 2016, con oficina principal declarada en 1429 Rollins Road, Burlingame (California), desde 2024. Desarrolla Metal Pay, WebAuth, Metal Blockchain y XPR Network. Según la nota de lanzamiento de 2018, la fundaron Marshall Hayner y Glenn Mariën; la prensa y la empresa dan 2016 o 2017 como año de fundación.",
-   "summary_en": "Delaware corporation incorporated on 5 October 2016, with its principal office stated at 1429 Rollins Road, Burlingame (California), since 2024. It develops Metal Pay, WebAuth, Metal Blockchain and XPR Network. According to its 2018 launch release, it was founded by Marshall Hayner and Glenn Mariën; press and company sources give 2016 or 2017 as the founding year.",
-   "website": "https://www.metallicus.com",
+   "group": "history",
+   "summary_es": "Sociedad californiana distinta de la Metallicus, Inc. de Delaware: la constituyó Marshall Hayner en julio de 2017 y se disolvió en mayo de 2022.",
+   "summary_en": "California corporation separate from the Delaware Metallicus, Inc.: Marshall Hayner incorporated it in July 2017 and it was dissolved in May 2022.",
    "facts": [
+    {
+     "es": "METALLICUS INC. (nº C4048607) es una sociedad de California, distinta de la Metallicus, Inc. de Delaware. Sus estatutos (Articles of Incorporation) se presentaron el 21 de julio de 2017, firmados por Marshall Hayner como único incorporador y agente inicial, con 10.000.000 de acciones autorizadas. La dirección inicial era un domicilio particular.",
+     "en": "METALLICUS INC. (no. C4048607) is a California corporation, separate from the Delaware Metallicus, Inc. Its Articles of Incorporation were filed on 21 July 2017, signed by Marshall Hayner as sole incorporator and initial agent, with 10,000,000 authorized shares. Its initial address was a private residence.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2017-07-21"
+    },
+    {
+     "es": "California le notificó una declaración de información (Statement of Information) atrasada el 28 de agosto de 2018 y emitió una certificación de penalización el 28 de noviembre de 2018.",
+     "en": "California issued a notice of an overdue Statement of Information on 28 August 2018 and a penalty certification on 28 November 2018.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2018-08-28"
+    },
+    {
+     "es": "Declaración de información de 27 de julio de 2020 (GH26570): sede en 660 4th St. No. 107, San Francisco; Marshall Hayner como CEO, secretario y CFO; consejeros Glenn Mariën y Marshall Hayner; actividad «financial services»; agente Corporation Service Company.",
+     "en": "Statement of Information of 27 July 2020 (GH26570): office at 660 4th St. No. 107, San Francisco; Marshall Hayner as CEO, secretary and CFO; directors Glenn Mariën and Marshall Hayner; business type 'financial services'; agent Corporation Service Company.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2020-07-27"
+    },
+    {
+     "es": "Declaración de información de 6 de julio de 2021 (GU59814): Hayner con los mismos cargos y consejeros Glenn Mariën, Marshall Hayner y Frederick Krueger.",
+     "en": "Statement of Information of 6 July 2021 (GU59814): Hayner in the same roles, and directors Glenn Mariën, Marshall Hayner and Frederick Krueger.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2021-07-06"
+    },
+    {
+     "es": "Se disolvió el 16 de mayo de 2022 (BA20220322500) por voto de todos los accionistas. Firmaron la disolución los consejeros Glenn Mariën (6 de mayo), Marshall Hayner (12 de mayo) e Irina Berkon (13 de mayo de 2022).",
+     "en": "It was dissolved on 16 May 2022 (BA20220322500) by vote of all shareholders. Directors Glenn Mariën (6 May), Marshall Hayner (12 May) and Irina Berkon (13 May 2022) signed the dissolution.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-16"
+    }
+   ]
+  },
+  {
+   "id": "metallicus",
+   "facts": [
+    {
+     "es": "En California figuran dos inscripciones de la Metallicus, Inc. de Delaware: la nº 5074881, registrada el 13 de mayo de 2022 en 353 Sacramento St., San Francisco, y terminada el 5 de febrero de 2024; y la nº 5084059, activa, registrada el 19 de mayo de 2022 con el nombre alternativo «MTLPay» para California. La solicitud de esta última la firmó Irina Berkon como directiva e incluye un certificado de vigencia de Delaware de esa fecha.",
+     "en": "California shows two registrations of the Delaware Metallicus, Inc.: no. 5074881, registered on 13 May 2022 at 353 Sacramento St., San Francisco, and terminated on 5 February 2024; and no. 5084059, active, registered on 19 May 2022 with the alternative California name 'MTLPay'. Irina Berkon signed the latter's application as an officer, and it includes a Delaware certificate of good standing of that date.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-19"
+    },
+    {
+     "es": "En la inscripción californiana nº 5084059 la dirección inicial era 353 Sacramento St., San Francisco. Hoy declara como sede 1429 Rollins Road, Burlingame (también su oficina en California), como dirección postal 660 4th St., Suite 107, San Francisco, y como agente National Registered Agents.",
+     "en": "In California registration no. 5084059 the initial address was 353 Sacramento St., San Francisco. It now gives 1429 Rollins Road, Burlingame as its principal office (also its California office), 660 4th St., Suite 107, San Francisco as its mailing address, and National Registered Agents as its agent.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-19"
+    },
+    {
+     "es": "Declaración de información en California de 14 de mayo de 2026 (BA20261049547), firmada por Marshall Hayner: Hayner figura como CEO, CFO y secretario, y no se declaran consejeros.",
+     "en": "California Statement of Information of 14 May 2026 (BA20261049547), signed by Marshall Hayner: Hayner is listed as CEO, CFO and secretary, and no directors are declared.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2026-05-14"
+    },
+    {
+     "es": "Fuentes discrepan sobre quién es CFO: en la declaración de California de mayo de 2026 el CFO es Marshall Hayner, mientras que en la orden de Ohio de septiembre de 2025 firma como CFO «Irina» (Irina Berkon), y el informe anual de Rhode Island de mayo de 2026 la lista como consejera.",
+     "en": "Sources disagree on who the CFO is: the May 2026 California statement lists Marshall Hayner as CFO, while the September 2025 Ohio order is signed by 'Irina' (Irina Berkon) as CFO, and the May 2026 Rhode Island annual report lists her as a director.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      },
+      {
+       "title": "Ohio Division of Financial Institutions – Final order MT2025-004, Metallicus, Inc. (15 Sep 2025), via NMLS Consumer Access",
+       "url": "https://www.nmlsconsumeraccess.org/EntityDetails.aspx/Artifact/Final%20Order.pdf?q=307452-398244"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2026-05-14"
+    },
     {
      "es": "El regulador de Ohio la identifica como «Metallicus, Inc.», sociedad de Delaware, con domicilio en 353 Sacramento St., Suite 740, San Francisco, CA 94111.",
      "en": "The Ohio regulator identifies it as 'Metallicus, Inc.', a Delaware corporation, at 353 Sacramento St., Suite 740, San Francisco, CA 94111.",
@@ -523,7 +643,288 @@
      ],
      "date": "2026-11-18"
     }
-   ]
+   ],
+   "name": "Metallicus, Inc.",
+   "summary_es": "Sociedad de Delaware constituida el 5 de octubre de 2016, con oficina principal declarada en 1429 Rollins Road, Burlingame (California), desde 2024. Desarrolla Metal Pay, WebAuth, Metal Blockchain y XPR Network. Según la nota de lanzamiento de 2018, la fundaron Marshall Hayner y Glenn Mariën; la prensa y la empresa dan 2016 o 2017 como año de fundación.",
+   "summary_en": "Delaware corporation incorporated on 5 October 2016, with its principal office stated at 1429 Rollins Road, Burlingame (California), since 2024. It develops Metal Pay, WebAuth, Metal Blockchain and XPR Network. According to its 2018 launch release, it was founded by Marshall Hayner and Glenn Mariën; press and company sources give 2016 or 2017 as the founding year.",
+   "website": "https://www.metallicus.com",
+   "type": "company",
+   "group": "core"
+  },
+  {
+   "id": "irina-berkon",
+   "facts": [
+    {
+     "es": "Firmó como consejera, el 13 de mayo de 2022, la disolución de la Metallicus Inc. californiana, y el 19 de mayo de 2022, como directiva, la inscripción en California de la Metallicus, Inc. de Delaware.",
+     "en": "As a director she signed the dissolution of the California Metallicus Inc. on 13 May 2022, and as an officer she signed the California registration of the Delaware Metallicus, Inc. on 19 May 2022.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-13"
+    },
+    {
+     "es": "Un tribunal federal recoge su declaración jurada como CFO de Metallicus en el pleito con Proton (orden del 26 de julio de 2022).",
+     "en": "A federal court order records her sworn declaration as Metallicus's CFO in the Proton litigation (order of 26 July 2022).",
+     "status": "confirmed",
+     "date": "2022-07-26",
+     "sources": [
+      {
+       "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
+       "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
+      }
+     ]
+    },
+    {
+     "es": "CFO de Metallicus (documentado de 2022 a 2025) y miembro de su consejo (documentado en 2022-2023).",
+     "en": "CFO of Metallicus (documented 2022-2025) and member of its board (documented 2022-2023).",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+      },
+      {
+       "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+       "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+      },
+      {
+       "title": "Metallicus – 2025 Q3 quarterly report (PDF)",
+       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
+      },
+      {
+       "title": "Metallicus – Irina Berkon profile",
+       "url": "https://metallicus.com/company/irina-berkon"
+      }
+     ]
+    },
+    {
+     "es": "Según ella y la empresa, se incorporó a Metallicus en 2020.",
+     "en": "According to her and the company, she joined Metallicus in 2020.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+       "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+      },
+      {
+       "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+       "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+      }
+     ]
+    },
+    {
+     "es": "Cofundó FBBT Holdings, Inc. junto a Marshall Hayner; según sus biografías en entrevistas, también es consejera de la sociedad (que llama First Blockchain Bank and Trust Holdings).",
+     "en": "Co-founded FBBT Holdings, Inc. with Marshall Hayner; according to her interview bios, she is also a director of the company (which they call First Blockchain Bank and Trust Holdings).",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
+       "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
+      },
+      {
+       "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
+       "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
+      },
+      {
+       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+      }
+     ]
+    },
+    {
+     "es": "En 2018 era CFO de Platio, contable pública certificada (CPA) y tenía 15 años de experiencia en finanzas, según Platio.",
+     "en": "In 2018 she was CFO of Platio, a licensed CPA with 15 years of finance experience, according to Platio.",
+     "status": "self",
+     "date": "2018-08-31",
+     "sources": [
+      {
+       "title": "Platio (Medium) – Meet the Platio team: CFO Irina Berkon (31 Aug 2018)",
+       "url": "https://medium.com/platio/meet-the-platio-team-cfo-irina-berkon-ea290ba996f3"
+      }
+     ]
+    },
+    {
+     "es": "Según sus entrevistas, nació en los Urales (Rusia) y emigró a EE. UU. a los 14 años.",
+     "en": "According to her interviews, she was born in the Ural region of Russia and emigrated to the US at 14.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Platio (Medium) – Meet the Platio team: CFO Irina Berkon (31 Aug 2018)",
+       "url": "https://medium.com/platio/meet-the-platio-team-cfo-irina-berkon-ea290ba996f3"
+      },
+      {
+       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+      }
+     ]
+    },
+    {
+     "es": "Según sus biografías, es Managing Director de Golden Seeds, red de inversores ángel que financia empresas lideradas por mujeres.",
+     "en": "According to her bios, she is Managing Director of Golden Seeds, an angel investor network funding women-led companies.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
+       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
+      },
+      {
+       "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
+       "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
+      },
+      {
+       "title": "Metallicus – Irina Berkon profile",
+       "url": "https://metallicus.com/company/irina-berkon"
+      }
+     ]
+    },
+    {
+     "es": "Según su LinkedIn, entró en Metallicus en enero de 2020 como vicepresidenta de Finanzas; es directora financiera (CFO) desde octubre de 2020 y miembro del consejo desde enero de 2021.",
+     "en": "According to her LinkedIn, she joined Metallicus in January 2020 as Vice President of Finance; she has been CFO since October 2020 and a board member since January 2021.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2020-01"
+    },
+    {
+     "es": "Según su LinkedIn, antes fue directora de Finanzas de TubeMogul (noviembre de 2013 – enero de 2016), vicepresidenta de Finanzas de MeForo (enero de 2016 – enero de 2018) y Managing Director de IBLS Global (octubre de 2017 – julio de 2020); es Managing Director de Golden Seeds desde marzo de 2019.",
+     "en": "According to her LinkedIn, she was previously Director of Finance at TubeMogul (November 2013 – January 2016), Vice President of Finance at MeForo (January 2016 – January 2018) and Managing Director of IBLS Global (October 2017 – July 2020); she has been a Managing Director of Golden Seeds since March 2019.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2013-11"
+    },
+    {
+     "es": "Según su LinkedIn, trabajó en auditoría en Grant Thornton de agosto de 2004 a noviembre de 2013, los últimos tres años como Audit Manager.",
+     "en": "According to her LinkedIn, she worked in audit at Grant Thornton from August 2004 to November 2013, the last three years as Audit Manager.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2004-08"
+    },
+    {
+     "es": "Según su LinkedIn, estudió Administración de Empresas, Economía y Contabilidad en la Universidad de California en Santa Cruz (2001–2004) y es contable pública certificada (CPA).",
+     "en": "According to her LinkedIn, she studied Business Management, Economics and Accounting at the University of California, Santa Cruz (2001–2004) and is a Certified Public Accountant (CPA).",
+     "status": "self",
+     "sources": [
+      {
+       "title": "LinkedIn – Irina Berkon",
+       "url": "https://www.linkedin.com/in/irinaberkon/"
+      }
+     ],
+     "date": "2004"
+    },
+    {
+     "es": "Firmó como CFO de Metallicus («Irina», CFO) la orden de Ohio MT2025-004, el 9 de septiembre de 2025.",
+     "en": "She signed Ohio order MT2025-004 as Metallicus's CFO ('Irina', CFO) on 9 September 2025.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Ohio Division of Financial Institutions – Final order MT2025-004, Metallicus, Inc. (15 Sep 2025), via NMLS Consumer Access",
+       "url": "https://www.nmlsconsumeraccess.org/EntityDetails.aspx/Artifact/Final%20Order.pdf?q=307452-398244"
+      }
+     ],
+     "date": "2025-09-09"
+    },
+    {
+     "es": "Los informes anuales de Metallicus a Rhode Island la listan como CFO en 2022 y 2023 y como consejera de 2024 a 2026.",
+     "en": "Metallicus's annual reports to Rhode Island list her as CFO in 2022 and 2023 and as a director from 2024 to 2026.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2022-04-19"
+    },
+    {
+     "es": "Firmó como CFO de Metallicus el acuerdo con el regulador de Ohio MT2022-004, el 23 de marzo de 2023.",
+     "en": "She signed Ohio agreement MT2022-004 as Metallicus's CFO on 23 March 2023.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
+       "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
+      }
+     ],
+     "date": "2023-03-23"
+    }
+   ],
+   "name": "Irina Berkon",
+   "summary_es": "Directora financiera (CFO) de Metallicus; según su LinkedIn, entró en enero de 2020, es CFO desde octubre de 2020 y consejera desde enero de 2021. Cofundó FBBT Holdings con Marshall Hayner.",
+   "summary_en": "Metallicus's Chief Financial Officer; according to her LinkedIn she joined in January 2020, has been CFO since October 2020 and a board member since January 2021. She co-founded FBBT Holdings with Marshall Hayner.",
+   "type": "person",
+   "group": "people"
+  },
+  {
+   "id": "frederick-krueger",
+   "facts": [
+    {
+     "es": "La declaración de información de 6 de julio de 2021 de la Metallicus Inc. californiana lo lista como consejero.",
+     "en": "The 6 July 2021 Statement of Information of the California Metallicus Inc. lists him as a director.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2021-07-06"
+    },
+    {
+     "es": "El informe anual de Metallicus a Rhode Island de 2021 lo lista como consejero. No aparece en los de 2019, 2020 ni 2022.",
+     "en": "Metallicus's 2021 annual report to Rhode Island lists him as a director. He does not appear in the 2019, 2020 or 2022 reports.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2021, Metallicus, Inc. (1 Mar 2021)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2021/0301/000000000/8401/202193314050_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2020, Metallicus, Inc. (24 Feb 2020)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2020/0224/000000000/2935/202035040550_1.pdf"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
+      }
+     ],
+     "date": "2021-03-01"
+    }
+   ],
+   "name": "Frederick Krueger",
+   "summary_es": "Figura como consejero de Metallicus en su informe anual de 2021 a Rhode Island.",
+   "summary_en": "Listed as a director of Metallicus in its 2021 annual report to Rhode Island.",
+   "type": "person",
+   "group": "people"
   },
   {
    "id": "tdbn",
@@ -1059,227 +1460,6 @@
       }
      ],
      "date": "2018-12-06"
-    }
-   ]
-  },
-  {
-   "id": "irina-berkon",
-   "name": "Irina Berkon",
-   "type": "person",
-   "group": "people",
-   "summary_es": "Directora financiera (CFO) de Metallicus; según su LinkedIn, entró en enero de 2020, es CFO desde octubre de 2020 y consejera desde enero de 2021. Cofundó FBBT Holdings con Marshall Hayner.",
-   "summary_en": "Metallicus's Chief Financial Officer; according to her LinkedIn she joined in January 2020, has been CFO since October 2020 and a board member since January 2021. She co-founded FBBT Holdings with Marshall Hayner.",
-   "facts": [
-    {
-     "es": "Un tribunal federal recoge su declaración jurada como CFO de Metallicus en el pleito con Proton (orden del 26 de julio de 2022).",
-     "en": "A federal court order records her sworn declaration as Metallicus's CFO in the Proton litigation (order of 26 July 2022).",
-     "status": "confirmed",
-     "date": "2022-07-26",
-     "sources": [
-      {
-       "title": "N.D. Cal. – Order denying motion to enforce settlement (26 Jul 2022)",
-       "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_21-cv-09562/pdf/USCOURTS-cand-4_21-cv-09562-2.pdf"
-      }
-     ]
-    },
-    {
-     "es": "CFO de Metallicus (documentado de 2022 a 2025) y miembro de su consejo (documentado en 2022-2023).",
-     "en": "CFO of Metallicus (documented 2022-2025) and member of its board (documented 2022-2023).",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
-       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
-      },
-      {
-       "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
-       "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
-      },
-      {
-       "title": "Metallicus – 2025 Q3 quarterly report (PDF)",
-       "url": "https://cdn.metallicus.com/Metallicus_2025_Q3.pdf"
-      },
-      {
-       "title": "Metallicus – Irina Berkon profile",
-       "url": "https://metallicus.com/company/irina-berkon"
-      }
-     ]
-    },
-    {
-     "es": "Según ella y la empresa, se incorporó a Metallicus en 2020.",
-     "en": "According to her and the company, she joined Metallicus in 2020.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
-       "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
-      },
-      {
-       "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
-       "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
-      }
-     ]
-    },
-    {
-     "es": "Cofundó FBBT Holdings, Inc. junto a Marshall Hayner; según sus biografías en entrevistas, también es consejera de la sociedad (que llama First Blockchain Bank and Trust Holdings).",
-     "en": "Co-founded FBBT Holdings, Inc. with Marshall Hayner; according to her interview bios, she is also a director of the company (which they call First Blockchain Bank and Trust Holdings).",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "Business Wire – Metallicus executives announce formation of FBBT Holdings (22 Feb 2023)",
-       "url": "https://www.businesswire.com/news/home/20230222005944/en/Metallicus-Executives-Announce-Formation-of-FBBT-Holdings-To-Deliver-Banking-And-Financial-Services-to-Tech-Industry-and-Investors"
-      },
-      {
-       "title": "Bank Reg Blog – Illinois suddenly a hotbed for crypto bank M&A",
-       "url": "https://bankregblog.substack.com/p/illinois-a-hotbed-for-crypto-bank"
-      },
-      {
-       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
-       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
-      }
-     ]
-    },
-    {
-     "es": "En 2018 era CFO de Platio, contable pública certificada (CPA) y tenía 15 años de experiencia en finanzas, según Platio.",
-     "en": "In 2018 she was CFO of Platio, a licensed CPA with 15 years of finance experience, according to Platio.",
-     "status": "self",
-     "date": "2018-08-31",
-     "sources": [
-      {
-       "title": "Platio (Medium) – Meet the Platio team: CFO Irina Berkon (31 Aug 2018)",
-       "url": "https://medium.com/platio/meet-the-platio-team-cfo-irina-berkon-ea290ba996f3"
-      }
-     ]
-    },
-    {
-     "es": "Según sus entrevistas, nació en los Urales (Rusia) y emigró a EE. UU. a los 14 años.",
-     "en": "According to her interviews, she was born in the Ural region of Russia and emigrated to the US at 14.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Platio (Medium) – Meet the Platio team: CFO Irina Berkon (31 Aug 2018)",
-       "url": "https://medium.com/platio/meet-the-platio-team-cfo-irina-berkon-ea290ba996f3"
-      },
-      {
-       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
-       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
-      }
-     ]
-    },
-    {
-     "es": "Según sus biografías, es Managing Director de Golden Seeds, red de inversores ángel que financia empresas lideradas por mujeres.",
-     "en": "According to her bios, she is Managing Director of Golden Seeds, an angel investor network funding women-led companies.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "Authority Magazine – Irina Berkon of Metallicus (25 Jul 2022)",
-       "url": "https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-blockchain-revolution-with-irina-berkon-of-metallicus-89dc5d221d56"
-      },
-      {
-       "title": "Ryze Labs – How to stay safe and compliant in crypto, with Irina Berkon (22 Jun 2023)",
-       "url": "https://ryzelabs.substack.com/p/how-to-stay-safe-and-compliant-in"
-      },
-      {
-       "title": "Metallicus – Irina Berkon profile",
-       "url": "https://metallicus.com/company/irina-berkon"
-      }
-     ]
-    },
-    {
-     "es": "Según su LinkedIn, entró en Metallicus en enero de 2020 como vicepresidenta de Finanzas; es directora financiera (CFO) desde octubre de 2020 y miembro del consejo desde enero de 2021.",
-     "en": "According to her LinkedIn, she joined Metallicus in January 2020 as Vice President of Finance; she has been CFO since October 2020 and a board member since January 2021.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "LinkedIn – Irina Berkon",
-       "url": "https://www.linkedin.com/in/irinaberkon/"
-      }
-     ],
-     "date": "2020-01"
-    },
-    {
-     "es": "Según su LinkedIn, antes fue directora de Finanzas de TubeMogul (noviembre de 2013 – enero de 2016), vicepresidenta de Finanzas de MeForo (enero de 2016 – enero de 2018) y Managing Director de IBLS Global (octubre de 2017 – julio de 2020); es Managing Director de Golden Seeds desde marzo de 2019.",
-     "en": "According to her LinkedIn, she was previously Director of Finance at TubeMogul (November 2013 – January 2016), Vice President of Finance at MeForo (January 2016 – January 2018) and Managing Director of IBLS Global (October 2017 – July 2020); she has been a Managing Director of Golden Seeds since March 2019.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "LinkedIn – Irina Berkon",
-       "url": "https://www.linkedin.com/in/irinaberkon/"
-      }
-     ],
-     "date": "2013-11"
-    },
-    {
-     "es": "Según su LinkedIn, trabajó en auditoría en Grant Thornton de agosto de 2004 a noviembre de 2013, los últimos tres años como Audit Manager.",
-     "en": "According to her LinkedIn, she worked in audit at Grant Thornton from August 2004 to November 2013, the last three years as Audit Manager.",
-     "status": "self",
-     "sources": [
-      {
-       "title": "LinkedIn – Irina Berkon",
-       "url": "https://www.linkedin.com/in/irinaberkon/"
-      }
-     ],
-     "date": "2004-08"
-    },
-    {
-     "es": "Según su LinkedIn, estudió Administración de Empresas, Economía y Contabilidad en la Universidad de California en Santa Cruz (2001–2004) y es contable pública certificada (CPA).",
-     "en": "According to her LinkedIn, she studied Business Management, Economics and Accounting at the University of California, Santa Cruz (2001–2004) and is a Certified Public Accountant (CPA).",
-     "status": "self",
-     "sources": [
-      {
-       "title": "LinkedIn – Irina Berkon",
-       "url": "https://www.linkedin.com/in/irinaberkon/"
-      }
-     ],
-     "date": "2004"
-    },
-    {
-     "es": "Firmó como CFO de Metallicus («Irina», CFO) la orden de Ohio MT2025-004, el 9 de septiembre de 2025.",
-     "en": "She signed Ohio order MT2025-004 as Metallicus's CFO ('Irina', CFO) on 9 September 2025.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "Ohio Division of Financial Institutions – Final order MT2025-004, Metallicus, Inc. (15 Sep 2025), via NMLS Consumer Access",
-       "url": "https://www.nmlsconsumeraccess.org/EntityDetails.aspx/Artifact/Final%20Order.pdf?q=307452-398244"
-      }
-     ],
-     "date": "2025-09-09"
-    },
-    {
-     "es": "Los informes anuales de Metallicus a Rhode Island la listan como CFO en 2022 y 2023 y como consejera de 2024 a 2026.",
-     "en": "Metallicus's annual reports to Rhode Island list her as CFO in 2022 and 2023 and as a director from 2024 to 2026.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
-       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
-      },
-      {
-       "title": "Rhode Island Secretary of State – Annual report 2023, Metallicus, Inc. (1 May 2023)",
-       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2023/0501/000000000/2925/202335003390_1.pdf"
-      },
-      {
-       "title": "Rhode Island Secretary of State – Annual report 2024, Metallicus, Inc. (29 Apr 2024)",
-       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2024/0429/000000000/0605/202453121080_1.pdf"
-      },
-      {
-       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
-       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
-      }
-     ],
-     "date": "2022-04-19"
-    },
-    {
-     "es": "Firmó como CFO de Metallicus el acuerdo con el regulador de Ohio MT2022-004, el 23 de marzo de 2023.",
-     "en": "She signed Ohio agreement MT2022-004 as Metallicus's CFO on 23 March 2023.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "Ohio Division of Financial Institutions – Consent agreement MT2022-004 (Metallicus, Inc.)",
-       "url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/fiin_Enf2023_Metallicus.pdf"
-      }
-     ],
-     "date": "2023-03-23"
     }
    ]
   },
@@ -8165,39 +8345,61 @@
      ]
     }
    ]
-  },
-  {
-   "id": "frederick-krueger",
-   "name": "Frederick Krueger",
-   "type": "person",
-   "group": "people",
-   "summary_es": "Figura como consejero de Metallicus en su informe anual de 2021 a Rhode Island.",
-   "summary_en": "Listed as a director of Metallicus in its 2021 annual report to Rhode Island.",
-   "facts": [
-    {
-     "es": "El informe anual de Metallicus a Rhode Island de 2021 lo lista como consejero. No aparece en los de 2019, 2020 ni 2022.",
-     "en": "Metallicus's 2021 annual report to Rhode Island lists him as a director. He does not appear in the 2019, 2020 or 2022 reports.",
-     "status": "confirmed",
-     "sources": [
-      {
-       "title": "Rhode Island Secretary of State – Annual report 2021, Metallicus, Inc. (1 Mar 2021)",
-       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2021/0301/000000000/8401/202193314050_1.pdf"
-      },
-      {
-       "title": "Rhode Island Secretary of State – Annual report 2020, Metallicus, Inc. (24 Feb 2020)",
-       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2020/0224/000000000/2935/202035040550_1.pdf"
-      },
-      {
-       "title": "Rhode Island Secretary of State – Annual report 2022, Metallicus, Inc. (19 Apr 2022)",
-       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2022/0419/000000000/5614/202215139870_1.pdf"
-      }
-     ],
-     "date": "2021-03-01"
-    }
-   ]
   }
  ],
  "edges": [
+  {
+   "from": "marshall-hayner",
+   "to": "metallicus-california",
+   "label_es": "constituyó (único incorporador)",
+   "label_en": "incorporated (sole incorporator)",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  },
+  {
+   "from": "glenn-marien",
+   "to": "metallicus-california",
+   "label_es": "consejero de",
+   "label_en": "director of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  },
+  {
+   "from": "frederick-krueger",
+   "to": "metallicus-california",
+   "label_es": "consejero (2021) de",
+   "label_en": "director (2021) of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  },
+  {
+   "from": "irina-berkon",
+   "to": "metallicus-california",
+   "label_es": "consejera (2022) de",
+   "label_en": "director (2022) of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  },
   {
    "from": "marshall-hayner",
    "to": "metallicus",
