@@ -1,0 +1,347 @@
+{
+ "nodes": [
+  {
+   "id": "krueger-litigation-2022",
+   "name": "Metallicus v. Krueger / Krueger v. Metallicus (2022)",
+   "type": "regulatory",
+   "group": "regulatory",
+   "summary_es": "Dos demandas cruzadas de 2022 entre Metallicus y Frederick Krueger (y su empresa SoftAtom) en tribunales de San Francisco y Los Ángeles. Resultado desconocido.",
+   "summary_en": "Two cross-lawsuits in 2022 between Metallicus and Frederick Krueger (and his company SoftAtom) in San Francisco and Los Angeles courts. Outcome unknown.",
+   "facts": [
+    {
+     "es": "Metallicus, Inc. demandó a Frederick Krueger y SoftAtom, Inc. ante el Tribunal Superior de San Francisco el 4 de marzo de 2022 (CGC-22-598536). Pide una sentencia declarativa y alega incumplimiento de un contrato de compra de acciones comunes (Common Stock Purchase Agreement) con fecha efectiva 18 de abril de 2021, por el que Metallicus obtenía una participación minoritaria en SoftAtom y derecho a asistir como observador a sus consejos.",
+     "en": "Metallicus, Inc. sued Frederick Krueger and SoftAtom, Inc. in San Francisco Superior Court on 4 March 2022 (CGC-22-598536). It seeks declaratory relief and alleges breach of a Common Stock Purchase Agreement effective 18 April 2021, under which Metallicus obtained a minority stake in SoftAtom and board observer rights.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+      }
+     ],
+     "date": "2022-03-04"
+    },
+    {
+     "es": "El 1 de abril de 2022 Krueger pidió trasladar el caso de San Francisco a Los Ángeles.",
+     "en": "On 1 April 2022 Krueger asked for the San Francisco case to be transferred to Los Angeles.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+      }
+     ],
+     "date": "2022-04-01"
+    },
+    {
+     "es": "Frederick Krueger, SoftAtom, Inc. y el Fred Krueger Charitable Remainder Trust demandaron a Metallicus Inc., Marshall Hayner, Irina Berkon y Syed Jafri ante el Tribunal Superior de Los Ángeles el 16 de marzo de 2022 (22SMCV00375) por apropiación indebida (conversion), malversación, incumplimiento de deber fiduciario y competencia desleal. Una estipulación del 29 de marzo de 2022 amplió el plazo de respuesta hasta el 13 de mayo de 2022.",
+     "en": "Frederick Krueger, SoftAtom, Inc. and the Fred Krueger Charitable Remainder Trust sued Metallicus Inc., Marshall Hayner, Irina Berkon and Syed Jafri in Los Angeles Superior Court on 16 March 2022 (22SMCV00375) for conversion, embezzlement, breach of fiduciary duty and unfair competition. A stipulation of 29 March 2022 extended the time to respond to 13 May 2022.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2022-03-16"
+    },
+    {
+     "es": "Abogados: Morgan, Lewis & Bockius LLP (Rollin B. Chippey II y Joseph E. Floren, San Francisco) por Metallicus y sus tres directivos; Newman Du Wors LLP (Derek A. Newman) por Krueger.",
+     "en": "Counsel: Morgan, Lewis & Bockius LLP (Rollin B. Chippey II and Joseph E. Floren, San Francisco) for Metallicus and its three officers; Newman Du Wors LLP (Derek A. Newman) for Krueger.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+      },
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2022-03-29"
+    },
+    {
+     "es": "Según Krueger, en 2021 él, SoftAtom y su fideicomiso adquirieron 8.700 millones de tokens «Loan» que Metallicus custodiaba, y el 16 de febrero de 2022 Metallicus se los apropió sin permiso ni compensación. Les reclamó por carta el 28 de febrero de 2022 y Metallicus demandó en San Francisco el 4 de marzo sin responderle.",
+     "en": "According to Krueger, in 2021 he, SoftAtom and his trust acquired 8.7 billion 'Loan' tokens held in custody by Metallicus, and on 16 February 2022 Metallicus took them without permission or compensation. He demanded them back by letter on 28 February 2022, and Metallicus sued in San Francisco on 4 March without replying.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2022-02-16"
+    },
+    {
+     "es": "No se ha encontrado el resultado de ninguna de las dos demandas.",
+     "en": "The outcome of neither lawsuit has been found.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+      },
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "softatom",
+   "name": "SoftAtom, Inc.",
+   "type": "company",
+   "group": "partners",
+   "summary_es": "Empresa de Frederick Krueger, parte en el litigio de 2022 con Metallicus, en la que Metallicus tenía una participación minoritaria según su demanda.",
+   "summary_en": "Frederick Krueger's company, a party to the 2022 litigation with Metallicus, in which Metallicus held a minority stake according to its complaint.",
+   "facts": [
+    {
+     "es": "Según la demanda de Metallicus, un contrato de compra de acciones comunes con fecha efectiva 18 de abril de 2021 le daba una participación minoritaria en SoftAtom y derecho de observador en sus consejos.",
+     "en": "According to Metallicus's complaint, a Common Stock Purchase Agreement effective 18 April 2021 gave it a minority stake in SoftAtom and board observer rights.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+      }
+     ],
+     "date": "2021-04-18"
+    },
+    {
+     "es": "Según Krueger, fundó SoftAtom el 19 de abril de 2021.",
+     "en": "According to Krueger, he founded SoftAtom on 19 April 2021.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2021-04-19"
+    }
+   ]
+  },
+  {
+   "id": "frederick-krueger",
+   "facts": [
+    {
+     "es": "Según su propia demanda, fue Chief Strategy Officer y presidente del consejo (Chairman of the Board) de Metallicus de mayo de 2020 a abril de 2021, cuando dejó la empresa.",
+     "en": "According to his own complaint, he was Chief Strategy Officer and Chairman of the Board of Metallicus from May 2020 to April 2021, when he left the company.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2020-05"
+    },
+    {
+     "es": "Según su perfil en PitchBook, es inversor ángel con base en Los Ángeles y doctor en Investigación Operativa y Estadística (Operations Research and Statistics) por Stanford.",
+     "en": "According to his PitchBook profile, he is an angel investor based in Los Angeles with a PhD in Operations Research and Statistics from Stanford.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "PitchBook – Frederick Krueger investor profile",
+       "url": "https://pitchbook.com/profiles/investor/119843-65"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "syed-jafri",
+   "facts": [
+    {
+     "es": "Es uno de los demandados, junto a Metallicus, Hayner y Berkon, en la demanda de Krueger de 2022 en Los Ángeles (22SMCV00375). El escrito lo identifica como Vice President of Engineering for Proton.",
+     "en": "He is one of the defendants, with Metallicus, Hayner and Berkon, in Krueger's 2022 Los Angeles lawsuit (22SMCV00375). The filing identifies him as Vice President of Engineering for Proton.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2022-03-16"
+    }
+   ]
+  },
+  {
+   "id": "irina-berkon",
+   "facts": [
+    {
+     "es": "La demanda de Krueger de marzo de 2022 la identifica como CFO de Metallicus y la incluye entre los demandados.",
+     "en": "Krueger's March 2022 complaint identifies her as Metallicus's CFO and names her as a defendant.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2022-03-16"
+    }
+   ]
+  },
+  {
+   "id": "metallicus",
+   "facts": [
+    {
+     "es": "660 4th St., San Francisco, la dirección que Metallicus declara como «Suite 107» en varios registros, es la de una UPS Store (The UPS Store) que alquila buzones con dirección postal.",
+     "en": "660 4th St., San Francisco, the address Metallicus gives as 'Suite 107' in several registries, is that of a UPS Store that rents mailboxes with a street address.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "The UPS Store – 660 4th St, San Francisco: mailbox services",
+       "url": "https://locations.theupsstore.com/ca/san-francisco/660-4th-st/mailbox-services"
+      }
+     ]
+    },
+    {
+     "es": "Según Krueger en su demanda de 2022, la «Suite 107» de Metallicus en 660 4th St. es un buzón, no una oficina.",
+     "en": "According to Krueger's 2022 complaint, Metallicus's 'Suite 107' at 660 4th St. is a mailbox, not an office.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2022-03-16"
+    },
+    {
+     "es": "Según Krueger, hacia abril de 2020 Metallicus dejó su oficina de San Francisco por el COVID y Hayner dirigía la empresa desde Los Ángeles.",
+     "en": "According to Krueger, around April 2020 Metallicus left its San Francisco office because of COVID, and Hayner ran the company from Los Angeles.",
+     "status": "self",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ],
+     "date": "2020-04"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "metallicus",
+   "to": "krueger-litigation-2022",
+   "label_es": "parte en",
+   "label_en": "party to",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+    },
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
+  {
+   "from": "frederick-krueger",
+   "to": "krueger-litigation-2022",
+   "label_es": "parte en",
+   "label_en": "party to",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+    },
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
+  {
+   "from": "softatom",
+   "to": "krueger-litigation-2022",
+   "label_es": "parte en",
+   "label_en": "party to",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+    },
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
+  {
+   "from": "marshall-hayner",
+   "to": "krueger-litigation-2022",
+   "label_es": "demandado en",
+   "label_en": "defendant in",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
+  {
+   "from": "irina-berkon",
+   "to": "krueger-litigation-2022",
+   "label_es": "demandada en",
+   "label_en": "defendant in",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
+  {
+   "from": "syed-jafri",
+   "to": "krueger-litigation-2022",
+   "label_es": "demandado en",
+   "label_en": "defendant in",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
+  {
+   "from": "frederick-krueger",
+   "to": "softatom",
+   "label_es": "fundó (según Krueger)",
+   "label_en": "founded (according to Krueger)",
+   "status": "self",
+   "sources": [
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
+  {
+   "from": "frederick-krueger",
+   "to": "metallicus",
+   "label_es": "presidente del consejo (2020-2021, según Krueger) de",
+   "label_en": "chairman (2020-2021, according to Krueger) of",
+   "status": "self",
+   "sources": [
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  }
+ ]
+}
