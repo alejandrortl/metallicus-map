@@ -5,8 +5,8 @@
    "name": "Metallicus v. Krueger / Krueger v. Metallicus (2022)",
    "type": "regulatory",
    "group": "regulatory",
-   "summary_es": "Dos demandas cruzadas de 2022 entre Metallicus y Frederick Krueger (y su empresa SoftAtom) en tribunales de San Francisco y Los Ángeles. Resultado desconocido.",
-   "summary_en": "Two cross-lawsuits in 2022 between Metallicus and Frederick Krueger (and his company SoftAtom) in San Francisco and Los Angeles courts. Outcome unknown.",
+   "summary_es": "Demandas cruzadas de 2022 entre Metallicus y Frederick Krueger (y su empresa SoftAtom), acumuladas en San Francisco. En septiembre y octubre de 2023 ambas partes retiraron sus demandas con perjuicio (no pueden volver a presentarse); los términos no son públicos.",
+   "summary_en": "Cross-lawsuits in 2022 between Metallicus and Frederick Krueger (and his company SoftAtom), consolidated in San Francisco. In September and October 2023 both sides dismissed their claims with prejudice (they cannot be refiled); the terms are not public.",
    "facts": [
     {
      "es": "Metallicus, Inc. demandó a Frederick Krueger y SoftAtom, Inc. ante el Tribunal Superior de San Francisco el 4 de marzo de 2022 (CGC-22-598536). Pide una sentencia declarativa y alega incumplimiento de un contrato de compra de acciones comunes (Common Stock Purchase Agreement) con fecha efectiva 18 de abril de 2021, por el que Metallicus obtenía una participación minoritaria en SoftAtom y derecho a asistir como observador a sus consejos.",
@@ -73,8 +73,73 @@
      "date": "2022-02-16"
     },
     {
-     "es": "No se ha encontrado el resultado de ninguna de las dos demandas.",
-     "en": "The outcome of neither lawsuit has been found.",
+     "es": "El 27 de abril de 2022 el juez Richard B. Ulmer Jr. denegó la petición de Krueger y SoftAtom de trasladar el caso a Los Ángeles; ese día también se admitieron documentos de Metallicus bajo secreto. Metallicus presentó una demanda enmendada el 22 de junio de 2022; el 16 de diciembre de 2022 se rechazó la objeción (demurrer) de Krueger, que contestó el 20 de enero de 2023.",
+     "en": "On 27 April 2022 Judge Richard B. Ulmer Jr. denied Krueger and SoftAtom's motion to transfer the case to Los Angeles; Metallicus documents were also accepted under seal that day. Metallicus filed an amended complaint on 22 June 2022; on 16 December 2022 Krueger's demurrer was overruled, and he answered on 20 January 2023.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "San Francisco Superior Court – Case information CGC-22-598536 (Metallicus, Inc. v. Krueger et al.)",
+       "url": "https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22598536"
+      }
+     ],
+     "date": "2022-04-27"
+    },
+    {
+     "es": "Krueger, SoftAtom y su fideicomiso volvieron a presentar su demanda contra Metallicus, Hayner, Berkon y Jafri en San Francisco el 17 de junio de 2022 (CGC-22-600250). El 2 de marzo de 2023 se acumuló al caso CGC-22-598536, con juicio fijado para el 5 de febrero de 2024. El 19 de julio de 2023 se ordenó a la parte de Krueger entregar documentos del fideicomiso.",
+     "en": "Krueger, SoftAtom and his trust refiled their suit against Metallicus, Hayner, Berkon and Jafri in San Francisco on 17 June 2022 (CGC-22-600250). On 2 March 2023 it was consolidated into case CGC-22-598536, with trial set for 5 February 2024. On 19 July 2023 the Krueger side was ordered to produce trust documents.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "San Francisco Superior Court – Case information CGC-22-600250 (Krueger et al. v. Metallicus Inc. et al.)",
+       "url": "https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600250"
+      },
+      {
+       "title": "San Francisco Superior Court – Case information CGC-22-598536 (Metallicus, Inc. v. Krueger et al.)",
+       "url": "https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22598536"
+      }
+     ],
+     "date": "2022-06-17"
+    },
+    {
+     "es": "El caso principal se archivó con perjuicio el 21 de septiembre de 2023 (todas las partes y todas las causas) y el caso acumulado CGC-22-600250 el 12 de octubre de 2023, de modo que ambas partes retiraron sus demandas y no pueden volver a presentarlas. El juicio de febrero de 2024 se anuló. Los términos no son públicos.",
+     "en": "The main case was dismissed with prejudice on 21 September 2023 (all parties and all causes of action) and the consolidated case CGC-22-600250 on 12 October 2023, so both sides withdrew their claims and cannot refile them. The February 2024 trial was vacated. The terms are not public.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "San Francisco Superior Court – Case information CGC-22-598536 (Metallicus, Inc. v. Krueger et al.)",
+       "url": "https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22598536"
+      },
+      {
+       "title": "San Francisco Superior Court – Case information CGC-22-600250 (Krueger et al. v. Metallicus Inc. et al.)",
+       "url": "https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600250"
+      }
+     ],
+     "date": "2023-09-21"
+    },
+    {
+     "es": "No se ha comprobado qué pasó con la demanda de Los Ángeles 22SMCV00375.",
+     "en": "What happened to the Los Angeles suit 22SMCV00375 has not been verified.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+       "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "morgan-lewis",
+   "name": "Morgan, Lewis & Bockius LLP",
+   "type": "company",
+   "group": "partners",
+   "summary_es": "Gran bufete de Filadelfia que representó a Metallicus, Hayner, Berkon y Jafri en el litigio con Krueger de 2022.",
+   "summary_en": "Large Philadelphia law firm that represented Metallicus, Hayner, Berkon and Jafri in the 2022 litigation with Krueger.",
+   "facts": [
+    {
+     "es": "Representó a Metallicus, Marshall Hayner, Irina Berkon y Syed Jafri en el litigio con Krueger de 2022 (abogados Rollin B. Chippey II y Joseph E. Floren, de su oficina de San Francisco).",
+     "en": "It represented Metallicus, Marshall Hayner, Irina Berkon and Syed Jafri in the 2022 litigation with Krueger (attorneys Rollin B. Chippey II and Joseph E. Floren, of its San Francisco office).",
      "status": "confirmed",
      "sources": [
       {
@@ -85,7 +150,8 @@
        "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
        "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
       }
-     ]
+     ],
+     "date": "2022-03-29"
     }
    ]
   },
@@ -227,6 +293,23 @@
   }
  ],
  "edges": [
+  {
+   "from": "morgan-lewis",
+   "to": "krueger-litigation-2022",
+   "label_es": "representó a Metallicus en",
+   "label_en": "represented Metallicus in",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "Metallicus, Inc. v. Krueger et al., S.F. Superior Court CGC-22-598536 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/5-metallicus-sf.pdf"
+    },
+    {
+     "title": "Krueger et al. v. Metallicus Inc. et al., L.A. Superior Court 22SMCV00375 – court filing published by Newman Du Wors (2022)",
+     "url": "https://www.newmandocket.com/wp-content/uploads/2022/04/6-metallicus.pdf"
+    }
+   ]
+  },
   {
    "from": "metallicus",
    "to": "krueger-litigation-2022",
