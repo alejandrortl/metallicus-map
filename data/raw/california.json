@@ -1,0 +1,235 @@
+{
+ "nodes": [
+  {
+   "id": "metallicus-california",
+   "name": "Metallicus Inc. (California, 2017-2022)",
+   "type": "company",
+   "group": "history",
+   "summary_es": "Sociedad de California con el mismo nombre que Metallicus, Inc. pero distinta de ella. La constituyó Marshall Hayner en julio de 2017 y se disolvió en mayo de 2022, cuando la actividad en California pasó a la Metallicus, Inc. de Delaware (constituida en 2016), que sigue activa.",
+   "summary_en": "California corporation with the same name as Metallicus, Inc. but separate from it. Marshall Hayner incorporated it in July 2017 and it was dissolved in May 2022, when activity in California moved to the Delaware Metallicus, Inc. (incorporated in 2016), which remains active.",
+   "facts": [
+    {
+     "es": "METALLICUS INC. (nº C4048607) es una sociedad de California, distinta de la Metallicus, Inc. de Delaware. Sus estatutos (Articles of Incorporation) se presentaron el 21 de julio de 2017, firmados por Marshall Hayner como único incorporador y agente inicial, con 10.000.000 de acciones autorizadas. La dirección inicial era un domicilio particular.",
+     "en": "METALLICUS INC. (no. C4048607) is a California corporation, separate from the Delaware Metallicus, Inc. Its Articles of Incorporation were filed on 21 July 2017, signed by Marshall Hayner as sole incorporator and initial agent, with 10,000,000 authorized shares. Its initial address was a private residence.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2017-07-21"
+    },
+    {
+     "es": "California le notificó una declaración de información (Statement of Information) atrasada el 28 de agosto de 2018 y emitió una certificación de penalización el 28 de noviembre de 2018.",
+     "en": "California issued a notice of an overdue Statement of Information on 28 August 2018 and a penalty certification on 28 November 2018.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2018-08-28"
+    },
+    {
+     "es": "Declaración de información de 27 de julio de 2020 (GH26570): sede en 660 4th St. No. 107, San Francisco; Marshall Hayner como CEO, secretario y CFO; consejeros Glenn Mariën y Marshall Hayner; actividad «financial services»; agente Corporation Service Company.",
+     "en": "Statement of Information of 27 July 2020 (GH26570): office at 660 4th St. No. 107, San Francisco; Marshall Hayner as CEO, secretary and CFO; directors Glenn Mariën and Marshall Hayner; business type 'financial services'; agent Corporation Service Company.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2020-07-27"
+    },
+    {
+     "es": "Declaración de información de 6 de julio de 2021 (GU59814): Hayner con los mismos cargos y consejeros Glenn Mariën, Marshall Hayner y Frederick Krueger.",
+     "en": "Statement of Information of 6 July 2021 (GU59814): Hayner in the same roles, and directors Glenn Mariën, Marshall Hayner and Frederick Krueger.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2021-07-06"
+    },
+    {
+     "es": "Se disolvió el 16 de mayo de 2022 (BA20220322500) por voto de todos los accionistas. Firmaron la disolución los consejeros Glenn Mariën (6 de mayo), Marshall Hayner (12 de mayo) e Irina Berkon (13 de mayo de 2022); Frederick Krueger ya no figura entre los firmantes. Solo se disolvió esta sociedad californiana: la Metallicus, Inc. de Delaware sigue activa.",
+     "en": "It was dissolved on 16 May 2022 (BA20220322500) by vote of all shareholders. Directors Glenn Mariën (6 May), Marshall Hayner (12 May) and Irina Berkon (13 May 2022) signed the dissolution; Frederick Krueger is no longer among the signers. Only this California company was dissolved: the Delaware Metallicus, Inc. remains active.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-16"
+    }
+   ]
+  },
+  {
+   "id": "metallicus",
+   "facts": [
+    {
+     "es": "En California figuran dos inscripciones de la Metallicus, Inc. de Delaware: la nº 5074881, registrada el 13 de mayo de 2022 en 353 Sacramento St., San Francisco, y terminada el 5 de febrero de 2024; y la nº 5084059, activa, registrada el 19 de mayo de 2022 con «MTLPay» como nombre alternativo en California (California Alternate Name); no es otra sociedad. La solicitud de esta última la firmó Irina Berkon como directiva e incluye un certificado de vigencia de Delaware de esa fecha.",
+     "en": "California shows two registrations of the Delaware Metallicus, Inc.: no. 5074881, registered on 13 May 2022 at 353 Sacramento St., San Francisco, and terminated on 5 February 2024; and no. 5084059, active, registered on 19 May 2022 with 'MTLPay' as its California Alternate Name; it is not a separate company. Irina Berkon signed the latter's application as an officer, and it includes a Delaware certificate of good standing of that date.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-19"
+    },
+    {
+     "es": "Hubo dos sociedades con el nombre Metallicus: la de Delaware (constituida el 5 de octubre de 2016) y una californiana (C4048607, de 2017). En mayo de 2022 la actividad en California pasó a la de Delaware: el 13 de mayo se completaron las firmas de la disolución de la californiana y ese mismo día se hizo la primera inscripción de la de Delaware en California (5074881, terminada después); la definitiva es del 19 de mayo de 2022 (5084059). La sociedad de Delaware sigue activa en California, Carolina del Norte, Nueva York, Rhode Island y NMLS.",
+     "en": "There were two companies named Metallicus: the Delaware one (incorporated on 5 October 2016) and a California one (C4048607, from 2017). In May 2022 activity in California moved to the Delaware company: the last signature on the California company's dissolution was given on 13 May, and the same day the Delaware company made its first California registration (5074881, later terminated); the definitive one dates from 19 May 2022 (5084059). The Delaware company remains active in California, North Carolina, New York, Rhode Island and NMLS.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-13"
+    },
+    {
+     "es": "En la inscripción californiana nº 5084059 la dirección inicial era 353 Sacramento St., San Francisco. Hoy declara como sede 1429 Rollins Road, Burlingame (también su oficina en California), como dirección postal 660 4th St., Suite 107, San Francisco, y como agente National Registered Agents.",
+     "en": "In California registration no. 5084059 the initial address was 353 Sacramento St., San Francisco. It now gives 1429 Rollins Road, Burlingame as its principal office (also its California office), 660 4th St., Suite 107, San Francisco as its mailing address, and National Registered Agents as its agent.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-19"
+    },
+    {
+     "es": "Declaración de información en California de 14 de mayo de 2026 (BA20261049547), firmada por Marshall Hayner: Hayner figura como CEO, CFO y secretario, y no se declaran consejeros.",
+     "en": "California Statement of Information of 14 May 2026 (BA20261049547), signed by Marshall Hayner: Hayner is listed as CEO, CFO and secretary, and no directors are declared.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2026-05-14"
+    },
+    {
+     "es": "Fuentes discrepan sobre quién es CFO: en la declaración de California de mayo de 2026 el CFO es Marshall Hayner, mientras que en la orden de Ohio de septiembre de 2025 firma como CFO «Irina» (Irina Berkon), y el informe anual de Rhode Island de mayo de 2026 la lista como consejera.",
+     "en": "Sources disagree on who the CFO is: the May 2026 California statement lists Marshall Hayner as CFO, while the September 2025 Ohio order is signed by 'Irina' (Irina Berkon) as CFO, and the May 2026 Rhode Island annual report lists her as a director.",
+     "status": "disputed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      },
+      {
+       "title": "Ohio Division of Financial Institutions – Final order MT2025-004, Metallicus, Inc. (15 Sep 2025), via NMLS Consumer Access",
+       "url": "https://www.nmlsconsumeraccess.org/EntityDetails.aspx/Artifact/Final%20Order.pdf?q=307452-398244"
+      },
+      {
+       "title": "Rhode Island Secretary of State – Annual report 2026, Metallicus, Inc. (1 May 2026)",
+       "url": "https://business.sos.ri.gov/CORP_DRIVE1/2026/0501/000000000/0094/202691366560_1.pdf"
+      }
+     ],
+     "date": "2026-05-14"
+    }
+   ]
+  },
+  {
+   "id": "irina-berkon",
+   "facts": [
+    {
+     "es": "Firmó como consejera, el 13 de mayo de 2022, la disolución de la Metallicus Inc. californiana, y el 19 de mayo de 2022, como directiva, la inscripción en California de la Metallicus, Inc. de Delaware.",
+     "en": "As a director she signed the dissolution of the California Metallicus Inc. on 13 May 2022, and as an officer she signed the California registration of the Delaware Metallicus, Inc. on 19 May 2022.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2022-05-13"
+    }
+   ]
+  },
+  {
+   "id": "frederick-krueger",
+   "facts": [
+    {
+     "es": "La declaración de información de 6 de julio de 2021 de la Metallicus Inc. californiana lo lista como consejero.",
+     "en": "The 6 July 2021 Statement of Information of the California Metallicus Inc. lists him as a director.",
+     "status": "confirmed",
+     "sources": [
+      {
+       "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+       "url": "https://bizfileonline.sos.ca.gov/search/business"
+      }
+     ],
+     "date": "2021-07-06"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "marshall-hayner",
+   "to": "metallicus-california",
+   "label_es": "constituyó (único incorporador)",
+   "label_en": "incorporated (sole incorporator)",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  },
+  {
+   "from": "glenn-marien",
+   "to": "metallicus-california",
+   "label_es": "consejero de",
+   "label_en": "director of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  },
+  {
+   "from": "frederick-krueger",
+   "to": "metallicus-california",
+   "label_es": "consejero (2021) de",
+   "label_en": "director (2021) of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  },
+  {
+   "from": "irina-berkon",
+   "to": "metallicus-california",
+   "label_es": "consejera (2022) de",
+   "label_en": "director (2022) of",
+   "status": "confirmed",
+   "sources": [
+    {
+     "title": "California Secretary of State – bizfile Online, business search 'Metallicus' (entities C4048607, 5074881 and 5084059)",
+     "url": "https://bizfileonline.sos.ca.gov/search/business"
+    }
+   ]
+  }
+ ]
+}

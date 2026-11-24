@@ -1,8 +1,8 @@
 {
  "metallicus": {
-  "summary_es": "Sociedad de Delaware con domicilio declarado en San Francisco que desarrolla Metal Pay, WebAuth, Metal Blockchain y XPR Network. Según la nota de lanzamiento de 2018, la fundaron Marshall Hayner y Glenn Mariën; el año de fundación (2016 o 2017) varía según la fuente.",
-  "summary_en": "Delaware corporation with a stated San Francisco address that develops Metal Pay, WebAuth, Metal Blockchain and XPR Network. According to its 2018 launch release, it was founded by Marshall Hayner and Glenn Mariën; the founding year (2016 or 2017) differs by source.",
-  "reason": "Founders claim is 'self' (2018 launch release); now attributed."
+  "summary_es": "Sociedad de Delaware constituida el 5 de octubre de 2016, con oficina principal declarada en 1429 Rollins Road, Burlingame (California), desde 2024. Desarrolla Metal Pay, WebAuth, Metal Blockchain y XPR Network. Según la nota de lanzamiento de 2018, la fundaron Marshall Hayner y Glenn Mariën; la prensa y la empresa dan 2016 o 2017 como año de fundación.",
+  "summary_en": "Delaware corporation incorporated on 5 October 2016, with its principal office stated at 1429 Rollins Road, Burlingame (California), since 2024. It develops Metal Pay, WebAuth, Metal Blockchain and XPR Network. According to its 2018 launch release, it was founded by Marshall Hayner and Glenn Mariën; press and company sources give 2016 or 2017 as the founding year.",
+  "reason": "Incorporation date and current principal office from official registries (Delaware certificate in the Rhode Island filing, New York DOS, Rhode Island annual reports 2024-2026). Founders claim remains 'self'."
  },
  "tdbn": {
   "summary_es": "Red que Metallicus dice desarrollar y que describe como un protocolo bancario de código abierto basado en blockchain, con Metal Blockchain como cadena de capa 0.",
