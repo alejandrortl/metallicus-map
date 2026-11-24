@@ -834,6 +834,33 @@
    "reason": "Delaware certificate of good standing (in the Rhode Island filing of 12 Dec 2018) and the New York registry give the incorporation date, 5 Oct 2016. The founding-year conflict in press and company sources remains, but the legal incorporation date is now on record.",
    "es": "Año de fundación discrepante: una nota de prensa de 2018 y otras de 2022 dicen 2016 (Decrypt precisa abril de 2016), mientras que el blog de la empresa (2023) y la nota de FBBT Holdings (2023) dicen 2017. Los registros oficiales de Delaware y Nueva York fechan la constitución de la sociedad el 5 de octubre de 2016.",
    "en": "Founding year conflict: a 2018 press release and 2022 releases say 2016 (Decrypt specifies April 2016), while the company blog (2023) and the FBBT Holdings release (2023) say 2017. Official Delaware and New York records date the company's incorporation to 5 October 2016."
+  },
+  {
+   "ref": "fact:ohio-consent-order",
+   "match_es": "Entre el 1 de octubre de 2018 y el 20 de octubre de 2022 Metallicus prestó en Ohio servicios de transmisión de dinero ligados a su monedero cripto sin licencia de transmisor.",
+   "action": "fix",
+   "reason": "Paragraphs D and I of the Ohio agreement are information Metallicus provided ('Respondent has informed the Division', 'Respondent represents'), not findings of the regulator; reviewed with Alex's NMLS reading (24 Nov 2026).",
+   "es": "Según lo que Metallicus informó al regulador, desde el 1 de octubre de 2018 prestó en Ohio servicios de transmisión de dinero ligados solo a su monedero cripto, sin licencia de transmisor, hasta al menos el 20 de octubre de 2022.",
+   "en": "According to what Metallicus told the regulator, from 1 October 2018 it provided money transmission services in Ohio tied only to its crypto wallet, without a money transmitter license, until at least 20 October 2022.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:ohio-consent-order",
+   "match_es": "Afectó a unos 1.194 residentes de Ohio, con saldos totales estimados inferiores a 10.000 dólares; no prestó servicios en dólares.",
+   "action": "fix",
+   "reason": "Paragraphs D and I of the Ohio agreement are information Metallicus provided ('Respondent has informed the Division', 'Respondent represents'), not findings of the regulator; reviewed with Alex's NMLS reading (24 Nov 2026).",
+   "es": "Según lo que Metallicus informó al regulador, tenía unos 1.194 clientes en Ohio con saldos cripto totales inferiores a 10.000 dólares, y no prestó servicios en dólares.",
+   "en": "According to what Metallicus told the regulator, it had about 1,194 Ohio customers with total crypto holdings under USD 10,000, and provided no US-dollar services.",
+   "status": "self"
+  },
+  {
+   "ref": "fact:ohio-consent-order",
+   "match_es": "Metallicus declaró que no controla la acuñación de tokens Proton (requiere 15 de 21 productores de bloque) ni los vende a residentes de Ohio.",
+   "action": "fix",
+   "reason": "Paragraphs D and I of the Ohio agreement are information Metallicus provided ('Respondent has informed the Division', 'Respondent represents'), not findings of the regulator; reviewed with Alex's NMLS reading (24 Nov 2026).",
+   "es": "Según Metallicus, no controla la acuñación de tokens Proton (requiere el voto de 15 de 21 productores de bloque) ni vende esos tokens a nadie, tampoco a residentes de Ohio.",
+   "en": "According to Metallicus, it does not control the minting of Proton tokens (which requires the vote of 15 of 21 block producers) and does not sell those tokens to anyone, including Ohio residents.",
+   "status": "self"
   }
  ]
 }
